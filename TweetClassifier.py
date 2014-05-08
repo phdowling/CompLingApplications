@@ -33,7 +33,6 @@ python scorer/scorer.py b dev_test_set.pred out3.pred
 """
 
 
-
 class Tweet(object):
 	def __init__(self, id1, id2, sentiment, tweet):
 		self.id1 = str(id1)
@@ -149,7 +148,7 @@ class WeightedTweetClassifier(TweetClassifier):
 			# Any score very close or equal to 0 is judged to be neutral.
 			tweet.sentiment = ("neutral" if abs(score) < 0.01 else ( "negative" if score < 0 else "positive"))
 
-		self.writeResults(outfile)
+		# self.writeResults(outfile)
 
 
 
@@ -232,7 +231,7 @@ class NaiveBayesTweetClassifier(TweetClassifier):
 			tweet.sentiment = res.max()
 
 		print "writing results."
-		self.writeResults(outfile)
+		# self.writeResults(outfile)
 
 
 
@@ -285,3 +284,10 @@ trainfile = "train_set.pred"
 datafile = "dev_test_set.pred"
 
 
+def main():
+	jc = JointClassifier(dictfile, trainfile, datafile, "out.pred")
+	jc.train()
+	jc.classifyTweets()
+
+if __name__ == "__main__":
+	main()
