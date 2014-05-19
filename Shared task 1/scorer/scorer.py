@@ -78,7 +78,7 @@ def readfile(filename):
                         dups+=1
                     result[key]=label
                     counts[label]+=1
-    print "File: "+filename+" -- "+("no" if errors<1 else str(errors))+" errors found"
+   # print "File: "+filename+" -- "+("no" if errors<1 else str(errors))+" errors found"
     #print str(dups)+" duplicates"
     return (result, lines,counts)
 
@@ -118,19 +118,21 @@ def printconfmatrix(matrix):
 def printbreakdown(counts):
     for key,count in counts.iteritems():
         print key+" \t"+str(count)
+
 #Read in the predictions and the gold standard
 (predictions, pred_lines, counts) = readfile(predFile)
-print "Prediction file: "+str(pred_lines)+" lines"
-print "                 "+str(len(predictions))+" unique"
-print "Breakdown by class:"
-printbreakdown(counts)
+#print "Prediction file: "+str(pred_lines)+" lines"
+#print "                 "+str(len(predictions))+" unique"
+#print "Breakdown by class:"
+#printbreakdown(counts)
+
 if verify:
     exit(0);
 (gs, gs_lines, counts) = readfile(gsFile)
-print "\n\nGold standard: "+str(gs_lines)+" lines"
-print "               "+str(len(gs))+" unique"
-print "Breakdown by class:"
-printbreakdown(counts)
+#print "\n\nGold standard: "+str(gs_lines)+" lines"
+#print "               "+str(len(gs))+" unique"
+#print "Breakdown by class:"
+#printbreakdown(counts)
 
 confusion_tables = {}
 confusion_matrix = [[0,0,0],[0,0,0],[0,0,0]]

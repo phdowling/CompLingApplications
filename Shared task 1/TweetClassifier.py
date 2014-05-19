@@ -18,10 +18,10 @@ STOPWORDS = ['a', 'about', 'accord', 'across', 'after', 'afterward', 'again', "a
 USAGE:
 run a python command line in the same directory as this
 
->>> import TweetClassifier
->>> jc = TweetClassifier.JointClassifier(TweetClassifier.dictfile, TweetClassifier.trainfile, TweetClassifier.datafile, "out3.pred")
->>> jc.train()
->>> jc.classifyTweets()
+import TweetClassifier
+jc = TweetClassifier.JointClassifier(TweetClassifier.dictfile, TweetClassifier.trainfile, TweetClassifier.datafile, "outJoint.pred")
+jc.train()
+jc.classifyTweets()
 
 To run the scorer, in another command line run:
 
@@ -89,7 +89,6 @@ class WeightedTweetClassifier(TweetClassifier):
 	filter out all words that we do not have clues for
 	multiply all remaining term weights with the corresponding clues (+1, -1, 0), and sum the results
 	"""
-
 	def __init__(self, dictfile=None, trainfile=None, datafile=None, outfile=None):
 		# Call the superclass constructor
 		super(WeightedTweetClassifier, self).__init__(trainfile, datafile, outfile)
@@ -193,17 +192,21 @@ class NaiveBayesTweetClassifier(TweetClassifier):
 		super(NaiveBayesTweetClassifier, self).__init__(trainfile, datafile, outfile)
 		self.dictionary = SimpleDict()
 		self.scores = {}
+		self.stemmer = PorterStemmer()
 
 	def getFeatures(self, tweet):
+		return self.getFeatures2(tweet)
 		"""
 		Replace this method to select different features than just bag-of-words representation of the whole tweet.
 		This is probably the one piece of code we should work on most, since features basically decide whether we have a good or bad classifier.
 		"""
-		tokens = string.lower(tweet.tweet.translate(string.maketrans("",""), string.punctuation)).split(" ")
-		for stop in STOPWORDS:
-			if stop in tokens:
-				tokens.remove(stop)
-		return self.dictionary.doc2bow(tokens)
+		#tokens = string.lower(tweet.tweet.translate(string.maketrans("",""), string.punctuation)).split(" ")
+		#tokens = [self.stemmer.stem(token) for token in tokens]
+		#tokens = [token for token in tokens if not token[0:4] == "http"] #remove links
+		#for stop in STOPWORDS:
+	#		if stop in tokens:
+#				tokens.remove(stop)
+#		return self.dictionary.doc2bow(tokens)
 
 	def getFeatures2(self, tweet):
 		"""
@@ -234,6 +237,63 @@ class NaiveBayesTweetClassifier(TweetClassifier):
 		print "writing results."
 		self.writeResults(outfile)
 
+class SVMTweetClassifier(TweetClassifier):
+	"""
+	A simple Naive Bayes classifier. Documents are tokenized and stemmed, and then converted to bag-of-words format.
+	The preprocessed documents are then handled by NLTKs Naive Bayes classifier.
+	"""
+	def __init__(self, trainfile=None, datafile=None, outfile=None):
+		super(SVMTweetClassifier, self).__init__(trainfile, datafile, outfile)
+		self.dictionary = SimpleDict()
+		self.scores = {}
+		self.stemmer = PorterStemmer()
+
+	def getFeatures(self, tweet):
+		"""
+		Replace this method to select different features than just bag-of-words representation of the whole tweet.
+		This is probably the one piece of code we should work on most, since features basically decide whether we have a good or bad classifier.
+		"""
+		return self.getFeatures2(tweet)
+		#tokens = string.lower(tweet.tweet.translate(string.maketrans("",""), string.punctuation)).split(" ")
+		#tokens = [self.stemmer.stem(token) for token in tokens]
+		#tokens = [token for token in tokens if not token[0:4] == "http"] #remove links
+		#for stop in STOPWORDS:
+	#		if stop in tokens:
+#				tokens.remove(stop)
+		#return self.dictionary.doc2bow(tokens, True)
+
+	def getFeatures2(self, tweet):
+		"""
+		POS tag and take only nouns, verbs and adjectives
+		"""
+		text = nltk.word_tokenize(tweet.tweet)
+		return self.dictionary.doc2bow([pos for pos in nltk.pos_tag(text) if pos[1] in ["NN","JJ","JJR","JJS","VBD","VBG","VBN" ,"VBP","VBZ" ,"RB"] ])
+
+	def train(self,  trainfile=None):
+		self.readTrainingData((trainfile or self.trainfile))
+		print "getting features.."
+		# the classifier expects a list of (feature_set, label) elements, where each feature_set is a dictionary of {feature_name: value, ...} mappings
+		train_set = [(self.getFeatures(tweet), tweet.sentiment) for tweet in self.trainingTweets]
+		print train_set
+		print "training SVM classifier"
+		self.classifier = SklearnClassifier(SVC(), sparse=True).train(train_set)
+
+	def classifyTweets(self, datafile=None, outfile=None):
+		print "reading dataset"
+		self.readDataset(datafile)
+
+		print "classifying Tweets with SVM classifier"
+		
+		# we use prob_classify so we can remember the scores. This means we could later on judge the certainty of a measurement, and if it's low, change the sentiment.
+		res = self.classifier.batch_classify([self.getFeatures(tweet) for tweet in self.evalTweets])
+		print "assigning sentiments"
+		for idx, tweet in enumerate(self.evalTweets):
+			tweet.sentiment = res[idx]
+
+		#self.scores[(tweet.id1,tweet.id2)] = res
+		#tweet.sentiment = res.max()
+
+		self.writeResults(outfile)
 
 
 class JointClassifier(TweetClassifier):
@@ -248,17 +308,20 @@ class JointClassifier(TweetClassifier):
 	Also: this runs the other two classifiers at once, so we can easily compare their output.
 	"""
 	def __init__(self,dictfile=None, trainfile=None, datafile=None, outfile=None):
-		self.wc = WeightedTweetClassifier(dictfile, trainfile, datafile, "out1.pred")
-		self.nbc = NaiveBayesTweetClassifier(trainfile, datafile, "out2.pred")
+		self.wc = WeightedTweetClassifier(dictfile, trainfile, datafile, "outWeight.pred")
+		self.nbc = NaiveBayesTweetClassifier(trainfile, datafile, "outNB.pred")
+		#self.svmc = SVMTweetClassifier(trainfile, datafile, "outSVM.pred")
 		self.outfile = outfile
 	
 	def train(self):
 		self.wc.train()
 		self.nbc.train()
+		#self.svmc.train()
 	
 	def classifyTweets(self, outfile = None):
 		self.wc.classifyTweets()
 		self.nbc.classifyTweets()
+		#self.svmc.classifyTweets()
 		
 		self.evalTweets = self.nbc.evalTweets
 
