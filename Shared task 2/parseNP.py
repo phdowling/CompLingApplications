@@ -3,29 +3,27 @@ from nltk.corpus import conll2000
 
 train_sents = conll2000.chunked_sents('train.txt', chunk_types=['NP'])
 
-grammar = nltk.parse_cfg("""
-S -> NP VP
-
-NP -> N | Det N | Det Adj N | N PP | Det N PP | Det Adj N PP
-NP -> NP conj NP
-
-NP -> N | N PP
-PP -> P | P NP
-
-
-VP -> V Adj | V NP | V S | V NP PP
-VP -> VP conj VP
-""")
-
 def ie_preprocess(document):
     sentences = nltk.sent_tokenize(document)
     sentences = [nltk.word_tokenize(sent) for sent in sentences]
     sentences = [nltk.pos_tag(sent) for sent in sentences]
     return sentences
 
+grammar = """
+   NP: {N}          
+   PP: {<IN><NP>}               
+   VP: {<VB.*><NP|PP|CLAUSE>+$} 
+   CLAUSE: {<NP><VP>}           
+   """
 
-
-
+grammar = '''
+ NP: {<DT>? <JJ>* <NN>*} # NP
+ P: {<IN>}           # Preposition
+ V: {<V.*>}          # Verb
+ PP: {<P> <NP>}      # PP -> P NP
+ VP: {<V> <NP|PP>*}  # VP -> V (NP|PP)*
+ '''
+nltk.RegexpParser(grammar)
 
 def read_file(filename):  # this looks a bit messy but it works like a charm
     with open(filename) as f:
@@ -191,3 +189,5 @@ class RecursiveNPChunkTagger(nltk.TaggerI):
 c = ConsecutiveNPChunker(train_sents)
 def parse(sent):
     return c.parse(ie_preprocess(sent)[0])
+
+
