@@ -177,17 +177,31 @@ def recursive_np_chunk_features(treelist, i, history):
 
 
 
-class RecursiveNPChunkTagger(nltk.TaggerI):
-    def __init__(self, train_chunks):
-        train_set = []
-        for tagged_chunk in train_chunks:
-            history = []
-            for i, (chunk, tree) in enumerate(tagged_chunk):
-                featureset = recursive_np_chunk_features(tree, i, history)
+class RecursiveNPChunker(nltk.TaggerI):
+    def __init__(self, train_sents):
+        self.chunker = ConsecutiveNPChunker(train_sents)
+        self.recursive_np_chunker = nltk.RegexpParser(grammar)
 
+    def parse(self, sentence):
+        res = self.chunker.parse(sentence)
+        print "initial: \n%s\n" % res.pprint()
 
-c = ConsecutiveNPChunker(train_sents)
+        current = res
+        last = None
+        while current != last:
+            last = current
+            current = self.recursive_np_chunker.parse(res)
+            print "intermediate: \n%s\n" % current.pprint()
+
+        print "final: \n%s\n" % current.pprint()
+        return current
+        
+
+rc = RecursiveNPChunker(train_sents)
 def parse(sent):
-    return c.parse(ie_preprocess(sent)[0])
+    return rc.chunker.parse(ie_preprocess(sent)[0])
+
+def parse_rec(sent):
+    return rc.parse(ie_preprocess(sent)[0])
 
 
