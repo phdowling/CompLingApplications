@@ -1124,7 +1124,7 @@
 27    ,    ,    _
 28    not    RB    _
 29    adjusted    VBN    _
-    for    IN    _
+30    for    IN    _
 31    inflation    NN    (248)|249)
 32    .    .    _
 
@@ -6837,7 +6837,9 @@
 11    Commissioner    NNP    _
 12    for    IN    _
 13    Refugees    NNP    (36)|38)
-14    .    .    _1    Mr.    NNP    (7
+14    .    .    _
+
+1    Mr.    NNP    (7
 2    Lubbers    NNP    _
 3    ,    ,    _
 4    former    JJ    _
