@@ -192,7 +192,29 @@ def tree2chunklist(tree):
     return result
 
 def tree2iobplus(tree):
-    pass
+    sentence = []
+    _tree2iobplus(tree, '', sentence)
+    return sentence
+
+def _tree2iobplus(tree, iobtag, sentence):
+    if isinstance(tree, Tree):
+        if tree.node == 'NP':
+            iobtag += 'B'
+        for child in tree:
+            _tree2iobplus(child, iobtag, sentence)
+    elif isinstance(tree, tuple) and len(tree) == 2:
+        name = tree[0]
+        postag = tree[1]
+       
+        iobtag0 = None
+        if len(iobtag) == 0:
+            iobtag0 = 'O'
+        else:
+            iobtag0 = iobtag[:-1] + 'I'
+
+        sentence.append((name, postag, iobtag0))
+    else:
+        raise Exception("illegal path")
 
 def iobplus2tree(sent):
     pass
