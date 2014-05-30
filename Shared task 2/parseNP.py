@@ -191,24 +191,11 @@ def tree2chunklist(tree):
         #result.append((tree[1], tree[0]))
     return result
 
-def tree2iob_tagged_subtrees(tree):
-    result = []
-    #print "now on: \n", tree
-    if not isinstance(tree, Tree):
-        return result
+def tree2iobplus(tree):
+    pass
 
-    try:
-        result.append(nltk.chunk.util.tree2conlltags(tree))
-    except ValueError, e:
-        #print
-        #print e
-        #print tree
-        for child in tree:
-            result += tree2iob_tagged_subtrees(child)
-        newTree = Tree(tree.node, [(("<"+get_tag(c)+">", get_tag(c)) if isinstance(c, Tree) else (c[0], get_tag(c))) for c in tree])
-        #print newTree
-        result.append(nltk.chunk.util.tree2conlltags(newTree))
-    return result
+def iobplus2tree(sent):
+    pass
 
 class GrammarRecursiveNPChunker(nltk.TaggerI):
     def __init__(self, train_sents):
