@@ -9,19 +9,9 @@ def ie_preprocess(document):
     sentences = [nltk.pos_tag(sent) for sent in sentences]
     return sentences
 
-grammar = """
-   NP: {N}          
-   PP: {<IN><NP>}               
-   VP: {<VB.*><NP|PP|CLAUSE>+$} 
-   CLAUSE: {<NP><VP>}           
-   """
-
 grammar = '''
- NP: {<DT>? <JJ>* <NN>*} # NP
- P: {<IN>}           # Preposition
- V: {<V.*>}          # Verb
- PP: {<P> <NP>}      # PP -> P NP
- VP: {<V> <NP|PP>*}  # VP -> V (NP|PP)*
+ NP: {<DT>? <JJ>* <NN>*}
+NP: {<NP> <IN|CC> <NP>}
  '''
 nltk.RegexpParser(grammar)
 
@@ -149,7 +139,7 @@ def get_tag(chunk):
     return chunk.node if hasattr(chunk, "node") else chunk[1]
 
 def recursive_np_chunk_features(treelist, i, history):
-    # treelist: 
+        # treelist: 
     #[
     # ('NP', Tree('NP', [('The', 'DT'), ('quick', 'NN'), ('brown', 'NN'), ('fox', 'NN')])),
     # ('IN', ('from', 'IN')), 
@@ -182,7 +172,56 @@ class RecursiveNPChunker(nltk.TaggerI):
         self.chunker = ConsecutiveNPChunker(train_sents)
         self.recursive_np_chunker = nltk.RegexpParser(grammar)
 
+    def generate_grammar(self, sentence):
+        grammar = """
+            S -> NP VP
+            NP -> N | Det N | Det Adj N | N PP | Det N PP | Det Adj N PP
+            NP -> NP CON NP
+            PP -> P | P NP
+            VP -> V Adj | V NP | V S | V NP PP
+            VP -> VP CON VP
+        """
+    
+        tagtocat = {
+            'NN' : 'N',
+            'NNP' : 'N',
+            'JJ' : 'CON',
+            'NNS' : 'N',
+            'VB' : 'V',
+            'VBN' : 'V',
+            'VBG' : 'V',
+            'CD' : 'CD',
+            'VBD' : 'V',
+            'RB' : 'Adj',
+            'VBZ' : 'V',
+            'VBP' : 'V',
+            'IN' : 'CON',
+            'NNPS' : 'N',
+            'JJR' : 'Adj',
+            'JJS' : 'Adj',
+            'DT' : 'Det',
+            'RBR' : 'Adj',
+            'CC' : 'CON',
+            'WRB' : 'Adj',
+            'FW' : 'N'
+        }
+
+        nonproducing = {'Det': [], 'N': [], 'P' : [], 'V' : [], 'Adj' : [], 'CON' : [], 'CD' : []}
+        for word, tag in sentence:
+            if tag not in tagtocat:
+                return None
+            nonproducing[tagtocat[tag]].append(word)
+        
+        for key, words in nonproducing.items():
+            line = key + " -> " + " | ".join(words) + '\n';
+            grammar += line
+        
+        return grammar
+
     def parse(self, sentence):
+
+        generate_grammar(
+
         res = self.chunker.parse(sentence)
         print "initial: \n%s\n" % res.pprint()
 
@@ -190,7 +229,7 @@ class RecursiveNPChunker(nltk.TaggerI):
         last = None
         while current != last:
             last = current
-            current = self.recursive_np_chunker.parse(res)
+            current = self.recursive_np_chunker.parse(current)
             print "intermediate: \n%s\n" % current.pprint()
 
         print "final: \n%s\n" % current.pprint()
