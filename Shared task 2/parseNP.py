@@ -198,15 +198,15 @@ def tree2iobplus(tree):
 
 def _tree2iobplus(tree, iobtag, sentence, firstinlvl):
     if isinstance(tree, Tree):
-        if not firstinlvl:
-            iobtag = 'I' * len(iobtag)
         if tree.node == 'NP':
             iobtag += 'B'
 
         firstinlvl = True
         for child in tree:
             _tree2iobplus(child, iobtag, sentence, firstinlvl)
-            firstinlvl = False
+            if firstinlvl: 
+                iobtag = 'I' * len(iobtag)
+                firstinlvl = False
     elif isinstance(tree, tuple) and len(tree) == 2:
         name = tree[0]
         postag = tree[1]
@@ -215,7 +215,7 @@ def _tree2iobplus(tree, iobtag, sentence, firstinlvl):
         if len(iobtag) == 0:
             iobtag0 = 'O'
         else:
-            iobtag0 = 'I' * len(iobtag)
+            iobtag0 = iobtag
 
         sentence.append((name, postag, iobtag0))
     else:
