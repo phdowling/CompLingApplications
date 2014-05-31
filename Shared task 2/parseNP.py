@@ -3,7 +3,7 @@ from nltk.corpus import conll2000
 
 from nltk import Tree
 
-train_sents = conll2000.chunked_sents('train.txt', chunk_types=['NP'])
+TRAIN_SENTS = conll2000.chunked_sents('train.txt', chunk_types=['NP'])
 
 def ie_preprocess(document):
     sentences = nltk.sent_tokenize(document)
@@ -147,49 +147,220 @@ def recursive_np_chunk_features(treelist, i, history):
             "nexttag": nexttag,
             "prevtag+tag": "%s+%s" % (prevtag, tag),  
             "tag+nexttag": "%s+%s" % (tag, nexttag),
-            "tags-since-dt": tags_since_dt(sentence, i)}
+            "tags-since-dt": tags_since_dt(treelist, i)}
+
+def tags_since_dt(sentence, i):
+    tags = set()
+    for word, pos in sentence[:i]:
+        if pos == 'DT':
+            tags = set()
+        else:
+            tags.add(pos)
+    return '+'.join(sorted(tags))
+
 
 class MLRecursiveNPChunkTagger(nltk.TaggerI):
     def __init__(self, train_chunks):
         train_set = []
-        for tagged_sent in train_sents:
-            untagged_sent = nltk.tag.untag(tagged_sent)
+        for tagged_chunk in train_chunks:
+            #print tagged_sent
+            untagged_sent = [(w, pt) for (w,pt), t in tagged_chunk]
+            revised = []
+            for w, pt in untagged_sent:
+                if isinstance(w, Tree):
+                    revised.append((pt, pt))
+                else:
+                    revised.append((w,pt))
+            untagged_sent = revised
+            #print untagged_sent
             history = []
-            for i, (word, tag) in enumerate(tagged_sent):
-                featureset = npchunk_features(untagged_sent, i, history)
-                train_set.append((featureset, tag))
-                history.append(tag)
+            for i, ((word, pos_tag), chunk_tag) in enumerate(tagged_chunk):
+                featureset = recursive_np_chunk_features(untagged_sent, i, history)
+                train_set.append((featureset, chunk_tag))
+                history.append(chunk_tag)
         #self.classifier = nltk.MaxentClassifier.train(train_set, algorithm='iis', trace=0)  # megam
         self.classifier = nltk.classify.NaiveBayesClassifier.train(train_set)
 
     def tag(self, sentence):
+        placeholders = {}
+        treenodes = set()
+        newsentence = []
+        #replace trees with (hashable) placeholders
+        for i, thing in enumerate(sentence):
+            if isinstance(thing, Tree):
+                placeholders[i] = thing
+                newsentence.append((("<%s>" % i), thing.node))
+                treenodes.add(thing.node)
+            else:
+                newsentence.append(thing)
+        sentence = newsentence
+        print sentence
+
+        # classify
         history = []
         for idx, word in enumerate(sentence):
-            featureset = npchunk_features(sentence, idx, history)
+            featureset = recursive_np_chunk_features(sentence, idx, history)
             tag = self.classifier.classify(featureset)
             history.append(tag)
-        return zip(sentence, history)
+        res =  zip(sentence, history)
+
+        # retrieve and replace the placeholders
+        newres = []
+        for (w,t),c in res:
+            if w[0] == "<" and w[2] == ">":
+                i = int(w[1])
+                retrieve = placeholders[i]
+                newres.append(((retrieve,t),c))
+            else:
+                newres.append(((w,t),c))
+
+        return newres
 
 class MLRecursiveNPChunker(nltk.ChunkParserI):
     def __init__(self, train_chunks):
-        tagged_sents = [[((word, tag), chunk) for (word, tag, chunk) in tree2iob_tagged_subtrees(sent)] for sent in train_sents]
-        self.chunker_tagger = MLRecursiveNPChunker(tagged_sents)
+        tagged_chunks = []
+        count = 0
+        for chunk in train_chunks:
+            if count % 500 == 0:
+                print "read %s chunks.." % count
+            tagged_chunks.append([((word, tag), chunk) for (word, tag, chunk) in tree2conlltags(chunk)])
+            count += 1
+        print "starting training"
+        self.chunk_tagger = MLRecursiveNPChunkTagger(tagged_chunks)
 
     def parse(self, sentence):
-        tagged_sents = self.tagger.tag(sentence)
-        conlltags = [(w,t,c) for ((w,t),c) in tagged_sents]
-        return iobplus2tree(conlltags)
+        tagged_sent = self.chunk_tagger.tag(sentence)
+        print tagged_sent
+        conlltags = [(w,t,c) for ((w,t),c) in tagged_sent]
+        return conlltags2tree(conlltags)
 
-def tree2chunklist(tree):
+
+data = read_file("en_train_s.txt")
+chunks = []
+for d in data:
+    chunks += get_tree_levels(d)
+
+chunks = [c for c in chunks if len(c) > 2]
+mlr = MLRecursiveNPChunker(chunks)
+cnp = ConsecutiveNPChunker(TRAIN_SENTS)
+
+def parse(sentence):
+    last = None
+    current = cnp.parse(sentence)
+    #current = sentence
+    print "seed: %s" % current
+    iteration = 0
+    while current != last:
+        iteration += 1
+        last = current
+        current = mlr.parse(current)
+        print "iter %s: %s" % (iteration,current)
+        raw_input()
+    return current
+
+def reduce_nps(sentence):
+    """
+    take any occurrences of NP trees that contain only one  NP tree and reduce them
+    """
+    pass
+def get_tree_levels(tree):
+    res = []
+    last = None
+    current = tree
+    level = 1
+    while last != current:
+        res.append(current)
+        last = current
+        current = get_tree_level(tree, level)
+        level += 1
+        
+    return res
+
+def get_tree_level(tree, level):
+    return Tree("S", _get_tree_level(tree, level))
+
+def _get_tree_level(tree, level):
+    # TODO: group subtrees by level!
     result = []
-    if hasattr(tree, "node"):
-        result.append((tree.node, [get_tag(c) for c in tree]))
-        for child in tree:
-            result += tree2chunklist(child)
+    if isinstance(tree, Tree):
+        if level == 0:
+            result += [c for c in tree]
+        else:
+            for child in tree:
+                result += _get_tree_level(child, level-1)
     else:
-        pass
-        #result.append((tree[1], tree[0]))
+        result.append((tree[0], tree[1]))
+
     return result
+
+def tree2conlltags(t):
+    """
+    Return a list of 3-tuples containing ``(word, tag, IOB-tag)``.
+    Convert a tree to the CoNLL IOB tag format.
+
+    :param t: The tree to be converted.
+    :type t: Tree
+    :rtype: list(tuple)
+    """
+
+    tags = []
+    for child in t:
+        try:
+            category = child.node
+            prefix = "B-"
+            for contents in child:
+                if isinstance(contents, Tree):
+                    tags.append((contents, contents.node, prefix+contents.node))
+                else:
+                    tags.append((contents[0], contents[1], prefix+category))
+                prefix = "I-"
+        except AttributeError:
+            tags.append((child[0], child[1], "O"))
+    return tags
+
+def conlltags2tree(sentence, chunk_types=('NP','PP','VP'),
+                   root_label='S', strict=False):
+    """
+    Convert the CoNLL IOB format to a tree.
+    """
+    tree = Tree(root_label, [])
+    for (word, postag, chunktag) in sentence:
+        #print
+        #print word, postag, chunktag
+        #print 
+        if chunktag is None:
+            if strict:
+                raise ValueError("Bad conll tag sequence")
+            else:
+                # Treat as O
+                tree.append((word,postag))
+        elif chunktag.startswith('B-'):
+            if isinstance(word, Tree):
+                tree.append(Tree(chunktag[2:], [word]))
+            else:
+                tree.append(Tree(chunktag[2:], [(word,postag)]))
+        elif chunktag.startswith('I-'):
+            if (len(tree)==0 or not isinstance(tree[-1], Tree) or tree[-1].node != chunktag[2:]):
+                if strict:
+                    raise ValueError("Bad conll tag sequence")
+                else:
+                    # Treat as B-*
+                    tree.append(Tree(chunktag[2:], [(word,postag)]))
+            else:
+                if isinstance(word, Tree):
+                    tree[-1].append(word)
+                else:
+                    tree[-1].append((word,postag))
+        elif chunktag == 'O':
+            if isinstance(word, Tree):
+                print "triggered"
+                tree.append(word)
+            else:
+                tree.append((word,postag))
+        else:
+            raise ValueError("Bad conll tag %r" % chunktag)
+    return tree
+
 
 def tree2iobplus(tree):
     sentence = []
@@ -246,11 +417,6 @@ class GrammarRecursiveNPChunker(nltk.TaggerI):
         print "final: \n%s\n" % current.pprint()
         return current
         
-def parse(sent):
-    return rc.chunker.parse(ie_preprocess(sent)[0])
-
-def parse_rec(sent):
-    return rc.parse(ie_preprocess(sent)[0])
 
 def traverse_tags(t):
     try:
@@ -265,5 +431,59 @@ def traverse_tags(t):
         return tags
 
 if __name__ == "__main__":
-    rc = RecursiveNPChunker(train_sents)
+    rc = MLRecursiveNPChunker(train_sents)
+
+
+class ConsecutiveNPChunkTagger(nltk.TaggerI): # [_consec-chunk-tagger]
+
+    def __init__(self, train_sents):
+        train_set = []
+        for tagged_sent in train_sents:
+            untagged_sent = nltk.tag.untag(tagged_sent)
+            history = []
+            for i, (word, tag) in enumerate(tagged_sent):
+                featureset = npchunk_features(untagged_sent, i, history) # [_consec-use-fe]
+                train_set.append( (featureset, tag) )
+                history.append(tag)
+        #self.classifier = nltk.MaxentClassifier.train( train_set, algorithm='megam', trace=0)
+        self.classifier = nltk.classify.NaiveBayesClassifier.train(train_set)
+
+    def tag(self, sentence):
+        history = []
+        for i, word in enumerate(sentence):
+            featureset = npchunk_features(sentence, i, history)
+            tag = self.classifier.classify(featureset)
+            history.append(tag)
+        return zip(sentence, history)
+
+class ConsecutiveNPChunker(nltk.ChunkParserI): # [_consec-chunker]
+    def __init__(self, train_sents):
+        tagged_sents = [[((w,t),c) for (w,t,c) in
+                         nltk.chunk.util.tree2conlltags(sent)]
+                        for sent in train_sents]
+        self.tagger = ConsecutiveNPChunkTagger(tagged_sents)
+
+    def parse(self, sentence):
+        tagged_sents = self.tagger.tag(sentence)
+        conlltags = [(w,t,c) for ((w,t),c) in tagged_sents]
+        return nltk.chunk.util.conlltags2tree(conlltags)
+
+
+def npchunk_features(sentence, i, history):
+    word, pos = sentence[i]
+    if i == 0:
+        prevword, prevpos = "<START>", "<START>"
+    else:
+        prevword, prevpos = sentence[i-1]
+    if i == len(sentence)-1:
+        nextword, nextpos = "<END>", "<END>"
+    else:
+        nextword, nextpos = sentence[i+1]
+    return {"pos": pos,
+            "word": word,
+            "prevpos": prevpos,
+            "nextpos": nextpos,
+            "prevpos+pos": "%s+%s" % (prevpos, pos),  
+            "pos+nextpos": "%s+%s" % (pos, nextpos),
+            "tags-since-dt": tags_since_dt(sentence, i)}
 
