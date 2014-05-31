@@ -392,8 +392,36 @@ def _tree2iobplus(tree, iobtag, sentence, firstinlvl):
     else:
         raise Exception("illegal path")
 
-def iobplus2tree(sent):
-    pass
+# das sollte funktionieren, habs aber nur mit dem einem
+# satz getestet. musst also noch mit einem anderen satz
+# testen um 100 prozentig sicher zu sein :)
+#
+# sentence == np.tree2iobplus(np.iobplus2tree(sentence))
+def iobplus2tree(sentence):
+    tree = root = Tree('S', [])
+    previob = ''
+    S = [] 
+    for _word in sentence:
+        word, postag, iobtag = _word
+
+        for _ in xrange(len(previob) - len(iobtag)):
+            tree = S.pop()
+
+        if iobtag == 'O':
+            if any(S):
+                tree = S.pop()
+        else:
+            for c in iobtag:
+                if c == 'B':
+                    subtree = Tree('NP', [])
+                    tree.append(subtree)
+                    S.append(tree)
+                    tree = subtree
+
+        tree.append((word, postag))
+        previob = iobtag
+
+    return root
 
 class GrammarRecursiveNPChunker(nltk.TaggerI):
     def __init__(self, train_sents):
