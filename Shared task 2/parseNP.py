@@ -65,15 +65,17 @@ def read_file(filename, train=True):  # this looks a bit messy but it works like
             try:
                 idx, token, pos, bracket = line.split()
             except:
-                if not train:
+                if train:
+                    current_sentence = []
+                    skip = True
+                    failed += 1
+                    continue
+                else:
                     continue
                 #print "failed to read line %s: %s" % (idx,line.split())
                 #print "discarding sentence %s" % (current_sentence)
                 
-                current_sentence = []
-                skip = True
-                failed += 1
-                continue
+                
 
             current_sentence.append((token, pos, bracket))
             #current_sentence.append((token, tagtocat.get(pos, pos), bracket))
@@ -92,9 +94,10 @@ def read_file(filename, train=True):  # this looks a bit messy but it works like
             print "retrieved %s sentences, failed to read %s, managed to parse %s trees." % (len([s for s in sentences if not isinstance(s,str)]), failed, len(merged_sentences))
             return merged_sentences
         else:
-            print "returning [(word,pos)] list"
-            print "couldn't read %s sents" % failed
+            print "raw: got %s sentences" % len(sentences)
             res =  [([(w,p) for w, p, b in sentence] if not isinstance(sentence, str) else sentence) for sentence in sentences if sentence]
+            print "returning [(word,pos)] list of length %s" % len(res)
+            print "couldn't read %s sents" % failed
             return res
 
 def merge_to_tree(sent):
@@ -442,28 +445,37 @@ def _tree2iobplus(tree, iobtag, sentence, firstinlvl):
 
 def iobplus2tree(sentence):
     tree = root = Tree('S', [])
-    previob = ''
-    S = [] 
+    prev_iobtag = ''
+    S = [root] 
     for _word in sentence:
         word, postag, iobtag = _word
 
-        for _ in xrange(len(previob) - len(iobtag)):
-            if any(S):
-                tree = S.pop()
-
         if iobtag == 'O':
-            if any(S):
+            tree = root
+            S = [root]
+        elif iobtag[-1] == 'B':
+            lvl_delta = len(prev_iobtag) - len(iobtag)
+            if lvl_delta == 0:
+                subtree = Tree('NP', [])
                 tree = S.pop()
-        else:
-            for c in iobtag:
-                if c == 'B':
-                    subtree = Tree('NP', [])
-                    tree.append(subtree)
-                    S.append(tree)
-                    tree = subtree
-
+                tree.append(subtree)
+                S.append(tree)
+                tree = subtree
+            elif lvl_delta < 0:
+                for c in iobtag:
+                    if c == 'B':
+                        subtree = Tree('NP', [])
+                        tree.append(subtree)
+                        S.append(tree)
+                        tree = subtree
+            elif lvl_delta > 0:
+                for _ in xrange(lvl_delta+1):
+                    tree = S.pop()
+                subtree = Tree('NP', [])
+                S.append(subtree)
+                tree = subtree
         tree.append((word, postag))
-        previob = iobtag
+        prev_iobtag = iobtag
 
     #print root
     return root
@@ -607,7 +619,14 @@ class IOBPlusNPChunker(nltk.ChunkParserI): # [_consec-chunker]
     def parse(self, sentence):
         tagged_sents = self.tagger.tag(sentence)
         conlltags = [(w,t,c) for ((w,t),c) in tagged_sents]
-        return iobplus2tree(conlltags)
+        try:
+            res = iobplus2tree(conlltags)
+            return res
+        except:
+            print conlltags
+
+            raw_input()
+        
 
 
 def npchunk_features(sentence, i, history):
@@ -635,6 +654,18 @@ def npchunk_features_iobplus(sentence, i, history):
     except:
         last = "START"
 
+    try:
+        seclast = history[-2]
+    except:
+        seclast = "START"
+
+    chunklen = 0
+    for x in reversed(history[:-1]):
+        if x == last or x == last[:-1]+ "B":
+            chunklen += 1
+        else:
+            break
+
     if i <= 1:
         secondprevtag = "<START>"
     else:
@@ -654,9 +685,11 @@ def npchunk_features_iobplus(sentence, i, history):
         nextpos, nextword = sentence[i+1]
     res =  {"pos": pos,
             "word": word,
-            #"last": last,
+            "last": last,
+            "seclast": seclast,
+            "chunklen": chunklen,
             #"secondnexttag": secondnexttag,
-            "secondprevtag": secondprevtag,
+            #"secondprevtag": secondprevtag,
             "prevpos": prevpos,
             "nextpos": nextpos,
             "prevpos+pos": "%s+%s" % (prevpos, pos),  
@@ -701,6 +734,7 @@ def write_to_file(res, outfile):
 def parse(sentence):
     last = None
     #current = cnp.parse(sentence)
+    
     current = iobc.parse(sentence)
     #current = gram.parse(sentence)
     #current = mlr.parse(sentence)
