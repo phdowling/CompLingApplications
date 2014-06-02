@@ -399,27 +399,37 @@ def _tree2iobplus(tree, iobtag, sentence, firstinlvl):
 # sentence == np.tree2iobplus(np.iobplus2tree(sentence))
 def iobplus2tree(sentence):
     tree = root = Tree('S', [])
-    previob = ''
-    S = [] 
+    prev_iobtag = ''
+    S = [root] 
     for _word in sentence:
         word, postag, iobtag = _word
 
-        for _ in xrange(len(previob) - len(iobtag)):
-            tree = S.pop()
-
         if iobtag == 'O':
-            if any(S):
+            tree = root
+            S = [root]
+        elif iobtag[-1] == 'B':
+            lvl_delta = len(prev_iobtag) - len(iobtag)
+            if lvl_delta == 0:
+                subtree = Tree('NP', [])
                 tree = S.pop()
-        else:
-            for c in iobtag:
-                if c == 'B':
-                    subtree = Tree('NP', [])
-                    tree.append(subtree)
-                    S.append(tree)
-                    tree = subtree
-
+                tree.append(subtree)
+                S.append(tree)
+                tree = subtree
+            elif lvl_delta < 0:
+                for c in iobtag:
+                    if c == 'B':
+                        subtree = Tree('NP', [])
+                        tree.append(subtree)
+                        S.append(tree)
+                        tree = subtree
+            elif lvl_delta > 0:
+                for _ in xrange(lvl_delta+1):
+                    tree = S.pop()
+                subtree = Tree('NP', [])
+                S.append(subtree)
+                tree = subtree
         tree.append((word, postag))
-        previob = iobtag
+        prev_iobtag = iobtag
 
     return root
 
