@@ -6,17 +6,24 @@ from nltk import Tree
 TRAIN_SENTS = conll2000.chunked_sents('train.txt', chunk_types=['NP'])
 
 
+
 tagtocat = {
             'NN' : 'NN',
             'NNP' : 'NN',
             'NNS' : 'NN',
             'VBN' : 'VB',
             'VBG' : 'VB',
-            'VBD' : 'VB',
+            'VBD' : 'VB',      
+            'VBN':'VB',
             'VBZ' : 'VB',
             'VBP' : 'VB',
             'NNPS' : 'NN',
+            'JJS' : 'JJ',
+            'JJR' : 'JJ',
             'PRP$' : 'PRP',
+            'WP$' : 'WP',
+            'RBR' : 'RB',
+            'RBS' : 'RB',
             "." : "DOT",
             "," : "COMMA",
             ")" : "BRACKET",
@@ -53,9 +60,11 @@ def read_file(filename, train=True):  # this looks a bit messy but it works like
                     continue
                 else:
                     sentences.append(line)
+                    continue
             if line.strip() == "":
                 skip = False
-                sentences.append(current_sentence)
+                if len(current_sentence):
+                    sentences.append(current_sentence)
                 current_sentence = []
                 continue
             if skip: # ignore a sentence if any term couldn't be parsed
@@ -71,6 +80,7 @@ def read_file(filename, train=True):  # this looks a bit messy but it works like
                     failed += 1
                     continue
                 else:
+                    print line
                     continue
                 #print "failed to read line %s: %s" % (idx,line.split())
                 #print "discarding sentence %s" % (current_sentence)
@@ -94,8 +104,7 @@ def read_file(filename, train=True):  # this looks a bit messy but it works like
             print "retrieved %s sentences, failed to read %s, managed to parse %s trees." % (len([s for s in sentences if not isinstance(s,str)]), failed, len(merged_sentences))
             return merged_sentences
         else:
-            print "raw: got %s sentences" % len(sentences)
-            res =  [([(w,p) for w, p, b in sentence] if not isinstance(sentence, str) else sentence) for sentence in sentences if sentence]
+            res =  [([(w,p) for w, p, b in sentence] if not isinstance(sentence, str) else sentence) for sentence in sentences]
             print "returning [(word,pos)] list of length %s" % len(res)
             print "couldn't read %s sents" % failed
             return res
@@ -304,7 +313,6 @@ class MLRecursiveNPChunker(nltk.ChunkParserI):
         return reduce_nps(conlltags2tree(conlltags))
 
 
-
 def reduce_nps(sentence):
     """
     take any occurrences of NP trees that contain only one  NP tree and reduce them
@@ -450,11 +458,11 @@ def iobplus2tree(sentence):
     for _word in sentence:
         word, postag, iobtag = _word
 
+        lvl_delta = len(prev_iobtag) - len(iobtag)
         if iobtag == 'O':
             tree = root
             S = [root]
         elif iobtag[-1] == 'B':
-            lvl_delta = len(prev_iobtag) - len(iobtag)
             if lvl_delta == 0:
                 subtree = Tree('NP', [])
                 tree = S.pop()
@@ -474,6 +482,9 @@ def iobplus2tree(sentence):
                 subtree = Tree('NP', [])
                 S.append(subtree)
                 tree = subtree
+        elif iobtag[-1] == 'I':
+            for _ in xrange(lvl_delta):
+                tree = S.pop()
         tree.append((word, postag))
         prev_iobtag = iobtag
 
@@ -597,7 +608,7 @@ class IOBPlusNPChunkTagger(nltk.TaggerI): # [_consec-chunk-tagger]
                 featureset = npchunk_features_iobplus(untagged_sent, i, history) # [_consec-use-fe]
                 train_set.append( (featureset, tag) )
                 history.append(tag)
-        #self.classifier = nltk.MaxentClassifier.train( train_set, algorithm='megam', trace=0)
+        #self.classifier = nltk.MaxentClassifier.train( train_set, trace=0)
         self.classifier = nltk.classify.NaiveBayesClassifier.train(train_set)
 
     def tag(self, sentence):
@@ -625,7 +636,7 @@ class IOBPlusNPChunker(nltk.ChunkParserI): # [_consec-chunker]
         except:
             print conlltags
 
-            raw_input()
+            #raw_input()
         
 
 
@@ -659,10 +670,17 @@ def npchunk_features_iobplus(sentence, i, history):
     except:
         seclast = "START"
 
+    num_nns = len([x for x in sentence if x[1] == "NN"])
+    #print num_nns
+    third = len(sentence) / 3
+    rel_position = "BEGIN" if (i < third) else ("MIDDLE" if (i < (2 * third) ) else "END")
+
+    chunk = []
     chunklen = 0
-    for x in reversed(history[:-1]):
+    for idx, x in enumerate(reversed(history[:-1])):
         if x == last or x == last[:-1]+ "B":
             chunklen += 1
+            chunk.append(list(reversed(sentence[:i] ))[idx][1])
         else:
             break
 
@@ -687,14 +705,18 @@ def npchunk_features_iobplus(sentence, i, history):
             "word": word,
             "last": last,
             "seclast": seclast,
-            "chunklen": chunklen,
+            #"chunklen": chunklen,
+            "chunk" : "+".join(chunk),
+            #"history" : "+".join(history),
+            #"num_nns" : num_nns,
+            #"rel_position" : rel_position,
             #"secondnexttag": secondnexttag,
             #"secondprevtag": secondprevtag,
             "prevpos": prevpos,
             "nextpos": nextpos,
-            "prevpos+pos": "%s+%s" % (prevpos, pos),  
-            "pos+nextpos": "%s+%s" % (pos, nextpos),
-            "tags-since-dt1": tags_since_dt1(sentence, i)}
+            "prevpos+pos": "%s+%s" % (prevpos, pos),#,  
+            "pos+nextpos": "%s+%s" % (pos, nextpos)}#,
+            #"tags-since-dt1": tags_since_dt1(sentence, i)}
     #print res 
     return res
 
@@ -785,9 +807,9 @@ def run_experiment():
             res.append(sent)
         else:
             #print sent
-            #sent_simple = simpify_pos_tags(sent)
+            sent_simple = simpify_pos_tags(sent)
             #print sent_simple
-            sent_simple = sent
+            #sent_simple = sent
             #print sent_simple
             t = parse(sent_simple)
             #print t
@@ -796,38 +818,54 @@ def run_experiment():
             except Exception as e:
                 print "error with %s -> %s " % (sent, t)
                 #raise e
-            
-            #t = restore_pos_tags(t, sent)
-            #print t
-            #raw_input()
+
             res.append(t)
     write_to_file(res, "outfile_1.txt")
 
+def count_pos_tags(data, trainfile=False):
+    counts = {}
+    for sentence in data:
+        try:
+            for w, p in sentence:
+                counts[p] = counts.get(p,0) + 1
+        except ValueError as e:
+            continue
 
-#if __name__ == "__main__":
+    return reversed(sorted(counts.items(), key=lambda x: x[1]))
+
+
+def test_iobplus():
+    for d in data:
+        assert iobplus2tree(tree2iobplus(d)) == d
+
+
 data = read_file("en_train_s.txt")
+#data += read_file("en_devel_s.txt")
+#data = read_file("en_test_s.txt")
 #chunks = []
 #for d in data:
     #chunks += get_tree_levels(d)
 #    chunks.append(d)
-rules = []
-for d in data:
-    rules += tree2chunklist(d)
+#rules = []
+#for d in data:
+#    rules += tree2chunklist(d)
 
-rulecount = {}
-for rule in rules:
-    rule = "%s -> %s" % (rule[0], " ".join(rule[1]))
-    rulecount[rule] = rulecount.get(rule, 0) + 1
-frequent_rules = list(reversed(sorted(rulecount.items(), key=lambda t: t[1])))
+#rulecount = {}
+#for rule in rules:
+#    rule = "%s -> %s" % (rule[0], " ".join(rule[1]))
+#    rulecount[rule] = rulecount.get(rule, 0) + 1
+#frequent_rules = list(reversed(sorted(rulecount.items(), key=lambda t: t[1])))
 
 
 #chunks = [reduce_nps(c) for c in chunks if len(c) > 1]
 #chunks = [c for c in chunks if len(c) > 0]
 #chunks = [reduce_nps(c) for c in chunks if len(c) > 0]
 
-#data = [simpify_pos_tags(d, train=True) for d in data]
+data = [simpify_pos_tags(d, train=True) for d in data]
 #TRAIN_SENTS = [simpify_pos_tags(s, train=True) for s in TRAIN_SENTS]
 #mlr = MLRecursiveNPChunker(chunks)
 iobc = IOBPlusNPChunker(data)
 #gram = GrammarRecursiveNPChunker(TRAIN_SENTS)
 #cnp = ConsecutiveNPChunker(TRAIN_SENTS)
+if __name__ == "__main__":
+    run_experiment()
