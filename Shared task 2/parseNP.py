@@ -235,15 +235,6 @@ class MLRecursiveNPChunker(nltk.ChunkParserI):
         return conlltags2tree(conlltags)
 
 
-data = read_file("en_train_s.txt")
-chunks = []
-for d in data:
-    chunks += get_tree_levels(d)
-
-chunks = [c for c in chunks if len(c) > 2]
-mlr = MLRecursiveNPChunker(chunks)
-cnp = ConsecutiveNPChunker(TRAIN_SENTS)
-
 def parse(sentence):
     last = None
     current = cnp.parse(sentence)
@@ -404,11 +395,11 @@ def iobplus2tree(sentence):
     for _word in sentence:
         word, postag, iobtag = _word
 
+        lvl_delta = len(prev_iobtag) - len(iobtag)
         if iobtag == 'O':
             tree = root
             S = [root]
         elif iobtag[-1] == 'B':
-            lvl_delta = len(prev_iobtag) - len(iobtag)
             if lvl_delta == 0:
                 subtree = Tree('NP', [])
                 tree = S.pop()
@@ -428,6 +419,9 @@ def iobplus2tree(sentence):
                 subtree = Tree('NP', [])
                 S.append(subtree)
                 tree = subtree
+        elif iobtag[-1] == 'I':
+            for _ in xrange(lvl_delta):
+                tree = S.pop()
         tree.append((word, postag))
         prev_iobtag = iobtag
 
