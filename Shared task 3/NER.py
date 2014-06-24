@@ -1,6 +1,8 @@
 from pattern.de import parsetree
 import io
 
+ffailed = 0
+
 class Sentence:
     def __init__(self, title, text):
         self.title = title
@@ -72,6 +74,7 @@ def convert(stuff):
     return stuff.encode("UTF-8")
 
 def handleSentence(sentence):
+    global ffailed
     result = convert(sentence.title) + "\n"
 
     last_chunk = None
@@ -111,12 +114,14 @@ def handleSentence(sentence):
         try:
             result += "%s\t%s\t%s\t%s\t%s\tO\n" % (idx, wordstr, convert(sentence.tags[ii - num_dashes][0]), convert(sentence.tags[ii - num_dashes][1]), TAG)
         except:
-            print ii
-            print num_dashes
-            print list(enumerate(tree))
-            print sentence.tags, len(sentence.tags)
-            print sentence.text.split(), len(sentence.text.split())
-            raw_input()
+            #print ii
+            #print num_dashes
+            #print list(enumerate(tree))
+            #print sentence.tags, len(sentence.tags)
+            #print sentence.text.split(), len(sentence.text.split())
+            #raw_input()
+            ffailed += 1
+
         idx += 1
 
     return result
@@ -127,4 +132,5 @@ def run_experiment():
         for sent in sents:
             res = handleSentence(sent)
             f.write(unicode(res, "UTF-8") + "\n")
+        print "%s failed" % (ffailed)
 
