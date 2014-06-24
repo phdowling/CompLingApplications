@@ -109,6 +109,7 @@ def read_file(filename, train=True):  # this looks a bit messy but it works like
             print "couldn't read %s sents" % failed
             return res
 
+
 def merge_to_tree(sent):
     result = "Tree('S',["
     for line in sent:
@@ -121,8 +122,9 @@ def merge_to_tree(sent):
         for x in range(len(closeb)):
             result += "])"
     result += "])"
+    result = result.replace(")T","),T")
     try:
-        res = eval(result.replace(")T","),T"))
+        res = eval(result)
         if not res:
             print sent
         return res
@@ -608,14 +610,18 @@ class IOBPlusNPChunkTagger(nltk.TaggerI): # [_consec-chunk-tagger]
                 featureset = npchunk_features_iobplus(untagged_sent, i, history) # [_consec-use-fe]
                 train_set.append( (featureset, tag) )
                 history.append(tag)
-        #self.classifier = nltk.MaxentClassifier.train( train_set, trace=0)
+        #self.classifier = nltk.MaxentClassifier.train( train_set, algorithm="iis", trace=0)
         self.classifier = nltk.classify.NaiveBayesClassifier.train(train_set)
+        
 
     def tag(self, sentence):
         history = []
         for i, word in enumerate(sentence):
             featureset = npchunk_features_iobplus(sentence, i, history)
-            tag = self.classifier.classify(featureset)
+            try:
+                tag = self.classifier.classify(featureset)
+            except ValueError:
+                tag = self.classifier.batch_classify([featureset])[0]
             history.append(tag)
         return zip(sentence, history)
 
@@ -642,16 +648,42 @@ class IOBPlusNPChunker(nltk.ChunkParserI): # [_consec-chunker]
 
 def npchunk_features(sentence, i, history):
     word, pos = sentence[i]
+
+    
+
     if i == 0:
         prevword, prevpos = "<START>", "<START>"
+        last = "START"
     else:
+        last = history[-1]
         prevword, prevpos = sentence[i-1]
     if i == len(sentence)-1:
         nextword, nextpos = "<END>", "<END>"
     else:
         nextword, nextpos = sentence[i+1]
+
+    chunk = []
+    chunklen = 0
+    for idx, x in enumerate(reversed(history[:-1])):
+        if x[:1] == "I":
+            chunklen += 1
+            chunk.append(list(reversed(sentence[:i] ))[idx][1])
+        elif x[:1] == "B":
+            chunklen += 1
+            chunk.append(list(reversed(sentence[:i] ))[idx][1])
+            break
+        else:
+            if not chunk:
+                chunk.append("O")
+            break
+    if not chunk:
+        chunk.append("START")
+
+    #print chunk
+
     return {"pos": pos,
             "word": word,
+            "chunk" : "+".join(chunk),
             "prevpos": prevpos,
             "nextpos": nextpos,
             "prevpos+pos": "%s+%s" % (prevpos, pos),  
@@ -662,14 +694,21 @@ def npchunk_features_iobplus(sentence, i, history):
     word, pos = sentence[i]
     try:
         last = history[-1]
+        pword = sentence[i-1]
     except:
         last = "START"
+        pword = "START"
 
     try:
         seclast = history[-2]
     except:
         seclast = "START"
 
+    try:
+        thirdlast = history[-3]
+    except:
+        thirdlast = "START"
+    
     num_nns = len([x for x in sentence if x[1] == "NN"])
     #print num_nns
     third = len(sentence) / 3
@@ -702,9 +741,11 @@ def npchunk_features_iobplus(sentence, i, history):
     else:
         nextpos, nextword = sentence[i+1]
     res =  {"pos": pos,
+            #"pword": pword,
             "word": word,
             "last": last,
             "seclast": seclast,
+            #"thirdlast": thirdlast,
             #"chunklen": chunklen,
             "chunk" : "+".join(chunk),
             #"history" : "+".join(history),
@@ -862,7 +903,7 @@ data = read_file("en_train_s.txt")
 #chunks = [reduce_nps(c) for c in chunks if len(c) > 0]
 
 data = [simpify_pos_tags(d, train=True) for d in data]
-#TRAIN_SENTS = [simpify_pos_tags(s, train=True) for s in TRAIN_SENTS]
+TRAIN_SENTS = [simpify_pos_tags(s, train=True) for s in TRAIN_SENTS]
 #mlr = MLRecursiveNPChunker(chunks)
 iobc = IOBPlusNPChunker(data)
 #gram = GrammarRecursiveNPChunker(TRAIN_SENTS)
