@@ -2,6 +2,56 @@ from pattern.de import parsetree
 import io
 
 ffailed = 0
+entities = dict()
+
+
+for filename in ["deu.list", "eng.list", "ned.list.LOC", "ned.list.ORG", "ned.list.PER", "ned.list.MISC"]:
+    with open(filename, "r") as f:
+        for line in f.readlines():
+            tag = line[:line.find(" ")]
+            if tag == "MISC":
+                tag = "OTH"
+            if tag == "MISC":
+                tag = "OTH"
+            entity = line[line.find(" ") + 1:-1]
+            entities[entity] = tag
+
+def check_NE(candidate, chunk):
+    found = []
+
+    chunkstrs = [convert(word.string) for word in chunk.words]
+    #chunkasone = " ".join(chunkstrs)
+    #tag = entities.get(chunkasone, "O")
+
+    if True: #tag == "O":
+        for n in reversed(range(1, len(chunk) + 1)):
+            for gram in ngrams(chunkstrs, n):
+                tag = entities.get(" ".join(gram), "O")
+                if tag != "O":
+                    found.append(gram)
+                    break
+            if tag != "O":
+                break
+
+    if found:
+        candidate_position = chunkstrs.index(candidate.strip("-"))
+        entity_start_position = chunkstrs.index(found[0][0].strip("-"))
+        entity_stop_position = chunkstrs.index(found[0][-1].strip("-"))
+        if candidate_position == entity_start_position:
+            tag = "B-" + tag
+        elif entity_start_position < candidate_position <= entity_stop_position:
+            tag = "I-" + tag
+        else:
+            tag = "O"
+
+    return tag
+
+def ngrams(input, n):
+    output = []
+    for i in range(len(input) - n + 1):
+        output.append(input[i:i + n])
+    return output
+
 
 class Sentence:
     def __init__(self, title, text):
@@ -43,7 +93,7 @@ def read_file(filename, train=False):  # this looks a bit messy but it works lik
                     #print "discarding sentence %s" % (current_sentence)
 
             current_sentence.append((token, iob1, iob2))
-            #current_sentence.append((token, tagtocat.get(pos, pos), bracket))
+            # current_sentence.append((token, tagtocat.get(pos, pos), bracket))
 
         sentences = [s for s in sentences if s]
         s = None
@@ -63,11 +113,9 @@ def read_file(filename, train=False):  # this looks a bit messy but it works lik
                     res.append(s)
                 s = Sentence(sentence, "")
 
-
         print "returning word list of length %s" % len(res)
         print "couldn't read %s sents" % failed
         return res
-
 
 
 def convert(stuff):
@@ -103,16 +151,18 @@ def handleSentence(sentence):
         if word.chunk is None:
             TAG = "O"
         elif word.chunk.type == "NP":
-            # TODO: handle as possible NE
+
             if word.chunk == last_chunk:
-                TAG = "I-OTH"
+                TAG = check_NE(wordstr, word.chunk)
             else:
-                TAG = "B-OTH"
+                TAG = check_NE(wordstr, word.chunk)
                 last_chunk = word.chunk
+
         else:
             TAG = "O"
         try:
-            result += "%s\t%s\t%s\t%s\t%s\tO\n" % (idx, wordstr, convert(sentence.tags[ii - num_dashes][0]), convert(sentence.tags[ii - num_dashes][1]), TAG)
+            result += "%s\t%s\t%s\t%s\t%s\tO\n" % (idx, wordstr, convert(sentence.tags[ii - num_dashes][0]),
+                                                   convert(sentence.tags[ii - num_dashes][1]), TAG)
         except:
             #print ii
             #print num_dashes
