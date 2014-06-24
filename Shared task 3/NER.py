@@ -5,6 +5,7 @@ class Sentence:
     def __init__(self, title, text):
         self.title = title
         self.text = text
+        self.tags = []
 
 def read_file(filename, train=False):  # this looks a bit messy but it works like a charm
     with io.open(filename, "r", encoding='utf8') as f:
@@ -50,6 +51,7 @@ def read_file(filename, train=False):  # this looks a bit messy but it works lik
             if type(sentence) == list:
                 try:
                     s.text = " ".join([w for w, i1, i2 in sentence])
+                    s.tags = [(i1, i2) for w, i1, i2 in sentence]
                 except:
                     print sentence, type(sentence)
                     raw_input()
@@ -65,28 +67,6 @@ def read_file(filename, train=False):  # this looks a bit messy but it works lik
         return res
 
 
-def merge_to_tree(sent):
-    # TODO: adjust this to build trees for the given format if we decide to do classification
-    result = "Tree('S',["
-    for line in sent:
-        openb = line[2].translate(None, "1234567890)_|")
-        closeb = line[2].translate(None, "1234567890(_|")
-        for x in range(len(openb)):
-            result += "Tree('NP',["
-        result += ("," if (not len(openb) and result[-1:] not in "([") else "") \
-                  + "('" + line[0].replace("'", "\\'") + "','" + line[1].replace("'", "\\'") + "')"
-        for x in range(len(closeb)):
-            result += "])"
-    result += "])"
-    result = result.replace(")T", "),T")
-    try:
-        res = eval(result)
-        if not res:
-            print sent
-        return res
-    except Exception, e:
-        print "failed: %s : %s -> %s" % (e, sent, result)
-        return None
 
 def convert(stuff):
     return stuff.encode("UTF-8")
@@ -96,23 +76,47 @@ def handleSentence(sentence):
 
     last_chunk = None
 
+    found_dash = False
+    num_dashes = 0
+
     idx = 1
     tree = parsetree(sentence.text)[0]
-    for word in tree:
-        wordstr = convert(word.string)
+    for ii, word in enumerate(tree):
+        if found_dash:
+            found_dash = False
+            continue
+        try:
+            next = convert(tree[ii+1].string)
+            assert(next == "-")
+            found_dash = True
+            num_dashes += 1
+            wordstr = convert(word.string + "-")
+
+        except AssertionError:
+            wordstr = convert(word.string)
+        except IndexError:
+            wordstr = convert(word.string)
 
         if word.chunk is None:
-            result += "%s  %s  O   O\n" % (idx, wordstr)
+            TAG = "O"
         elif word.chunk.type == "NP":
             # TODO: handle as possible NE
             if word.chunk == last_chunk:
-                result += "%s  %s  I-%s   O\n" % (idx, wordstr, "OTH")
+                TAG = "I-OTH"
             else:
-                result += "%s  %s  B-%s   O\n" % (idx, wordstr, "OTH")
+                TAG = "B-OTH"
                 last_chunk = word.chunk
         else:
-            result += "%s  %s  O   O\n" % (idx, wordstr)
-
+            TAG = "O"
+        try:
+            result += "%s\t%s\t%s\t%s\t%s\tO\n" % (idx, wordstr, convert(sentence.tags[ii - num_dashes][0]), convert(sentence.tags[ii - num_dashes][1]), TAG)
+        except:
+            print ii
+            print num_dashes
+            print list(enumerate(tree))
+            print sentence.tags, len(sentence.tags)
+            print sentence.text.split(), len(sentence.text.split())
+            raw_input()
         idx += 1
 
     return result
