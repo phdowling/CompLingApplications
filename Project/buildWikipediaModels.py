@@ -24,13 +24,14 @@ id2word = gensim.corpora.Dictionary.load_from_text('wiki_en_wordids.txt')
 # load corpus iterator
 mm = gensim.corpora.MmCorpus('wiki_en_tfidf.mm')
 
-# this step will take some hours
+print "about to start training LSA and LDA models. These two steps will take a few hours."
 print "creating LSA model."
 lsi = gensim.models.lsimodel.LsiModel(corpus=mm, id2word=id2word, num_topics=300)
 print "creating LDA model."
-lda = gensim.models.ldamodel.LdaModel(corpus=mm, id2word=id2word, num_topics=100, update_every=0, passes=20)
+lda = gensim.models.ldamodel.LdaModel(corpus=mm, id2word=id2word, num_topics=150, update_every=0, passes=20)
 
 print "saving models..."
 lsi.save("wikipedia.lsa")
 lda.save("wikipedia.lda")
+print "analysis complete."
 
