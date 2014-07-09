@@ -649,8 +649,6 @@ class IOBPlusNPChunker(nltk.ChunkParserI): # [_consec-chunker]
 def npchunk_features(sentence, i, history):
     word, pos = sentence[i]
 
-    
-
     if i == 0:
         prevword, prevpos = "<START>", "<START>"
         last = "START"
