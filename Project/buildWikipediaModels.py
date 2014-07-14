@@ -27,11 +27,13 @@ mm = gensim.corpora.MmCorpus('wiki_en_tfidf.mm')
 print "about to start training LSA and LDA models. These two steps will take a few hours."
 print "creating LSA model."
 lsi = gensim.models.lsimodel.LsiModel(corpus=mm, id2word=id2word, num_topics=300)
+print "saving models..."
+lsi.save("wikipedia.lsa")
+
 print "creating LDA model."
 lda = gensim.models.ldamodel.LdaModel(corpus=mm, id2word=id2word, num_topics=150, update_every=0, passes=20)
 
-print "saving models..."
-lsi.save("wikipedia.lsa")
+
 lda.save("wikipedia.lda")
 print "analysis complete."
 
