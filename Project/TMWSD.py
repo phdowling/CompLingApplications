@@ -11,7 +11,6 @@ from stemming.porter2 import stem
 from nltk.corpus import stopwords
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy
-from numpy import array
 from nltk import NaiveBayesClassifier
 import random
 from itertools import groupby
@@ -23,7 +22,7 @@ WORD_IDS_FILE = "wikipedia/wiki_en_wordids.txt"
 #MM_CORPUS_FILE = 'wiki_en_tfidf.mm'
 #MM_CORPUS_FILE = 'holist.mm'
 MODEL_DIRECTORY = "wikipedia/"
-MODEL_NAME = "wikipedia_300.lsa"
+MODEL_NAME = "wikipedia_250.lsa"
 TFIDF_FILE = "wiki_en_tfidf_model.tfidf"
 WN_MAPPING_FILE = "train/EnglishLS.dictionary.mapping.xml"
 
@@ -101,7 +100,7 @@ class LSAWSD(object):
         self.load_similarities = False
         self.use_tfidf = True
         self.tfidf = None
-        self.use_whole_context = False
+        self.use_whole_context = True
         self.local_radius = 10
 
     def convert(self, vector):
