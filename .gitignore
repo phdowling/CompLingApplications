@@ -1,2 +1,10 @@
 __pycache__/
 *.py[cod]
+
+
+
+*.aux
+*.bbl
+*.blg
+*.synctex.gz
+topicmodels.pdf
