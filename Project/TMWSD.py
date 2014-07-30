@@ -22,7 +22,7 @@ WORD_IDS_FILE = "wikipedia/wiki_en_wordids.txt"
 #MM_CORPUS_FILE = 'wiki_en_tfidf.mm'
 #MM_CORPUS_FILE = 'holist.mm'
 MODEL_DIRECTORY = "wikipedia/"
-MODEL_NAME = "wikipedia_250.lsa"
+MODEL_NAME = "wikipedia_200.lda"
 TFIDF_FILE = "wiki_en_tfidf_model.tfidf"
 WN_MAPPING_FILE = "train/EnglishLS.dictionary.mapping.xml"
 
@@ -276,7 +276,9 @@ class LSAWSD(object):
 
         for top in range(1, RANGE_TOP):
 
-            fname = OUTFILE % (self.model.num_topics, savestring + self.model_type, "top" + str(top), INCLUDE_RANGE)
+            # "outfiles/SPELCHEK.model_%s.topics_%s.cir_%s.multsenseinclude_%s.out"
+            fname = OUTFILE % (self.model_type, self.model.num_topics, str(top), INCLUDE_RANGE)
+            #fname = OUTFILE % (self.model.num_topics, savestring + self.model_type, "top" + str(top), INCLUDE_RANGE)
             with open(fname, "w") as outfile:
                 print "writing %s.." % fname
                 outfile.write("\n".join(frequency_results[top]) + "\n")
