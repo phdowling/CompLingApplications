@@ -1,4 +1,4 @@
-\section{Evaluation}
+\section{Method}
 
 % how the wsd proposed in this paper works:
 % 	1. language model from wikipedia corpus
@@ -13,13 +13,59 @@
 % 		-sense id of tested document is most frequent sense id in the top k retrieved
 
 
-We are creating language models on the english wikipedia corpus (see \ref{creation}). As mentioned before, we are creating LDA and LSA topic models. When creating the models the number of extracted topics has to be set a priori. For investigating the influence of topic count on the results, we are creating multiple instance of LDA and LSA models with different amounts of topics.\\
-We are provided with a training set containing documents labeled with a sense id. Those documents are converted to the vector space of the topic model. Every entry $i$ of the vector then represents how much the document relates to the topic $i$ of the model. The vector is then saved associated with the sense id of the document.\\
-The sense disambiguation of a test document is done as follows. The test document is converted to the vector space of the topic model. The top $k$ documents of the saved vector to sense id is retrieved using the cosine measure. The sense id of the test document is the most frequent sense of the retreived vectors.
+We created LSA, LDA and HDP topic models on the english wikipedia corpus (see \ref{creation}). To investigate the influence of topic count on the results, we  computed multiple instance of LDA and LSA models with different amounts of topics. Note that we do not include this step in our algorithm description - it is simply assumed that a trained topic model is already available.\\\\
 
+Our algorithm consists of a training phase and an evaluation phase, however the training phase does not actually train a classifier. Instead, the contexts of all training instances are converted to the vector space of the topic model and is supsequently saved associated with the resepctive sense id.\\
+The evaluation of a test instance is then done as follows. The test instance is also converted to the vector space of the topic model. Then, the top $k$ training contexts for the word in question are retrieved using the cosine similarity of the contexts. Finally, the sense id that occurs most frequently in the top $k$ results is chosen as the result for the test instance. Note that setting $k$ very high will simply result in always choosing the most frequent sense, which is in fact the baseline to which we measure the system's performance.\\\\
 
+%initialize TM
+%sense_vectors = Map()
 
-\subsection{Creation of Topic Models}
+%for each word in dictionary:
+%	sense_vectors[word] = List()
+
+%for each instance in train set:
+%	vector = TM.convert(instance.vector)	
+%	sense_vectors[instance.word].append(vector)
+%
+
+%for each instance in evaluation set:
+%	candidates = sense_vectors[instance.word]
+%	sort candidates by cosine similarity to TM.convert(instance)
+% 	candidates = keep top k candidates
+%	best_sense = most_frequent(candidates, k)
+%	save this result
+%
+%
+\begin{algorithm}[!t]
+\caption{Word-Sense Disambiguation}\label{wsdalgorithm}
+\begin{algorithmic}[1]
+\State $\textit{initialize} \text{ TM} $
+\State $\textit{sense\_vectors} := \textit{Map} {()}$
+\Procedure{Train}{}
+\ForAll {$instance \in train set$}
+ \State$	vector := TM.convert(instance.bow)$
+ \State$	sense\_vectors[instance.word].append(vector)$
+\EndFor
+%\State \Return $D_{comp}\cup D_{inc}$
+\EndProcedure
+\Procedure{Evaluate}{}
+\State $\textit{results} := \textit{Map} {()}$
+\ForAll {$instance \in evaluation set$}
+ \State$	vector := TM.convert(instance.bow)$
+ \State$	candidates := sense\_vectors[instance.word]$
+ \State	sort candidates by cosine similarity to vector
+ \State	cut off candidates at index k
+ \State$	best\_sense := most\_frequent(candidates)$
+ \State$	results[instance.id] := best\_sense$
+ \State \Return $results$
+\EndFor
+%\State \Return $D_{comp}\cup D_{inc}$
+\EndProcedure
+\end{algorithmic}
+\end{algorithm}
+
+\subsection{Training of Topic Models}
 \label{creation}
 % details on data and how we created topic models
 % 	1. wikipedia dumps
@@ -34,19 +80,24 @@ The sense disambiguation of a test document is done as follows. The test documen
 % 		-hdp as test, implementation not mature therefore just used as test case
 % 		-other models provided by gensim (random projections, log entropy) not used
 
-For the training of a topic model large amounts of text are required. For providing that data we looked at the english Wikipedia. Wikipedia does frequent backups of its' articles and provides them for public use. We used the latest dump (as of june 2014) containing about 10GiB of compressed xml data or 3.6 million documents \cite{wikidumps}. The topic model was then trained using that data in an unsupervised manner.\\
-The implementation of th LSA and LDA topic models we used was provided by the python library gensim. Gensim is a free, open-source library for topic modelling. For using the wikipedia dump with gensim, it first had to be preprocessed using TF-IDF. Gensim was than used to create LSA and LDA models with severel dimensionalities from that corpus.\\
-There are other topic models that are also supported by gensim that were not used for different reasons. Random projections \cite{RandomProjections, gensimRP} and log entropy \cite{LogEntropy, gensimLE} models were not used due to time contraints. We did create a hierarchical dirichlet process \cite{hdp, gensimHdp} that did not work properly. Since the implementation of that model is not mature \cite{gensimHdp} we did not investigate the failiure further.
+For the training of a topic model large amounts of text are required. For providing that data we looked at the english Wikipedia. Wikipedia does frequent backups of its' articles and provides them for public use. We used the latest dump (as of june 2014) containing about 10GiB of compressed xml data or 3.6 million documents \cite{wikidumps}. The topic model was then trained using that data in an unsupervised manner.\\\\
+The implementation of LSA, LDA and HDP topic models that we used was provided in the python library gensim. Gensim is a free, open-source library for topic modelling. For using the wikipedia dump with gensim, it first had to be preprocessed using TF-IDF. Gensim was then used to create LSA, LDA and HDP models with several dimensionalities from that corpus. We did not stem our training data, as this would have been very computationally expensive. In evaluation, the context data was therefore also not stemmed.\\\\
+There are other topic models that are also supported by gensim that were not used for different reasons. Random projections (RP) \cite{RandomProjections, gensimRP} and log entropy (LE) \cite{LogEntropy, gensimLE} models were not used due to time contraints, but also because we did not expect them to outperform our other models. LE does not perform dimensionality reduction, and RP does not usually outperform LSA. 
 
 
 
 
 
+\section{Experiments}
+\subsection{Experimental Setup}
+We used the SensEval-3 English lexical sample data as our training and evaluation set, so that we would be able to compare the performance of our approach to existing systems. The baseline performance for this task is to always choose the most frequent sense for each word.\\\\
+We ran a large number of experiments at different parameters in order to find the optimal model and configuration. LSA was evaluated at 150, 200, 250, 300, 350 and 400 topics, each with a single pass over the corpus, two power iterations and no decay.\\\\
+LDA was only evaluated at 200, 300 and 400 topics, since it is more computationally expensive. Here we used a symmetric prior of $\alpha = \frac{1}{n}$ for the per-document topic distribution, with the same value for $\beta$, the per-topic word distribution.\\\\
+HDP was evaluated using the default parameters of Gensim: $\kappa = 1, \tau = 64, \alpha =1, \gamma =1, \eta =0.01$. Unfortunately, we were not able to properly use the HDP model, as the topics it generated did not appear make sense, and were all nearly identical. Due to time constraints we were not able to fix these issues and retrain the model. The results are nevertheless included in this paper.\\
 \subsection{Results}
-We ran a large number of experiments at different parameters in order to find the optimal model and configuration. LSA was evaluated at 150, 200, 250, 300, 350 and 400 topics, each with a single pass over the corpus, two power iterations and no decay.\\ 
-LDA was only evaluated at 200, 300 and 400 topics, since it is more computationally expensive. Here we used a symmetric prior of $\alpha = \frac{1}{n}$ for the per-document topic distribution, with the same value for $\beta$, the per-topic word distribution.\\
-HDP was evaluated using the default parameters of Gensim: $\kappa = 1, \tau = 64, \alpha =1, \gamma =1, \eta =0.01$. Unfortunately, we were not able to use our HDP model, as the topics it did not make sense, and were all nearly identical. Due to time constraints we were not able to fix these issues and train another model.\\\\
-The plot below visualizes the results we obtained for different dimensionalities 
+Figure 1 visualizes the results we obtained for different dimensionalities of LSA, LDA and the failed HDP attempt, together with the baseline performance. \\\\
+%TODO: figure here.
+As you can see, LSA appears to outperform LDA, and achieves its highest result of 0.641 at 350 topics with $k=10$.
 % how did we score the diffent models
 % 	1. scoring script provided, runs on test set, gives f-score/recall
 % 	2. plotting tools / how were the graphics generated
