@@ -22,7 +22,7 @@ WORD_IDS_FILE = "wikipedia/wiki_en_wordids.txt"
 #MM_CORPUS_FILE = 'wiki_en_tfidf.mm'
 #MM_CORPUS_FILE = 'holist.mm'
 MODEL_DIRECTORY = "wikipedia/"
-MODEL_NAME = "wikipedia_200.lda"
+MODEL_NAME = "wikipedia_200.lsa"
 TFIDF_FILE = "wiki_en_tfidf_model.tfidf"
 WN_MAPPING_FILE = "train/EnglishLS.dictionary.mapping.xml"
 
@@ -30,6 +30,8 @@ TRAIN_FILE = "train/EnglishLS.train"
 TEST_FILE = "test/EnglishLS.test"
 
 OUTFILE = "outfiles/SPELCHEK.model_%s.topics_%s.cir_%s.multsenseinclude_%s.out"
+
+USE_BASELINE = True
 
 RANGE_TOP = 50
 
@@ -42,6 +44,8 @@ def most_frequent(l, top=10, include_range=0):
     """
     return the most frequently occurrind sense in the top n similar documents
     """
+    if top == -1:
+        top = 1000000
     counter = defaultdict(int)
     for sense, similarity in l[:top]:
         counter[sense] += 1
@@ -140,6 +144,12 @@ class LSAWSD(object):
         elif modelname.endswith(".lda"):
             self.model = gensim.models.LdaModel.load(modelname)
             self.model_type = "LDA"
+        elif modelname.endswith(".hdp"):
+            self.model = gensim.models.HdpModel.load(modelname)
+            self.model_type = "HDP"
+            self.model.num_topics = 150
+        if USE_BASELINE:
+            self.model_type = "BASELINE"
         else:
             raise ValueError("Unknown model type: %s" % modelname)
 
@@ -262,6 +272,13 @@ class LSAWSD(object):
 
             if not self.load_similarities:
                 save.append(similarities)
+
+            if USE_BASELINE:
+                top = "ALL"
+                word_senses = most_frequent(similarities, top=-1, include_range=INCLUDE_RANGE)
+                frequency_results[top].append("%s %s %s" % (word, instance_id, " ".join(word_senses)))
+                continue
+
             for top in range(1, RANGE_TOP):
                 word_senses = most_frequent(similarities, top=top, include_range=INCLUDE_RANGE)
                 #word_senses = best_average(similarities, top=top)
@@ -273,6 +290,14 @@ class LSAWSD(object):
         if not self.load_similarities:
             with open("save_sense_similarities%s_%s" % (savestring, MODEL_NAME), "w") as sf:
                 sf.write(str(save))
+        if USE_BASELINE:
+            # "outfiles/SPELCHEK.model_%s.topics_%s.cir_%s.multsenseinclude_%s.out"
+            fname = OUTFILE % (self.model_type, self.model.num_topics, str("ALL"), INCLUDE_RANGE)
+            #fname = OUTFILE % (self.model.num_topics, savestring + self.model_type, "top" + str(top), INCLUDE_RANGE)
+            with open(fname, "w") as outfile:
+                print "writing %s.." % fname
+                outfile.write("\n".join(frequency_results["ALL"]) + "\n")
+            return
 
         for top in range(1, RANGE_TOP):
 
