@@ -13,14 +13,14 @@
 % 		-sense id of tested document is most frequent sense id in the top k retrieved
 
 
-We are creating language models on the english wikipedia corpus (see \ref{wikidump}). As mentioned before, we are creating LDA and LSA topic models. When creating the models the number of extracted topics has to be set a priori. For investigating the influence of topic count on the results, we are creating multiple instance of LDA and LSA models with different amounts of topics.\\
+We are creating language models on the english wikipedia corpus (see \ref{creation}). As mentioned before, we are creating LDA and LSA topic models. When creating the models the number of extracted topics has to be set a priori. For investigating the influence of topic count on the results, we are creating multiple instance of LDA and LSA models with different amounts of topics.\\
 We are provided with a training set containing documents labeled with a sense id. Those documents are converted to the vector space of the topic model. Every entry $i$ of the vector then represents how much the document relates to the topic $i$ of the model. The vector is then saved associated with the sense id of the document.\\
 The sense disambiguation of a test document is done as follows. The test document is converted to the vector space of the topic model. The top $k$ documents of the saved vector to sense id is retrieved using the cosine measure. The sense id of the test document is the most frequent sense of the retreived vectors.
 
 
 
-\subsection{Data}
-\label{wikidump}
+\subsection{Creation of Topic Models}
+\label{creation}
 % details on data and how we created topic models
 % 	1. wikipedia dumps
 % 		-wikipedia does frequent dumps
@@ -29,10 +29,16 @@ The sense disambiguation of a test document is done as follows. The test documen
 % 	2. topic model creationg
 % 		-using gensim python library (decription of library)
 % 		-gensim usage: lsa/lda interface, paramter description
-% 		-description of calculation time and machine hardware
+% 		(-description of calculation time and machine hardware)
 % 	3. additional models
 % 		-hdp as test, implementation not mature therefore just used as test case
 % 		-other models provided by gensim (random projections, log entropy) not used
+
+For the training of a topic model large amounts of text are required. For providing that data we looked at the english Wikipedia. Wikipedia does frequent backups of its' articles and provides them for public use. We used the latest dump (as of june 2014) containing about 10GiB of compressed xml data or 3.6 million documents \cite{wikidumps}. The topic model was then trained using that data in an unsupervised manner.\\
+The implementation of th LSA and LDA topic models we used was provided by the python library gensim. Gensim is a free, open-source library for topic modelling. For using the wikipedia dump with gensim, it first had to be preprocessed using TF-IDF. Gensim was than used to create LSA and LDA models with severel dimensionalities from that corpus.\\
+There are other topic models that are also supported by gensim that were not used for different reasons. Random projections \cite{RandomProjections, gensimRP} and log entropy \cite{LogEntropy, gensimLE} models were not used due to time contraints. We did create a hierarchical dirichlet process \cite{hdp, gensimHdp} that did not work properly. Since the implementation of that model is not mature \cite{gensimHdp} we did not investigate the failiure further.
+
+
 
 
 
