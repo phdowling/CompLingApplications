@@ -1,7 +1,39 @@
 \section{Evaluation}
 
+% how the wsd proposed in this paper works:
+% 	1. language model from wikipedia corpus
+% 		-LDA & LSA
+% 		-different dimensionalities
+% 	2. labeled reference data
+% 		-convert documents of reference data to topic vector space
+% 		-save vector with sense id (=label)
+% 	3. sense disambiguation
+% 		-convert tested document to topic vector space
+% 		-retrieve top k senseid using cosine measure from saved vector->senseid mapping
+% 		-sense id of tested document is most frequent sense id in the top k retrieved
+
+
 \subsection{Data}
-wikipedia corpus
+% details on data and how we created topic models
+% 	1. wikipedia dumps
+% 		-wikipedia does frequent dumps
+% 		-we are using the latest dump of the articles in english wikipedia (as of june 2014) as xml
+% 		-about 10GiB of compressed data, ~3.6 million documents
+% 	2. topic model creationg
+% 		-using gensim python library (decription of library)
+% 		-gensim usage: lsa/lda interface, paramter description
+% 		-description of calculation time and machine hardware
+% 	3. additional models
+% 		-hdp as test, implementation not mature therefore just used as test case
+% 		-other models provided by gensim (random projections, log entropy) not used
+
+
 
 \subsection{Scoring}
-fancy plots
+% how did we score the diffent models
+% 	1. scoring script provided, runs on test set, gives f-score/recall
+% 	2. plotting tools / how were the graphics generated
+% 	3. plot data: dimensionality against f-score
+% 	4. interpretation of plots: what does that mean, how well did it perform
+
+
