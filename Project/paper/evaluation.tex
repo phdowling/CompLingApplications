@@ -1,5 +1,10 @@
 \section{Evaluation}
 
+
+We are creating language models on the english wikipedia corpus (see \ref{wikidump}). As mentioned before, we are creating LDA and LSA topic models. When creating the models the number of extracted topics has to be set a priori. For investigating the inlfuence of topic count on the results, we are creating multiple instance of LDA and LSA models with different amounts of topics.\\
+We are provided with a training set containing documents labeled with a sense id. Those documents are converted to the vector space of the topic model. Every entry $i$ of the vector then represents how much the document relates to the topic $i$ of the model. The vector is then saved associated with the sense id of the document.\\
+The sense disambiguation of a test document is done as follows. The test document is converted to the vector space of the topic model. The top $k$ documents of the saved vector to sense id is retrieved using the cosine measure. The sense id of the test document is the most frequent sense of the retreived vectors.
+
 % how the wsd proposed in this paper works:
 % 	1. language model from wikipedia corpus
 % 		-LDA & LSA
@@ -13,7 +18,9 @@
 % 		-sense id of tested document is most frequent sense id in the top k retrieved
 
 
+
 \subsection{Data}
+\label{wikidump}
 % details on data and how we created topic models
 % 	1. wikipedia dumps
 % 		-wikipedia does frequent dumps
