@@ -13,7 +13,14 @@
 % 		-sense id of tested document is most frequent sense id in the top k retrieved
 
 
+We are creating language models on the english wikipedia corpus (see \ref{wikidump}). As mentioned before, we are creating LDA and LSA topic models. When creating the models the number of extracted topics has to be set a priori. For investigating the influence of topic count on the results, we are creating multiple instance of LDA and LSA models with different amounts of topics.\\
+We are provided with a training set containing documents labeled with a sense id. Those documents are converted to the vector space of the topic model. Every entry $i$ of the vector then represents how much the document relates to the topic $i$ of the model. The vector is then saved associated with the sense id of the document.\\
+The sense disambiguation of a test document is done as follows. The test document is converted to the vector space of the topic model. The top $k$ documents of the saved vector to sense id is retrieved using the cosine measure. The sense id of the test document is the most frequent sense of the retreived vectors.
+
+
+
 \subsection{Data}
+\label{wikidump}
 % details on data and how we created topic models
 % 	1. wikipedia dumps
 % 		-wikipedia does frequent dumps
@@ -29,7 +36,11 @@
 
 
 
-\subsection{Scoring}
+\subsection{Results}
+We ran a large number of experiments at different parameters in order to find the optimal model and configuration. LSA was evaluated at 150, 200, 250, 300, 350 and 400 topics, each with a single pass over the corpus, two power iterations and no decay.\\ 
+LDA was only evaluated at 200, 300 and 400 topics, since it is more computationally expensive. Here we used a symmetric prior of $\alpha = \frac{1}{n}$ for the per-document topic distribution, with the same value for $\beta$, the per-topic word distribution.\\
+HDP was evaluated using the default parameters of Gensim: $\kappa = 1, \tau = 64, \alpha =1, \gamma =1, \eta =0.01$. Unfortunately, we were not able to use our HDP model, as the topics it did not make sense, and were all nearly identical. Due to time constraints we were not able to fix these issues and train another model.\\\\
+The plot below visualizes the results we obtained for different dimensionalities 
 % how did we score the diffent models
 % 	1. scoring script provided, runs on test set, gives f-score/recall
 % 	2. plotting tools / how were the graphics generated
