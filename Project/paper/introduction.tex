@@ -1,1 +1,24 @@
-\section{Einleitung}
+\section{Introduction}
+In this paper, we present an evaluation of the performance that different topic models achieve when applied to the problem of supervised word-sense Disambiguation (WSD) in a fairly simple way. 
+
+\subsection{Supervised Word-Sense Disambiguation}
+In virtually all languages, some words can have different meanings, or senses. WSD is the problem of determining  which sense of a word is being employed in a given context. In supervised WSD, both the words to be disambiguated and their possible senses are known beforehand, and labelled sample data is provided for each word sense. Consider the following example: The noun \"atmosphere\" can, among other senses, refer to the air that surrounds the earth, as demonstrated by this sentence:\\
+\begin{quotation}
+\textit{Rising levels of greenhouse gas emissions are damaging the atmosphere.\\}
+\end{quotation}
+The term can also refer to the general mood surrounding an event. 
+\begin{quotation}
+\textit{Most attendees were in agreement that the party had a very pleasant atmosphere to it.\\}
+\end{quotation}
+Given sufficient data, supervised WSD systems should automatically determine the sense of a certain word in a new context. This is commonly done by training a classifier with feature vectors generated from the labelled data. State of the art systems for supervised WSD currently achieve recall score of 90+\%\cite{stateofart_scores} with such methods. 
+
+
+\subsection{Topic Models}
+Topic models are statistical models that aim to represent textual data as vectors in a topic-based vector space. Topic models have been applied to many different information retrieval and text clustering problems, but also in domains related to bioinformatics and other fields \cite{topicmodel_applications}. In essence, topic models learn patterns (topics) from unstructured data, in order to perform dimensionality reduction by converting term vectors into topic vectors. \\
+A topic in this context is essentially a probability distribution over all words in the dictionary, with words that are relevant to the topic carrying positive weights, and the other words being assigned a weight very close to zero. Each dimension of the output vector then represents a weight of how well the document fits the particular topic. To train a topic model the respective set of model parameters is estimated from a large corpus through methods such as maximum likelihood or bayesian inference (in the form of maximum a posteriori estimation). Most topic models are unsupervised algorithms.\\\\
+As a result of this dimensional reduction, which respects the inferred semantic relations between words, topic models enable us to better compute document similarities. Even documents that share no words directly but regard a similar are likely to have similar vectors in topic space, even though their cosine similarity would be zero when considered as bag-of-words or TF-IDF vectors. In our experiments, we dealt with three specific topic models: Latent Semantic Analysis\cite{LSA_paper}, Latent Dirichlet Allocation\cite{LDA_paper}, and Hierarchical Dirichlet Process\cite{HDP_paper}.
+
+
+\subsection{Applications of Topic Models in WSD}
+Topic models have been applied to WSD in a number of different ways\cite{topic_models_in_wsd}. In fact, the LDA with \textsc{WordNet} (LDAWN) model has been developed specifically for the problem of (unsupervised) WSD.
+Our approach to supervised WSD employs topic models to improve the matching of training and evaluation contexts.

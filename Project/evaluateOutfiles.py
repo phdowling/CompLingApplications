@@ -40,7 +40,7 @@ for filename in os.listdir("outfiles"):
 
         out = subprocess.check_output(cmd)
         precisionIdx = int(out.find("precision: "))+len("precision: ")
-        recallIdx = int(out.find("recall: ")) +len("recall: ")
+        recallIdx = int(out.find("recall: ")) + len("recall: ")
         precision = float(out[precisionIdx:precisionIdx+5])
         recall = float(out[recallIdx:recallIdx+5])
 
