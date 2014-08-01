@@ -22,7 +22,7 @@ WORD_IDS_FILE = "wikipedia/wiki_en_wordids.txt"
 #MM_CORPUS_FILE = 'wiki_en_tfidf.mm'
 #MM_CORPUS_FILE = 'holist.mm'
 MODEL_DIRECTORY = "wikipedia/"
-MODEL_NAME = "wikipedia_300.lda"
+MODEL_NAME = "wikipedia_400.lda"
 TFIDF_FILE = "wiki_en_tfidf_model.tfidf"
 WN_MAPPING_FILE = "train/EnglishLS.dictionary.mapping.xml"
 
