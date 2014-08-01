@@ -22,7 +22,7 @@ WORD_IDS_FILE = "wikipedia/wiki_en_wordids.txt"
 #MM_CORPUS_FILE = 'wiki_en_tfidf.mm'
 #MM_CORPUS_FILE = 'holist.mm'
 MODEL_DIRECTORY = "wikipedia/"
-MODEL_NAME = "wikipedia_200.lsa"
+MODEL_NAME = "wikipedia_300.lda"
 TFIDF_FILE = "wiki_en_tfidf_model.tfidf"
 WN_MAPPING_FILE = "train/EnglishLS.dictionary.mapping.xml"
 
@@ -31,7 +31,7 @@ TEST_FILE = "test/EnglishLS.test"
 
 OUTFILE = "outfiles/SPELCHEK.model_%s.topics_%s.cir_%s.multsenseinclude_%s.out"
 
-USE_BASELINE = True
+USE_BASELINE = False
 
 RANGE_TOP = 50
 
@@ -138,6 +138,7 @@ class LSAWSD(object):
 
         modelname = MODEL_DIRECTORY + MODEL_NAME
         print "loading model from %s" % modelname
+
         if modelname.endswith(".lsa"):
             self.model = gensim.models.LsiModel.load(modelname)
             self.model_type = "LSA"
@@ -148,10 +149,10 @@ class LSAWSD(object):
             self.model = gensim.models.HdpModel.load(modelname)
             self.model_type = "HDP"
             self.model.num_topics = 150
-        if USE_BASELINE:
-            self.model_type = "BASELINE"
         else:
             raise ValueError("Unknown model type: %s" % modelname)
+        if USE_BASELINE:
+            self.model_type = "BASELINE"
 
     def read_sense_data(self):
         try:
