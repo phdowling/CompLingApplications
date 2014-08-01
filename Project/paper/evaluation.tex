@@ -13,10 +13,10 @@
 % 		-sense id of tested document is most frequent sense id in the top k retrieved
 
 
-We created LSA, LDA and HDP topic models on the english wikipedia corpus (see \ref{creation}). To investigate the influence of topic count on the results, we  computed multiple instance of LDA and LSA models with different amounts of topics. Note that we do not include this step in our algorithm description - it is simply assumed that a trained topic model is already available.\\\\
+We created LSA, LDA and HDP topic models on the english wikipedia corpus (see \ref{creation}). To investigate the influence of topic count on the results, we  computed multiple instance of LDA and LSA models with different amounts of topics. Note that we do not include this step in our algorithm description - it is simply assumed that a trained topic model is already available.\\
 
 Our algorithm consists of a training phase and an evaluation phase, however the training phase does not actually train a classifier. Instead, the contexts of all training instances are converted to the vector space of the topic model and is supsequently saved associated with the resepctive sense id.\\
-The evaluation of a test instance is then done as follows. The test instance is also converted to the vector space of the topic model. Then, the top $k$ training contexts for the word in question are retrieved using the cosine similarity of the contexts. Finally, the sense id that occurs most frequently in the top $k$ results is chosen as the result for the test instance. Note that setting $k$ very high will simply result in always choosing the most frequent sense, which is in fact the baseline to which we measure the system's performance.\\\\
+The evaluation of a test instance is then done as follows. The test instance is also converted to the vector space of the topic model. Then, the top $k$ training contexts for the word in question are retrieved using the cosine similarity of the contexts. Finally, the sense id that occurs most frequently in the top $k$ results is chosen as the result for the test instance. Note that setting $k$ very high will simply result in always choosing the most frequent sense, which is in fact the baseline to which we measure the system's performance.\\
 
 %initialize TM
 %sense_vectors = Map()
@@ -93,7 +93,7 @@ There are other topic models that are also supported by gensim that were not use
 \subsection{Experimental Setup}
 We used the SensEval-3 English lexical sample data as our training and evaluation set, so that we would be able to compare the performance of our approach to existing systems. The baseline performance for this task is to always choose the most frequent sense for each word.\\\\
 We ran a large number of experiments at different parameters in order to find the optimal model and configuration. LSA was evaluated at 150, 200, 250, 300, 350 and 400 topics, each with a single pass over the corpus, two power iterations and no decay.\\\\
-LDA was only evaluated at 200, 300 and 400 topics, since it is more computationally expensive. Here we used a symmetric prior of $\alpha = \frac{1}{n}$ for the per-document topic distribution, with the same value for $\beta$, the per-topic word distribution.\\\\
+LDA was only evaluated at 200, 300 and 400 topics, since it is more computationally expensive to create those models. Here we used a symmetric prior of $\alpha = \frac{1}{n}$ for the per-document topic distribution, with the same value for $\beta$, the per-topic word distribution.\\\\
 HDP was evaluated using the default parameters of Gensim: $\kappa = 1, \tau = 64, \alpha =1, \gamma =1, \eta =0.01$. Unfortunately, we were not able to properly use the HDP model, as the topics it generated did not appear make sense, and were all nearly identical. Due to time constraints we were not able to fix these issues and retrain the model. The results are nevertheless included in this paper.\\
 \subsection{Results}
 Figure 1 visualizes the results we obtained for different dimensionalities of LSA, LDA and the failed HDP attempt, together with the baseline performance. \\\\
