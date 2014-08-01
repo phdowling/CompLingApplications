@@ -110,7 +110,7 @@ set cbtics border in scale 1,0.5 mirror norotate  offset character 0, 0, 0 autoj
 set cbtics autofreq  norangelimit
 set rtics axis in scale 1,0.5 nomirror norotate  offset character 0, 0, 0 autojustify
 set rtics autofreq  norangelimit
-set title "LSA" 
+set title "LDA" 
 set title  offset character 0, 0, 0 font "" norotate
 set timestamp bottom 
 set timestamp "" 
@@ -129,7 +129,7 @@ set ylabel "Recall"
 set ylabel  offset character 0, 0, 0 font "" textcolor lt -1 rotate by -270
 set y2label "" 
 set y2label  offset character 0, 0, 0 font "" textcolor lt -1 rotate by -270
-set yrange [ 0.632000 : 0.642000 ] noreverse nowriteback
+set yrange [ 0.600000 : 0.625000 ] noreverse nowriteback
 set y2range [ * : * ] noreverse nowriteback
 set zlabel "" 
 set zlabel  offset character 0, 0, 0 font "" textcolor lt -1 norotate
