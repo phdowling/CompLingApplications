@@ -1,4 +1,6 @@
 
 \section{Conclusion}
 
-We're awesome.
+We found LSA to outperform LDA in our experiments, which we did not initially expect, as LDA supposedly learns a more sophisticated model of the language it is trained on. This discrepancy is likely due to insufficient tuning of parameters, or the broadness of topics in the Wikipedia corpus. In any case, we have shown that topic models present a viable approach to WSD, as all of our experiments significantly outperformed the baseline and matched performance of existing systems. Topic models also have the potential to be used achieve even better results than we were able to attain during our experiments.\\\\
+We were unable to train a HDP model on our corpus that learned meaningful topics, although we were not able to determine why we achieved such poor results. \\\\
+In future work, it may be interesting to consider more sophisticated algorithms for performing WSD than we present here, such as employing classifiers with global features provided by topic models in conjunction with local or other features. 
