@@ -7,20 +7,17 @@ import bz2
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 from bs4 import BeautifulSoup
 from collections import defaultdict
-from stemming.porter2 import stem
 from nltk.corpus import stopwords
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy
 from nltk import NaiveBayesClassifier
-import random
+
 from itertools import groupby
 
 STOPWORDS = stopwords.words("english")
 
 WORD_IDS_FILE = "wikipedia/wiki_en_wordids.txt"
-#WORD_IDS_FILE = "holist.dict"
-#MM_CORPUS_FILE = 'wiki_en_tfidf.mm'
-#MM_CORPUS_FILE = 'holist.mm'
+
 MODEL_DIRECTORY = "wikipedia/"
 MODEL_NAME = "wikipedia_400.lda"
 TFIDF_FILE = "wiki_en_tfidf_model.tfidf"
@@ -68,7 +65,6 @@ def best_average(similarities, top=10):
     groups = groupby(similarities[:], key=lambda (k, v): k)
     for senseid, similarityIterator in groups:
         asList = list(similarityIterator)
-        #print asList
         sims = [sim for sid, sim in asList]
         averages[senseid] = sum(sims) / float(len(sims))
     best = sorted(averages.items(), key=lambda (k, v): -v)
@@ -83,7 +79,6 @@ def best_weighted_average(similarities, top=10):
     groups = groupby(similarities[:], key=lambda (k, v): k)
     for senseid, similarityIterator in groups:
         groupAsList = list(similarityIterator)
-        #print asList
         sims = [sim for sid, sim in groupAsList]
         averages[senseid] = len(groupAsList) * sum(sims) / top * float(len(sims))
     best = sorted(averages.items(), key=lambda (k, v): -v)
@@ -91,7 +86,7 @@ def best_weighted_average(similarities, top=10):
     return [best]
 
 
-class LSAWSD(object):
+class TopicModelWSD(object):
 
     def __init__(self):
         self.model = None
@@ -104,8 +99,6 @@ class LSAWSD(object):
         self.load_similarities = False
         self.use_tfidf = True
         self.tfidf = None
-        self.use_whole_context = True
-        self.local_radius = 10
 
     def convert(self, vector):
         """
@@ -195,7 +188,6 @@ class LSAWSD(object):
 
     def preprocess(self, text):
         tokens = text.split()
-        #tokens = [stem(token) for token in tokens if token not in STOPWORDS]
         if self.use_tfidf:
             return self.tfidf[self.id2word.doc2bow(tokens)]
         else:
@@ -225,31 +217,7 @@ class LSAWSD(object):
                 instances = lexelt.findAll("instance")
                 for instance in instances:
                     instance_id = instance["id"]
-                    if self.use_whole_context:
-                        context = instance.context.text
-                    else:
-                        readableWord = stem(word[:word.find(".")])
-                        context = instance.context.text.split(" ")
-                        try:
-                            found = False
-                            for i, w in enumerate(context):
-                                if stem(w) == readableWord:
-                                    idx = i
-                                    found = True
-                                    break
-                            assert found
-                            #idx = context.index(readableWord)
-                            fromidx = idx - self.local_radius
-                            fromidx = fromidx if fromidx >= 0 else 0
-                            toidx = idx + self.local_radius
-                            toidx = toidx if toidx < len(context) else -1
-                            context = " ".join(context[fromidx: toidx])
-                        except AssertionError:
-
-                            print "failed radius evaluation on %s" % instance_id
-                            print readableWord
-                            print context
-                            context = instance.context.text
+                    context = instance.context.text
 
                     loaded_instances.append((instance_id, word, context))
 
@@ -282,29 +250,25 @@ class LSAWSD(object):
 
             for top in range(1, RANGE_TOP):
                 word_senses = most_frequent(similarities, top=top, include_range=INCLUDE_RANGE)
-                #word_senses = best_average(similarities, top=top)
-                #word_senses = best_weighted_average(similarities, top=top)
                 frequency_results[top].append("%s %s %s" % (word, instance_id, " ".join(word_senses)))
+
         print "Evaluation finished. Now writing outfiles."
         savestring = ("_tfidf" if self.use_tfidf else "") + \
                      ("_radius%s" % self.local_radius if not self.use_whole_context else "")
+
         if not self.load_similarities:
             with open("save_sense_similarities%s_%s" % (savestring, MODEL_NAME), "w") as sf:
                 sf.write(str(save))
+
         if USE_BASELINE:
-            # "outfiles/SPELCHEK.model_%s.topics_%s.cir_%s.multsenseinclude_%s.out"
             fname = OUTFILE % (self.model_type, self.model.num_topics, str("ALL"), INCLUDE_RANGE)
-            #fname = OUTFILE % (self.model.num_topics, savestring + self.model_type, "top" + str(top), INCLUDE_RANGE)
             with open(fname, "w") as outfile:
                 print "writing %s.." % fname
                 outfile.write("\n".join(frequency_results["ALL"]) + "\n")
             return
 
         for top in range(1, RANGE_TOP):
-
-            # "outfiles/SPELCHEK.model_%s.topics_%s.cir_%s.multsenseinclude_%s.out"
             fname = OUTFILE % (self.model_type, self.model.num_topics, str(top), INCLUDE_RANGE)
-            #fname = OUTFILE % (self.model.num_topics, savestring + self.model_type, "top" + str(top), INCLUDE_RANGE)
             with open(fname, "w") as outfile:
                 print "writing %s.." % fname
                 outfile.write("\n".join(frequency_results[top]) + "\n")
@@ -324,3 +288,8 @@ class LSAWSD(object):
         print "got %s total instances, evaluating." % len(loaded_instances)
 
         self.run_evaluation(loaded_instances)
+
+if __name__ == "__main__":
+    t = TopicModelWSD()
+    t.train()
+    t.run_experiment()
