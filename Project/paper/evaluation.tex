@@ -95,10 +95,23 @@ We used the SensEval-3 English lexical sample data as our training and evaluatio
 We ran a large number of experiments at different parameters in order to find the optimal model and configuration. LSA was evaluated at 150, 200, 250, 300, 350 and 400 topics, each with a single pass over the corpus, two power iterations and no decay.\\\\
 LDA was only evaluated at 200, 300 and 400 topics, since it is more computationally expensive to create those models. Here we used a symmetric prior of $\alpha = \frac{1}{n}$ for the per-document topic distribution, with the same value for $\beta$, the per-topic word distribution.\\\\
 HDP was evaluated using the default parameters of Gensim: $\kappa = 1, \tau = 64, \alpha =1, \gamma =1, \eta =0.01$. Unfortunately, we were not able to properly use the HDP model, as the topics it generated did not appear make sense, and were all nearly identical. Due to time constraints we were not able to fix these issues and retrain the model. The results are nevertheless included in this paper.\\
+
 \subsection{Results}
-Figure 1 visualizes the results we obtained for different dimensionalities of LSA, LDA and the failed HDP attempt, together with the baseline performance. \\\\
-%TODO: figure here.
-As you can see, LSA appears to outperform LDA, and achieves its highest result of 0.641 at 350 topics with $k=10$. Other systems in SensEval-3 ranged from approximately 60\% to 73\% recall\cite{senseval3paper}, so while our system is not on par with the state of the art in its current form, it performs reasonably well and has potential to be improved. 
+Figure~\ref{fig:lsa} and Figure~\ref{fig:lda} visualize the results we obtained for different dimensionalities of LSA, LDA and the failed HDP attempt, together with the baseline performance. \\
+\begin{figure}
+   \includegraphics{plot/lsa_lines.pdf}
+  \caption{LSA results}
+  \label{fig:lsa}
+\end{figure}
+
+\begin{figure}
+  \includegraphics{plot/lda_lines.pdf}
+  \caption{LDA results}
+  \label{fig:lda}
+\end{figure}
+As you can see, LSA outperforms LDA, and achieves its highest result of 0.641 at 350 topics with $k=10$. The best performance for LDA was a recall of 62\% at 150 topics. The HDP model only achieved a recall of 47.4\%, which is actually below baseline performance (which is possible as only values of k below 50 were considered). Other systems in SensEval-3 ranged from approximately 60\% to 73\% recall\cite{senseval3paper}, so while our system is not on par with the state of the art in its current form, it performs reasonably well and has potential to be improved. 
+
+
 \subsection{Outlook}
 The algorithm presented here was fairly primitive, and serves mainly as a benchmark to compare the performance of different topic models for WSD. To optimize the systems performance, additionaly features may be considered and used to train a classifier of some sort. The entry $IRST-Kernels$ by the Team ITC-IRST at SensEval-3 was one of the highest performing systems, and used LSA in conjunction with paradiogmatic and syntagmatic information and other features in an SVM classifier\cite{senseval3paper}. It is conceivable to achieve significantly higher performance by following similar methods, especially by considering local features in conjunction with LSA (which completely ignores local features).\\\\
 There are also many more topic models that can be tried, as well as parameters in the training that can be tweaked. Going beyond topic models, any dimensionality reduction algorithm could be applied to this approach. For example, an interesting approach to consider might be marginalized Stacked Denoising Autoencoders (mSDA), which actually come from the field of deep learning but have in some benchmarks outperformed LDA in both accuracy and computational complexity.
@@ -109,6 +122,4 @@ There are also many more topic models that can be tried, as well as parameters i
 % 	4. interpretation of plots: what does that mean, how well did it perform
 
 
-\includegraphics{plot/lsa_lines.pdf}
 
-\includegraphics{plot/lda_lines.pdf}
