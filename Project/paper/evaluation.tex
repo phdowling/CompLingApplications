@@ -98,7 +98,10 @@ HDP was evaluated using the default parameters of Gensim: $\kappa = 1, \tau = 64
 \subsection{Results}
 Figure 1 visualizes the results we obtained for different dimensionalities of LSA, LDA and the failed HDP attempt, together with the baseline performance. \\\\
 %TODO: figure here.
-As you can see, LSA appears to outperform LDA, and achieves its highest result of 0.641 at 350 topics with $k=10$.
+As you can see, LSA appears to outperform LDA, and achieves its highest result of 0.641 at 350 topics with $k=10$. Other systems in SensEval-3 ranged from approximately 60\% to 73\% recall\cite{senseval-3}, so while our system is not on par with the state of the art in its current form, it performs reasonably well and has potential to be improved. 
+\subsection{Outlook}
+The algorithm presented here was fairly primitive, and serves mainly as a benchmark to compare the performance of different topic models for WSD. To optimize the systems performance, additionaly features may be considered and used to train a classifier of some sort. The entry $IRST-Kernels$ by the Team ITC-IRST at SensEval-3 was one of the highest performing systems, and used LSA in conjunction with paradiogmatic and syntagmatic information and other features in an SVM classifier\cite{IRSTkernels}. It is conceivable to achieve significantly higher performance by following similar methods, especially by considering local features in conjunction with LSA (which completely ignores local features).\\\\
+There are also many more topic models that can be tried, as well as parameters in the training that can be tweaked. Going beyond topic models, any dimensionality reduction algorithm could be applied to this approach. For example, an interesting approach to consider might be marginalized Stacked Denoising Autoencoders (mSDA), which actually come from the field of deep learning but have in some benchmarks outperformed LDA in both accuracy and computational complexity.
 % how did we score the diffent models
 % 	1. scoring script provided, runs on test set, gives f-score/recall
 % 	2. plotting tools / how were the graphics generated
