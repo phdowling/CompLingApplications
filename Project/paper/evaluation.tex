@@ -98,7 +98,7 @@ LDA was only evaluated at 200, 300 and 400 topics, since it is more computationa
 HDP was evaluated using the default parameters of Gensim: $\kappa = 1, \tau = 64, \alpha =1, \gamma =1, \eta =0.01$. Unfortunately, we were not able to properly use the HDP model, as the topics it generated did not appear make sense, and were all nearly identical. Due to time constraints we were not able to fix these issues and retrain the model. The results are nevertheless included in this paper.\\
 
 \subsection{Results}
-Figure~\ref{fig:lsa} and Figure~\ref{fig:lda} visualize the results we obtained for different dimensionalities of LSA, LDA and the failed HDP attempt, together with the baseline performance. \\
+Figure~\ref{fig:lsa}, Figure~\ref{fig:lda} and Figure~\ref{fig:all} visualize the results we obtained for different dimensionalities of LSA and LDA. The failed HDP attempt is not included (it was in fact lower than the baseline performance). \\
 \begin{figure}
    \includegraphics{plot/lsa_lines.pdf}
   \caption{LSA results}
@@ -110,12 +110,18 @@ Figure~\ref{fig:lsa} and Figure~\ref{fig:lda} visualize the results we obtained 
   \caption{LDA results}
   \label{fig:lda}
 \end{figure}
-As you can see, LSA outperforms LDA, and achieves its highest result of 0.641 at 350 topics with $k=10$. The best performance for LDA was a recall of 62\% at 150 topics. The HDP model only achieved a recall of 47.4\%, which is actually below baseline performance (which is possible as only values of k below 50 were considered). Other systems in SensEval-3 ranged from approximately 60\% to 73\% recall\cite{senseval3paper}, so while our system is not on par with the state of the art in its current form, it performs reasonably well and has potential to be improved. 
+
+\begin{figure}
+  \includegraphics{plot/joined_baseline.pdf}
+  \caption{Comparison of results and baseline}
+  \label{fig:all}
+\end{figure}
+As you can see, LSA outperforms LDA, and achieves its highest result of 64.1\% at 350 topics with $k=10$. The best performance for LDA was a recall of 62\% at 150 topics. The HDP model only achieved a recall of 47.4\%, which is below baseline performance (which is possible as only values of k below 50 were considered). Other systems in SensEval-3 ranged from approximately 60\% to 73\% recall\cite{senseval3paper}, so while our system is not on par with the state of the art in its current form, it performs reasonably well and presents a decent approach to the presented task. 
 
 
 \subsection{Outlook}
-The algorithm presented here was fairly primitive, and serves mainly as a benchmark to compare the performance of different topic models for WSD. To optimize the systems performance, additionaly features may be considered and used to train a classifier of some sort. The entry $IRST-Kernels$ by the Team ITC-IRST at SensEval-3 was one of the highest performing systems, and used LSA in conjunction with paradiogmatic and syntagmatic information and other features in an SVM classifier\cite{senseval3paper}. It is conceivable to achieve significantly higher performance by following similar methods, especially by considering local features in conjunction with LSA (which completely ignores local features).\\\\
-There are also many more topic models that can be tried, as well as parameters in the training that can be tweaked. Going beyond topic models, any dimensionality reduction algorithm could be applied to this approach. For example, an interesting approach to consider might be marginalized Stacked Denoising Autoencoders (mSDA), which actually come from the field of deep learning but have in some benchmarks outperformed LDA in both accuracy and computational complexity.
+The algorithm presented here was fairly primitive, and serves mainly as a benchmark to compare the performance of different topic models for WSD. To optimize the systems performance, additional features may be considered and used to train a classifier of some sort. The entry \textit{IRST-Kernels} by the Team ITC-IRST at SensEval-3 was one of the highest performing systems, and used LSA in conjunction with paradigmatic and syntagmatic information and other features in an SVM classifier\cite{senseval3paper}. It is conceivable to achieve significantly higher performance by following similar methods, especially by considering local features in conjunction with LSA (which ignores local features).\\\\
+There are also many more topic models that can be tried, as well as parameters in the training that can be tweaked. Going beyond topic models, any dimensionality reduction algorithm could be applied to this approach of WSD. For example, an interesting method to consider might be marginalized Stacked Denoising Autoencoders (mSDA), which actually come from the field of deep learning but have in some benchmarks outperformed LDA in both accuracy and computational complexity.
 % how did we score the diffent models
 % 	1. scoring script provided, runs on test set, gives f-score/recall
 % 	2. plotting tools / how were the graphics generated
