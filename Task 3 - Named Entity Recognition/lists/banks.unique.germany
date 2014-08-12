@@ -1,0 +1,6785 @@
+ORG BB Bank
+ORG Barclays
+ORG Barclays Bank
+ORG Lloyds TSB
+ORG BB-Bank
+ORG Sparkasse
+ORG Volksbank
+ORG BBBank
+ORG Postbank
+ORG Volksbank/Raiffeisenbank
+ORG NatWest
+ORG Bankhaus Neelmeyer
+ORG Raiffeisenbank
+ORG Sparkasse Bamberg
+ORG Raiffeisen Bank
+ORG Spar- und Kreditbank Rheinstetten
+ORG Sparkasse Neuss, Zweigstelle Weckhoven
+ORG Deutsche Bank AG
+ORG Berliner Volksbank eG
+ORG Postbank AG
+ORG Deutsche Bank
+ORG Sparkasse Gießen
+ORG SEB
+ORG Commerzbank
+ORG Targobank
+ORG Sparkasse Bodensee
+ORG ABN AMRO
+ORG Kreissparkasse
+ORG Sparkasse Karlsruhe-Ettlingen
+ORG Spar- und Kreditbank
+ORG Volksbank Karlsruhe
+ORG Volksbank Ettlingen eG
+ORG Sparda-Bank
+ORG SEB Bank
+ORG Crédit Suisse
+ORG VÚB
+ORG Slovenská sporiteľňa
+ORG HSBC
+ORG KBC
+ORG ZKB Greifensee
+ORG Raiffeisen
+ORG Bankhaus Mayer
+ORG HypoVereinsbank
+ORG Kreissparkasse Tübingen
+ORG Steiermärkische Sparkasse
+ORG Bank Austria
+ORG Krentschker Bank
+ORG Oesterreichische Nationalbank
+ORG ING
+ORG Erste
+ORG Sparkasse Bremen
+ORG Raiffeisenbank Ersingen e.G.
+ORG Sparkasse Südholstein
+ORG Sparkasse Baden-Baden Gaggenau
+ORG Volksbank Baden-Baden/Rastatt
+ORG Stadtsparkasse Baden-Baden
+ORG GLKB Näfels
+ORG Sparkasse Nienburg/Weser
+ORG Dexia
+ORG Sparkasse Harburg Buxtehude
+ORG VR Bank Südpfalz eG, Filiale Berg
+ORG Raiffeisenbank Soden
+ORG St.Galler Kantonalbank
+ORG Volksbank Rems
+ORG Dresdner Bank
+ORG Volksbank Saaletal eG
+ORG VR-Bank in Mittelbaden
+ORG VR-Bank
+ORG Volksbank Wetsmünsterland
+ORG Sparkasse Westmünsterland
+ORG ČSOB
+ORG Česká spořitelna
+ORG Volks-Raiffeisenbank
+ORG Volksbank Zuffenhausen
+ORG Volksbank Bernhausen
+ORG Kreissparkasse Heilbronn
+ORG Sparkasse (temporär)
+ORG Rhön-Rennsteig-Sparkasse
+ORG Nationwide
+ORG BAWAG PSK
+ORG Oberbank Kremsmünster
+ORG Raiffeisenbank Pettenbach
+ORG Sparkasse Eberstalzell
+ORG BW Bank
+ORG Sparkasse Rotenburg-Bremervörde
+ORG Commerzbank Bremervörde
+ORG Aachener Bank
+ORG Stuttgarter Volksbank
+ORG Commerzbank AG
+ORG Kreissparkasse Reutlingen
+ORG Rabobank
+ORG HypoVereinsbank UniCredit
+ORG Commerzbank Neunburg vorm Wald
+ORG Raiffeisenkasse
+ORG Kreissparkasse Ebersbach
+ORG Sparkasse KölnBonn
+ORG Volksbank Paderborn-Höxter-Detmold
+ORG Volksbank Schlangen eG
+ORG Sparkasse Trier
+ORG Sparkasse Winklarn
+ORG Braunschweiger Landessparkasse
+ORG OTP Banka
+ORG Tatra banka
+ORG ZKB Stäfa
+ORG UBS Stäfa
+ORG Raiffeisen Stäfa
+ORG Volksbank Baden-Baden/Rastatt e.G.
+ORG Raiffeisenbank im Naabtal eG
+ORG Volksbank Weingarten-Walzbachtal
+ORG Volksbank Raiffeisenbank
+ORG Sparkasse Fürstenfeldbruck Emmering
+ORG Raiffeisenbank Hallertau
+ORG Hypobank
+ORG Sparkasse Oberviechtach
+ORG Braunschweigische Landessparkasse
+ORG Spark- und Kreditbank Hardt
+ORG Berliner Sparkasse
+ORG Berliner Volksbank
+ORG Stadtsparkasse Düsseldorf
+ORG Volks-Raiffeisenbank Passau
+ORG Poštová banka
+ORG BGL BNP Paribas
+ORG Volksbank Kurpfalz
+ORG Sparkasse Waldheim
+ORG GE Money bank
+ORG Volksbank Alzey-Worms
+ORG Credit Suisse
+ORG Sparta Safes
+ORG Raiffeisenlandesbank Niederösterreich-Wien
+ORG Nassauische Sparkasse
+ORG Kreissparkasse Ismaning
+ORG Volks- und Raiffeisenbank Ismaning e.G.
+ORG Kreissparkasse München Starnberg Ebersberg
+ORG Raiffeisenbank Höhenkirchen u.U. eG
+ORG Stadtsparkasse München
+ORG Kreissparkasse München
+ORG Raika
+ORG DKB
+ORG Sparkasse Hannover
+ORG Sparkasse Aachen
+ORG Hamburger Sparkasse
+ORG Sparkasse Dortmund
+ORG Sparkasse Lünen
+ORG HypoVereinsbank Ismaning
+ORG HypoVereinsbank Unterföhring
+ORG Sparkasse Breitenbach am Inn
+ORG Norisbank
+ORG Raiffeisenbank Wörgl
+ORG Sparkasse Coburg Lichtenfels
+ORG Raiffeisen-Volksbank Ebern eG
+ORG BNP Paribas Fortis
+ORG Ehinger Volksbank
+ORG Sparkasse Ulm
+ORG Volksbank Erkelenz eG
+ORG Volksbank Kernen
+ORG Bank für Internationalen Zahlungsausgleich (BIZ)
+ORG VR-Bank München Land
+ORG National-Bank
+ORG TARGOBANK
+ORG Santander Consumer Bank
+ORG Sparkasse Lüneburg
+ORG Nordthüringer Volksbank eG
+ORG Hypo Noe
+ORG Erste Bank
+ORG Kreissparkasse Esslingen, Zweigstelle Hohenkreuz
+ORG Volksbank Esslingen, Zweigstelle Hohenkreuz
+ORG BW-Bank
+ORG Lloyds Bank
+ORG Migrosbank
+ORG Postfinance
+ORG Raiffeisen Züri-Unterland
+ORG Komerční banka
+ORG Stadtsparkasse
+ORG Taunus Sparkasse
+ORG ZKB
+ORG Kreissparkasse Ebersberg
+ORG Raiffeisenbank Schöllkrippen und Umgebung eG
+ORG Berliner Bank
+ORG OTP
+ORG Sparkasse - Hilsweg
+ORG Sparkasse Diedesheim
+ORG Mittelbrandenburgische Sparkasse Postdam Filiale Ludwigsfelde
+ORG Volkbank Baden-Baden/Rastatt e.G.
+ORG Geraer Bank eG
+ORG Sparkasse Hainburg-Bruck-Neusiedl
+ORG BAWAG
+ORG HypoVereinsbank UniCredit Bank AG
+ORG Sparkasse Freiburg Nördlicher Breisgau Geschäftsstelle Teningen
+ORG Volksbank - Mitte
+ORG Halifax
+ORG SNS Bank
+ORG CIC
+ORG Crédit Agricole
+ORG Frankfurter Sparkasse 1822 Filiale Ginnheim
+ORG Stadt- und Kreissparkasse Erlangen
+ORG Bremische Volksbank
+ORG Harzsparkasse
+ORG UniCredit Bank
+ORG Société Générale
+ORG Crédit Mutuel
+ORG Sparkasse Mittelfranken Süd
+ORG Sparkasse Fürstenfeldbruck; Sankt-Bernhard
+ORG Sparkasse Bernau
+ORG VoBa-RaiBa Bernau
+ORG Sparkasse Prien
+ORG mBank
+ORG The Co-operative Bank
+ORG Raiffeisenbank Urbach
+ORG Sparkasse Leer-Wittmund
+ORG Förde Sparkasse
+ORG Sparkasse Neumarkt i.d.OPf-Parsberg
+ORG Sparkasse (Hauptstelle)
+ORG Kasseler Sparkasse
+ORG Vereinsbank
+ORG Sparkasse Leipzig
+ORG Ostsächsische Sparkasse Dresden
+ORG Volksbank Stuttgart
+ORG Sparkasse Bochum
+ORG Belfius
+ORG Volks- und  Raiba im Kreis Rendsburg-Eckernförde
+ORG BNP Paribas
+ORG Natixis
+ORG LCL
+ORG Caixa Geral de Depositos
+ORG Sparkasse Fürstenfeldbruck
+ORG Raiffeisenbank Oldenburg eG
+ORG Sparkasse Mainfranken Würzburg
+ORG Sparkasse Calberlah
+ORG Sparkasse Schweinfurt
+ORG VR Bank eG
+ORG Flessabank
+ORG Frankfurter Sparkasse
+ORG Caisse d'Épargne
+ORG VRR Bank
+ORG Citibank
+ORG Bank Linth
+ORG Kreissparkasse München Starnberg Ebersberg (Geschäftskundencenter)
+ORG Volksbank Weinviertel
+ORG Sparkasse Korneuburg
+ORG Crédit du Nord
+ORG Sparkasse Stetten
+ORG Genossenschaftsbank München
+ORG Münchner Bank
+ORG Kölner Bank
+ORG Santander Bank
+ORG Sparkasse EE
+ORG Raiffeisenbank Roth-Schwabach eG
+ORG Volksbank Mittelhessen
+ORG Volksbank - Prinzenstraße
+ORG Postbank Postfilliale
+ORG Volksbank Bruchsal-Bretten eG
+ORG Sparkasse Vest Recklinghausen
+ORG Raiffeisen Bank Eschweiler eG
+ORG Volksbank Waltrop
+ORG Nord- Ostsee Sparkasse
+ORG Kreissparkasse Düsseldorf
+ORG Volksbank Köln-Nord
+ORG Vereinsbank Schwanheim
+ORG Sparkasse Münsterland Ost
+ORG Ostseesparkasse - Schillingallee
+ORG Volksbank Tailfingen
+ORG Volksbank Dreieich
+ORG Sparkasse Osnabrück
+ORG Sparkasse Mainz
+ORG LzO Osternburg
+ORG Sparkasse Mainfranken
+ORG VR-Bank Würzburg
+ORG Kantonalbank BL
+ORG Sparkasse Uecker-Randow
+ORG Frankfurter Sparkasse 1822
+ORG Sparkasse Karlsruhe
+ORG Volksbank Bruhrain-Kraich-Hardt
+ORG Degussa Bank
+ORG Raiffeisen Landesbank Tirol AG
+ORG Salzlandsparkasse
+ORG Zevener Volksbank eG
+ORG Volksbank Plochingen eG
+ORG Hypo Bank
+ORG Raika Raiffeisenbank
+ORG Raiffeisenbank Oberhausen
+ORG Sparkasse Oberhausen
+ORG Raiffeisenbank Huglfing
+ORG Sparkasse Soden
+ORG Sparkasse Kleestadt
+ORG Raiffeisenbank Rosenstein eG
+ORG Sparkasse OÖ
+ORG Mittelbrandenburgische Sparkasse
+ORG Ljubljanska banka
+ORG VR-Bank Langenau-Ulmer Alb
+ORG Bank Austria-CA
+ORG WSK (Volksbank)
+ORG Sparkasse Märkisch Oderland
+ORG Volksbank Nienburg/Weser
+ORG LzO Bürgerfelde
+ORG Sparkasse Delbrück
+ORG Volksbank Delbrück u. Hövelhof e.G.
+ORG Thurgauer Kantonalbank
+ORG Volksbank Allgäu West
+ORG LzO Bookholzberg
+ORG Volksbank Bookholzberg
+ORG Commerzbank Neubrandenburg
+ORG Volksbank Seibersbach
+ORG Volksbank Alzey
+ORG Targo Bank
+ORG Sparkasse Rhein-Nahe
+ORG Sparkasse Coburg-Lichtenfels
+ORG Immo-Bank
+ORG Kreissparkasse Köln
+ORG Raiffeisenbank eG, Handewitt
+ORG Sparkasse Leeste
+ORG Spreewaldbank eG
+ORG Kreissparkasse Waiblingen
+ORG Volksbank Backnang
+ORG Volksbank Filder eG
+ORG Sparkasse Meißen
+ORG Evangelische Kreditgenossenschaft
+ORG VR Bank
+ORG Sparkasse HRV
+ORG Raiffeisen Volksbank
+ORG Sparkasse Nördlingen
+ORG RVB Ries
+ORG Landessparkasse zu Oldenburg
+ORG Volksbank Eifel Mitte eG
+ORG Bankhaus Löbbecke
+ORG Volksbank Bonn Rhein-Sieg eG
+ORG Valiant
+ORG UBS
+ORG Volksbank - Bühlstraße
+ORG Kreisparkasse Köln
+ORG Volksbank Strohgäu
+ORG Santander
+ORG Volksbank Dill e.G.
+ORG Sparkasse - Holtenser Landstraße
+ORG İşbank
+ORG Citi
+ORG RBS
+ORG Kreisparkasse
+ORG Raiffeisenbank Leonding
+ORG Sparkasse Jena-Saale-Holzland
+ORG Sparkasse Holstein
+ORG Sparkasse Alzey
+ORG PSD Bank
+ORG Sparkasse Berchtesgadener Land
+ORG Raiffeisenlandesbank OÖ
+ORG Kreissparkasse Augsburg
+ORG Sparkasse Oberlausitz-Niederschlesien
+ORG Sydbank
+ORG Deutsche Post Bank
+ORG Raiffeisen-Volksbank
+ORG Stadtsparkasse Wedel
+ORG Sparkasse Hannover Filiale Hämelerwald
+ORG Volksbank Brilon-Büren-Salzkotten
+ORG Sparkasse Filiale Orangerie
+ORG Südwestbank
+ORG Bausparkasse Schwäbisch Hall
+ORG Sparkasse Wilhelmshaven
+ORG Sparkasse Vogtareuth
+ORG Sparkasse Stade-Altes-Land
+ORG Sparkasse Nürnberg Geschäftsstelle Lauf
+ORG Santander Consumer Bank AG
+ORG Volksbank Paderborn-Höxter-Detmold eG
+ORG Sparkasse Paderborn
+ORG Sparda Bank West eG
+ORG R&V Bank
+ORG Danske bank
+ORG Volksbank Büren und Salzkotten
+ORG BZ WBK
+ORG Sparkasse Bad Kissingen - Geschäftsstelle Euerdorf
+ORG Volksbank Sickte
+ORG Nassausche Sparkasse
+ORG Darmsheimer Bank
+ORG Ehninger Bank eG
+ORG Sparkasse & Volksbank
+ORG Sparkasse Neunkirchen
+ORG psd Bank
+ORG SNS Regio Bank
+ORG Sparkasse Paderborn-Detmold
+ORG Sparkasse Filiale Vluyner Platz
+ORG Sberbank
+ORG Kreissparkasse Böblingen
+ORG Vereinigte Volksbank
+ORG Sparkasse Sprödental
+ORG Sparkasse Neuss - Filiale Zons
+ORG Bankstelle Gründberg
+ORG Sparkasse PrivatkundenCenter
+ORG Sparkasse Lemgo
+ORG Volksbank Neckartal eG
+ORG Deutsche Apotheker- und Ärztebank
+ORG Landessparkasse Braunschweig
+ORG Hannoversche Volksbank
+ORG Banque Populaire
+ORG Volksbank BraWo
+ORG Sparkasse Stade Altes Land
+ORG Volksbank Löbau-Zittau
+ORG OLB
+ORG Volksbank Hude
+ORG Onstmettinger Bank eG
+ORG Raiffeisenbank eG Rodenbach, Geschäftsstelle Niedermittlau
+ORG K&H Bank
+ORG CIB Bank
+ORG CIB
+ORG MKB
+ORG UniCredit
+ORG OTP Bank
+ORG Budapest Bank
+ORG Budapest
+ORG KDB Bank
+ORG Allianz Bank
+ORG Allianz
+ORG Sparkasse Vogtland
+ORG Nord-Ostsee Sparkasse
+ORG GLS Bank
+ORG Volks- und Raiffeisenbank
+ORG Raiffeisen-Volksbank Ebersberg
+ORG Sparda Bank
+ORG Stadtsparkasse Hameln
+ORG Städtische Sparkasse
+ORG Sparkasse Passau
+ORG Volksbank Günzburg
+ORG Raiffeisenbank - Geschäftsstelle Reisensburg
+ORG Genossenschaftsbank Ettringen
+ORG Sparkasse Ettringen
+ORG Volksbank Königstein
+ORG Hausbank München
+ORG Sparkasse Hannover Zweigstelle Bissendorf
+ORG Bankhaus Hafner
+ORG Siklósi Takarék
+ORG Royal Bank of Scotland
+ORG Sparkasse Schwarzwald-Baar
+ORG Kreissparkasse Saarlouis
+ORG Volksbank Osternburg
+ORG Raiffeisenbank Bütthard
+ORG Sparkasse Bayreuth - Filiale Donndorf
+ORG Volksbank Mainspitze
+ORG Steyler Bank
+ORG VR-Bank Rhein-Sieg
+ORG Spreewaldbank
+ORG Sparkasse Berching
+ORG Raiffeisenbank Aergera-Galtera
+ORG Volksbank Aller-Oker, Filiale Hillerse
+ORG Sparkasse Gifhorn-Wolfsburg, Filiale Hillerse
+ORG Raiffeisenbank Jettingen-Scheppach eG, Zweigstelle Scheppach
+ORG Kölner Bank e.G.
+ORG Sparkasse Lindenberg
+ORG Raiffeisenbank Jettingen-Scheppach eG
+ORG Sparkasse Dinslaken-Voerde-Hünxe
+ORG Volksbank Rhein-Lippe eG
+ORG Sparkasse Zollernalb
+ORG Bank 1 Saar
+ORG SÜDWESTBANK
+ORG Sparkasse Germersheim-Kandel, Geschäftsstelle Berg
+ORG Stadtsparkasse Wuppertal
+ORG Commerzbank Kassel
+ORG Raiffeisenbank Gaimersheim-Buxheim eG
+ORG Stadtsparkasse Mönchengladbach GS Holt
+ORG Sparkasse Geeste
+ORG Sparkasse Neuenhaus
+ORG Sparkasse Oberpfalz Nord Geschäftsstelle Plößberg
+ORG Raiffeisenbank im Stiftland eG GS Plößberg
+ORG Volksbank Bramgau e.G.
+ORG Sparkasse Dreilinden
+ORG PKO BP
+ORG Bank BPH
+ORG Pekao SA
+ORG Steiermärkische
+ORG Sparkasse Osnabrück, Filiale Altstadt
+ORG Sparkasse OS, Filiale Neumarkt
+ORG Sparkasse Niederlausitz
+ORG Stadtsparkasse Münsterland Ost
+ORG AXA BANQUE
+ORG AXA BANQUE - FALEMO sa
+ORG CITIBANK
+ORG DELTA LLOYD
+ORG FINTRO
+ORG ING FLEMALLE
+ORG Sparkasse Langeoog
+ORG RECORD BANQUE
+ORG Sparkasse Klingenberg
+ORG Raiffeisenbank Berg-Bad Steben
+ORG Kreissparkasse Saale-Orla
+ORG BOŚ
+ORG LzO
+ORG Oldenburgische Landesbank OLB
+ORG Sparkasse Marburg-Biedenkopf
+ORG Sparkassenfiliale Rosenplatz
+ORG Valiant Bank
+ORG Stadtsparkasse Düsseldorf, Geschäftsstelle Benrath
+ORG Raiffeisenbank Mietingen
+ORG Sparkasse Mietingen
+ORG VR-Bank Aalen
+ORG Volksbank Rems e.G.
+ORG Bankhaus Spängler
+ORG Sparkasse Salzburg
+ORG Oberbank
+ORG VoBa Köln-Nord eG
+ORG Sparkasse OS, Filiale Berliner Platz
+ORG Sparkasse Chemnitz
+ORG Istrobanka
+ORG Raiffeisenbank Hallertau eG
+ORG Raiffeisenbank Frechen-Hürth eG
+ORG Hauptstelle Kreissparkasse Tübingen
+ORG Raiffeisenbank Erding
+ORG Sparkasse Regensburg
+ORG Volksbank Hochwald-Saarburg eG
+ORG Sparkasse Rothenburg o.d.T.
+ORG VKB
+ORG Salzburger Sparkasse+
+ORG Oldenburgische Landesbank
+ORG OLB (Oldenburgische Landesbank)
+ORG Raiffeisenbank Moormerland
+ORG Stadtsparkasse Wermelskirchen
+ORG LZO (Sparkasse)
+ORG Sparkasse GS Am Stern
+ORG NLB
+ORG Berner Kantonalbank
+ORG Raiffeisenbank (Weserstraße)
+ORG Sparkasse Harburg-Buxtehude
+ORG Kieler Volksbank
+ORG RaiBa Schierbrok
+ORG Sparkasse Hagen
+ORG VR Bank Südpfalz eG, Filiale Steinweiler
+ORG Raiffeisenbank Wielenbach
+ORG VRBank-Ellwangen
+ORG Hypo-Bank Vorarlberg
+ORG VR Bank Werra-Meißner
+ORG Kreissparkasse Kaiserslautern
+ORG Sparkasse Frasdorf
+ORG Sparda-Bank West
+ORG Sparkasse Neuss, Filiale Reuschenberg
+ORG Volksbank Lohne-Mühlen e.G.
+ORG Stadtsparkasse Völklingen
+ORG Raiffeisenbank Nellingen
+ORG BGL
+ORG Postbank Finanzcenter
+ORG BRED
+ORG Sparkasse Vest
+ORG Raiffeisen Landesbank
+ORG Landesbank
+ORG Sparkasse Nürnberg Geschäftsstelle Allersberger Straße
+ORG Stadtsparkasse Delbrück
+ORG Bundesbank
+ORG Rostocker VR-Bank eG
+ORG Schwyzer Kantonalbank
+ORG Allgäuer Volksbank
+ORG Volksbank Kreyenbrück
+ORG Landessparkasse zu Oldenburg Filiale Westerstede
+ORG Raifeisenbank Langerringen
+ORG Volksbank Darmstadt - Südhessen eG
+ORG LzO Haarentor
+ORG Sparkasse Weserbergland
+ORG Sparkasse Oder-Spree
+ORG National Bank
+ORG Berliner Sparkasse - Filiale 166
+ORG Migros Bank
+ORG Volksbank Schellerten
+ORG Kreissparkasse Eichsfeld
+ORG Volksbank Freiburg
+ORG Sparkasse Staufen-Breisach, Filiale Wolfenweiler‎
+ORG Raiffeisenbank Bobingen EG
+ORG Volksbank - Geismar
+ORG Sparkasse - Hauptstraße
+ORG Sparkasse Oberpfalz Nord
+ORG Kreissparkasse Göppingen, Filiale Ursenwang
+ORG Sparkasse Suedholstein
+ORG Volksbank Benhauser Straße
+ORG Sparkasse Bayreuth
+ORG Hedelfinger Bank
+ORG Sparkasse Schlegel
+ORG Volksbank Paderborn-Höxter
+ORG Volksbank Borkum
+ORG Sparkasse Filiale Borkum
+ORG Sparkasse Laichingen
+ORG Raiffeisenbank im Oberland
+ORG Raiffeisenbank Holzkirchen-Otterfing
+ORG Volksbank Laichingen
+ORG Sparkasse Reichertshausen
+ORG Raiffeisenbank Reichertshausen
+ORG Raiffeisenbank Ilmmünster
+ORG Sparkasse Ilmünster
+ORG Kreissparkasse Ludwigsburg
+ORG Raiffeisenbank Kirchheim-Walheim
+ORG Sparkasse Südstadt
+ORG Volksbank Einbeck
+ORG K&H
+ORG MKB Bank
+ORG H + G Bank
+ORG Sparkasse Heidelberg
+ORG Raiffeisenbank Bad Schussenried
+ORG Kreissparkasse Biberach
+ORG Sparkasse Gütersloh
+ORG Sparkasse Oberstdorf
+ORG Volksbank Bad Salzufen
+ORG Hamburger Volksbank
+ORG Volksbank Nordheide
+ORG Sparkasse Seligenstadt-Langen
+ORG Volksbank Seligenstadt
+ORG Vereinigte Volksbank Maingau
+ORG Alliance & Leicester
+ORG Volksbank Heilbronn eG
+ORG Deutsehe Bank
+ORG Raiffeisen-Volksbank Donauwörth eG
+ORG Volksbank Jever
+ORG VR Bank Flensburg-Schleswig eG
+ORG Volksbank Oldenburg eG Geschäftsstelle Friedrichsfehn
+ORG Record Bank
+ORG Sparkasse Siegen
+ORG Volksbank Mosbach
+ORG Volksbank Raiffeisenbank Riedlingen
+ORG Volksbank Mitte
+ORG Sparkasse Duderstadt
+ORG BGŻ
+ORG Sparkasse Neuhausen
+ORG Kreissparkasse Esslingen-Nürtingen, Filiale Musberg
+ORG Landesbank Baden-Württemberg
+ORG Sparkasse Oerlinghausen
+ORG Argenta
+ORG Sparkasse Hildesheim
+ORG AXA
+ORG Dresdner Bank AG
+ORG Sparkasse Elmshorn Stadtfiliale im CCE
+ORG Sparkasse Freising
+ORG Centea
+ORG Volks- & Raiffeisenbank
+ORG Stuttgarter Volksbank - Geschäftsstelle Obere Ziegelei
+ORG Filiale Bad Cannstatt Schmidener Straße
+ORG Sparkasse Springe
+ORG Sparkasse Radebeul-West
+ORG Filiale der Sparkasse Gross-Gerau
+ORG Filiale der Gross-Gerauer Volksbank
+ORG Monor és Vidéke Tsz.
+ORG Kreissparkasse Heidenheim
+ORG Stadtspaarkasse Essen
+ORG Kasseler Bank eG Volksbank
+ORG Sparkasse Nürnberg Geschäftsstelle Simmelsdorf
+ORG V+R Bank
+ORG Sparkasse Westholstein - Filiale St. Michaelisdonn
+ORG Freisinger Bank eG Volksbank-Raiffeisenbank
+ORG R+V Bank
+ORG Volksbank Raiffeisenbank Dachau
+ORG Raiffeisenbank Singoldtal eG
+ORG Sparkasse Landsberg – Dießen
+ORG Landes Hypothekenbank Steiermark AG.
+ORG Kreissparkasse Göppingen
+ORG Freisinger Bank eG
+ORG Sparkasse Mittelsachsen
+ORG Volksbank Graz-Bruck
+ORG BKS
+ORG VR-Bank Bayreuth - Aichig
+ORG Sparkasse Bayreuth - Aichig
+ORG Volksbank Vechta
+ORG CBC
+ORG Sparkasse Remels
+ORG Raiffeisenbank Weissach
+ORG BCV
+ORG Sparkasse Münden
+ORG NAB
+ORG easy Credit
+ORG Delta Lloyd
+ORG Föhr-Amrumer Bank eG
+ORG Hypo Vorarlberg
+ORG Raiffeisenlandesbank Steiermark
+ORG Sparkasse Tauberfranken
+ORG Axa
+ORG Volks- und Raiffeisenbank Wismar
+ORG Volksbank-Raiffeisenbank
+ORG Volks und Raiffeisenbank
+ORG Sparkasse Einbeck
+ORG Naspa
+ORG Sparkasse Stendal
+ORG Sparkasse Odenwaldkreis
+ORG Limpurger Bank
+ORG Raiffeisenbank Mutlangen eG
+ORG Herner Sparkasse, GS Baukau
+ORG Taunussparkasse
+ORG Kreissparkasse Heinsberg
+ORG Pax Bank
+ORG Raiffeisen Reutte
+ORG Raiffeisen Lechaschau
+ORG BTV
+ORG Fortis
+ORG VR-Bank in Mittelbaden eG
+ORG Sparkasse Kraichgau
+ORG BCEE
+ORG Kreissparkasse Euskirchen
+ORG Kärntner Sparkasse AG Ebenthal
+ORG MBS Jüterbog
+ORG Volksbank eG Köthen-Bitterfeld Sandersdorf
+ORG Raiffeisn
+ORG Sparkasse Neubeuern
+ORG Raiffeisenbank Neubeuern
+ORG Postbank Finanzberatung
+ORG Post.at Bawag PSK
+ORG Sparkasse Arnsberg-Sundern
+ORG Nord/LB
+ORG Frankfurter Volksbank
+ORG Sparkasse Krefeld (St. Tönis-Ringstr.)
+ORG Kreissparkasse München Starnberg
+ORG Sparkasse Vorpommern
+ORG Banque et Caisse d'Epargne de l'Etat
+ORG VR Bank Starnberg - Herrsching - Landsberg
+ORG Volksbank Arnsberg-Sundern
+ORG Sparkasse PB
+ORG Record
+ORG Sparkasse Queichheim
+ORG DenizBank
+ORG Raiffeisenbank Wesermarsch-Süd eG Filiale Motzen
+ORG Volksbank Hauptfiliale, Johannisstraße 32/33
+ORG Volksbank, Domhof8
+ORG Sparkasse, Filiale Dorfbauern
+ORG Sparda-Bank Berlin eG
+ORG Volksbank Jever eG Filiale Fedderwarden
+ORG Sparkasse Wihelmshaven Filiale Fedderwarden
+ORG Eckernförder Bank
+ORG Cassa rurale ed artigiana di Cortina d'Ampezzo e delle Dolomiti
+ORG LzO Eßkamp
+ORG Axa Janssens
+ORG Sparda-Bank Südwest eG
+ORG Unicredit banca
+ORG Herner Sparkasse
+ORG Raiffeisenbank Altdorf-Ergolding
+ORG GE Money Bank
+ORG PSD Bank Braunschweig
+ORG Volkswagen Bank direct
+ORG Wartburgsparkasse
+ORG Herner Sparkasse, GS Horsthausen
+ORG Sparkasse Pforzheim-Calw
+ORG Volksbank Maulbronn-Oberderdingen
+ORG Sparkasse OS, Filiale Saarplatz
+ORG Sparkasse OS, Filiale Arndtplatz
+ORG Bordesholmer Sparkasse
+ORG Sparkasse Donauwörth
+ORG Volksbank Regensburg eG
+ORG VR Bank Kitzingen eG
+ORG Stadtsparkasse Kaiserslautern
+ORG Raifeisenbank
+ORG Volksbank Großenhain
+ORG Volksbank Dresden
+ORG Volksbank Stormarn
+ORG Handelsbanken Vellinge
+ORG Danske Bank
+ORG Sparkasse Wittenberg
+ORG Sparkasse Südwestpfalz
+ORG Wiesbadener Volksbank
+ORG Commerzbank Waldkraiburg
+ORG Sparkasse Waldkraiburg
+ORG Sparkasse Starkenburg
+ORG BVB Volksbank
+ORG Sparkasse Bochumer Straße
+ORG Volksbank Wustrow
+ORG Nordea
+ORG BankNordik
+ORG Sparkasse-Haselstauden
+ORG Deutsche Postbank
+ORG ING Belgique SA
+ORG Saalesparkasse
+ORG Raiffeisenbank St. Augustin
+ORG Raiffeisenbank Biedermannsdorf
+ORG Sparkasse Dreis
+ORG Wüstenrot
+ORG Illertisser Bank
+ORG NaSpa
+ORG Sparkasse-Goslar-Harz
+ORG Sparkasse Schwerte
+ORG Geraer Bank
+ORG Volksbank Odenwald
+ORG Augusta-Bank
+ORG Kreissparkasse Stadtbergen
+ORG VR Bank Bamberg
+ORG Zeller Bank
+ORG Zürcher Kantonal Bank
+ORG Zürcher Kantonalbank
+ORG VR-Bank Coburg eG
+ORG Volksbank Steinhude
+ORG Stadtsparkasse Steinhude
+ORG Landessparkasse, Nord/LB
+ORG Bordesholmer Sparkasse AG
+ORG Sparkasse Mecklenburg-Schwerin
+ORG Sparkasse Elmshorn
+ORG Nationalbank
+ORG Le Crédit du Nord
+ORG Crédit Agricole du Nord-Est
+ORG Raiffeisen Bank Fuerth
+ORG Sparkasse Langenzenn
+ORG Raiffeisenbank Erbach
+ORG Sparkasse Erbach
+ORG Sparkassen Hauptstelle
+ORG Sparkassen Immobilien-, Bauspar- und VersicherungsCenter
+ORG Sparkasse, Hauptstelle
+ORG Sparkasse Saarbrücken
+ORG Erste Bank AG
+ORG Raiffeisenforum
+ORG Sparkasse Kammeltal-Ettenbeuren
+ORG Kreissparkasse Peine
+ORG Volksbank Mönchengladbach Filiale Hardt
+ORG Stadtsparkasse Mönchengladbach GS Hardt
+ORG Volksbank Wolfenbüttel-Salzgitter eG
+ORG eBanka
+ORG GE Money
+ORG Volksbank Hamburg
+ORG Volksbank Balingen e.G.
+ORG Kreissparkasse Zollernalb
+ORG Volksbank Eichsfeld-Northeim
+ORG Herner Sparkasse, GS Süd
+ORG Herner Sparkasse, GS Sodingen
+ORG Herner Sparkasse, GS Elpes Hof
+ORG Volksbank Göttingen
+ORG Sparkasse Vorpommern Filiale Sagard
+ORG Oldenburgische Landesbank - Filiale Sande
+ORG OSPA Rostock
+ORG Volksbank Peine
+ORG Imobiliencenter Sparkasse Osnabrück
+ORG Raiffeisenbank Struecklingen/Idafehn eG
+ORG Volksbank Bönen eG
+ORG Raiffeisenbank Teck
+ORG Volksbank Kirchheim-Nürtingen eG
+ORG Volksbank Arnsberg Sundern eG
+ORG Raiffeisenbank im Kreis Plön
+ORG Volksbank-Ebingen
+ORG Volksbank Coesfeld Filiale Holtwick
+ORG Sparkasse Coesfeld Filiale Holtwick
+ORG Spar- & Leihkasse Gürbetal
+ORG Sparkasse Weilheim Ost
+ORG Sparkasse Weilheim Nord
+ORG Sparkasse Weilheim Hauptstelle
+ORG Volksbank Helden
+ORG Sparkasse Helden
+ORG Santander Bank Bergkamen
+ORG Kreissparkasse Steinfurt
+ORG Sparkasse Mittelmosel-Eifel Mosel Hunsrück
+ORG SOBA Bank
+ORG Raiffeisenbank Büsserach
+ORG Volksbank Lübbecker Land eG
+ORG Sparkasse Minden-Lübbecke
+ORG Enztalbank (Volksbank)
+ORG Sparkasse Rems-Murr
+ORG Stadtsparkasse Dresden
+ORG Volksbank Ammerbuch
+ORG Volksbank Elsen-Wewer-Borchen EG
+ORG LBBW
+ORG Volksbank Rastatt-Wintersdorf
+ORG Sparkasse Rastatt-Wintersdorf
+ORG ReiseBank
+ORG Stadt-Sparkasse
+ORG Sparkasse Wolfen
+ORG Stadtsparkasse Mönchengladbach GS Venn
+ORG Volksbank Mönchengladbach Filiale Venn
+ORG Airbank
+ORG Volksbank Reutlingen eG
+ORG Ulmer Volksbank
+ORG Volksbank Sauerland
+ORG Sparkasse Meschede
+ORG Commerzbank Meschede
+ORG Sparkasse Meschede Waldstraße
+ORG Sparkasse Chemnitz Geschäftsstelle Gersdorf
+ORG Raiffeisenbank Elbmarsch eG
+ORG Sparkasse Tannheim
+ORG Raiffeisen Tannheim
+ORG Volksbank Brenztal eG Marktstraße 35
+ORG Bank1Saar
+ORG Sparda-Bank Süd-West eG
+ORG Sparkasse Nürnberg Geschäftsstelle Feucht
+ORG Volksbank Niedergrafschaft
+ORG Volksbank Bamberg eG
+ORG Volksbank Herrenberg-Rottenburg
+ORG HVB
+ORG Bensberger Bank eG
+ORG Sparkasse Ingolstadt
+ORG Volksbank Ludwigsburg
+ORG Kreissparkasse Ravensburg
+ORG Union-Bank
+ORG Raiffeisenbank Emtmannsberg
+ORG Pommersche Volksbank
+ORG Sparkasse EC-Automat
+ORG VR-Bank eG
+ORG Kreissparkasse Gessertshausen
+ORG Raiffeisenbank Augsburger Land
+ORG Volksbank Sandkrug
+ORG VolksbanK Westrhauderfehn - Collinghorst
+ORG Danske Bank, Søborg afdeling
+ORG Sparkasse Hochfranken
+ORG Stadtsparkasse Johanneskirchen
+ORG Volksbank Stade-Cuxhaven
+ORG Volksbank Brenztal eG Ulmer Straße 44
+ORG Volksbank Brenztal eG Heidenheimer Straße 47
+ORG Volksbank Vorbach-Tauber
+ORG Kreissparkasse Saarpfalz
+ORG Volksbank Wiesloch Filiale Rotenberg
+ORG Geschäftstelle Othmayrstraße
+ORG Sparkasse Krefeld (Traar)
+ORG Sparkasse Gifhorn-Wolfsburg
+ORG Geno Bank Essen
+ORG Raiffeisenbank Jettingen-Scheppach eG, Zweigstelle Freihalden
+ORG Volksbank Schnathorst eG
+ORG Sparkasse Nürnberg Geschäftsstelle Sulzbacher Straße
+ORG Friesland Bank
+ORG Raiffeisenbank Donau-Iller
+ORG Sparda-Bank Hamburg eG
+ORG Sparda-Bank Hamburg
+ORG Raiffeisen Schillerplatz
+ORG Kreissparkasse Groß-Gerau
+ORG Leutkircher Bank
+ORG SB-Center Sparkasse Dortmund
+ORG Stadtsparkasse Augsburg
+ORG Raiffeisenbank Haldenwang Geschäftsstelle Börwang
+ORG Frankfurter Volksbank eG
+ORG Sparkasse zu Lübeck - Geschäftsstelle LindenArcaden
+ORG Česká národní banka
+ORG Stadtsparkasse Markt
+ORG BW Bank Filiale Hoffeld
+ORG Sparkasse Anhalt-Bitterfeld
+ORG Volksbank Wardenburg
+ORG Hohenzollerische Landesbank - Kreisparkasse Sigmaringen
+ORG Dortmunder Vereinsbank
+ORG Caisse d'Épargne de l'État
+ORG Sparkasse Schwyz
+ORG PSD Bank Kiel eG
+ORG Sparkasse Nürnberg Geschäftsstelle Birkenwald
+ORG Fellbacher Bank
+ORG Volksbank Altshausen eG
+ORG Jyske Bank
+ORG Volksbank Raiffeisenbank Niederschlesien eG
+ORG Sparkasse Darmstadt
+ORG Ostseesparkasse
+ORG Volksbank Herrnsheim
+ORG Sparkasse Herrnsheim
+ORG Fanø Sparekasse
+ORG Kreissparkasse Ostalb
+ORG Sparkasse Soest
+ORG Sparkasse Düren
+ORG Volksbank Offenbach-Bieber
+ORG Städtische Sparkasse Offenbach
+ORG Raiffeisenbank Offenbach-Bieber
+ORG Frankfuter Volksbank
+ORG Berliner Bank AG
+ORG Volksbank Esslingen
+ORG Sparkasse Bühl
+ORG Kreisparkasse Ludwigsburg
+ORG Volksbank Bruhrain-Kraich-Hardt eG
+ORG LzO Wardenburg
+ORG VR Bank Wardenburg
+ORG OLB Wardenburg
+ORG Sparkasse Wetzlar
+ORG Sparkasse Neustraße
+ORG Volksbank Kematen
+ORG Sparkasse Kematen
+ORG Geschäftsstelle Engelthal
+ORG Bawag PSK
+ORG Volksbank Ostholstein
+ORG Sparkasse Hannover Zweigstelle Elze
+ORG Volksbank Steinlach-Wiesaz
+ORG Sparkasse Mellendorf
+ORG Sparkasse Obenhausen
+ORG Tiroler Sparkasse
+ORG Sparkasse GS Bahnhofsvorplatz
+ORG Sparkasse Hochrhein
+ORG Sparkasse Märkischer Kreis
+ORG Raiffeisenbank Bezirk Lilienfeld
+ORG Hypo - Eurocenter-Oed
+ORG Sparkasse Ehrwald
+ORG Raiffeisenbank Ehrwald
+ORG Raiffeisenbank Waidhofen/Ybbs
+ORG Volksbank Waidhofen/Ybbs
+ORG Sparkasse Waidhofen/Ybbs
+ORG Bank Austria Waidhofen/Ybbs
+ORG Banque et Caisse d'Épargne de l'État
+ORG VR-Bank Mainz
+ORG Kreissparkasse Lüchow
+ORG Volksbank Weinheim
+ORG VR Bank Geroldshausen
+ORG Oberbank Amstetten
+ORG Stadtsparkasse Mönchengladbach GS Bonnenbroich
+ORG Raiffeisenbank Rhein-Berg eG
+ORG Sparkasse Krefeld (Süchteln)
+ORG Volksbank Viersen Tönisvorster Straße
+ORG Sparkasse, Schlich
+ORG Pax-Bank
+ORG Sparkasse Jungingen
+ORG Limburger Volksbank
+ORG Sparkasse Bergkamen-Bönen (Geschäftsstelle Nordbögge)
+ORG Spaarkasse
+ORG Sparkasse Nürnberg Geschäftsstelle Stadtpark
+ORG Sparkasse Leverkusen
+ORG MVB
+ORG Volksbank Kirchhellen e.G.
+ORG Oberbank AG Geschäftstelle Linz - Chemie
+ORG Sparkasse Oberösterreich Linz SB - Standort Chemie
+ORG Volks- u. Raiffeisenbank
+ORG Sparkasse Westholstein
+ORG Filiale Meerbusch-Büderich
+ORG Sparkasse Höxter
+ORG Raiffeisenbank Velden
+ORG Volksbank eG Braunschweig Wolfsburg
+ORG Volksbank Delbrück & Hövelhof e.G.
+ORG SB Geschäftsstelle Blankenstein
+ORG Volksbank Brögbern
+ORG Rabobank - Expat Desk
+ORG Volksbank Wildeshausen
+ORG Commerzbank Wildeshausen
+ORG Volksbank Sottrum/Geschäftsstelle Bötersen
+ORG Volksbank Überlingen
+ORG Volksbank Rhein-Selz
+ORG Sparkasse - Geschäftsstelle St.Jürgen
+ORG Raiffeisenbank Augsburger Land West eG
+ORG Berkheimer Bank
+ORG Volksbank Laer-Horstmar-Leer
+ORG Volksbank an der Niers eG
+ORG Ostsächsische Sparkasse Dresden Zwst. Strehlen
+ORG Prima banka
+ORG Česká spořitelna, a.s.
+ORG ČSOB Pojišťovna
+ORG Landessparkasse
+ORG Sparkasse Emden
+ORG Broager Sparekasse
+ORG Volksbank Stromberg Neckar
+ORG H + G Bank Heidelberg Kurpfalz eG.
+ORG Sparkasse zu L�beck
+ORG Raiffeisenbank Hardt-Bruhrain
+ORG H+G Bank
+ORG Volksbank Möckmühl-Neuenstadt e. G.
+ORG Volksbank Osnabrück
+ORG Volksbank Meßkirch
+ORG Volksbank Kassenautomat
+ORG Autohaus Uetze
+ORG Sparkasse GS Berger Feld
+ORG Sparkasse M. E. M. H.
+ORG Sparkasse Fulda
+ORG Volksbank Münster
+ORG Sparkasse Betzigau
+ORG Raiffeisenbank Betzigau
+ORG Liga Bank
+ORG Bank Schilling
+ORG Castellbank
+ORG Sparkasse Aschaffenburg-Alzenau, Filiale Karlstein-Großwelzheim
+ORG Forstædernes Bank
+ORG Castell Bank
+ORG Sparda-Bank West eG
+ORG Volksbank Marsberg e.G.
+ORG Volksbank Loccum
+ORG LzO Alexanderstraße
+ORG Sparkasse Geschäftsstelle
+ORG VR Geldautomat
+ORG Sparkasse Hohenlohe
+ORG Sparkasse Bayreuth - Birken
+ORG Volksbank Winsener Marsch
+ORG Bank Thalwil
+ORG Arbejdernes Landsbank
+ORG vr-bank Untertaunus
+ORG Ostsächsische Sparkasse Filiale Dresden Wilder Mann
+ORG Nord-Ostsee-Sparkasse Sterup
+ORG Oldenburgische Landesbank AG
+ORG Volksbank Steinfeld
+ORG Münchner Hypothekenbank EG
+ORG Volksbank Weschnitztal
+ORG Sparda-Bank Südwest
+ORG Probanka
+ORG WBK
+ORG Millennium Bank
+ORG Lukas
+ORG Volksbank Westerstede
+ORG Geschäftsstelle Göggingen
+ORG Bank Eki
+ORG levoBank
+ORG Volksbank Heidenau
+ORG Raiffeisenkasse Tauferer-Ahrntal Gen.
+ORG VR Mainschleifenbank
+ORG Volksbank Rhauderfehn
+ORG Banque Postale
+ORG Raiffeisenbank Burgau - Beratungscenter Am Wätteplatz
+ORG Raiffeisenbank Kitzinger Land
+ORG Argenta Jean Paul Goole
+ORG Sparkasse Berg
+ORG Sparkasse Allgäu
+ORG Duna Takarékszövetkezet
+ORG Norddeutsche Landesbank
+ORG Sparkasse Gerdau
+ORG Sparkasse Uelzen
+ORG Volksbanken Raiffeisenbanken
+ORG VR Raiffeisen Bank
+ORG VR-Bank Hof
+ORG Volksbank in Schaumburg
+ORG Volksbank Westmünsterland
+ORG Deutsche Post
+ORG Heidelberger Volksbank eG
+ORG KSK Jebenhausen
+ORG Sparkasse Göttingen
+ORG Sparkasse Neindorf
+ORG Niederlassung Ostendstraße
+ORG Aargauische Kantonalbank
+ORG Neue Aargauer Bank
+ORG Credit Suisse Stauffacher
+ORG VR-Bank Westpfalz
+ORG Sparkasse Paderborn, Geschäftsstelle Kilianstraße
+ORG Kreissparkasse Bersenbrück
+ORG Volksbank Sauerland eG
+ORG Volksbank Bühl
+ORG Sparkasse Hanauerland
+ORG Volksbank Schwenningen
+ORG Filiale Nürnberg-Mögeldorf
+ORG Volksbank Kaiserslautern-Nordwestpfalz
+ORG Volksbank Staufen
+ORG Stadtsparkasse Barsinghausen
+ORG Landeszentralbank
+ORG Sparkasse Fröndenberg - GS Langschede
+ORG Kreissparkasse Syke
+ORG Sparkasse Amberg-Sulzbach
+ORG Raiffeisenbank Sulzbach-Rosenberg eG
+ORG Volksbank Brüggen-Nettetal eG
+ORG Sparkasse Finanzzentrum
+ORG Sparkasse Bodensee Hauptstelle
+ORG Banque Chaabi du Maroc
+ORG VR Raiffeisenbank
+ORG Volksbank Südhessen - Darmstadt eG
+ORG VVB Maingau
+ORG Sparkasse Dieburg
+ORG Kasseler Bank
+ORG Sparkasse Struth
+ORG Spuerkess
+ORG Keireissparkasse Saarpfalz
+ORG GWK
+ORG Geschäftsstelle Mögeldorf
+ORG Sparkasse Mittelthüringen
+ORG Clientis Fehraltorf
+ORG Sparkasse Köln/Bonn
+ORG Raiffeisenbank Hohenbrunn
+ORG VR Raiffeisenbank Ochsenfurt
+ORG Sparkasse Neunburg-West
+ORG Raiffeisen-Volksbank Erlangen-Höchstadt
+ORG Sparkassengeschäftsstelle Rauendahl
+ORG AEK Thun
+ORG Raiffeisenbank Ebrachgrund
+ORG Cambridge Building Society
+ORG Banca Raiffeisen
+ORG VR Raiba
+ORG VR Bank Grombühl
+ORG Baden-Württembergische Bank
+ORG Sparkasse Filiale Grötzingen
+ORG Post
+ORG Sparkasse Werl
+ORG Sparkasse Eching
+ORG PostFinance
+ORG VR-Bank Bergisch Gladbach-Overath-Rösrath eG
+ORG Sparkasse Herford
+ORG Volksbank Bad Oeynhausen Herford
+ORG Volksbank Mainspitze eG
+ORG Raiffeisenbank Neunkirchen - Schwarzatal-Mitte
+ORG Sparda-Bank München eG‎
+ORG VR-Bank-Würzburg, GS Zellingen
+ORG Badische Beamten Bank
+ORG Sparkasse GS Resser Mark
+ORG Raiffeisenbank Oberschleißheim
+ORG Commerzbank Bayreuth
+ORG PSD-Bank
+ORG VR Bank Kitzingen eG, Fil. Mainbernheim
+ORG Volksbank Geschäftsstelle St. Hubertus
+ORG Cassa Rurale di Fassa e Agordino
+ORG Banca Sella - Bovisio Calderari
+ORG Western Union
+ORG Sparkasse Marburg-Biedenkopf Geschäftsstelle Schröck
+ORG Aachener Bank - Filiale Sandkaulbach
+ORG Raiffeisenbank Wiesbach eG
+ORG Sparkasse Pfullendorf
+ORG Volksbank Stutensee Hardt eG
+ORG Volksbank im Harz
+ORG Poštovní spořitelna
+ORG Volksbank Dortmund
+ORG Sparkasse Unna
+ORG WSK Bank
+ORG Volksbank Köln-Nord EG
+ORG Marks & Spencer
+ORG Spuerkees
+ORG Raiffeisenbank Arzberg-Selb e. G.
+ORG Volksbank Murgtal
+ORG Volksbank Raiffeisenbank Mangfalltal-Rosenheim eG‎
+ORG LBS Bausparkasse
+ORG Dresdner Bank Filiale Ludwigsplatz
+ORG Sparkasse Mühlviertel West
+ORG Sparkasse Nürnberg Geschäftsstelle Jobst
+ORG Sparkasse Schwarzhofen
+ORG Volksbank Trier
+ORG Sparkasse Spree-Neiße
+ORG Deutsche Kreditbank
+ORG Volksbank eG, Geschäftsstelle Wennigsen
+ORG Raiffeisen Ipsach
+ORG Raiffeisenbank Feistritz im Rosental
+ORG Volksbank Siegerland eG
+ORG Volksbank Rohrbach
+ORG Oberbank Rohrbach
+ORG Sperrer
+ORG Sparkasse Waldeck-Frankenberg
+ORG Waldecker Bank
+ORG Sparkasse Waldeck Frankenberg
+ORG Volksbank Rühen
+ORG Raiffeisen- und Volksbank
+ORG Hannoversche Volksbank eG
+ORG Sparkasse Altendorf
+ORG Raiffeisenbank Schwandorf-Nittenau Filiale Neunburg vom Wald
+ORG Sparkasse Ludwigsfeld
+ORG Mainzer Volksbank
+ORG Raiffeisenbank München Süd eG
+ORG Heidelberger Volksbank
+ORG Volksbank Willich
+ORG Raiffeisenbank Kahl
+ORG Sparkasse Hochsauerland
+ORG Hypotekárne centrum
+ORG Abbey National
+ORG Volksbank eG
+ORG Sparkasse Dortmund, Geschäftsstelle Oespel
+ORG Sparkasse GS Beckhausen
+ORG Sparkasse GS Bismarck
+ORG Sparkasse GS Bismarck-Zoo
+ORG Sparkasse Filiale Buer
+ORG Sparkasse GS Buer-Hugo
+ORG Sparkasse Filiale Erle
+ORG Sparkasse GS Erle-Middelich
+ORG Sparkasse GS Hassel
+ORG Sparkasse GS Hassel-Nord
+ORG Sparkasse GS Heßler
+ORG Sparkasse Filiale Horst
+ORG Sparkasse GS Hüllen
+ORG Sparkasse GS Schaffrath
+ORG Sparkasse GS Scholven
+ORG Sparkasse GS Sutum
+ORG Kreissparkasse Sontheim
+ORG Volksbank Ruhr Mitte Hauptstelle
+ORG Volksbank Filiale Beckhausen
+ORG Volksbank Filiale Berger Feld
+ORG Volksbank Filiale Bismarck
+ORG Kreissparkasse Hochdorf
+ORG Volksbank Filiale Bulmke-Hüllen
+ORG Sparkasse Nienburg
+ORG Volksbank Filiale Erle
+ORG Volksbank Filiale Hassel
+ORG Volksbank Filiale Hassel-Nord
+ORG Volksbank Filiale Heßler
+ORG Volksbank Filiale Horst
+ORG Volksbank Filiale Resser Mark
+ORG Volksbank Filiale Schaffrath
+ORG Volksbank Filiale Schalke
+ORG Raiffeisenbank Sulzbach
+ORG Volksbank Filiale Scholven
+ORG Volksbank Filiale Sutum
+ORG İşbank GmbH
+ORG Volksbank Bitburg eG
+ORG Sparkasse Koblenz
+ORG NORD/LB
+ORG Hamburger Bank
+ORG Badische Beamtenbank
+ORG Raiffeisenbank Salzweg-Thyrnau
+ORG Sparkasse Thyrnau
+ORG Raiffeisen du Gros-de-Vaud
+ORG Stadtsparkasse Burgdorf
+ORG Sparkasse Holzweißig
+ORG Sparkasse Rischenau
+ORG Fio
+ORG Stadtsparkasse Düsseldorf - Geschäftsstelle Oberkassel
+ORG Sparkasse OSPA
+ORG Volksbank Braunschweig-Wolfsburg
+ORG Volksbank Elmshorn
+ORG apoBank
+ORG Sparkasse Zwickau
+ORG VR-Bank Taufkirchen-Dorfen eG
+ORG Sparkasse Erding-Dorfen
+ORG VR-Bank Bonn
+ORG Raiffeisenbank Südhardt eG
+ORG Volksbank Bramgau
+ORG Volksbank Hellweg eG
+ORG Sparkasse Kamen
+ORG Sparkasse Engen-Gottmadingen
+ORG BIL
+ORG Sparkasse Bayreuth - Neue Heimat
+ORG Kreissparkasse Grafschaft Bentheim
+ORG Raiffeisen Würenlingen
+ORG Volksbank Obernkirchen
+ORG Sparkasse, Zweigstelle Lavesum
+ORG Bankverein Bebra
+ORG Volksbank untere Saar eG
+ORG ABN
+ORG Kreissparkasse Limburg
+ORG TKB Wigoltingen
+ORG Volksbank Düsseldorf Neuss eG - Filiale Rosellerheide
+ORG Sparkasse Neuss - Geschäftsstelle Rosellerheide
+ORG Commerzbank : Berlin-Halensee
+ORG Gemeindeamt Terfens
+ORG VR Bank Rhein-Neckar eG
+ORG Sparkasse Nürnberg Geschäftsstelle Gustav-Adolf
+ORG Volksbank Raiffeisenbank Dachau e.G.
+ORG Enztalbank
+ORG Caisse Raiffeisen
+ORG Raiffeisenbank Satteins
+ORG UBS Albisriederplatz
+ORG Landesbank zu Oldenburg
+ORG Sparkasse Duisburg (Schwarzenberg)
+ORG UNI
+ORG Kreissparkasse Börde Geschäftsstelle Colbitz
+ORG Volks- und Raiffeisenbank eG
+ORG Bank für Tirol und Vorarlberg
+ORG Sparkasse Spree Neiße
+ORG VR Bank München Land eG
+ORG Sparkasse Elbtal-Westlausitz
+ORG Sparda-Bank Berlin
+ORG Dortmunder Volksbank eG
+ORG Privatbanka
+ORG Volksbank Hochrhein
+ORG Volksbank Hundem-Lenne eG
+ORG Bezirkssparkasse Uster (BSU)
+ORG Sparkasse Düsseldorf
+ORG Sparkasse Bensheim, Geschäftsstelle Gadernheim
+ORG Sparkasse Krefeld (Uerdingen)
+ORG Volkbank
+ORG Stadtsparkasse Mönchengladbach GS Wickrath
+ORG Denkendorfer Bank
+ORG Sparkasse Oberösterreich
+ORG Caisse d'Epargne
+ORG Deniz Bank
+ORG Bank of Scotland
+ORG The Royal Bank of Scotland
+ORG Britannia
+ORG Volksbank Reichenbach
+ORG Volksbank Ebersbach
+ORG Fintro
+ORG Sparkasse Duisburg (Wanheimerort)
+ORG Sparkasse Duisburg (Friemersheim)
+ORG Commerzbank Rheinhausen
+ORG Roskilde Bank
+ORG Volksbank Regensburg
+ORG Kreissparkasse Esslingen
+ORG Sparkasse Krefeld
+ORG Sparkasse Nürnberg Geschäftsstelle Nordostbahnhof
+ORG Sparkasse Mittelfranken Sued
+ORG Sparkasse Reichensachsen
+ORG Hofheimer Volksbank
+ORG Raiffeisen-Volksbank Erlangen-Höchstadt eG
+ORG Taunus-Sparkasse
+ORG Sparkasse Tennenlohe
+ORG Kreissparkasse Altenkirchen
+ORG Stadt-Sparkasse Solingen
+ORG Volksbank Remscheid / Solingen eG
+ORG Volksbank Rhein-Wehra
+ORG Volksbank Aller-Weser
+ORG Sparkasse Rastatt
+ORG Langenargener Bank
+ORG Volksbank Friedrichshafen
+ORG Sparkasse Gifhorn Wolfsburg
+ORG Geschäftsstelle Essen-West
+ORG BA-CA
+ORG VR Bank Lech-Zusam Gablingen
+ORG MBS Potsdam
+ORG Bank Pekao SA
+ORG Sparkasse Neuss, Immobilien-Center Meererhof
+ORG Sparkasse Haßloch
+ORG Regionaldirektion Haßloch
+ORG Raiffeisenbank Mollhagen
+ORG Raiffeisenbank Risstal eG
+ORG Sparkasse Duisburg
+ORG Sparkasse Paderborn, Geschäftsstelle Neuhäuser Straße
+ORG Sparkasse SB Kastanienstraße
+ORG Steiermärkische Bank
+ORG Sparkasse Wehlheiden
+ORG Delta Lloyd Bank
+ORG Sparkasse zu Lübeck
+ORG Grafschafter Volksbank
+ORG Volksbank Geschäftsstelle Hüls
+ORG Sparkasse - Kamenz Markt
+ORG Spar-und Leihkasse Münsingen
+ORG Volksbank Düsseldorf Neuss eG - Filiale Nievenheim
+ORG Volks-und Raiffeisenbank
+ORG Sparkasse Neuss, Filiale Nievenheim
+ORG Dresdner Bank Filiale Bismarckplatz
+ORG Sparkasse Germersheim-Kandel
+ORG Commerzbank Nabburg
+ORG Kreissparkasse Northeim
+ORG Zweigstelle Löhnberg
+ORG Frankfurter Volksbank eG Wehrheim
+ORG Raiffeisen Egnach
+ORG Raiffeisen Neukirch-Egnach
+ORG Kredyt Bank S.A.
+ORG Filiale Gerblingerode
+ORG Volksbank Lindenberg
+ORG Ipswich Building Society
+ORG Andelskassen
+ORG Raiffeisenbank Katzelsdorf
+ORG Donner & Reuschel AG
+ORG Volksbank Backnang e.G.
+ORG Bank Millennium S.A.
+ORG Volksbank Düsseldorf Neuss eG - Filiale Norf
+ORG Sparkasse Wernberg
+ORG Sparkasse Bayreuth - Filiale Creußen
+ORG VR Bank Ostholstein Nord - Plön eG
+ORG Ziraat Bank Int. AG
+ORG Stadtsparkasse Mönchengladbach GS Morr
+ORG Volkskreditbank
+ORG Kreissparkasse Kusel
+ORG BVB Bank
+ORG Harzsparkasse Geschäftsstelle Quedlinburg Markt
+ORG Stadtsparkasse Kaiserlautern
+ORG Kreissparkasse Esslingen-Nürtingen
+ORG Volksbank Kirchheim-Nürtingen
+ORG Volksbank Raiffeisenbank Bayern Mitte eG
+ORG Volksbank Filiale Miederdielfen
+ORG Sparkasse Filiale Niederdielfen
+ORG Volksbank Limburg
+ORG Raiffeisenbank Lobsing
+ORG Sparkasse im Landkreis Schwandorf
+ORG Frøs Herreds Sparekasse
+ORG Raiffeisenbank Winningen
+ORG Sparkasse Gronau
+ORG Raiffeisenbank im Naabtal
+ORG Polbank EFG
+ORG Luzerner Kantonalbank
+ORG Agence BNP Paribas
+ORG Kreissparkasse Anhalt-Bitterfeld
+ORG Volksbank Wilferdingen-Keltern eG
+ORG Volksbank Wössingen
+ORG Sparkasse Wössingen
+ORG Oldenburgische Landesbank (OLB)
+ORG Kreissparkasse Nordhausen
+ORG La Poste
+ORG Volksbank Langendernbach
+ORG Sparkasse Rhein-Haardt
+ORG VR Bank Neumünster eG
+ORG Kaltenkirchener Bank eG
+ORG Volksbank im Harz e.G.
+ORG Volksbank Kraichgau
+ORG Wartburgsparkasse-Lippoldstraße
+ORG Wartburg-Sparkasse Karlsplatz
+ORG Oldenburgische Landesbank - Filiale Ocholt
+ORG Volksbank Westerstede eG - Bankstelle Ocholt
+ORG Raiffeisenbank Trendelburg eG
+ORG VR-Bank Hersfeld-Rotenburg
+ORG Kreissparkasse Wesermünde-Hadeln
+ORG Volksbank Börde-Bernburg eG
+ORG Raiffeisenbank Bobingen
+ORG Volksbank Adelberg
+ORG Kreissparkasse Adelberg
+ORG NORD/LB Braunschweigische Landessparkasse
+ORG Kreissparkasse-Köln
+ORG Norris-Bank
+ORG Volksbank Wien
+ORG Raiffeisenkasse Deutschnofen-Aldein
+ORG Cassa Rurale di Fiemme
+ORG OTP bank
+ORG Erste bank
+ORG K&H bank
+ORG Crédit Agricole du Nord Est
+ORG Volks- und Raiffeisenbank Saale-Unstrut
+ORG Raiffeisenbank Berching
+ORG Abbey
+ORG Barclays (Business)
+ORG RBS (Commercial Banking)
+ORG Bankhaus Gebrüder Martin
+ORG Volksbank Sottrum-Ottersberg-Scheeßel
+ORG Deutsche Bundesbank Filiale
+ORG Volksbank Bad Laer
+ORG Kyffhäusersparkasse
+ORG Sparkasse Ostunterfranken
+ORG Credit Agricole
+ORG Raiffeisenbank Ries
+ORG MVB (Volksbank)
+ORG Volksbank Büren-Salzkotten
+ORG VB
+ORG Sparkasse Kleinglattbach
+ORG Volksbank Wümme/Wieste
+ORG Kreissparkasse Rotenburg-Bremervörde
+ORG Volksbank Halle
+ORG Vierländer Volksbank
+ORG Liechtensteinische Landesbank
+ORG Sparkasse Wittgenstein
+ORG Raiffeissen
+ORG Commerzbank Geldern
+ORG Volksbank Igersheim
+ORG Sparkasse Igersheim
+ORG Sparkasse Tosters
+ORG Hypo Landesbank
+ORG Sparkasse Nürtingen
+ORG Volksbank Mittelrain
+ORG Kreissparkasse Mittelrain
+ORG Sparkasse Erlangen
+ORG Volksbank Juist
+ORG Banque de France
+ORG Moravský Peněžní Ústav
+ORG Deutsche Bank, Uerdingen
+ORG SB-Center Sparda-Bank Südwest eG
+ORG Sparkasse Hanau
+ORG Volksbank Rhein-Ruhr (Friemersheim)
+ORG Freisinger Bank
+ORG KSK Esslingen
+ORG Volksbank Niederrhein eG
+ORG Dornbirner Sparkasse
+ORG Bezirkssparkasse Dillenburg
+ORG Raiffeisenbank Uecker-Randow
+ORG Volksbank Pforzheim
+ORG Kreissparkasse Unterföhring
+ORG Volks- und Raiffeisenbank Ismaning e.G. Zweigstelle Unterföhring
+ORG VR-Bank Südwestpfalz eG
+ORG VR Bank Nürnberg
+ORG Volksbank Oberes Waldviertel regGenmbH
+ORG Waldviertler Sparkasse von 1842 AG
+ORG Raiffeisenbank Waidhofen/Th
+ORG KSK Ludwigsburg
+ORG Bankhaus Jungholz (Raiffeisen)
+ORG Volksbank Raesfeld
+ORG Sparkasse Herne
+ORG Sparkasse Hersfeld-Rotenburg
+ORG Vorarlberger Volksbank
+ORG Akbank
+ORG Volksbank Krefeld - St.Tönis
+ORG Raiffeisenbank Aschaffenburg eG
+ORG Hypo
+ORG Sparkasse Langen-Seligenstadt
+ORG HypoVereinsbank KMU
+ORG Raiffeisenbank Oberhofen
+ORG Deutsche Bank Lahr Geldautomat
+ORG Wernauer Bank
+ORG Banque Raiffeisen, Evilard
+ORG Hanseatic Bank
+ORG Volksbank Filiale Wilgersdorf
+ORG Sparkasse Filiale Wilgersdorf
+ORG Sparkasse Langen/Seligenstadt
+ORG Sparkasse Hauptstelle Friedrichstraße
+ORG Kremser Bank u Sparkassen AG
+ORG HypoVereins Bank
+ORG ÖVK - Österr. Verkehrskreditbank
+ORG Sparkasse Middels
+ORG Sparkasse Essen
+ORG Volksbank SB Geschäftsstelle Linn
+ORG Hauptstelle Löhnberg
+ORG Zweigstelle-Löhnberg
+ORG Stadtsparkasse Solingen
+ORG Raiffeisenbank Lustenau
+ORG Norderstedter Bank eG
+ORG Alior Bank
+ORG Stadtsparkasse Mönchengladbach GS Alter Markt
+ORG Raiffeisenbank Ehingen-Hochsträß
+ORG Sparkasse Stadtlohn
+ORG Raiffeisenbank Roggenburg
+ORG Sparkasse Baden
+ORG Volksbank Baden
+ORG Sparkasse Nürnberg Geschäftsstelle Diepersdorf
+ORG Sparkasse Krefeld Bockum
+ORG Raiffeisenbank Bad Bramstedt
+ORG Raiffeisenbank eG, Bargteheide
+ORG Stadtsparkasse Bad Pyrmont
+ORG Aper Bank
+ORG Sparkasse, Filiale Berge
+ORG Sparkasse Detmold Lügde
+ORG Erstebank
+ORG BW Bank Steinhaldenfeld
+ORG HSH Nordbank
+ORG Sparkasse Nürnberg Geschäftsstelle Plärrer
+ORG Unicredit Bank Austria AG
+ORG Sparkasse, Hauptsitz Emsdetten
+ORG Volksbank Nordmünsterland eG
+ORG Clientis
+ORG Ostseesparkasse Rostock
+ORG Raiffeisenbank Rhein-Berg eG, Geschäftsstelle Unterfeldhaus
+ORG Kreissparkasse Düsseldorf, Geschäftsstelle Neuenhausplatz
+ORG Bradford & Bingley
+ORG Lloyds
+ORG Stadtsparkasse Mönchengladbach GS Beckrath
+ORG Stadtsparkasse Mönchengladbach GS Bettrath
+ORG Stadtsparkasse Mönchengladbach GS Eicken
+ORG Stadtsparkasse Mönchengladbach GS Friedrich-Ebert-Straße
+ORG Stadtsparkasse Mönchengladbach GS Geistenbeck
+ORG Stadtsparkasse Mönchengladbach GS Geneicken
+ORG Stadtsparkasse Mönchengladbach GS Giesenkirchen
+ORG Volksbank Ostlippe eG
+ORG Western Union Bank
+ORG Zweite österreichische Bank
+ORG Raiffeisen / Volksbank
+ORG Sparkasse Miltenberg-Obernburg
+ORG Stadtsparkasse Mönchengladbach GS Hardterbroich
+ORG Stadt- und Kreissparkasse Leipzig
+ORG Stadtsparkasse Mönchengladbach GS Hauptquartier
+ORG Stadtsparkasse Mönchengladbach GS Hehn
+ORG Stadtsparkasse Mönchengladbach GS Hermges
+ORG Stadtsparkasse Mönchengladbach GS Hockstein
+ORG Stadtsparkasse Mönchengladbach GS Keplerstraße
+ORG Stadtsparkasse Mönchengladbach GS Lauterkamp
+ORG Stadtsparkasse Mönchengladbach GS Lürrip
+ORG Stadtsparkasse Mönchengladbach GS Mülfort
+ORG Stadtsparkasse Mönchengladbach GS Odenkirchen
+ORG Deutsche Bank Investment & FinanzCenter Mönchengladbach-Odenkirchen
+ORG Stadtsparkasse Mönchengladbach GS Ohler
+ORG Stadtsparkasse Mönchengladbach GS Pesch
+ORG Stadtsparkasse Mönchengladbach GS Rheindahlen
+ORG Stadtsparkasse Mönchengladbach GS Römerbrunnen
+ORG Stadtsparkasse Mönchengladbach GS Schillerplatz
+ORG Stadtsparkasse Mönchengladbach GS Waldhausen
+ORG Stadtsparkasse Mönchengladbach GS Wanlo
+ORG Stadtsparkasse Mönchengladbach GS Westend
+ORG Stadtsparkasse Mönchengladbach GS Wickrathberg
+ORG Stadtsparkasse Mönchengladbach GS Wickrather Straße
+ORG Stadtsparkasse Mönchengladbach GS Wickrathhahn
+ORG Stadtsparkasse Mönchengladbach GS Windberg
+ORG Volksbank Mönchengladbach Kompetenzcenter Neuwerk
+ORG Volksbank Mönchengladbach Filiale Bettrath
+ORG Volksbank Mönchengladbach Filiale Hehn
+ORG Volksbank Mönchengladbach Filiale Holt
+ORG Volksbank Mönchengladbach Filiale Lürrip
+ORG Volksbank Mönchengladbach Filiale Odenkirchen
+ORG Volksbank Mönchengladbach Filiale Rheydt
+ORG Volksbank Mönchengladbach Filiale Wickrath
+ORG Volksbank Mönchengladbach Filiale Windberg
+ORG Deutsche Bank Investment & FinanzCenter Mönchengladbach-Rheydt
+ORG Deutsche Bank Investment & FinanzCenter Mönchengladbach-Wickrath
+ORG Commerzbank Filiale Mönchengladbach
+ORG Commerzbank Filiale Mönchengladbach-Rheydt
+ORG Sparda-Bank West eG Mönchengladbach
+ORG Santander Consumer Bank Mönchengladbach
+ORG Gladbacher Bank Hauptstelle
+ORG Gladbacher Bank Niederlassung Rheydt
+ORG Gladbacher Bank Niederlassung Giesenkirchen
+ORG Kantonalbank
+ORG Kreisparkasse Tübingen
+ORG Sparkasse Bad Feilnbach
+ORG Sparkasse Elbe-Saale
+ORG Sparkasse Salzland
+ORG Commerzbank - Filiale Düsseldorf-Bilk
+ORG Sparkasse Leerhafe
+ORG KSK Heilbronn
+ORG Kreissparkasse Miltenberg-Obernburg
+ORG Raiffeisenbank Höfe
+ORG Sparkasse Prignitz
+ORG Kreissparkasse München-Starnberg-Ebersberg
+ORG Raiffeisen-Volksbank Wiesmoor
+ORG Sparkasse Jena
+ORG Evropsko-ruská banka
+ORG Merkurbank
+ORG Volksbank Breisgau Nord eG
+ORG Raiffeisenbank Heimboldshausen
+ORG Sparkasse Heimboldshausen
+ORG Volksbank, Filiale Eberdingen
+ORG Volksbank Koblenz Mittelrhein
+ORG Raiba
+ORG Aachener Bank (Volksbank)
+ORG Nykredit
+ORG Nykredit Bank
+ORG Deutsche Bank Bamberg
+ORG Sparekassen Faaborg
+ORG Nordfyens Bank
+ORG Zürcher Kantonalbank ZKB
+ORG Kreissparkasse, Filiale Eberdingen
+ORG Sparkasse Auf dem Schnee
+ORG Raiffeisenbank Garrel
+ORG Brillen Schwarz
+ORG Hypo Tirol
+ORG Bördesparkasse
+ORG Genossenschaftsbank Meckenbeuren
+ORG Raiffeisenbank Heidenheim
+ORG targo bank
+ORG Sparkasse Elbrinxen
+ORG Husumer Volksbank Filiale Mildstedt
+ORG BKS Bank
+ORG Gärtnerbank
+ORG Volksbank Ostlippe
+ORG Sparkasse Celle
+ORG Salzland-Sparkasse
+ORG LzO Eversten
+ORG Sparkasse Allgäu - Geschäftsstelle Pfronten
+ORG Marchfelder Volksbank
+ORG Raiffeisenbank Dellmensingen eG
+ORG Volksbank Laupheim eG
+ORG Sparkasse Lüdenscheid
+ORG Deutsche Bundesbank
+ORG NASPA
+ORG Sparcassa 1816
+ORG Sparkasse Neuss - Filiale Derikum
+ORG GE
+ORG Kreissparkasse Merzig Wadern
+ORG Volksbank eG Elmshorn
+ORG Sparkasse Krefeld Filiale Oedt
+ORG Raiffeisenbank Steinheim eG
+ORG Volksbank Kefenrod
+ORG Migros
+ORG ING Porte de Namur
+ORG SB Sittard, Sparkasse Krefeld
+ORG LzO Bloherfelde
+ORG Kreissparkasse Gotha, Filiale Gotha West
+ORG VR-Bank in Südniedersachsen
+ORG Volksbank eG Wümme-Wiste
+ORG Volksbank Dessau-Anhalt eG
+ORG Raiffeisenbank Waldaschaff
+ORG Cassa Raiffeisen
+ORG Sparda
+ORG Sparkasse Philippsthal
+ORG Sparkasse Neuss, Geschäftsstelle Grevenbroich-Südstadt
+ORG Volksbank Elsen-Wewer-Borchen
+ORG Sparkasse Forchheim-Nord
+ORG Volksbank - Raiffeisenbank
+ORG Märkische Bank - Volksbank
+ORG Volksbank Rhein-Lahn
+ORG Sparkasse Haste
+ORG Volks- Raiffeisenbank
+ORG Volksbank Maingau
+ORG Brandenburger Bank - VR eG
+ORG Sparkasse Neuss, Filiale Elsen
+ORG Sparkasse Kassel
+ORG Volksbank Düsseldorf Neuss, Filiale Grevenbroich
+ORG Procourtis SA
+ORG Raiffeisenkasse St.Andrä Tadten
+ORG GE money
+ORG Banque Cantonale de Fribourg
+ORG Sparkasse Frimmersdorf
+ORG Oldenburgische Landesbank Filiale Wiefelstede
+ORG Banque Cantonale
+ORG Sparkasse Obernkirchen
+ORG Basellandschaftliche Kantonalbank
+ORG TSB
+ORG Volksbank Dreieich e.G.
+ORG Sparkasse Hauptstelle Ostwall
+ORG Národná banka Slovenska
+ORG Raiffeisenbank Elsendorf
+ORG Sparkasse Elsendorf
+ORG Beobank
+ORG Raiffeisenbank Grafenstein
+ORG VR-Bank Eningen
+ORG Rouen Jeanne-d'Arc
+ORG Raiffeisen Gilgenberg
+ORG Commerzbank, Filiale Grevenbroich
+ORG Bank 1 saar
+ORG Citibank Arts-Loi Kunst-Wet
+ORG Raiffeisenbank Frauenkirchen
+ORG Bank Burgenland
+ORG Sparkasse Schopfheim-Zell
+ORG Raiffeisenbank Niederösterreich-Wien
+ORG Kreissparkasse Garmisch-Partenkirchen
+ORG Bezirkssparkasse Dielsdorf
+ORG Volksbank Konstanz eG
+ORG Banque Cantonale Vaudoise
+ORG Spar- und Darlehenskasse
+ORG Belfius Banque Farciennes
+ORG Ing Farciennes
+ORG VR-Bank Bergisch Gladbach-Overath-Rösrath
+ORG Stadtsparkasse Langenfeld
+ORG Norddeutsche Landesbank Girozentrale
+ORG Volksbank Bad Gandersheim
+ORG Hamburger Volksbank DREIII Kompetenzteam
+ORG Raiffeisenbank Iller-Roth-Günz eG
+ORG Sparkasse Nürnberg Geschäftstelle Hersbruck
+ORG Banca  Popolare Laives - Volksbank Leifers
+ORG Cassa di Risparmio Laives - Sparkasse Leifers
+ORG Cassa Rurale Laives - Raiffeisenkassa Leifers
+ORG BCN Peseux
+ORG Volksbank Wetzlar Weilburg
+ORG Volksbank Weiz
+ORG Sparkasse Nürnberg Geschäftsstelle Schwaig
+ORG Erste Österr. Sparkasse
+ORG Volksbank Uhingen
+ORG Kreissparkasse Uhingen
+ORG Raiffeisenbank Wangen eG Gesch.St. Holzhausen
+ORG UBS SA
+ORG Sparkasse Geschäftsstelle Breitscheid
+ORG Volksbank Delbrück-Hövelhof
+ORG Volksbank Erzgebirge eG
+ORG VR Bank Biedenkopf-Gladenbach eG
+ORG VR Bank  im Kreis Plön
+ORG Volksbank Glan-Münchweiler
+ORG Basler Kantonalbank
+ORG Sparkassenfiliale Obersdorf
+ORG Raiffeisenlandesbank NÖ-Wien
+ORG Sparkasse Oelsnitz
+ORG Raiffeisen-Volksbank Haßberge eG, Filiale Knetzgau
+ORG Raiffeisenbank Grevenbroich eG, Geschäftsstelle Wevelinghoven
+ORG Sparkasse Neuss, Filiale Wevelinghoven
+ORG Sirrat-Bank
+ORG Volksbank Düsseldorf Neuss eG
+ORG Sparkasse Werra-Meissner
+ORG Sparkasse Dachau
+ORG VR Bank Biedenkopf Gladenbach
+ORG Bank Coop
+ORG Volksbank - Weende
+ORG Targobank - Filiale Düsseldorf-Oberbilk
+ORG Raika Bank
+ORG ING servicepunt
+ORG BKS - Bank
+ORG Volksbank Bad Salzuflen eG
+ORG Volksbank Cloppenburg eG
+ORG Volksbank Wetzlar-Weilburg
+ORG Sparkasse Rosenheim
+ORG Sparkasse Birkenau
+ORG Raiffeisenbank Oberteuringen eG
+ORG Sparkasse Bodenseekreis
+ORG Raiffeisenbank Neufahrn-Hallbergmoos
+ORG Sparkasse Berlin
+ORG Sparkasse Hallbergmoos
+ORG Kreissparkasse Altötting-Burghausen
+ORG Volksbank Hardt
+ORG VR-Bank Husby
+ORG Sparda-Bank West e.G.
+ORG Saanenbank
+ORG Sparkasse Hehlingen
+ORG Nord-Ostsee Sparkasse Husby
+ORG Sparkasse Dinslake-Voerde-Hünxe
+ORG Banque Raiffeisen
+ORG Volksbank Wipperfürth-Lindlar
+ORG Stadtsparkasse (Filiale)
+ORG Sparkasse Rothenburg
+ORG Raiffeisenbank Schillingsfürst
+ORG Kremser Bank und Sparkassen AG
+ORG Banque cantonale de Fribourg
+ORG Sparkasse Neuwied
+ORG Landessparkasse Nord/LB
+ORG Müritz-Sparkasse
+ORG citi-Bank
+ORG Sparkasse Neu-Ulm – Illertissen, Geschäftsstelle Bellenberg
+ORG Raffeisenbank Teck
+ORG Bürgschaftsbank
+ORG SEB-Bank
+ORG Sparkasse / Nord LB
+ORG Raiffeisenkasse Wallern
+ORG Sparkasse Hohenwestedt
+ORG Sparda-Bank-West
+ORG Raiffeisenbank Wessobrunn
+ORG VR Cregliner Bank
+ORG Raiffeisenbank Graz-Mariatrost
+ORG Sparkasse Creglingen
+ORG SLSP
+ORG Sparkasse Schweinfurt - Segnitzstraße
+ORG Volksbank Raiffeisenbank Dresden
+ORG VR Bank Starnberg-Herrsching-Landsberg eG Filiale Berg
+ORG VR Bank Andechs
+ORG VR-Bank Traubing
+ORG Raiffeisenbank Grevenbroich eG, Geschäftsstelle Kapellen
+ORG Sparkasse Neuss, Filiale Kapellen
+ORG Dortmunder Volksbank eG Saarlandstraße
+ORG Postbank in Postfiliale
+ORG Sparkasse Nürnberg Geschäftsstelle Ziegelstein
+ORG Banque Coop
+ORG Westerwaldbank
+ORG Sparkasse Gummersbach-Bergneustadt
+ORG RAIBA Obdach-Weißkirchen
+ORG Sparkasse KSK Köln
+ORG Volksbank Bochum Witten
+ORG norisbank
+ORG Versicherungmakler Kafka
+ORG VR Bank Zeilitzheim
+ORG Spar- und Kreditbank Bühlertal
+ORG Banque Cantonale Neuchâteloise
+ORG Sparkasse Elbe-Elster
+ORG Volksbank Dreiländereck
+ORG Getin Bank
+ORG Sparkasse Bad Tölz-Wolfratshausen
+ORG Sparkasse Haslach-Zell
+ORG Volksbank Trossingen
+ORG Sparkasse Altstadt
+ORG Ziraat Bank International AG
+ORG IS-Bank
+ORG Volks- und Raiffeisenbank Isen eG
+ORG Sparkasse Neuss - Filiale Grimlinghausen
+ORG Raiffeisenbank Kleinweiler
+ORG Raiffeisenbank Wangen eG
+ORG Raiffeisenkasse Halbturn
+ORG Rhoen-Rennsteig Sparkasse
+ORG Raiffeisenbank Tacherting
+ORG Kreissparkasse Starnberg
+ORG Raiffeisenbank Rosenheim eG Gschst. Hochstätt-Schechen
+ORG Volksbank Kurpfalz H + G BANK eG
+ORG Sparkasse Knesebeck
+ORG Volksbank Bonn/Rhein-Sieg
+ORG Kreissparkasse Biberach/Riß
+ORG Volksbank Backnang eG
+ORG Enztalbank (V&R)
+ORG Sparkasse Rehren
+ORG Färs & Frosta sparbank, Lund
+ORG SEB Lund
+ORG Nordea Lund
+ORG CA
+ORG Volksbank Schlangen
+ORG Landesbank Vorarlberg
+ORG VR Bank Neuwied/Linz eG
+ORG Vereinigte Sparkasse im MK
+ORG Untertürkheimer Volksbank
+ORG Volksbank Westerstede - Zweigstelle Halsbek
+ORG Raiffeisenbank Ransbach
+ORG Sparkasse Ransbach
+ORG Sparkasse Erzgebirge
+ORG Walter SparKasse
+ORG Südtiroler Sparkasse - Cassa di Risparmio di Bolzano
+ORG Raiffeisenkasse Überetsch - Cassa Raiffeisen Oltradige
+ORG Südtiroler Volksbank - Banca Popolare dell'Alto Adige
+ORG Kreissparkasse Traunstein
+ORG Ziraat Bank
+ORG Şekerbank
+ORG Sparkasse Kevelaer
+ORG Sparkasse Krefeld - Zweigstelle Löhstraße
+ORG BBBank eG
+ORG Hauptstelle Reichenbach
+ORG Castell-Bank
+ORG Volksbank eG; Köthen-Bitterfeld
+ORG VR-Bank Bad Kissingen-Bad Brückenau eG
+ORG Hallertauer Volksbank
+ORG Coop
+ORG Deizisauer Bank
+ORG Deutsche Volksbank
+ORG Sparkasse Ostholstein
+ORG VR-Bank Muldental
+ORG Freiberger Bank
+ORG Sparkasse Jerichower Land
+ORG Medische Centrum MCH
+ORG Raiffeisenbank Salgen
+ORG S-Shop, Sparkasse Krefeld
+ORG Volksbank - Königsallee
+ORG Hallifax
+ORG Volksbank Saarpfalz
+ORG Volks- und Raiffeisen Bank
+ORG Sparkasse Neustadt
+ORG CS Stäfa
+ORG Stadtsparkasse Bad Oeynhausen
+ORG Sparkasse Germersheim
+ORG VR-Bank Lech Zusam eG
+ORG SB-Bereich (Geldautomat & Kontoauszüge)
+ORG Sparkasse Bayreuth - Filiale Laineck
+ORG Sparkasse Bayreuth - Bad Berneck
+ORG Volksbank Zaisersweiher
+ORG Sparkasse Osterode am Harz
+ORG VR Bank Rhein Mosel
+ORG Sparkasse Filiale Wilnsdorf
+ORG Volksbank Leipzig
+ORG Volksbank Schorndorf
+ORG Kreissparkasse Schorndorf
+ORG Raiffeisenbank Anger
+ORG Die Sparkasse
+ORG Investitionsbank Schleswig-Holstein
+ORG KSK Mühlhofen
+ORG Deutsche Bank Polska
+ORG Sparkasse Neuss, Filiale Gnadental
+ORG VR Bank Iptingen
+ORG Sparkasse Sonneberg
+ORG Delbrück Bethmann Maffei
+ORG targobank
+ORG Förde-Sparkasse
+ORG Sparkasse Neuendettelsau
+ORG Sparkasse Eggelsberg
+ORG Volksbank Remscheid-Solingen eG
+ORG Raiffeisenbank Kirchdorf
+ORG AKB Mellingen
+ORG Stadt und Saalkreissparkasse Halle
+ORG Märkische Bank e.G.
+ORG Raiffeisenbank Bad Windsheim
+ORG Sparkasse Neuhaus
+ORG Dortmunder Volksbank
+ORG Kreissparkasse Calw
+ORG BW-Bank, Filiale Sommerrain
+ORG Sparkasse Günzburg-Krumbach, Geschäftsstelle Burtenbach
+ORG Zur Mühlenklause
+ORG OLB Nadorst
+ORG VR Bank München Land
+ORG Badstraße
+ORG Volksbank Nahetal
+ORG Gewerbebank
+ORG Dresdner Volksbank Raiffeisenbank eG
+ORG Volksbank Düsseldorf Neuss eG, Filiale Grevenbroich Neukirchen
+ORG Raiffeisenbank Hallertau e.G.
+ORG Raiffeisenbank Balzhausen
+ORG Kiosk
+ORG VR-Bank Rothenburg ob der Tauber
+ORG Sparkasse Iptingen
+ORG Raiffeisenbank Alsheim
+ORG VR Bank Pinneberg
+ORG VR Bank eG, Geschäftsstelle Stürzelberg
+ORG SPK
+ORG Unicredit
+ORG Sparkasse Lemgo - Filiale  Almena
+ORG Kreissparkasse Wesermünde-Hadeln Zweigstelle Osten
+ORG Volksbank Bonn Rhein-Sieg
+ORG Sparkasse Barnim
+ORG Raiffeisenbank Grimma
+ORG Sparkasse Muldental
+ORG Volksbank Emstal
+ORG Volksbank Prignitz
+ORG Volksbank Magdeburg
+ORG BSK Dillenburg
+ORG Emsländische Volksbank
+ORG Banca Popolare - Volksbank
+ORG Cassa di Risparmio - Sparkasse
+ORG BNL
+ORG BTB - Intesa Sanpaolo
+ORG Bank für Trient und Bozen - Banca per Trento e Bolzano
+ORG Sparkasse - Cassa di Risparmio
+ORG Raiffeisenkasse Bozen - Cassa Rurale Bolzano
+ORG Raiffeisenbank Emsland-Mitte
+ORG Sparkasse Sonnenschein
+ORG Volksbank Nabern
+ORG Volksbank Freiberg und Umgebung
+ORG VR-Bank Rhein-Erft
+ORG Sparkasse LBS
+ORG KSK Köln
+ORG Commerzbank Oldenburg
+ORG VR-Bank Steinlach-Wiesaz-Härten
+ORG Raiffeisen & Volksbank
+ORG Volksbank Emstal eG
+ORG Sparkasse Türkheim
+ORG Raiffeisenbank Türkheim
+ORG VR-Bank Südpfalz
+ORG Raiffeisenbank Gmund am Tegernsee eG
+ORG Volksbank Modau
+ORG Raiffeisenbank Vorderweißenbach
+ORG Fürstlich Castell'sche Bank
+ORG Sparkasse Uffenheim-Neustadt Aisch
+ORG LzO Nadorst
+ORG Sparkasse Vest Fil. Hötting
+ORG Volksbank "Hagem"
+ORG Sparkasse Bensheim
+ORG Takarékszövetkezet
+ORG VR Bank Hof
+ORG VR-Bank Dinkelsbühl
+ORG FIO
+ORG Sparkasse Beckum-Wadersloh
+ORG Mittelbrandenburgische Sparkasse - Golßen
+ORG Sparkasse Donnersberg
+ORG Volks u. Raiffeisenbank
+ORG Volksbank Unna
+ORG Obernheimer Bank
+ORG Sparkasse Wiesendangen
+ORG Sparkasse Crengeldanz
+ORG Obwaldner Kantonalbank OKB
+ORG Hamburger Volksbank eG
+ORG Sparkasse Konzell
+ORG Raiffeisen Konzell
+ORG Sparkasse Mittelmosel Eifel-Mosel-Hunsrück
+ORG Deutsche Bank Investment & FinanzCenter
+ORG Sparkasse Bommern
+ORG Volksbank Witten-Bochum
+ORG Westerwald Bank eG
+ORG Emsländische Volksbank eG
+ORG Schilling-Bank
+ORG Raiffeisenkasse Lana
+ORG Volksbank Paderborn
+ORG Volksbank Nürtingen-Kirchheim
+ORG Volksbank Göppingen e.G.
+ORG Mittelbrandenburgische Sparkasse in Potsdam
+ORG Sparkasse am Niederrhein
+ORG Lloyd's
+ORG Sparkasse Nürnberg Geschäftsstelle Burgthann
+ORG Ehinger Volksbank eG
+ORG Mercedes-Benz Bank
+ORG Volksbank Sulmtal
+ORG Raiffeisenbank Emsland-Mitte eG
+ORG Kreissparkasse Nürtingen
+ORG Sparkasse Mecklenburg
+ORG Sparkasse Nürnberg Geschäftsstelle Herpersdorf
+ORG Sparkasse Laubach-Hungen
+ORG Volksbank Brilon
+ORG Volksbank Kitzingen
+ORG Raiffeisen Volksbank Gundelfingen
+ORG Sparkasse Gundelfingen
+ORG Volksbank Oberberg
+ORG Raiffeinsenbank
+ORG Stadtsparkasse München (Neuaubing)
+ORG Kärntner Sparkasse
+ORG Müritzsparkasse
+ORG Volksbank Tweelbäke
+ORG Sparbanken Syd
+ORG Grün Anlagen GmbH
+ORG Kreissparkasse Tuttlingen
+ORG PKO
+ORG ČS
+ORG Zuger Kantonalbank
+ORG Sparkasse Markgräflerland
+ORG 1822 Frankfurter Sparkasse
+ORG Raiffeisenbank Ybbstal
+ORG VKB-Bank
+ORG Volksbank Süd-Emsland e.G.
+ORG Sparkasse Emsland
+ORG Sparkasse Niederbayern-Mitte
+ORG Orange
+ORG Volksbank Calw
+ORG Volksbank Dammer Berge eG
+ORG Spakrasse Vorwerk
+ORG Croatia banka
+ORG Sparkasse GF-WOB
+ORG Volksbank Wahrenholz-Hankensbüttel
+ORG Volks- und Raiffeisenbank Fürstenwalde Seelow Wriezen
+ORG Sparda-Bank München
+ORG Volksbank Schwarzwald-Neckar
+ORG Sparkasse Siegen ZS Eichen
+ORG Cassa Rurale
+ORG Volksbank Lette-Darup-Rorup
+ORG Sparkasse Mittelholstein
+ORG Genobank Stetten
+ORG Sparkasse Siegen ZS Fellinghausen
+ORG Syd Bank
+ORG Sparkasse Hauptstelle
+ORG Genossenschaftsbank
+ORG Sparkasse Freyung
+ORG Volksbank Freyung
+ORG Stadtsparkasse Wuppertal Steinbeck
+ORG Volksbank Eggolsheim
+ORG Kremserbank
+ORG Sparkasse Merig-Wadern (Bietzen)
+ORG Sparkasse Regen
+ORG Volksbank Harsewinkel eG
+ORG Raiffeisenbank Plasselb
+ORG Raiffeisenbank Warth
+ORG Raiffeisenbank Wahnbek
+ORG Taunus-Sparkasse Usingen
+ORG Nat West
+ORG Hanauer Sparkasse
+ORG Volksbank Solling eG
+ORG Volksbank Metzingen-Bad Urach
+ORG Volksbank Lingen eG
+ORG Raiffeisenbank Breitenbrunn
+ORG Stadtsparkasse Lengerich
+ORG Ostsee Sparkasse
+ORG DanskeBank
+ORG Uni Credit - Bank Austria
+ORG Volksbank Esslingen eG
+ORG Volksbank Bergstraße
+ORG Volksbank Main-Tauber
+ORG VR Bank Kitzingen
+ORG Heiligenstädter Bank
+ORG Graubündner Kantonalbank
+ORG KSK Esslingen-Nürtingen
+ORG Sparkasse, Großheubach Hauptstraße
+ORG VR-Bank Nürnberg
+ORG Raiffeisen-Volksbank Röllbach
+ORG Sparkasse Röllbach
+ORG Sparkasse Drusenberg
+ORG Postbank-Finanzcenter
+ORG Cheltenham & Gloucester
+ORG Metro Bank
+ORG Northern Rock
+ORG Sparkasse Lichtenau
+ORG Spardaka Reken
+ORG Sparkasse Reken
+ORG Brandenburger Bank (Volksbank)
+ORG Raiffeisenbank Thalfingen
+ORG Volksbank Raiffeisen
+ORG National-Bank AG
+ORG Spar und Darlehnskasse Lamstedt Hechthausen
+ORG Merkur Bank
+ORG HypoVereinsbank Hauenstein
+ORG Volksbank Hauenstein
+ORG Filiale Neuwerkstraße
+ORG VR-Bank Mittelsachsen eG  Geschäftsstelle Lichtenberg
+ORG Voba Hohenneuffen
+ORG Raiffeisenbank Lehen
+ORG Sparkasse Lehen
+ORG Sparkasse - Immobilien
+ORG Sparkasse Tauberbischofsheim
+ORG Kreissparkasse Ostalb‎
+ORG Bred
+ORG Volksbank Enger-Spenge eG
+ORG Erfurter Bank eG
+ORG Volksbank Jebenhausen
+ORG Volksbank Kur- und Rheinpfalz
+ORG OLB Filiale Borkum
+ORG Volksbank Otzberg eG
+ORG Raiba Obersulmetingen
+ORG Volksbank Winsener Marsch eG
+ORG Volksbank Müllheim
+ORG VR-Bank Langenau-Ulmer Alb eG
+ORG BCN
+ORG lloyds
+ORG PKO Bank Polski
+ORG PKO SA
+ORG Bank Gospodarki Żywnościowej SA
+ORG Bank PEKAO SA
+ORG Volksbank Worpswede Geschäftsstelle Hüttenbusch
+ORG Spakasse Goskar/Harz
+ORG Volksbank Heilbronn
+ORG Besmer Bootswerft
+ORG Sachsenbank
+ORG MVB Mainzer-Volksbank
+ORG Sparkasse Hauptgeschäftsstelle Ratingen
+ORG Kreissparkasse Neunkirchen
+ORG Raiffeisenbank Bedernau
+ORG VR Bank Rhein-Mosel e.G.
+ORG Kreissparkasse Börde
+ORG Kreissparkasse  Wiedenbrück
+ORG Sparkasse - Reinhäuser Landstraße
+ORG Bank PKO SA
+ORG Eurobank
+ORG ING Bank Śląski
+ORG Polbank
+ORG Bank Ochrony Środowiska SA
+ORG Neobank
+ORG GETIN Bank SA
+ORG Prima Banka
+ORG Volksbank Jever eG
+ORG Sparkasse Mecklenburg-Nordwest
+ORG Commerzbank, Filiale Düsseldorf-Benrath Hauptstraße
+ORG Sparkasse Oberhessen
+ORG VR Volksbank
+ORG Ev. Kreditgenossenschaft
+ORG Kreissparkasse Düren
+ORG Sparkasse Nürnberg Geschäftsstelle Vorra
+ORG Raiffeisenbank Aschberg
+ORG Deutsche Bank Filiale Bismarckplatz
+ORG Kreissparkasse Ludwigsburg, Filiale Erdmannhausen
+ORG readybank
+ORG Sparkasse ALK
+ORG Volksbank Visbek eG
+ORG Volksbank Lüneburg eG
+ORG Volksbank - Holtenser Berg
+ORG Schleswiger Volksbank
+ORG Volksbank Münsingen
+ORG Sparkasse Innstadt
+ORG Raiffeisenbank Pfaffenhausen
+ORG Sparkasse, ZwSt. Pfaffenhausen
+ORG Kreissparkasse Herzogtum Lauenburg - Filiale Mölln
+ORG Raiffeisenbank Carolinensiel
+ORG Banque Populaire Rives De Paris
+ORG Volksbank Heiningen
+ORG Sparkasse H-R-V
+ORG Sparda-Bank Hessen eG
+ORG Sparkasse Neuss
+ORG Kreissparkasse Schweinfurt
+ORG Sparkasse Filiale Willich
+ORG Sparkasse Nürnberg Geschäftsstelle Winkelhaid
+ORG Sparkasse Vorpommern Filiale Sellin
+ORG Sparkasse Langen Seligenstadt
+ORG Raiffeisen- Volksbank
+ORG Sparkasse Worms-Alzey-Ried
+ORG Sparkasse Heilbronn
+ORG Raiffeisenbank Völs
+ORG Volksbank-Heuchelheim
+ORG Raiffeisenbank Heising
+ORG Genossenschaftsbank Unterallgäu
+ORG DiBa
+ORG Volksbank Wonnegau Worms
+ORG Sparkasse Landau
+ORG Spk Celle Filiale Klein Hehlen
+ORG Volksbank Breisgau-Nord
+ORG Sparkasse Freiburg-Nördlicher Breisgau
+ORG Bad Vilbeler Volksbank - BVB
+ORG Sparkasse Fürth
+ORG Frankfurter Sparkasse, Filiale Bad Vilbel
+ORG Sparkasse Segeberg
+ORG Enztalbank Riet
+ORG Sparkasse Rammingen
+ORG Raiffeisenbank Rammingen
+ORG VR-Bank-Saarpfalz eG
+ORG Aargauer Kantonalbank
+ORG Sparkasse Annen
+ORG reddybank
+ORG Sparkasse Homburgische Gemeinden
+ORG ABN Amro Bank
+ORG Sparkasse Freiburg
+ORG Volksbank Breisgau Nord
+ORG Volksbank Lahr
+ORG Bank of China
+ORG Hagnauer Volksbank
+ORG HBL
+ORG Sparkasse Herbede
+ORG Volksbank Butzbach
+ORG Volksbank Baden-Baden-Rastatt
+ORG Commerzbank Bamberg
+ORG Raiffeisenbank Tussenhausen
+ORG Sparkasse Tussenhausen
+ORG Sparkasse Nürnberg Geschäftsstelle Altdorf
+ORG Sparkasse Eppishausen
+ORG Raiffeisenbank Eppishausen
+ORG Raiffeisenbank Rohrendorf
+ORG Raiffeisenbank Haindorf
+ORG Raiffeisenbank Zaisertshofen
+ORG Abtsgmünder Bank
+ORG Volksbank Odenwald eG
+ORG BGL - Agence du Kirchberg
+ORG Sparkasse Kulmbach
+ORG Westerwald Bank
+ORG Volksbank Kurpfalz H+G Bank
+ORG Raiffeisenbank, Bürgstadt
+ORG Kreissparkasse Hannover
+ORG Volksbank Raiffeisenbank Itzehoe
+ORG Raiffeisenbank Hausen
+ORG Raiffeisenbank Bibertal-Kötz Geschäftsstelle Bühl
+ORG UBS AG
+ORG Raiffeisenbank Vordersteinenberg
+ORG Sparkasse Neuwied Zweigstelle Niederbieber
+ORG Volksbank Koblenz Mittelrhein eG
+ORG VR Bank Neuwied-Linz eG Zweigstelle Niederbieber
+ORG Vadian Bank
+ORG Sparkasse Vorpommern Filiale Binz
+ORG VR-Bank Nordrhön eG
+ORG Geno-Bank Kirchheim
+ORG Sparkasse Kirchheim
+ORG vr bank Südthüringen
+ORG Volksbank Rüsselsheim
+ORG Hallertauer Volksbank, Filiale Rohrbach
+ORG Wüstenrot-Service-Center Feucht
+ORG DHB Bank
+ORG Santander Consumer
+ORG Norwich & Peterborough
+ORG National Westminster
+ORG Santander Consumer Bank, Filiale Neuss
+ORG Raika Meiselding
+ORG Volksbank eG Minden-Hille-Porta
+ORG NF Bank
+ORG Sparkasse Salzweg
+ORG Sparkasse Kleve-Kellen
+ORG BHF-Bank
+ORG HSBC Trinkaus
+ORG Raifeisenbank Salzweg
+ORG Volksbank Ostholstein-Nord
+ORG Volksbank Eutin
+ORG Sparkasse Uelzen Lüchow-Dannenberg
+ORG Volksbank Uelzen Salzwedel
+ORG The co-operative bank
+ORG Raiffeisenbank Aare-Rhein Koblenz
+ORG Multibank
+ORG Sparkasse Bochingen
+ORG Volksbank Bochingen
+ORG SGB
+ORG Banque Populaire Rive de Paris
+ORG PSD Bank Berlin Brandenburg eG
+ORG Ziraat Bank International
+ORG Raiffeisenbank Haselbach
+ORG Sparkasse Hauzenberg
+ORG Sparkasse Rastatt Gernsbach Geschäftsstelle Hilpertsau
+ORG Sparkasse Bautzen
+ORG Sparkasse Ammendorf
+ORG NORDEA
+ORG Volksbank Hunsrück
+ORG Raiba Schiedlberg
+ORG Caisse d'Épargne - Villers Clairlieu
+ORG Altbacher Bank
+ORG Stadtsparkasse Cuxhaven
+ORG Raiffeisenbank Offingen
+ORG Sparkasse Nürnberg Geschäftsstelle Henfenfeld
+ORG Volksbank eG Bremerhaven-Cuxland
+ORG Volksbank Raiffeisenbank eG Itzehoe
+ORG Raiffeisenbank eG Wehrheim
+ORG Picasso Haus
+ORG Landesbausparkasse
+ORG Raiffeisenbank Werratal-Landeck eG
+ORG Sparkasse Anholt
+ORG Volksbank eG Bremerhaven-Cuxland, Geschäftstelle Bexhövede
+ORG VR Bank Schwalm-Eder
+ORG Raiffeisenbank Waldviertel Mitte
+ORG Sparkasse Waldviertel Mitte
+ORG Sparkasse Langenlois
+ORG Caixa Geral de Depósitos
+ORG Volksbank Hohenneufen
+ORG Volksbank Donau-Neckar
+ORG Raiffeisen Capital Management
+ORG RV-Bank
+ORG Raiffeisenbank Grödig
+ORG Salzburger Sparkasse Bank AG
+ORG Volksbank Rhein-Lippe e.G.
+ORG Verbands-Sparkasse Wesel
+ORG Raifeissenbank
+ORG Ge Money Bank
+ORG Raiffeisenbank Oberegg
+ORG Sparkasse Worms
+ORG Sparkasse Aurich-Norden Filiale Greetsiel
+ORG Ostfriesische Volksbank Geschäftsstelle Greetsiel
+ORG Sparkasse Neubrandenburg-Demmin
+ORG Berliner Commerzbank
+ORG VR Bank Schwäbisch Hall
+ORG Sparkasse Kitzingen
+ORG VR Bank Weimar eG
+ORG Sparkasse Seelbach
+ORG Sparkasse Dieburg - Geschäftsstelle Lengfeld
+ORG Volksbank Immenstadt
+ORG Caisse d'Epargnes de Siviriez
+ORG Raiffeisenbank Brückl-Eberstein
+ORG Vakif Bank
+ORG Volksbank Boppard
+ORG Sparkasse Gartenstadt
+ORG Nord-Ostsee Sparkasse SB Center
+ORG Wiener Neustädter Sparkasse
+ORG Bank BZ WBK
+ORG Volksbank Neunkirchen
+ORG Raiffeisen Bank Liezen
+ORG BiznisDom
+ORG Sparkasse Burhafe
+ORG Kreissparkasse Zweigstelle Dornhan
+ORG Volksbank Rottweil Zweigestelle Dornhan
+ORG Raiffeisen-Volksbank Burghausen
+ORG Raiffeisenbank Klagenfurt
+ORG Sparkasse Rhein Neckar Nord
+ORG Banca Popolare Di Sondrio
+ORG Citybank
+ORG Volksbank Gronau
+ORG Sparkasse Nürnberg Geschäftsstelle Rückersdorf
+ORG Gewerbebank Neuendettelsau
+ORG Evang. Kreditgenossenschaft
+ORG Geschäftsstelle Ottensoos
+ORG Volksbank Dünnwald-Holweide
+ORG Crédit immobilier de France
+ORG Immoprêt
+ORG Volksbank Castrop-Rauxel
+ORG Deutsche Bank, Investment + FinanzCenter
+ORG Volksbank Ahrbrück
+ORG Müritz Sparkasse
+ORG LZO-Filiale Boitwarden
+ORG Sparkasse Krefeld (Vorst)
+ORG Volksbank Milland
+ORG Volksbank Geest
+ORG Kreissparkasse Stade
+ORG SSKBO Filiale Neustadt
+ORG Raiffeisenkasse Steinhaus
+ORG KSK Zweigstelle
+ORG PSD Bank Nord eG
+ORG Volksbank Baden e.Gen.
+ORG Pommersche Volksbank/EC-Automat
+ORG SNS Winkel
+ORG Volksbank Vinckeplatz
+ORG Volksbank Lüneburger Heide eG
+ORG Volksbank Viersen
+ORG Volksbank Amrum
+ORG Kantonalbank Luzern
+ORG HYPO NÖ
+ORG Raiffeisen Volksbank Neukirchen
+ORG PSK im ADEG
+ORG Urner Kantonalbank
+ORG Sparkasse Nürnberg Geschäftsstelle Moorenbrunn
+ORG Raifeisenbank schweinfurt
+ORG Volksbank Worms-Wonnegau eG
+ORG Caixa geral de depositos
+ORG La Banque Postale
+ORG Sparkasse OS Filiale Hellern
+ORG Volksbank Winnenden
+ORG Sparkasse am Niederrhein (Vluyn)
+ORG Raiffeisenkasse Lichtenau
+ORG Raiffeisenbank Erkelenz
+ORG RAIFFEISEN Le Mouret
+ORG VR-Bank Riedlhütte
+ORG Stadtsparkasse KölnBonn
+ORG Kreissparkasse Grafschaft Bentheim zu Nordhorn
+ORG C&G
+ORG Sparkasse EC
+ORG Pojišťovna
+ORG Raika Sankt Stefan
+ORG Raiffeisenbank Helfenberg
+ORG Sparkasse Helfenberg
+ORG Volkbank Raiffeisen
+ORG HSBC Paris Vaugirard
+ORG Bankhaus C. L. Seeliger
+ORG Pekao S.A.
+ORG Raiffeisenbank Teufenbach
+ORG Sparkasse Bayreuth - Trebgast
+ORG BNP Parisbas Fortis
+ORG Deutsche Bank Privat- und Geschäftskunden AG
+ORG Sparkasse Burbach-Neunkirchen
+ORG Volksbank Kinzigtal
+ORG BRE Bank
+ORG Deutsche Bank Investment & FinanzCenter Kamp-Lintfort
+ORG SZKB
+ORG Volksbank Ettlingen
+ORG Ostfriesische Volksbank
+ORG ING Bank
+ORG Fionabank
+ORG Nordfynsbank
+ORG Belfius Chasse - Belfius Jacht
+ORG Stadtsparkasse Wuppertal Filiale Hammerstein
+ORG Raiffeisenbank Apetlon
+ORG Sparkasse Wrestedt
+ORG Kreissparkasse Rhein-Pfalz
+ORG Volksbank Allgäu-West
+ORG Sparkasse Fröndenberg
+ORG Sparkasse Merzig-Wadern
+ORG easy credit
+ORG Oyak Anker Bank
+ORG Sparkasse Ziltendorf
+ORG Sparkasse Brieskow-Finkenheerd
+ORG Schilling Bank
+ORG Noris Bank
+ORG Raiffeisenbank Jungfrau
+ORG Stadtsparkasse Schwalmstadt
+ORG Agence BNP Paribas Poitiers Hôtel de Ville
+ORG Geldautomat
+ORG Raiffeisenbank Purgstall
+ORG Volksbank Berlin
+ORG Volksbank Bautzen
+ORG HSBC Premier
+ORG Kreissparkasse Peine - Ilsede
+ORG Banque Tarneau
+ORG Volksbank Hohenlohe
+ORG Volksbank Vahrn
+ORG Sparkasse Krefeld (Marktstraße)
+ORG Landeskreditkasse
+ORG Credit Societe Generale
+ORG Sparkasse Ochsenfurt
+ORG Citi Financial
+ORG Citibank Handlowy
+ORG Freiberger Bank eG Volks- u. Raiffeisenbank
+ORG Volksbank Hohenneuffen eG
+ORG WIR Bank
+ORG Bankhaus August Lenz
+ORG Sparkasse Radolfzell
+ORG VR-Bank Schwalm-Eder
+ORG Kreissparkasse Schwalm-Eder
+ORG Stadtsparkasse Felsberg
+ORG Volksbank Göppingen
+ORG Banque Raiffeisen de la Broye
+ORG BPH
+ORG VR Bank eG, Geschäftsstelle Holzheim
+ORG BNP Paribas Fortis Namur-Nord
+ORG Raffeisen
+ORG Volksbank Rureifel
+ORG Recordbank
+ORG Graubünden Kantonalbank
+ORG Raiffeisenbank Markt Rettenbach
+ORG Volksbank Wonnegau
+ORG VR Bank Hessenland e.G.
+ORG Volksbank-Raiffeisenbank Döbeln eG
+ORG Sparkasse Markt Rettenbach
+ORG Raiffeisen Bank zRt.
+ORG OTP Bank Zrt.
+ORG Gallinat-Bank
+ORG Echterdinger Volksbank
+ORG Vermögensanlage Center
+ORG Volksbank Uckermark
+ORG Delta lloyd Bank
+ORG Verbandssparkasse
+ORG Rottaler Raiffeisenbank
+ORG Kreissparkasse Rottweil
+ORG LBS Kunden-Center
+ORG Raiffeisenbank Weiden eG
+ORG Volksbank Nordmünsterland
+ORG Raiffeisenbank Thayatal Mitte
+ORG Sparkasse Winzerhausen
+ORG Volksbank Winzerhausen
+ORG Filiale Falkenstein
+ORG Raiffeisenkasse Neusiedl a.d. Zaya
+ORG Argenta Armo
+ORG Sparkasse Winzer
+ORG Post - Postbank
+ORG VR-Bank Zweigstelle Hügelsheim
+ORG Sparkasse Aschaffenburg-Alzenau Filiale Kahl
+ORG Bank PKO BP
+ORG Volksbank Haltern eG
+ORG Sparkasse Altmark West
+ORG Sparkasse Altmark-West
+ORG Raiffeisenbank Zorneding e.G.
+ORG Volksbank Niederrhein (Traar)
+ORG Volksbank Mundelsheim
+ORG Sparkasse Osnabrück, Filiale Kalkhügel
+ORG Volksbank Oldenburg Geschäftsstelle Edewecht
+ORG Volksbank Clenze-Hitzacker
+ORG Banque Scalbert Dupond
+ORG VR-Bank Werneck
+ORG Volksbank Stromberg-Neckar
+ORG PSD
+ORG Volksbank Münster eG
+ORG Sparkasse Allgäu, Geschäftsstelle Kempten/St. Mang
+ORG Volksbank Krefeld
+ORG Raiffeisenbank Willisau
+ORG UniCredit Bank Austria AG
+ORG Volksbank (selbsbediehnungsfiliale)
+ORG Österreichische Nationalbank
+ORG Sparkasse Vierkirchen
+ORG Sparkasse Zwickau, Zweigstelle Lichtentanne
+ORG LBS Sparkasse
+ORG Crédit Agricol
+ORG Wartburg-Sparkasse Eisenach Nord
+ORG Raiffeisenbank Oberkammlach
+ORG Sparkasse Unterkammlach
+ORG Raiffeisenbank Unterkammlach
+ORG Sparkasse Breitenbrunn
+ORG VR-Bank Pfaffenhausen
+ORG GENO BANK ESSEN
+ORG Grafschafter Volksbank eG
+ORG Kreissparkasse Bad Bentheim
+ORG Sparkasse Heringen (Werra)
+ORG VR-Bank Bad Hersfeld-Rotenburg eG
+ORG Raiffeisenbank Birmensdorf
+ORG Sparkasse Filiale Sulzbach
+ORG Targobank (Duisburg Rheinhausen)
+ORG Ing-DiBa
+ORG Rheinland-Pfalz Bank
+ORG Readybank
+ORG Sparkasse Krefeld, Private Banking Center
+ORG Spielbank
+ORG Kreisspaarkasse Düsseldorf
+ORG Sparkasse UnnaKamen
+ORG VR Gewerbebank
+ORG Sparkasse Lehrberg
+ORG Bank-Schilling
+ORG Weberbank
+ORG Sparkasse Vest Recklinghausen Geschäftsstelle Hamm
+ORG Sylter Bank eG
+ORG Sparkasse Gallneukirchen
+ORG Rüsselsheimer Volksbank eG
+ORG Sparkasse Lippstadt
+ORG VR Bank Schweinfurt
+ORG V+R Böklund
+ORG L-Bank, Staatsbank für Baden-Württemberg
+ORG VR Bank Pinneberg eG
+ORG Banca di Trento e Bolzano
+ORG Raiffeisenbank Ronshausen-Marksuhl
+ORG Posojinica Bank
+ORG Co-op
+ORG Raiffeisenbank Bad Doberan Filiale Rerik
+ORG Volksbank für die Süd- und Weststeiermark
+ORG Santander Bank Lünen
+ORG KSK
+ORG Volksbank Ruhr
+ORG Volksbank Alstedde
+ORG Sparkasse Gernsbach Nord
+ORG Axa twv
+ORG Sparkasse zu Lübeck - Geschäftsstelle Moislinger Allee
+ORG Kreissparkasse Mundelsheim
+ORG Volksbank Speyer - Nord
+ORG Crédit Social des Fonctionnaires
+ORG Oldenburgische Landesbandk
+ORG Sparkasse Filiale Oppum
+ORG Sparkasse Rastatt-Plittersdorf
+ORG NASPA Finanz-Center Oberursel
+ORG MoneyGramm
+ORG Volksbank Sulzfeld
+ORG Stadort Entlebuch
+ORG Open Finance
+ORG Lukas Bank
+ORG Kredyt Bank
+ORG NeoBank
+ORG CityBank Handlowy
+ORG Wielkopolski Bank Kredytowy
+ORG Bank Pocztowy
+ORG SKOK Stefczyka
+ORG Lukas Centrum Kredytowe
+ORG Noble Bank
+ORG Sparkasse Essen - Filiale Margarethenhöhe
+ORG Raiffeisenbank Glattbach
+ORG Kreissparkasse Stade, Geschäftsstelle Freiburg/Elbe
+ORG Volksbank Kehdingen, Filiale Freiburg/Elbe
+ORG Genobank Rhön-Grabfeld eG
+ORG Komerční Banka
+ORG Kreissparkasse Westerwald
+ORG Nordea Bank
+ORG Raiffeisen-Volksbank Erlangen-Höchstadt eG Verwaltung
+ORG Bank SGB
+ORG Dortmunder Volksbank eG Möllerbrücke
+ORG VKB Filiale Linz-Urfahr
+ORG Volksbank Düren
+ORG Saar Bank
+ORG Sparkasse Nürnberg Geschäftsstelle Hartmannshof
+ORG Deutsche Bank Investment & FinanzCenter Rastatt
+ORG Sparkasse Schweinfurt -Deutschhof
+ORG Volksbank Ottersdorf
+ORG Raiffeisenbank Ravensburg
+ORG Sparkasse Ravensburg
+ORG Sparkasse Rastatt-Ottersdorf
+ORG Volksbank Franken
+ORG St. Galler Kantonalbank
+ORG Yorkshire Building Society
+ORG Volksbank Deisslingen eG
+ORG LzO Colnrade
+ORG Rottaler Raiffeisenbank eG
+ORG Sparkasse am Niederrhein (Poststraße)
+ORG Norisbank Eisenach
+ORG Volksbank Achern
+ORG Kundenzentrum Schottengasse
+ORG Sparkasse Mittleres Erzgebirge
+ORG Sparkasse Horgen
+ORG Raiffeisenbank Buchbach-Schwindegg eG
+ORG Raiffeisen-Volksbank Isen-Sempt
+ORG Raika Oggau
+ORG Oesterreichische Kontrollbank AG
+ORG Mainzer Volksbank eG
+ORG BKB
+ORG Commerzbank HH-Hoheluft
+ORG Raiffeisen Neumarkt
+ORG Volksbank Hamm/Sieg
+ORG VR Bank Nordeifel eG
+ORG VR-Bank Passau eG
+ORG Deutsche Postbank AG
+ORG Kreissparkasse Deisslingen
+ORG Sparkasse Nürnberg Geschäftsstelle Thon
+ORG Banque Populaire Rives de Paris
+ORG BBBank eG Erlangen
+ORG HypoVereinsBank
+ORG Wartburg Sparkasse
+ORG Sparkasse Vorderpfalz
+ORG ZKB Rotkreuz
+ORG Raiffeisenbank Bergdietikon
+ORG Santandar
+ORG Zweigstelle Alfeld
+ORG Geschäftsstelle Alfeld
+ORG Deutsche Bank der Zukunft
+ORG MBank
+ORG Sparkassa
+ORG VR Bank Wipfeld
+ORG Sparkasse Euren
+ORG Bankhaus Carl F. Plump & Co.
+ORG Volksbank Nordheide e.G.
+ORG Kreissparkasse Harburg
+ORG Reisebank
+ORG Sparkasse Schaumburg
+ORG Volksbank Feldatal
+ORG Filiale Rieth
+ORG Sparkasse Zimmerberg
+ORG LBS
+ORG Raiffeisen-Bank
+ORG Nord-Ostsee-Sparkasse
+ORG Banque CIC (Suisse)
+ORG AIG Bank
+ORG DB Kredyt
+ORG neoBank
+ORG Polsba SGB Consulting
+ORG GBW SA
+ORG Ludowy Bank Spółdzielczy
+ORG CityBank
+ORG Volksbank Mitte eG
+ORG Geschäftsstelle Südstrand
+ORG Sparkasse Vorpommern Filiale Sassnitz-Lancken
+ORG DVB Bank SE
+ORG Nationale Suisse
+ORG Raiffeisen-Volksbank Saale-Orla eG
+ORG Bank BS w Brodnicy/Bankomat
+ORG Agencja PKO BP
+ORG BPH (male)?
+ORG Volksbank Wittingen-Klötze
+ORG Ing Bank
+ORG Pocztowy
+ORG Euronet
+ORG Invest Bank
+ORG PKOBP
+ORG Bank Nordea
+ORG Bankomat BGZ
+ORG Bankomat Invest-Bank
+ORG Volksbank Krefeld e.G.,  Zweigstelle Ritterstraße
+ORG Rheingauer Volksbank
+ORG Volksbank Schmallenberg
+ORG Sparkasse Schmallenberg
+ORG VR-Bank Neuwied-Linz Geschäftsstelle Unkel
+ORG Liga-Bank
+ORG Sparkasse am Niederrhein (Vennikel)
+ORG Märkische Bank
+ORG Volksbank Hankensbüttel-Wahrenholz eG
+ORG VR-Bank Alb
+ORG Sparkasse Zwst. Moosen
+ORG Sparkasse Günzburg-Krumbach
+ORG Sparkasse, Grüna
+ORG Volksbank, Grüna
+ORG Agencja PKOBP
+ORG BGŻ (Bank w Polomarkecie)
+ORG Bank Spółdzielczy (ATM+Bank)
+ORG Bank Spółdzielczy (Bank+ATM)
+ORG Bank Zachodni WBK
+ORG Pekao SA (ATM+Bank)
+ORG PKOBP (ATM+Bank)
+ORG Dominet Bank (ATM+Bank)
+ORG VR-Bank Rottal-Inn eG
+ORG Raiffeisen-Volksban
+ORG Zwickauer Sparkasse
+ORG Raiffeisenbank Hefenhausen
+ORG Volksbank Oberwinden
+ORG VR-Bank Ellwangen
+ORG KrSpk Altenkirchen
+ORG Raiffeisenbank Marktheidenfeld eG
+ORG Salzburger Sparkasse
+ORG Sparkasse Staufen
+ORG FHB Bank
+ORG Cassa Rurale di Tenno e Val di Non
+ORG Stadtsparkasse Wunstorf
+ORG VR Bank HessenLand
+ORG Vereinigte Volksbank AG
+ORG Sparkasse Gesmold
+ORG Kasa Stefczyka
+ORG SKOK Kopernik
+ORG Sparkasse Stade-Altes Land
+ORG Bezirkssparkasse Uster
+ORG SBG
+ORG Sparkasse Pforzheim Calw
+ORG Bopflinger Bank Sechta-Ries
+ORG Sparda-Bank Münster
+ORG Citi-Bank
+ORG Sparkasse Frankenstein
+ORG Volksbank Erzgebirge
+ORG Landbouwkrediet
+ORG Sparkasse Steinweg
+ORG Sparkasse - Geschäftsstelle Kalthof
+ORG HSBC - King's Reach
+ORG Spk Hochsauerland
+ORG Kreissparkasse Saarpfalz Geschäftsstelle Einöd
+ORG Sparda-Bank Geldautomat
+ORG VR Rhein-Neckar eG
+ORG Volksbank Osnabrück eG
+ORG Volksbank Bruchsal-Bretten
+ORG VR Bank Naila
+ORG Wüstenrot Bausparkasse AG Service-Zentrum
+ORG Geldautomat Sparkasse
+ORG Raiffeisenbank Vellberg-Großaltdorf
+ORG UBS Düdingen
+ORG Raiffeisenbank Alterswil
+ORG VR-Bank Hunsrück-Mosel eG
+ORG Schillingbank
+ORG Sparkasse Arnsberg Sundern
+ORG SOBA
+ORG Volksband Raiffeisenbank
+ORG Volksbank Oberberg eG
+ORG Münchener Bank
+ORG Kreissparkasse Mayen
+ORG VoBa RheinAhrEifel
+ORG Volksbank RheinAhrEifel
+ORG VR-Bank Hof/Syrau
+ORG Bank für Trient und Bozen
+ORG Korber Bank
+ORG FKB
+ORG Creditplus
+ORG Raiffeisenbank Ronshausen
+ORG Raiffeisenbank Senden
+ORG Raiba Schrozberg Rot am See eG
+ORG HYPO Landesbank
+ORG Raiffeisenbank St. Margarethen
+ORG ATM Postbank
+ORG Sparkasse Dassow
+ORG Caisse d'Épargne - Gestion Privée
+ORG Deutsche Bank SB-Banking
+ORG Hypo Salzburg
+ORG Sparkasse Bad Tölz
+ORG Volksbank Walterplatz
+ORG Volksbank Süd Emsland
+ORG Sparkasse Nürnberg Geschäftsstelle Lauf Altdorfer-Straße
+ORG Volksbank Mönchengladbach
+ORG ReiseBank AG
+ORG Commerzbank (ex SchmidtBank)
+ORG Kreissparkasse Saale-Orla, Filiale Eiskellerplatz
+ORG Kreissparkasse Saale-Orla, Filiale Markt
+ORG Commerzbank Cham
+ORG Natwest
+ORG Westerholt auf der Heide
+ORG Genobank
+ORG Swedbank
+ORG easyCredit
+ORG SB-Center Grau-Rheindorf
+ORG Spar- und Leihkasse zu Bredstedt AG / SB-Zweigstelle
+ORG Coutts
+ORG Sparkasse Weidenthal
+ORG Augusta-Bank eG Raiffeisen-Volksbank
+ORG Sparkasse zu Oldenburg
+ORG Sparkasse Lechbruck
+ORG Volksbank Heiligenstadt
+ORG Volksbank Grefrath
+ORG Raiffeisenbank Biesenfeld
+ORG Credit du nord
+ORG VakifBank
+ORG Sparkasse Duisburg (Asterlagen)
+ORG Sparkasse Trier Filiale
+ORG Hauptsparkasse
+ORG Augsburger Aktienbank
+ORG Poste des Salines
+ORG Banca Raiffeisen Engadina Val Mustair
+ORG Sparkasse Ernstbrunn
+ORG Raiffeisenbank Ernstbrunn
+ORG Volks und Raifeisenbank
+ORG InvestBank
+ORG Volksbank Heiden
+ORG ING-kantoor
+ORG Credito Valtellinese
+ORG Volksbank - Sollingstraße
+ORG Sparkasse SB Pavillon (Geldautomat)
+ORG Sparkasse (Geldautomat)
+ORG Volksbank an der Niers
+ORG SB-Stelle
+ORG Volksbank Ebensee
+ORG Sparkasse Espelkamp
+ORG VR -Bank
+ORG Banque cantonale de Fribourg (Bourg)
+ORG Volksbank Wilferdingen-Keltern
+ORG Reifeisenbank
+ORG Community Bank
+ORG Raiffeisenbank Bad Abbach-Saal, GS Am Neuen Markt
+ORG Raiffeisenbank Grevenbroich, Hauptstelle
+ORG Volksbank Anholt
+ORG Volks- und Raiffeisenbank Geschäftsstelle Naunhof
+ORG Gries & Heissel Bankiers
+ORG VR Bank Westthüringen eG
+ORG Nationwide Building Society
+ORG K&H Bank Ajtósi Dürer sor
+ORG Bank BZ Wbk
+ORG Bank Pekao Sa
+ORG Bank PKO Sp
+ORG Filiale Umformtechnik
+ORG Sparkasse Koblenz-Arzheim
+ORG Privatbank Spängler
+ORG Česká Spořitelna
+ORG UniCredit bank
+ORG Volksbank Fischbach
+ORG Sparkasse Terlan
+ORG Kreissparkasse St. Wendel - Geschäftsstelle Tholey
+ORG Sankt Wendeler Volksbank e.G. - Filiale Tholey
+ORG Volksbank Braunschweig Wolfsburg
+ORG Crédit Coopératif
+ORG Turkish Bank
+ORG Sparkasse Renchen
+ORG AEK Hünibach
+ORG Raiffeisenbank i. Südl. Bayerischen Wald
+ORG Volksbank Deißlingen eG
+ORG Volksbank Main-Tauber e.G.
+ORG Sparkasse Syke Zweigstelle Varrel
+ORG Kreissaprkasse
+ORG Volksbank Geschäftsstelle Bremervörde
+ORG V+R Bank Biedenkopf-Gladenbach
+ORG Sparkasse Leipzig Filiale Delitzsch-Mitte
+ORG Kreis-Sparkasse Northeim
+ORG UBS Peseux
+ORG Raiffeisenbank Pasnaun
+ORG Raiffeisenbank Hengersberg
+ORG JB
+ORG BW Bank Filiale Birkach
+ORG Volksbank Jever, Geschäftsstelle Wangerooge
+ORG Volksbank Marsberg
+ORG Sparkasse Werra-Meißner
+ORG Swedbank Vellinge
+ORG VR Bank Rhein-Neckar
+ORG Sparda Bank Völklingen
+ORG Holland Financial Centre
+ORG BEKB
+ORG Kreis- und Stadtsparkasse Wasserburg am inn
+ORG Spar- und Darlehnskasse
+ORG Brühler Bank
+ORG Sparkasse Altenbochum
+ORG Volksbak Rhein Sieg
+ORG Sparkasse Hamm
+ORG Sparkasse Scheeßel
+ORG Caisse d'épargne
+ORG Raiffeisenbank eG
+ORG Raiffeisenbank Kastellaun eG
+ORG Banka Chantunela
+ORG BPS
+ORG Raiffeisen-Volksbank eG
+ORG Raiffeisen-Volksbank eG Großefehn
+ORG Sparkasse Nußberg
+ORG Prignitzer Leasing AG
+ORG Kreissparkasse Kassel
+ORG Sparkasse Ostgroßefehn
+ORG Volksbank Meschede
+ORG Easy Credit
+ORG Sparkasse am Markt
+ORG Bank für Trient und Bozen - Banca di Trento e Bolzano
+ORG SB Filiale Sparkasse
+ORG Sparkasse Sillian
+ORG Raiffeisenbank Sillian
+ORG BB-Bank Anlageberatung
+ORG PSK Bank
+ORG Sparkasse Wiedenest
+ORG Bankstelle Mösbach
+ORG Bankhaus Dr. Masel AG
+ORG Raiffeisenbank Naarn
+ORG Sparkasse, Geschäftsstelle Nord
+ORG Norwich and Peterborough Building Society
+ORG Sparkasse Siegfriedstraße
+ORG Volksbank Dill eG
+ORG Sparkasse Dillenburg
+ORG Sparkasse Rinchnach
+ORG Heidenheimer Volksbank eG
+ORG Volksbank Rhein-Ruhr eG (Wanheimerort)
+ORG Crédit Mutuel Horizon
+ORG Raiffeisenbank Kleinwalsertal
+ORG VR Bank Gottfrieding
+ORG Agence Louvre
+ORG Agence de Paris Louvre Conseil
+ORG Sparkasse Einsingen
+ORG Volkswagen Bank direkt
+ORG Scheldeland
+ORG VR-Bank Wasseralfingen
+ORG Raika Kritzendorf
+ORG Deutsche Bank Crimmitschau
+ORG Volksbank Chemnitz EG
+ORG Commerzbank Crimmitschau
+ORG Kreissparkasse Verden - Filiale Bassen
+ORG Volksbank Hohenzollern
+ORG Raiffeisenbank Dobl
+ORG Sparkasse Riezlern
+ORG Kasseler Sparkasse Zweigstelle Brasselsberg
+ORG Volksbank Halle eG
+ORG Hypo Tirol Bank, Geschäftsstelle Mayrhofen
+ORG Volksbank Tirol Innsbruck-Schwaz, Filiale Mayrhofen
+ORG GenoBank DonauWald
+ORG Sparkasse Lauenau
+ORG VR Lech-Zusam
+ORG Sparkasse Thierstein
+ORG BEKB BCBE
+ORG Raifeisenbank Mindelzell
+ORG Société Générale Bourse
+ORG Vereinigte Volksbank eG
+ORG VR-Bank Rhein-Mosel
+ORG Kölner Bank eG
+ORG RABOBANK
+ORG Kreissparkasse LB
+ORG Volksbank Betzweiler
+ORG Raiffeisenbank Isar-Loisachtal eG
+ORG Axa Banque
+ORG Targo-Bank
+ORG Clos Gaultier
+ORG Raiffeisenbank Kissing-Mering
+ORG Stadtsparkasse Düsseldorf Geschäftsstelle Lörick
+ORG Sparkasse Ostunterfranken, Filiale Königsberg
+ORG Raiffeisen-Volksbank, Filiale Königsberg
+ORG Bank Frei
+ORG Valiant Bank Bremgarten
+ORG Schoeller Bank
+ORG Stadtsparkasse Bad Sachsa
+ORG Reifeisenbank Pfaffenwinkel
+ORG Santander Bank, Filiale Benrath
+ORG Cassa rurale d'Anaunia
+ORG Raiffeisenbank Gföhl
+ORG Raiffeisenbank Weissacher Tal
+ORG Uetikon am See
+ORG Sparkasse Attendorn
+ORG BHF Bank
+ORG UBI Banca
+ORG Volksbank Seesen
+ORG Volksbank Spremberg
+ORG Volksbank Attendorn
+ORG Volksbank Mölln
+ORG Coop Bank
+ORG UBS AG Tellplatz
+ORG Sparda Bank Münster eG
+ORG Sparkasse Eglseer Straße
+ORG Santander Totta
+ORG Kreis-Sparkasse
+ORG Volksbank Bad Eilsen
+ORG Volksbank Elsterland
+ORG Skipton
+ORG Volksbank Glatten-Wittendorf eG‎
+ORG Kreissparkasse Mayen-Koblenz
+ORG SpaDaKa Börde Lamstedt-Hechthausen
+ORG direktanlage.at AG
+ORG Sparkasse Marburg-Bidenkopf
+ORG Volksbank Kehdingen eG
+ORG Volksbank Rot
+ORG Raiffeisenbank Wakendorf II
+ORG Volksbank Delitzsch
+ORG Sparkasse Vorderpfalz, Geschäftsstelle "Im Vogelgesang"
+ORG Banque Populaire - Rives de Paris
+ORG Attijariwafa
+ORG ING Lombard
+ORG Geldautomat VR / KSK
+ORG Deutsche Bank Immobilien
+ORG Sparkasse Stockach
+ORG Sparkasse MM-MN-LI, Geschäftsstelle Lindau-Reutin
+ORG Kantonalbank OB
+ORG Fortis bank
+ORG Märkische Bank eG
+ORG Privatbank cvw
+ORG Sparkasse Leer Wittmund
+ORG Bank Spółdzielczy
+ORG BKCP
+ORG Volksbank Bigge-Lenne
+ORG Stadtsparkasse Porta Westfalica
+ORG Volksbank Bad Oeynhausen-Herford eG
+ORG Raiffeisenbank Großhabersdorf-Roßtal eG
+ORG BNP Parisbas
+ORG Hypothekarbank Lenzburg AG
+ORG ABN-AMRO
+ORG Volksbank Raiffeisenbank Itzehoe eG
+ORG Slovenská záručná a rozvojová banka
+ORG Banque Dexia
+ORG Banque de Bretagne
+ORG Volksbank Müllheim e.G.
+ORG Kreissparkasse Pattonville
+ORG Post Shop
+ORG Sparkasse Nürnberg Geschäftsstelle Katzwang
+ORG Sparkasse Forchheim
+ORG Kreissparkasse Cäcilienbrunnenstr.
+ORG Volksbank Untere Saar eG
+ORG Raiffeisen Naturns
+ORG Norderstedter Bank
+ORG Clientis Bank Thur
+ORG Sparkasse Kochstedt
+ORG Vereinigte Volksbank eG Limburg Zweigstelle Eschhofen
+ORG KSK Kirchberg
+ORG Volksbank Kirchberg
+ORG Sparkasse Dinslaken Voerde Hünxe
+ORG Presse- und Tabakshop Höhne
+ORG Landbank Horlofftal
+ORG Sparkasse Vest Redcklinghausen
+ORG Raiffeisenbank Heilsbronn
+ORG Sparkasse Köln-Bonn
+ORG Sparkasse Selbitz
+ORG Bred / Banque Populaire
+ORG Sparkasse Kundl
+ORG Raiba Rottumtal
+ORG Banque Palatine
+ORG sensio
+ORG SB VR-Bank
+ORG VR-Bank Lech-Zusam eG Handels- und Gewerbebank
+ORG Stadtsparkasse Grebenstein
+ORG Raiffeisenbank Radenthein
+ORG Volksbank Radenthein
+ORG Sparkasse Mertesdorf
+ORG Postbank Agentur
+ORG Sparda-Bank Hessen
+ORG KBC Bank
+ORG BOŚ Bank
+ORG RaiffeisenVolksbank eG Merkendorf
+ORG Volksbank Euskirchen e.G.
+ORG Sparkasse West
+ORG Volksbank Helmstedt
+ORG Privredna banka Zagreb (PBZ)
+ORG Augusta-Bank eG Geschäftsstelle Rosenstraße
+ORG Međimurska banka
+ORG Sparkasse Nürnberg Geschäftsstelle Reichelsdorf
+ORG Sparkasse Aachen mobil
+ORG Rottaler Volksbank-Raiffeisenbank
+ORG Norwich & Peterborough Building Society
+ORG Europabank
+ORG Sparkassa Real Klagenfurt
+ORG Raiffeisen Bezirksbank
+ORG Raiffeisen Leasing
+ORG Sparkasse Münsterland-Ost
+ORG Sparkasse Trebsen
+ORG Investitions- und Strukturbank Rheinland-Pfalz (ISB) GmbH
+ORG WestImmo
+ORG ISB
+ORG ING bank
+ORG Dettinger Bank
+ORG SPRL J.L. Roman
+ORG Raiffeisenbank Rohr
+ORG Frank Dielis
+ORG Raiffeisen banka
+ORG Targo Bank Bamberg
+ORG OLB Friedrichsfehn
+ORG Kreis- und Stadtsparkasse Kaufbeuren
+ORG Metro
+ORG Bank Raiffeisenbank
+ORG Posojilnica
+ORG Raiffeisenbank Pondorf
+ORG Clientis Bank Leerau
+ORG Sparkasse Hanauerland Filiale Rheinbischofsheim
+ORG Kreissparkasse Geschäftsstelle Tacherting
+ORG RVB Fresena
+ORG Jyske Sparekasse
+ORG Raiffeisenbank Bruck EG
+ORG Volksbank Oberberg Beratungszentrum
+ORG Banco Santander Totta
+ORG Banca Popolare del'Alto Adige
+ORG Banca San Paolo
+ORG Volksbank Mehr
+ORG Sparkasse Mehr
+ORG Kreissparkasse Weilburg
+ORG Crédit Agricole Rouffach
+ORG Raiffeisenbank See-Lac Agence Courtepin
+ORG Stadtsparkasse Mönchengladbach Geschätsstelle Holt
+ORG Bank Gbw
+ORG Bank Sgb
+ORG BPE
+ORG Volksbank Hunsrück eG
+ORG Raiffeisenbank Oberrieden
+ORG Landessparkasse zu Oldenburg Zetel
+ORG Oldenburgische Landesbank Filiale Zetel
+ORG Vereinte Volksbank
+ORG Sparkasse Hohenlohekreis
+ORG Volksbank Allgäu-West eG
+ORG Raiffeisenbank Rupertiwinkel
+ORG VR-Bank Fläming eG
+ORG Volksbank Kaiserslautern, Volks- und Raifeisenbank Westpfalz
+ORG Sparekassen Sjælland
+ORG Bank Austria Creditanstalt
+ORG Sparkasse Geschäftsstelle Tiefenbroich
+ORG Wartburg-Sparkasse
+ORG Raifeisenbank Inwil
+ORG OBERBANK
+ORG ING Bank Slaski
+ORG Volksbank-Raiffeisenbank Westerwald eG
+ORG Volksbank Weilheim
+ORG VR Bank Burglengenfeld
+ORG Commerzbank Filiale Burglengenfeld
+ORG Sparkasse Dirlewang
+ORG Raiffeisenbank Haslach
+ORG Audi Bank
+ORG Clientis Sparkasse Sense
+ORG Oberbank AG
+ORG VKB Kundenforum
+ORG VBK
+ORG Sparkasse Nürnberg Geschäftsstelle Rudolfshof
+ORG Volksbank Hohenneuffen
+ORG Volksbank Jever Filiale Neustadtgödens
+ORG Sparkasse Geschäftsstelle Hösel
+ORG Raiffeisenbank Stollhof
+ORG Raiffeisenbank Weikersdorf
+ORG ABK
+ORG ING Uccle-Coghen
+ORG BNP Paribas Fortis Altitude 100
+ORG BNP Paribas Fortis Brugmann
+ORG Raiffeisen-Volksbank Zetel
+ORG Sparkasse Nürnberg Geschäftsstelle Pommelsbrunn
+ORG Millenium
+ORG Banque Populaire Rouffach
+ORG SK Eifel Mosel Hunsrück
+ORG Sparkasse Erzgebirge Filiale Schlettau
+ORG Volksbank Dornstetten e.G.
+ORG Mecklenburgische Versicherungen
+ORG Ľudová banka
+ORG FETE Geschenk und Partyartikel
+ORG VR Föhr-Amrumer Bank eG
+ORG Kreis-und Stadtsparkasse
+ORG Aussichtsturm
+ORG Unicredit Banca
+ORG Targobank AG & Co. KGaA
+ORG Sparkasse Nürnberg Geschäftsstelle Buchenbühl
+ORG Volksbank Main-Tauber eG
+ORG Stuttgarter Volksbank - Geschäftsstelle Heslach
+ORG BKS Bank AG
+ORG RAIBA HÖRBRANZ
+ORG NLB d.d.
+ORG Sparkasse Filiale Saarner Kuppe
+ORG Crédit Agricole d'Île-de-France
+ORG TargoBank
+ORG Kreissparkasse Bautzen
+ORG Volksbank Rhein-Wupper
+ORG Föhr-Amrumer Bank (VR)
+ORG Nord-Ostsee Sparkasse Filiale Wyk
+ORG Agence Pascal Lemoine
+ORG LLoyds
+ORG Bred Banque Populaire
+ORG Crédit agricole
+ORG Crédit Lyonnais
+ORG BPO Ouest
+ORG Crédit Mutuel enseignant
+ORG VR-Bank Neuwied-Linz eG
+ORG Sparkasse Traben-Trarbach
+ORG Föhr-Amrumer Bank
+ORG Sparkasse Irrel
+ORG BMCE Bank
+ORG Leeds Building Society
+ORG Landsberg-Ammersee-Bank
+ORG Kreissparkasse Soltau
+ORG Sparkasse Mittelmosel - Eifel Mosel Hunsrück
+ORG Sparkasse Nürnberg Geschäftsstelle Friedrich-Ebert-Platz
+ORG Volksbank Wetzlar / Weilburg
+ORG Raiffeisen Sparkasse
+ORG Geschäftstelle Augustusburg
+ORG Raiffeisenkasse Bergheim
+ORG Raiffeisenbank Maihingen
+ORG Volksbank-Raiffeisenbank Kreis Rendsburg eG
+ORG VR Bank - HessenLand eG
+ORG SOFINCO
+ORG Volksbank Allgäu West e.g.
+ORG BNP Fortis Paribas Laeken
+ORG Sparkasse Haslach Zell
+ORG Kreissparkasse Südholstein
+ORG Grazer Wechselseitige
+ORG Citibank Uccle
+ORG Ostsächsische Sparkasse
+ORG Volksbank Heuberg
+ORG Crédit Agricole Alsace Vosges
+ORG Phönix
+ORG Volksbank Aschendorf
+ORG Raiffeisenbank Floß eG
+ORG Volksbank Nordoberpfalz eG
+ORG Nord LB
+ORG Deuschte Bank
+ORG MagNet Bank
+ORG Dr. Klein
+ORG VR-Bank Nordeifel eG
+ORG Raiffeisenbank Unterwesterwald e. G
+ORG PEKAO SA
+ORG Raiffeisenbank Achemühle
+ORG Sparkasse Achemühle
+ORG Geschäftstelle Lahstedt
+ORG banc cantonale du jura
+ORG Sparkasse Detmold Filiale Lage Hardisser Straße
+ORG Raiffeisen-Volksbank Horsten eG
+ORG Sparkasse Horsten
+ORG Volksbank Peine eG - Ilsede
+ORG Dithmarscher Volks - und Raiffeisenbank eG
+ORG Brühler Bank eG
+ORG PBK
+ORG Banque
+ORG Ostsächische Sparkasse Dresden
+ORG Volksbank Pirna
+ORG Raiffeisenbank Uehlfeld-Dachsbach eG
+ORG Südtiroler Sparkasse
+ORG Kreissparkasse Dillingen
+ORG Virgin Money
+ORG Telekom-Shop
+ORG Exchange AG
+ORG Volksbank Neuffen
+ORG VB Euskirchen
+ORG Raiffeisenkasse Mutters
+ORG Vereinigte Raiffeisenbanken
+ORG Raiffeisenbank Weißenburg-Gunzenhausen eG
+ORG Zenith Bank
+ORG Bank aek
+ORG Volksbank Bakum eG
+ORG Sparkasse OPR
+ORG Volksbank Bigge-Lenne eG
+ORG BNP Paribas Fortis Basilique
+ORG Commerzbank Attendorn
+ORG Volksbank Grönebach
+ORG KBC Molenbeek Turn & Taxis
+ORG ING Tour & Taxis
+ORG Banque de La Poste - Bank van De Post
+ORG Sparkasse Velde
+ORG Raiffeisenbank Oberdrautal-Weissensee
+ORG Banque Cantonale du Jura
+ORG Sparkasse Pfullendorf-Meßkirch
+ORG Sparkasse Au
+ORG Volksbank Echte
+ORG HypoVereinsbank - UniCredit Bank AG
+ORG VR-Bank Neuwied-Linz
+ORG Le Crédit Lyonnais
+ORG Bausparkasse Wüstenrot
+ORG Volksbank Landeck
+ORG Raiffeisenbank Maria Schmolln
+ORG Kreissparkasse Stade / Filiale Schwinge
+ORG Stadtsparkasse Rahden
+ORG Volksbank Rahden
+ORG Volksbank Kur- und Rheinpfalz eG, Geschäftsstelle Im Erlich
+ORG VR Bank Main-Kinzig
+ORG Volksbank Salzburg
+ORG Sparkasse Barnim Geschäftsstelle Westend
+ORG Dexia BIL
+ORG Raiffeisenbank Herzogsdorf
+ORG P.S.K.
+ORG Lech-Ammerseebank
+ORG Cassa Rurale Val di Fassa e Agordino
+ORG Volksbank Nagoldtal
+ORG BNP Paribas Fortis Jette
+ORG Punkt Kasowy Łącznik
+ORG Sparda-Bank SB-Center
+ORG Sparkasse Landsberg
+ORG Raiffeisenbank Lichtenfels Itzgrund eG
+ORG SKOK
+ORG VR-Bank Passau, Geschäftsstelle Haidenhof
+ORG LIGA Bank
+ORG Kreissparkasse Augsburg - Leitershofen
+ORG Illertisser Bank Au
+ORG OYAK ANKER Bank
+ORG Raiffeisenbank Wesermarsch Süd eG
+ORG Volksbank Zwgst. Täbingen
+ORG W&W
+ORG Raiffeisenbank, Filiale Hacklberg
+ORG Hüttenberger Bank eG
+ORG Rabobank de Leijstroom
+ORG Volksbank-Raifeisenbank
+ORG Sparkasse Ilfeld
+ORG LBS Neuss
+ORG Sparkasse Reisholz
+ORG Raiffeisenbank Greding-Thalmässing GS Alfershausen
+ORG Sparkasse "Neue Zeit"
+ORG Raiffeisenbank Sankt Veit im Mühlkreis
+ORG Raiffeisenkasse Partschins
+ORG SB-Center
+ORG FIO Banka
+ORG Sparkasse Uckermark
+ORG Neo Bank
+ORG Lucas Bank
+ORG Freiburger Kantonalbank
+ORG Erzgebirgssparkasse, Filiale Thum
+ORG Illertisser Bank Jedesheim
+ORG Sparkasse Kulmbach-Kronach - Wonsees
+ORG Vest Fyns Bank
+ORG K&H Nyugati tér
+ORG Sparkasse Neckartal-Odenwald
+ORG Volks-u.Raiffeisenbank
+ORG Raiffeisenbank Lutzerather Höhe
+ORG Volksbank Ebingen Aussenstelle Oststadt
+ORG K & H Bank
+ORG RVB
+ORG Sparkasse Effelder
+ORG Volksbank / Reifeisenbank
+ORG Julius Bär
+ORG Spar nord
+ORG Svenska Handelsbanken AB
+ORG Allied Irish Bank
+ORG Belfius Brugge Sint-Andries
+ORG Raiffeisen Rebstein
+ORG SSK
+ORG GWK Travelex
+ORG SB-Stelle Volksbank und Kreissparkasse
+ORG Belfius Louvain-la-Neuve
+ORG VR Bank Steinlach-Wiesaz-Härten eG
+ORG Evangelische Darlehnsgenossenschaft eG
+ORG Meritum Bank
+ORG Volksbank Lüneburger Heide e.G.
+ORG GetInBank
+ORG AIG
+ORG Volksbank u. Raiffeisenbank
+ORG Bankhaus Krentschker
+ORG Volksbank Griesheim
+ORG Frankfurter mSparkasse 1922
+ORG Filiale Thalmassing
+ORG Sparkasse - Geschäftsstelle Köln-Vingst
+ORG Raiffeisen Volksbank Ebersberg
+ORG Walliser Kantonalbank
+ORG Sparkasse Südtirol
+ORG HypoVereinsbank Garching
+ORG Sparkasse Goslar
+ORG Volksbank Lübeck
+ORG Sparkasse Erlau
+ORG Volksbank Börssum Hornburg
+ORG BPI
+ORG UBS Campus Bank
+ORG Filiale Baumbach
+ORG Filiale Altmorschen
+ORG LZO
+ORG Kulmbacher Bank eG
+ORG Hypobank AG
+ORG Volksbank Überherrn
+ORG Raiffeisenbank Maxglan-Siezenheim
+ORG Volksbank Freiberg
+ORG Sparkasse Altmoschen
+ORG Sparkasse Bayreuth - Roter Hügel
+ORG Raiffeisenbank Thalgau
+ORG Volksbank Gnigl
+ORG Die Ostfriesische
+ORG Lienhardt & Partner Privatbank Zürich
+ORG UCB
+ORG Fortis Paribas
+ORG Unicredit Hypoverein
+ORG AEK
+ORG Kreissparkasse Sparkasse Kelheim
+ORG Vereinigte Volksbank e.G.
+ORG Stadtsparkasse Lechhausen-Ost
+ORG Sparkasse Leonding
+ORG SB-Center der Sparda-Bank West eG
+ORG Sparkasse Bad-Ischl
+ORG Bodenseebank
+ORG Oberbank Leonding
+ORG Steiermaerkische Sparkasse
+ORG Vogtlandsparkasse
+ORG Sparkasse Bayreuth - Glocke
+ORG Raiffeisenbank Steyregg
+ORG Banque & Caisse d'Epargne de l'Etat
+ORG Landes-Hypothekenbank Steiermark AG.
+ORG Ceska
+ORG Raifeisenbank Illertal AG
+ORG Psk Bank
+ORG Volksbank Weitmar-Mark
+ORG Bawag P.S.K
+ORG Volksbank Gerstetten
+ORG Sparkasse in Westerstetten
+ORG Volksbank Steißlingen
+ORG Spar Nord
+ORG Sparkasse in Altheim
+ORG Stadtsparkasse Freiburg
+ORG Landsberg-Ammersee Bank
+ORG Raiffeisenbank Mauterndorf
+ORG Sparkasse Neutraubling
+ORG Sparkasse Lingen "Am Markt"
+ORG BHW
+ORG Millennium Przedsiębiorstwa
+ORG Millenium Bank
+ORG Bankomat BZ WBK
+ORG Frankenberger Bank
+ORG Sparkasse Kühnhaide
+ORG BHW - Postbank
+ORG Sparkasse Barbing
+ORG KBC BANK DILSEN
+ORG Bvba Bema Financial Services
+ORG KBC BANK DILSEN-ROTEM
+ORG BNP Paribas Fortis Dilsen
+ORG LBS-Bausparkasse
+ORG Crédit Foncier
+ORG Raiffeisenbank Kirchheim
+ORG Sparkasse Grüner Markt
+ORG VR Bank Main-Kinzig-Büdingen
+ORG Volksbank Saarlouis
+ORG Volksbank Lingen
+ORG Deutsche Bank PBC
+ORG AKB
+ORG Cassa Rurale Tuenno - Val di Non
+ORG Banca di Sondrio
+ORG Raiba Donaumooser Land e.G.
+ORG Sparkasse Neuburg-Rain
+ORG Banque Kolb
+ORG Banca Popolare del Trentino
+ORG Cassa Rurale di Tuenno - Val di Non
+ORG Banca Fideuram
+ORG Bovio Calderari
+ORG Sparkasse Bergisch Born
+ORG Volksbank Lüneburger Heide
+ORG Raiffeisen Volksbank eG Firrel
+ORG VR Bank Würzburg
+ORG Raiffeisenbank Sankt Antoni
+ORG Sparkasse Verden
+ORG Svendborg Sparekasse
+ORG Commerzbank AG Filiale Coburg
+ORG Volksbank Nordschwarzwald eG
+ORG Totalbanken
+ORG Sparkasse Hochschwarzwald
+ORG Pojišťovna Kooperativa
+ORG Alm. Brand Bank
+ORG s Bausparkasse
+ORG SPARKASSE
+ORG sparkasse
+ORG VR-Bank Selb
+ORG Bank Winter
+ORG Kreditbanken
+ORG Volksbank Wiesloch
+ORG Beratungszentrum Annweiler
+ORG HypoVereinsbank Annweiler
+ORG Raiffeisen Bank Széna tér
+ORG FHB Bank Széna tér
+ORG Augusta-Bank Geschäftsstelle Bobingen
+ORG OSPA
+ORG Sparkassen Faaborg
+ORG HYPO
+ORG Sparkasse Detmold Filiale Marktplatz
+ORG Sparda-Bank (in der Lahnhofpassage)
+ORG Volksbank Halle Saale
+ORG Freie Hypo
+ORG VR-Bank NordRhön eG
+ORG Hypo Tyrol Bank
+ORG Skok Stefczyka
+ORG Sparkasse Tauber-Franken
+ORG Sparkasse Coburg - Lichtenfels
+ORG GetinBank
+ORG Groß-Gerauer Volksbank
+ORG Gabler-Saliter-Bank
+ORG Vestfyns Bank
+ORG VR-Bank-Nordrhoen
+ORG Volksbank Hannover eG
+ORG Volksbank-Raiffeisenbank Büdelsdorf
+ORG SaarLB - Landesbank Saar
+ORG Citi Handlowy
+ORG Euro Bank SA
+ORG Raiffeisenbank Ursberg
+ORG Sparkasse Neckarelz
+ORG Sparkasse Ursberg
+ORG Volksbank Oldenburg
+ORG VR Bank Main-Tauber
+ORG AXA Banque
+ORG Van Lanschot Bankiers
+ORG Flemløse Sparekasse
+ORG Getin Noble Bank SA
+ORG Volksbank Mittweida eG
+ORG Sparda-Bank Nürnberg eG
+ORG Sparkasse Neu-Ulm Offenhausen
+ORG Sparkasse Thierhaupten
+ORG Sparda-Bak Südwest
+ORG BEKB Steffisburg
+ORG Crédit Immobilier de France
+ORG Marsh
+ORG Crédit Mutuel de La Wantzenau
+ORG Spar- und Kreditbank eG
+ORG Agence Pont de Sèvres
+ORG SKOK Piast
+ORG LBS Immobilien GmbH Immobilien
+ORG Sparkasse Viechtach
+ORG Sparkasse Tennenbronn
+ORG Sparkasse Bludenz
+ORG Volksbank Tennenbronn
+ORG Handelsbanken
+ORG Seelow (Mark)
+ORG Kreissparkasse Falkenberg
+ORG Bonnfinanz
+ORG BHW / Postbank
+ORG Sparkasse Traisen
+ORG Raiffeisenbank Neumarkt
+ORG Citi Bank
+ORG NBB + MBG
+ORG Stadtsparkasse Ludwigshafen
+ORG Sparkasse Allendorf
+ORG Volksbank Rehren
+ORG BNP-Paribas Fortis
+ORG Vestjysk Bank
+ORG BNP Paribas Porte d'Orleans 14e
+ORG Raiffeisenbank Wienerwald
+ORG Deutsche Banl
+ORG Sparkasse Königstor
+ORG Raiffeisen Landesbank Steiermark
+ORG LLB Geschäftsstelle Schaan
+ORG Volksbank Mindener Land
+ORG Raika Brixlegg
+ORG ING Bank Hungary
+ORG BNP
+ORG BNP Paribas Fortis Neerpelt
+ORG Sparkasse Rolfshagen
+ORG Sparkasse GS Twist-Siedlung
+ORG Agence Boulogne Pont de Sèvres
+ORG Banque Populaire Val de France
+ORG Sparkasse aktiv Shop
+ORG UBS Ins
+ORG Raiffeisenbank Mühlbach
+ORG Raiffeisenbank Widnau
+ORG Raiffeisen Bezirksbank Oberwart
+ORG VR-Bank Bonn eG
+ORG VVB Vereinigte Volksbank Maingau
+ORG natwest
+ORG Commerzbank Selbitz
+ORG Sparkasse Nürnberg Geschäftsstelle Laufamholz
+ORG Stadtsparkasse Kaikenried
+ORG LBS Sparkassen
+ORG VR Bank Südpfalz
+ORG Volksbank Raiffeisenbank eG
+ORG Raiffeisenbank Oberpfalz Süd
+ORG Reise Bank
+ORG Fortis-Bank
+ORG Delcroix Ervinckx sprl
+ORG VR Bank Rosenheim-Chiemsee eG
+ORG KSK Wesermünde-Hadeln
+ORG Kasseler Bank SB
+ORG Sparkasse Nürnberg Geschäftsstelle Oberferrieden
+ORG Raiffeisenbank Sonnenwald eG
+ORG Raiffeisenbank Hauptgeschäftsstelle Edling
+ORG Raifeisen
+ORG Volksbank Warburgerland eG
+ORG Volksbank Eisenach
+ORG Stuttgarter Volksbank Geschäftsstelle Rotebühlstraße
+ORG Fio banka
+ORG Pinte
+ORG Valliantbank
+ORG Volksbank Raiffeisenbank Dentlein
+ORG Sparkasse Dentlein
+ORG Sparkasse Bisperode
+ORG Volksbank am Ith
+ORG KBC Tielt
+ORG KBC Ruiselede
+ORG Sparkasse Vermögensanlage Center
+ORG acrevis
+ORG Sparkasse Pucking
+ORG Sparkasse Schwegenheim
+ORG easyCredit shop
+ORG Bank PKO
+ORG Centea Tielt
+ORG Finanz-Center Wiesbaden-Klarenthal
+ORG Zagrebačka banka
+ORG Pommersche Volksbank eG
+ORG Raiffeisenbank Oberes Rheintal
+ORG Raiffeisenbank Straß
+ORG Hypo-Salzburg
+ORG Banque populaire Val de France
+ORG Sparkasse Fladungen
+ORG Sparkasse Roth Allersberger Straße(Mittelfranken-Süd)
+ORG Raiffeisenbank Kemeten
+ORG VR-Bank Rothenburg o. d. Tbr. eG Zweigstelle
+ORG Commerzbank Filiale Solingen
+ORG Commerzbank Essen-Werden
+ORG Sparkasse im Landkreis Cham
+ORG Bank Julius Bär
+ORG Sparkasse (Zweigstelle)
+ORG DC Bank
+ORG Stadtsparkasse Hamm
+ORG Raiffeisenbank Axams-Grinzens
+ORG RAIKA
+ORG Record bank
+ORG EEK
+ORG Raiffeisenbank St. Bartholomä
+ORG Geschäftsstelle Kelsterbach - An der Friedrichshöhe
+ORG Raiffeisenbank Engelburg
+ORG Sparkasse OS, Filiale Nahne
+ORG Sparkasse Lemgo (Hauptstelle)
+ORG Sparkasse Wesermünde-Hadeln
+ORG Sparkasse Bovenden
+ORG BTB - Banca di Trento e Bolzano
+ORG Volksbank Kehlen
+ORG Commerzbank Schwelm
+ORG Raiffeisenbank Küps-Mitwitz-Stockheim eG
+ORG Sparkasse Kulmbach-Kronach
+ORG Stadtsparkasse Schwelm
+ORG OLB - Oldenburgische Landesbank
+ORG Sparkasse Nürnberg Geschäftsstelle Behringersdorf
+ORG Pekao
+ORG Volksbank Wittlich
+ORG Sparkasse Eifel Mosel Hunsrück
+ORG Öffentliche Versicherung
+ORG Ostharzer Volksbank
+ORG Sparkasse in Neuhausen
+ORG RAIBA
+ORG Raiffeisenbank Unterpremstätten
+ORG Steiermärkisch Bank
+ORG KBC Bank Lendelede
+ORG ING Belgien - Zweigstelle Unterstadt
+ORG Sparkasse Bodensee Filiale Meckenbeuren-Kehlen
+ORG Volksbank Bremerhaven-Cuxland
+ORG Raiffeisenbank Uttendorf
+ORG Raiffeisenbank Tölzer Land eG
+ORG Sparkasse Stulln
+ORG Sparkasse Mansfeld Südharz Fiale Hettstedt
+ORG Raiffeisenbank Gars
+ORG Sparkassengeschäftsstelle Südstadt
+ORG Sparkassengeschäftsstelle Bredenscheid
+ORG Sparkassengeschäftsstelle Niederwenigern
+ORG Sparkassengeschäftsstelle Holthausen
+ORG Sparkassengeschäftsstelle Winz-Baak
+ORG SB-Center im Evangelischen Krankenhaus
+ORG SB-Center am Reschop Carré
+ORG Sparkasse Meitingen
+ORG Sparkasse Aachen, Gst Konzen
+ORG BNP Paribas Fortis - Namur-Carmes
+ORG Sparkasse Ammersricht
+ORG SB-Filiale Schozach
+ORG Ethias
+ORG Sparkasse Nürnberg Geschäftsstelle Gaismannshof
+ORG KBC Bank & Versicherung
+ORG Bank Spółdzielczy w Chojnowie
+ORG Volksbank Scheffau
+ORG Raiffeisenbank Scheffau
+ORG Credit Suisse Bank
+ORG VR-Bank Geschäftsstelle Fahrnau
+ORG Raiffeisenbank Prinzersdorf
+ORG Santander-Bank
+ORG Märkische Bank, Geschäftstelle Loxbaum
+ORG Raiffeisenbank Waltenschwil
+ORG Raiba Hochneukirchen
+ORG Raiffeisenbank Großmugl
+ORG Sparkasse Ettmannsdorf
+ORG Raiffeisenbank Ettmannsdorf
+ORG Degussa Bank Zweigstelle Stockhausen
+ORG Crédit Agricole Nord de France
+ORG Bank Ochrony Środowiska
+ORG Volksbank im Märkischen Kreis
+ORG Commerzbank Lüdenscheid
+ORG Fortis Bank
+ORG BNP Paribas Fortis - Namur-Centre
+ORG SB-Zweigstelle der Raiffeisenbank Kissing-Mering eG
+ORG Raiffeisenbank Büttikon
+ORG Sparkasse Nürnberg Geschäftsstelle Maximilianstraße
+ORG Rheingauer Volksbank eG
+ORG Volksbank-Raiffeisenbank Illerbeuren
+ORG Raiffeisenbank Kürten-Odenthal
+ORG BNP paribas fortis
+ORG Spakasse Bregenz
+ORG Bensberger Bank
+ORG Keytrade Bank SA - Keytrade Bank NV
+ORG PKO BP S. A. Oddział w Książu Wielkopolskim
+ORG Nidwaldner Kantonalbank
+ORG KBC Banque & Assurance
+ORG KBC Koolskamp
+ORG Genossenschaftsbank eG München
+ORG Banque Populaire Lorraine Champagne
+ORG Volks und Raiffeisen Bank
+ORG ING Lendelede
+ORG Filiale Stadtsparkasse Augsburg
+ORG Volkbank Düsseldorf Neuss eG
+ORG Sparkasse Köln Bonn
+ORG Kreissparkasse Peine Geschäftsstelle Vöhrum
+ORG Bündner Kantonalbank
+ORG Volksbank Neu-Ulm / Raiffeisenbank Senden
+ORG Sparkasse Neu-Ulm/Illertissen
+ORG Volksbank Dreieich eG
+ORG Fintro - AG Insurance Rudy Ghysels
+ORG BNP Parabis Fortis
+ORG Sparkasse Großbothen
+ORG Wüstenrot Bausparkasse
+ORG Banques Populaires
+ORG Crédit Agricole D'Ile De France
+ORG VR Bank im Einzkreis eG
+ORG Raiffeisen Düdingen
+ORG Volks- und Raiffeisenbank Ismaning e.G. Zweigstelle Garching
+ORG Monte Paschi
+ORG Sparkasse Gellenbeck
+ORG Raiffeisenbank Tannheimertal
+ORG Cafpi
+ORG Volksbank - Backhausstraße
+ORG BNP Baribas Fortis
+ORG Bank Austria.
+ORG CBC Bank & Versicherung
+ORG CPH
+ORG LB BW
+ORG Volksbank Fürstenwalde
+ORG Sparkasse Illerrieden
+ORG ABN Amro Amstelveenseweg
+ORG Bernerlandbank
+ORG Kreissparkasse Burgenlandkreis
+ORG Sparkasse Kastel
+ORG Raika Ungenach
+ORG BKCP Wallonie
+ORG AXA Bank Eupen
+ORG Reifeisenbank Rhein-Berg
+ORG Kreissprakasse
+ORG Sparkasse Geilenkirchen
+ORG Stadtsparkasse Herdecke
+ORG Banca Cantunala
+ORG Lån & Spar Bank
+ORG Lloyds TSB Covent Garden
+ORG Clientis Sparcassa 1816
+ORG Naionwide Building Society
+ORG Volksbank Schwarzwald-Neckar eG
+ORG Sparkasse Ulm, Geschäftsstelle Regglisweiler
+ORG Raiffeisen Bank Prambachkirchen
+ORG VR-Bank Zwiesel
+ORG Sparkasse Regen-Viechtach, Filiale Zwiesel
+ORG Filiale Obergrochlitz
+ORG Filiale Sachswitz
+ORG Filiale Mohlsdorf
+ORG Volksbank Halle (Saale) eG
+ORG UBS, Allschwil
+ORG Volksbank Gütersloh eG
+ORG Sparkasse und Volksbank
+ORG SNS
+ORG La Caisse d'Epargne
+ORG Sofinco
+ORG Sparkasse Finnentrop
+ORG Volksbank Raiffeisenbank Rosenheim-Chiemsee eG Geschäftsstelle Rosenheim Kufsteiner Straße
+ORG Sparbanken Öresund
+ORG Raiffeisenbank Mittleres Unterinntal
+ORG Volksbank Sprakensehl
+ORG Goffin - Western Union
+ORG Sparkasse Grettstadt
+ORG Kreisparkasse Weilburg
+ORG Fintro Van Heghe
+ORG Volksbank (Betreuungszentrum)
+ORG Volksbank Raiffeisenbank Mangfalltal Rosenheim eG Geschäftsstelle Raubling
+ORG Sparkasse Tandern
+ORG Bawag
+ORG Raiffeisenbank Calden
+ORG Fintro Ciney
+ORG Bred Suresnes Jardins
+ORG PKO BP SA
+ORG VR Bank Filiale Memmingerberg
+ORG Caisse Epargne
+ORG Südwestbank Biberach
+ORG Raiffeisenbank Oberlechtal
+ORG MoneyGram
+ORG Kreissparkasse Wiedenbrück
+ORG Volksbank Hopsten
+ORG Bank BZWBK
+ORG Geschäftsstelle Nieder-Modau
+ORG VR Bank Pirmasens
+ORG Raiffeisenbank Tossens
+ORG Vorbasse-Hejnsvig Sparekasse
+ORG Sparkasse Detmold
+ORG Sparkasse Vest Oer-Erkenschwick
+ORG TARGOBANK AG & Co. KGaA
+ORG Danske Bank Billund
+ORG Den Jyske Sparekasse
+ORG Bistro Golfplatz Kurpfalz
+ORG Volksbank Wittenberg eG
+ORG Sparkasse Mittelholstein AG
+ORG Sparkasse Hanhofen
+ORG Volksbank Hanhofen
+ORG Citiban
+ORG Crelan
+ORG Kreissparkasse St.Wendel
+ORG Volksbank Raiffeisenbank Bayern Mitte
+ORG Sparkasse Siegen Filiale
+ORG VR Bank Bonn eG
+ORG Sparkasse Gorxheimertal (Sparkasse Starkenburg)
+ORG Dellafaille
+ORG Sparkasse Enneptal Zweigstelle Büttenberg
+ORG Banque Rhône-Alpes
+ORG Raiffeisen-Volksbank Delmenhorst-Schierbrok eG
+ORG Raiffeisenbank Pfaffenhofen a. d. Glonn
+ORG bpost
+ORG Volksbank und Raiffeisenbank Borna eG
+ORG Sparkasse Gummersbach Bergneustadt
+ORG Volksbank Niederrhein, Geschäftsstelle Rumeln
+ORG Banque ING
+ORG Volksbank Weserbergland
+ORG Forex bank
+ORG Volksbank Tecklenburger Land eG
+ORG Volksbank München
+ORG Sparkasse Saarbrücken - Filiale Bischmisheim
+ORG DZ Bank
+ORG Salzburg München Bank AG
+ORG Kreissparkasse Traunstein-Trostberg GS Altenmarkt
+ORG Banca Caritro
+ORG HW-Leasing
+ORG City
+ORG Takarék Szövetkezeti Hitelintézet
+ORG GBS
+ORG KBC Meldert
+ORG Argenta zakenkantoor Schepers-Poels
+ORG Getränkemarkt
+ORG Braunschweigische Landessparkasse -NORD/LB
+ORG Geschäftsstelle Massing
+ORG Volksbank Bad Oeynhausen
+ORG Kreissparkasse Göppingen - Filiale Bad Ditzenbach
+ORG Volksbank - Raiffeisenbank Deggingen  eG - Zweigstelle Bad Ditzenbach
+ORG Kreissparkasse Berg
+ORG Volksbank Ettishofen
+ORG Raiffeisenbank Oberallgäu
+ORG Flessa Bank
+ORG Volksbank Lehrte
+ORG VB Nürtingen
+ORG Sparkasse / Hauptsparkasse
+ORG Sparkasse Geschäftsstelle Bad Birnbach
+ORG Stadtsparkasse Rhein-Haard
+ORG Sparkasse Memmingen
+ORG Raiffeisen-Volksbank Fürth eG
+ORG Bielefelder Volksbank
+ORG Bank PEKAO
+ORG Sparkasse Diespeck
+ORG Yorkshire Buildings Society
+ORG Halifax Buildings Society
+ORG Nationwide Buildings Society
+ORG Natwest Bank
+ORG Caisse d'Épargne Picardie
+ORG Volksbank Wipperfürth-Lindlar e.G.
+ORG Sparkasse Lübeck
+ORG Sparkasse Johannesberg
+ORG Heltai Bank Center
+ORG ABN Amro
+ORG Caisse d'Épargne Bretagne-Pays De Loire
+ORG Crédit Agricole de l'Anjou et du Maine
+ORG Raiffeisenbank Ettingen
+ORG Allianzbank
+ORG Arbejdernes landsbank
+ORG Raiffeisenbank Deutsch Wagram
+ORG Banque nationale de Belgique
+ORG Flexassur SPRL
+ORG Lollands Bank
+ORG Sparekassen Lolland
+ORG VR-Bank Fichtelgebirge eG
+ORG Kreissparkasse Ostalb Geschäftsstelle Ellwangen-Goldrain
+ORG Raiffeisenbank Kapfenstein
+ORG Commerzbank, Filiale Düsseldorf-Benrath
+ORG Raiffeisenbank Reute Gaisbeuren eG
+ORG Santander Consumer Bank AG Allbank Filiale 132
+ORG Sparkasse Amberg
+ORG KBC Bank & Verzekering
+ORG Volksbank Niederrhein
+ORG Sparkasse Wesel
+ORG Volksbank Gescher
+ORG Volksbank Coesfeld
+ORG Lébény-Kunsziget Takarékszövetkezet
+ORG HUK-Coburg
+ORG Sparkasse Reutlingen
+ORG Volksbank Saulgau
+ORG Schleswiger Volksbank eG
+ORG Raiffeisenbank - Bankstelle Froschberg
+ORG Sparkasse Landshut
+ORG Volksbank für das Angelbachtal
+ORG Sparkasse Reichartshausen
+ORG VR-Bank Bad Salzungen Schmalkalden eG
+ORG VR Schrobenhausen
+ORG Sparkasse Kranichfeld
+ORG Volksbank Vallendar
+ORG Volksbank Essen
+ORG Volksbank Schwerte
+ORG Sparkasse Axams
+ORG VR Bank Südliche Weinstraße
+ORG Volksbank GHB eG
+ORG PKO BP III oddział
+ORG Groupama
+ORG Banque Populaire Bourgone France Comté
+ORG BNP Paribas - Fortis
+ORG Banco Popolare
+ORG Modrá pyramida
+ORG Commerzbank Filiale Wahlstedt
+ORG Coopbank
+ORG Polgári Takarékszövetkezet
+ORG Volksbank Bruneck
+ORG Raiffeisenkasse Bruneck
+ORG Argenta Van Nooten
+ORG Raiffeisenbank im Naabtal e.G.
+ORG Sparkasse Nabburg
+ORG Raiffeisenbank Hartkirchen
+ORG Kreissparkasse Sulz a. N.
+ORG Volksbank Sulz a.N.
+ORG Sparkasse Bayreuth - Geschäftsstelle Mistelgau
+ORG Sparkasse Hartkirchen
+ORG Unicredit Bank
+ORG Bremische Volksbank eG
+ORG Sparkasse Maissau
+ORG HypoVereinsbank München
+ORG Volksbank Drolshagen-Wenden eG
+ORG Sparkasse Olpe-Drolshagen-Wenden
+ORG The Nottingham
+ORG Volksbank Backnang eG - Geschäftsstelle Lippoldsweiler
+ORG Bank Zachodni
+ORG VR-Bank Mittelsachsen eG
+ORG Geschäftsstelle Hirschbach
+ORG Geschäftsstelle Bayerbach
+ORG Geschäftsstelle Triftern
+ORG Geschäftsstelle Wittibreut
+ORG Geschäftsstelle Tann
+ORG Sparkasse Zeilarn
+ORG Banque de Dépôts et de Gestion
+ORG Geschäftsstelle Julbach
+ORG Geschäftsstelle Kirchdorf
+ORG Geschäftsstelle Ering
+ORG Hauptstelle Simbach am Inn
+ORG Sparkasse Rottal-Inn, Hauptstelle Eggenfelden
+ORG Sparkasse Rottal-Inn, Geschäftsstelle Eggenfelden, Landshuter Straße
+ORG SB-Center Eggenfelden - Schellenbruckplatz
+ORG SB-Center Pfarrkirchen - Volksfestplatz
+ORG Geschäftsstelle Postmünster
+ORG Geschäftsstelle Hebertsfelden
+ORG Geschäftsstelle Mitterskirchen
+ORG Geschäftsstelle Unterdietfurt
+ORG Geschäftsstelle Gangkofen
+ORG Geschäftsstelle Taufkirchen
+ORG Sparkasse Rottal-Inn
+ORG Geschäftsstelle Kollbach
+ORG Geschäftsstelle Schönau
+ORG Sparkasse Nöham
+ORG SB-Center Dietersburg
+ORG Geschäftsstelle Johanniskirchen
+ORG Geschäftsstelle Egglham
+ORG Geschäftsstelle Roßbach
+ORG Geschäftsstelle Münchsdorf
+ORG Geschäftsstelle Arnstorf
+ORG Geschäftsstelle Malgersdorf
+ORG Geschäftsstelle Simbach/Landau
+ORG Prvá stavebná sporiteľňa
+ORG BNPP
+ORG Raiffeisenbank Rotkreuz
+ORG Volksbank Stuttgart Filiale Beinstein
+ORG Färs och Frosta Sparbank
+ORG ING Bank Śląski Oddział w Katowicach
+ORG Sparkasse Obermoschel
+ORG Volksbank Wahrenholz-Wittingen
+ORG vousfinancer.com
+ORG Sparkasse Steißlingen
+ORG Banque cantonale vaudoise
+ORG Raiffeisenbank Kaisersesch-Kaifenheim
+ORG Bank GBS
+ORG Sparkasse Bo-Wattenscheid Mitte
+ORG Faaborg Sparekasse
+ORG Cortal Consors
+ORG Volksbank Hoechst
+ORG Post-Agentur
+ORG Postbank Stade
+ORG Postbank Buxtehude
+ORG Postagentur Neu Wulmstorf
+ORG KB
+ORG Raiffeisenbank Kennelbach
+ORG Raiffeisenbank Wolfurt
+ORG Volksbank Mittelhesssen
+ORG Erfurter Bank
+ORG Kreissparkasse Rhein-Hunsrück
+ORG Işbank
+ORG BEKB | BCBE
+ORG In & Fi
+ORG Sparkasse Rosenheim-Bad Aibling Geschäftsstelle Haidholzen
+ORG Volksbank Griesheim eG
+ORG Raiffeisenkassa
+ORG Raiffeisenbank Personal
+ORG BNP Fortis - Sint Anna
+ORG Reifeisenbank Erkelenz
+ORG BNP Parbas Fortis
+ORG Československá obchodní banka
+ORG Sparkasse Bitburg
+ORG Kreissparkasse Emmingen
+ORG Sparkasse Rinkerode
+ORG Sparkasse Walstedde
+ORG Volksbank Osttirol
+ORG Raiffeisenbank Kematen
+ORG TSB Bank
+ORG Raiffeisenbank Kraichgau
+ORG Kreissparkasse Mansfeld-Südharz
+ORG Volksbank Eberbach
+ORG Kreissparkasse Alfdorf
+ORG Volksbank Gmünd
+ORG Směnárna Husova 10
+ORG Raiffeisenbank Eggendorf
+ORG Commerzbank Filiale Berlin-Schlachtensee
+ORG nordea
+ORG Bank Pekao S.A.
+ORG Targo X Bank
+ORG DEXIA
+ORG Kreissparkasse Freudenstadt
+ORG Sparkasse Westmünsetland
+ORG PSK-Bank-Postpartner
+ORG Bank ING
+ORG Landesbank BW
+ORG Dexia-BIL
+ORG Postpank
+ORG LCL Crédit Lyonnais
+ORG Untertürkheimer Volksbank eG
+ORG Volksbank Reutlingen
+ORG Kreisspakasse Köln
+ORG Volksbank Höchst am Main eG
+ORG Nassauische Sparkasse NaSpa
+ORG Raiffeisenbank Steinach
+ORG RegioBank
+ORG Raiffeisenbank Gymnich eG
+ORG Postshop
+ORG Kreissparkasse Herzogtum Lauenburg
+ORG BNP Paribas Kapellen
+ORG Salzburger Sparkasse Braunau-Neustadt
+ORG Raiffeisenkasse Villnöß
+ORG Kreissparkasse Birkenfeld Filiale Herborn
+ORG Bruna (ING)
+ORG Raiffeisenbank Irdning
+ORG KBC bank
+ORG Volksbank, Limbach-Oberfrohna
+ORG ARGENTA
+ORG Volksbank Strasswalchen
+ORG Raiffeisenband Strasswalchen
+ORG Kreisspaarkasse
+ORG Volksbank Rathenow Zweigstelle Klietz
+ORG Raiffeisenbank Edelsfeld
+ORG Argenta Ekeren
+ORG Sparkasse Lörrach-Rheinfelden
+ORG BNP-Paribas-Fortis
+ORG vr bank
+ORG Volksbank Sulingen E.G., Filiale Asendorf
+ORG Sparkasse Vreden
+ORG PSD Bank München eG, Sitz Augsburg (Beratungsbüro München)
+ORG Commerzbank Filiale Wiesbaden Biebrich
+ORG Sparkasse Mainfranken, GS Zellingen
+ORG BNP Paribas Parc Montsouris
+ORG Raiffeisenbank Oberembrach-Bassersdorf
+ORG RABO bank Oosterbeek branch
+ORG Loyds TSB
+ORG Raiffeisenbank Bütschwil
+ORG Swissregiobank Bütschwil
+ORG Raiffeisenbank Donaustauf
+ORG Caisse d'Épagne
+ORG krbs
+ORG RaiffeisenBank
+ORG Nordea Metropol Afdeling
+ORG Fördesparkasse (Filiale Plön)
+ORG Raiffeisenbank-Volksbank
+ORG Tokaj és Vidéke Takarékszövetkezet
+ORG Sparkasse Radevormwald-Hückeswagen
+ORG Sparkasse Haugsdorf
+ORG VR Bank HessenLand eG
+ORG VR Bank Breitbrunn
+ORG Volksbank Rhein-Nahe-Hunsrück eG
+ORG Sparkasse Offenburg
+ORG Raiffeisenbank Tarsdorf
+ORG Merck Finck & Co
+ORG Raiffeisenbank Affing
+ORG Caisse d'éparge du district de Cossonay
+ORG Waldecker Bank eG
+ORG Bank im Bistum Essen
+ORG Sparkasse Filiale Wittichenau
+ORG Degussa Bank auf Siemens Firmengelände
+ORG Sparkasse Eggolsheim
+ORG LCL Bonsecours
+ORG KAS BANK
+ORG Sparda Bank SB
+ORG Sparkasse Berchtesgadener Land Geschäftsstelle Piding
+ORG Volksbank Raiffeisenbank Oberbayern Südost
+ORG Volksbank Breisgau Süd e.G
+ORG Sparkasse Dinslake Voerde Hünxe
+ORG Raika Schönberg
+ORG LUKB
+ORG Umweltbank AG
+ORG Sparkasse Geschäftsstelle Bad Kösen
+ORG Raifffeisenbank Südhardt eG
+ORG VR Bank Main-Kinzig-Büdingen eG
+ORG Commerzbank Essen-Bredeney
+ORG Commerzbank Essen-Rüttenscheid
+ORG Commerzbank Essen-Kupferdreh
+ORG Sparkasse Neuburg
+ORG Savill's Finance
+ORG Volksbank Brawo
+ORG Kreissparkasse Bautzen - Cunewalde
+ORG Volksbank Löbau Zittau - Cunewalde
+ORG Raiffeisenbank Falkenfels
+ORG Volksbank Raiffeisenbank Vierkirchen
+ORG Volksbank Hunsrück-Nahe eG
+ORG S-Finanzmarkt Fulda
+ORG Volksbank Lahr eG
+ORG Gewässersystem der Oberen Ahr, Kalktriften, mit Pflanzen wie Küchenschelle, Orchideen und Enziane
+ORG Takarekszovetkezetek
+ORG Dunakanyar Takarékszövetkezet
+ORG CCM Souffelweyersheim
+ORG Raiffeisenbank Oedt
+ORG BRED Berault
+ORG Bred Château de Vincennes
+ORG Bank Polskiej Spółdzielczości S.A.
+ORG Raiffeisenbank Burghaun eG
+ORG ABNAmro
+ORG Raiffeisenbank Taufkirchen
+ORG Clientis Zürcher Regionalbank
+ORG Volksbank Erichshagen
+ORG Syd bank
+ORG Erste Bank Filiale Rennbahnweg
+ORG Nationale Bank van Belgie - Banque nationale de Belgique
+ORG RaiffeisenVolksbank Herrieden
+ORG Sparkasse Herrieden
+ORG Volksbank Nordharz eG
+ORG Bank Rumia
+ORG ubs
+ORG Bank spoldzielczy w Grebocinie
+ORG LzO Krusenbusch
+ORG UBS Niederlassung München
+ORG SNS Bank Winkel
+ORG Triodos Bank N. V. Deutschland
+ORG Bank Spółdzielczy w Poddębicach
+ORG Bank spółdzielczy
+ORG ZKB Neumünster
+ORG Banque CIC Suisse
+ORG Habib Bank
+ORG Brørup Sparekasse
+ORG Raiffeisenbank Region St. Pölten
+ORG Hypothekarbank Lenzburg
+ORG Raiffeisenbank Briedel
+ORG Raiffeisenbank Birkenfeld
+ORG Sparkasse Pforzheim
+ORG Banque Populaire de l'Ouest
+ORG Cib
+ORG Raiffeisenbank Schwanberg
+ORG Raiffeisenbank Waldbach
+ORG Bank PKO BP oddział w Radzionkowie
+ORG ING Bank Śląski oddział w Radzionkowie
+ORG Raiffeisenbank Moselkrampen
+ORG Sparkasse der Stadt Knittelfeld
+ORG Sparkasse Haßmersheim
+ORG Sparkasse Dillenburg, Filiale Sinn
+ORG Volksbank Metzingen - Bad Urach eG
+ORG Volksbank Donau Neckar
+ORG PostBank
+ORG Raiffeisenbank Kirchschlag in der Buckligen Welt
+ORG Volksbank oberes Waldviertel
+ORG VR-Bank Mehlingen
+ORG VR Bank Flensburg-Schleswig
+ORG Sparkasse Bad Ischl AG Filiale Strobl
+ORG Raiffeisenbank Maria Rain
+ORG Volksbank, kein Geldautomat
+ORG Volksbank Waltrop e.G.
+ORG Kreissparkasse München-Starnberg-Ebersberg Geschäftststelle Berg
+ORG PSD Bank Koblenz eG
+ORG Raiffeisenbank Gräfenberg
+ORG Sparkasse Gräfenberg
+ORG AEK BANK 1826
+ORG Sparkasse Vogtland GS Treuen
+ORG V+R-Bank Leezen
+ORG Hypobank Tirol
+ORG Sparkasse Kufstein
+ORG BB
+ORG Sparda Bank West
+ORG Volksbank Kufstein
+ORG Raiffeisenbank Weiden eG Geschäftsstelle Rothenstadt
+ORG Bank Gospodarki Żywnościowej
+ORG Bank Spółdzielczy w Krokowej oddział Władysławowo
+ORG PKO S.A.
+ORG Volksbank Offenburg
+ORG Sparkasse Pichling
+ORG Volksbank Dill
+ORG Crédit Agricole de Vouziers
+ORG Volksbank Metzingen
+ORG Raiffeisenbank Tulln
+ORG Volksbank Brenztal
+ORG Westerwaldbank eG
+ORG Dithmarscher Volks- und Raiffeisenbank eG
+ORG Bank Spółdzielczy filia w Lubiczu Dolnym
+ORG Crédit Agricole - Suippes
+ORG Postbank Finanzcenter Dudweiler Straße
+ORG Parkasse
+ORG Kreissparkasse Waiblingen Filiale Leutenbach
+ORG Allg. Sparkasse OÖ
+ORG 'Sparda-Bank
+ORG Sparkasse Baden Möllersdorf
+ORG Volksbank Möllersdorf
+ORG Volksbank Wittlage eG
+ORG Sparkasse Finanzcenter
+ORG Axa bank Fons Vercammen
+ORG Volksbank Herborn - Eschenburg eV
+ORG Sparkasse Stambach
+ORG Raiffeisenbank Stammbach
+ORG Geschäftsstelle Hagenbrunn
+ORG Raiffeisenbank Gnas
+ORG Sparkasse Valbert
+ORG Raiffeisenbank Baunatal eG.
+ORG Volksbank Obertrum
+ORG Sparkasse Altaussee
+ORG Wiesbadener Volksbank eG
+ORG VR Bank Kirchheim
+ORG VolksBank
+ORG Steiermärkische Sparkasse Haus
+ORG Volksbank Ibbenbüren
+ORG Volksbank Freren
+ORG Volsbank
+ORG Sparkasse Nürnberg
+ORG VR Illertal
+ORG SSK Düsseldorf
+ORG Raiffeisenkasse Filiale Tenneck
+ORG Deuitsche Bank
+ORG Sparkasse Gengenbach (Filiale)
+ORG Volksbank Gengenbach (Filiale)
+ORG Volksbank Wettringen
+ORG Rabobank Voorschoten
+ORG Commerzbank Herne
+ORG Raiffeisenkasse Überetsch, Cassa Raiffeisen dell'Oltradige, Filiale St. Pauls
+ORG Levo Bank
+ORG BTB
+ORG Cassa di Risparmio di Bolzano - Südtiroler Sparkasse
+ORG VR Bank Dinkelsbühl
+ORG Crédit du nord
+ORG apoBank Filiale Mainz
+ORG Behindertenparkplatz (Parkahus)
+ORG Sozialzentrum Kiel - Mettenhof
+ORG Sparkasse Seligenstadt
+ORG Raiffeisen-Volksbank Neuenburg
+ORG Raiffeisenbank Neckertal
+ORG Raiffeisen Bank Henndorf
+ORG Société Générale Cabourg
+ORG Kreissparkasse MOL Müncheberg
+ORG Sparkasse Nürnberg Geschäftsstelle Rangierbahnhof
+ORG Crédit Municipal de Lille
+ORG VR-Bank Nordrhön
+ORG Sächsische AufbauBank
+ORG Entlebucher Bank
+ORG Bankhaus Schelhammer & Schettera
+ORG PSD Bank Westfalen-Lippe
+ORG Obere Metzgerei Franz Winterhalter
+ORG AOK-KundenCenter Elzach
+ORG RABO
+ORG ING Marnix
+ORG Česká spořitrlna
+ORG Komereční banka
+ORG CIAL
+ORG Bankhaus August Lenz & Co.
+ORG Raiffeisenbank Nöham
+ORG Agence Poitiers Ouest
+ORG Volksbank-Raiffeisenbank Dickenreishausen
+ORG Volksbank Aschbach
+ORG Raiffeisenbank Aschbach
+ORG Sparkasse Eichsfeld
+ORG Volksbank AG
+ORG Raiffeisenbank Traisen - Gölsental
+ORG Volksbank NÖ Mitte
+ORG Fortmann
+ORG Sparkasse LeerWittmund
+ORG Raiffeisen-Volksbank Obenstrohe
+ORG Českomoravská záruční a rozvojová banka
+ORG Oldenburgische Landesbank AG Filiale Varel-Obenstrohe
+ORG Lehenia
+ORG Raiffeisenbank Neunkirchen - Schwarzatal-Mitte, Bankstelle Ternitz
+ORG Raiffeisenbank Neunkirchen - Schwarzatal-Mitte, Bankstelle Wimpassing
+ORG Clientis Bank Schaffhausen
+ORG Raiffeisenbank Neunkirchen - Schwarzatal-Mitte, Bankstelle Würflach
+ORG Raiffeisenbank Neunkirchen - Schwarzatal-Mitte, Bankstelle St. Egyden
+ORG Raiffeisenbank Cham-Geschäftsstelle Cham-West
+ORG Sparkasse NÖ
+ORG Barclay's
+ORG Raiffeisenbank Geschäftsstelle Cham-Süd
+ORG Sparkasse Rosenheim-Bad Aibling
+ORG Raiffeisenbank am Bichelsee, Filiale Eschlikon
+ORG Berl. Sparkasse
+ORG Schoeller Bank AG.
+ORG Friseurstudio Elite Ges.m.b.H.
+ORG Bank Zachodni WBK 1 Oddział w Paczkowie
+ORG Vereinigte Volksbank Raiffeisenbank
+ORG Raiffeisenbank Stallhofen
+ORG Obergottsberger
+ORG Crédit Mutel
+ORG Volksbank-Raiffeisenbank Amberg eG
+ORG Raiffeisenkasse Ritten
+ORG Kreissparkasse Filiale Oberbruch
+ORG Credit Agricole Bank Polska
+ORG VR Bank Langenau Ulmer Alb eG
+ORG MKB MOM Park
+ORG Banco Popolare di Sorigno
+ORG Volksbank Müncheberg
+ORG Volksbank Stuttgart eG Filiale Giebel
+ORG Berliner Volksbank Filiale Glienicke/Nordbahn
+ORG Sparkasse LeerWittmund Geschäftsstelle Bunde
+ORG BW-Bank Wolfbusch
+ORG Sparkasse Melsbach
+ORG Volksbank Gütersloh
+ORG Raiffeisenbank Oberes Waldviertel
+ORG UniCredit Csörsz utca
+ORG Volksbank Gronau-Ahaus eG
+ORG Banque Raifeissen
+ORG Volksbank Hamm
+ORG Deutsche Bank - Investment & FinanzCenter
+ORG Sparkasse Weserbergland - Hauptstelle
+ORG Sparkasse Hauptmensa
+ORG Volksbank Rinkerode
+ORG Volksbank Mörfelden-Walldorf
+ORG BNP Paribas Fortis Ledeberg
+ORG Českomoravská stavební spořitelna
+ORG Sparkasse Buchholz
+ORG Uni Credit Bank Austria AG
+ORG Kärntner Sparkasse AG
+ORG Verwaltungszentrum Volksbank-Raiffeisenbank
+ORG AXA bank Imbornone
+ORG Raiffeisenbank Obermain Nord eG
+ORG Spar- und Darlehnskasse Bockum-Hövel eG
+ORG Wüstenrot stavební spořitelna
+ORG Sparda Bank SW
+ORG Volksbank Siegen
+ORG Post.be
+ORG Raiffeisenbank Kemnather Land Steinwald
+ORG Bank Spółdzielczy w Miedźnej Oddział w Brzeszczach
+ORG PKO BP - 8 Oddział
+ORG VDK Spaarbank
+ORG Brühler Kreditbank
+ORG Steierische Sparkasse
+ORG Cash Consult Thuller&Partner
+ORG Thuller Management Consultin GmbH
+ORG Wirtschaftstreuhandskanzlei
+ORG Jello Handels GmbH
+ORG Wirtschaftstreuhand- und Steuerberater
+ORG Stadtsparkasse Solingen-Widdert
+ORG Raiffeisen-Volksbank Haßberge
+ORG Suedwest Bank
+ORG Sparkasse Fulda Filiale Rabanusstraße
+ORG Sparkasse Gröbenzell
+ORG Nykredit Privat Kolding
+ORG Narodowy Bank Polski
+ORG Raiffeisenbank Rheinbach Voreifel eG
+ORG BS
+ORG Zweigstelle PEP Eisenach Volksbank und Raiffeisenbank Eisenach eG
+ORG Sparkasse Nürnberg Geschäftsstelle Fürstenschlag
+ORG Kärntner Sparkasse Aktiengesellschaft
+ORG Volksbank-Raiffeisenbank Geschäftsstelle Reisbach
+ORG Caisse d'Éparge
+ORG EasyCredit
+ORG direktanlage.at
+ORG Sparkasse Nürnberg Geschäftsstelle Gostenhof
+ORG Volksbank Kärnten Süd
+ORG UNIQA Versicherungen AG
+ORG Raiffeisen-Bezirksbank Klagenfurt
+ORG Raiffeisen Landesbank NÖ-Wien
+ORG Kreissparkasse Irrel
+ORG Volksbank Bad Brückenau
+ORG Volksbank Rees
+ORG Stork Edelmetalle Goldankauf
+ORG Dexia - Agence Hôpital Kirchberg
+ORG Fasanerie Wiesbaden
+ORG Stempel Kenda & Gravuratelier
+ORG Robert Wolte & Partner GmbH
+ORG Raiffeisenbank Strücklingen-Idafehn eG
+ORG Sachsen-Bank
+ORG Sparkasse Heimertingen
+ORG Sparkasse Hohndorf
+ORG Commerzbank AG Bad Saulgau
+ORG Stöttnerhof
+ORG ING Watermael-Boitsfort-Wiener
+ORG SPARDA
+ORG Volksbank Vöcklabruck - Gmunden
+ORG Volksbank Esslingen EG
+ORG Generali
+ORG Volksbank Manderscheid
+ORG CIC Iberbanco
+ORG Fürstenwalde
+ORG Oberbank Gniglerstraße
+ORG Bankaustria Samergasse
+ORG Raiffeisenbank Vogelweiderstraße
+ORG Sparkasse Wals
+ORG Oberbank Sterneckstraße
+ORG Salzburger Sparkasse Gnigl
+ORG Targo
+ORG CoinStar
+ORG Banque CIC
+ORG Bad Waldseer Bank
+ORG Sparkasse Sipplingen
+ORG Volksbank Sipplingen
+ORG Spar & Leihkasse Merishausen
+ORG Volksbank Nordschwarzwald
+ORG Volksbank Saarpfalz eG
+ORG Sopron Bank
+ORG Spar
+ORG Raiffeisenbank südöstl. Starnberger See eG
+ORG Volksbank Kamen-Werne
+ORG Sparkasse Weitersfeld
+ORG Volksbank Weitersfeld
+ORG Raiffeisenbank Weitersfeld
+ORG Raiffeisenbank Lamprechtshausen
+ORG Raiffeisenbank Altertheim
+ORG Sparda-Bank, Berlin Lichtenberg
+ORG Sparkasse Niederbayern-Mitte SB-Center Irlbach
+ORG Crédit Mutuelle
+ORG BOś
+ORG Aliorbank
+ORG Agencja Bankowa Monetia
+ORG Leipziger Volksbank e. G., Geschäftsstelle Borna
+ORG Sparkasse Leipzig, Geschäftstelle Borna
+ORG Sparkasse Markt Wald
+ORG Genobank Markt Wald
+ORG Sparkasse Ennepetal
+ORG ABN-Amro
+ORG Raiba Raggal
+ORG ERSTE Bank
+ORG VR Bank Untertaunus
+ORG Western Union Money Transfer
+ORG Raiffeisenbank Vorbach
+ORG Sparkasse Märkisches Sauerland, Hemer Westig
+ORG LB-BW
+ORG Stadtsparkasse Magdeburg
+ORG Eximbank SR
+ORG Raiffeisenbank Puch
+ORG Raiffeisenbank Elztal
+ORG CCM Region Sundhouse
+ORG Erste Bank AGSpeising
+ORG Deutsche Bank(Keine Bankautomaten)
+ORG S-Bank
+ORG Banque BNP Paribas
+ORG Hypo_Vereinsbank
+ORG BCP
+ORG Nord-Ostsee Sparkasse (Filiale Bredstedt)
+ORG Bank Austria AG
+ORG Volksbank Erft
+ORG Danskebank
+ORG Volksbank Breisgau-Süd
+ORG Sparkasse Staufen-Breisach
+ORG postbank
+ORG RaiBa Gössenheim
+ORG Sparkasse Gössenheim
+ORG VR Bank Rhein Erftkreis eg
+ORG Sparkasse Osnabrück - Filiale Hasbergen
+ORG Filiale Stadtroda Schöne Aussicht
+ORG Volksbank Rottweil
+ORG Sparkasse Aschaffenburg-Alzenau
+ORG Steiermärkische Bank und Sparkassen AG - Filiale Thörl
+ORG Deutsche Bank Automatencenter
+ORG Sparkasse Pfalzgrafenweiler
+ORG Raika Doernbach
+ORG Raiffeisenbank Region Eferding
+ORG Raiffeisenbank Groß-Rohrheim
+ORG Bank Austria Credit Anstalt
+ORG Sparkasse Altmark West Geschäftsstelle Klötze
+ORG Sparkasse Liebstadt
+ORG Sparkasse Gevelsberg
+ORG Raiffeisenbank Ybbs
+ORG Raiffeisenbank Esternberg
+ORG ČSOB bank
+ORG Belfius Reet
+ORG Raiffeisenbank Heimschuh
+ORG Raiffeisen stavební spořitelna
+ORG Hagebank-Volksbank Vöcklabruck-Traunsee
+ORG Raiffeisenbank Region Vöcklabruck Bankstelle Ampflwang
+ORG Sparkasse Oberösterreich Ampflwang
+ORG Volksbank Höchst
+ORG Commerzbank Filiale Hattersheim
+ORG Crédit Agricole Brie Picardie
+ORG Agence de Liancourt
+ORG Volksbank-Geldautomat
+ORG Bank
+ORG DVAG Büro Kempf
+ORG Volksbank Lutten
+ORG caisse d'epargne
+ORG Kreissparkasse Birkenfeld
+ORG VR Bank Hunsrück-Nahe e.G.
+ORG Kooperativa
+ORG Česká pojišťovna
+ORG Pannon Takarék
+ORG Banque populaire
+ORG CENTEA
+ORG Caissse d'Épargne
+ORG Volksbank Rhein-Neckar
+ORG Sparkasse Widdern
+ORG Crailsheimer Volksbank
+ORG Abn Amro
+ORG AXA - BVBA Numus
+ORG Sparkasse Nürnberg Geschäftsstelle Gibitzenhof
+ORG Sparkasse Nettingsdorf
+ORG Kreissparkasse Ostalb Geschäftsstelle Ellwangen-Mittelhof
+ORG Zweigstelle Berliner Straße
+ORG Zweigstelle Dhünn
+ORG Zweigstelle Tente
+ORG Volksbank Delbrück-Hövelhof eG
+ORG Landessparkasse zu Oldenburg Filiale Hahn-Lehmden
+ORG Sparkasse Füchtorf
+ORG Volksbank Füchtorf
+ORG Volksbank Greven Filiale Reckenfeld
+ORG Kreissparkasse Steinfurt Filiale Reckenfeld
+ORG Volksbank Clenze Hitzacker
+ORG Sparkasse Nürnberg Geschäftsstelle Maxfeld
+ORG Volksbank Main Taunus
+ORG Volksbank Forchheim
+ORG Spaarbank
+ORG SG
+ORG Raiffeisenbank Spohle
+ORG Dresdner Volksbank Raiffeisen eG
+ORG Credit Lyonnais
+ORG Sparkasse Ichenheim
+ORG Volksbank Ichenheim
+ORG Sparkasse Altenheim
+ORG Bank Leu
+ORG Volksbank am ZOB
+ORG Sparkasse Nürnberg Geschäftsstelle Mögeldorf
+ORG Volksbank Stade-Cuxhaeven eG
+ORG Reiffaisen
+ORG Sparkasse Eferding-Peuerbach-WaizenkirchenGeschäftsstelle Prambachkirchen
+ORG Post-Bank
+ORG Volksbank Parkstetten
+ORG Raiffeisenbank Parkstetten
+ORG Sparkasse Nürnberg Geschäftsstelle Heuchling
+ORG credit mutuel
+ORG banque populaire
+ORG caisse d'épargne
+ORG Raiffeisenbank Virgen
+ORG BGL PNB Paribas
+ORG BNP paribas
+ORG société générale
+ORG crédit agricole
+ORG Société générale
+ORG Volksbank Lüneburg
+ORG Raiffeisenkassa Hochwolkersdorf
+ORG Delta Lyold Bank
+ORG PEKAO
+ORG SKOK Wesoła
+ORG Sparkasse Nürnberg Geschäftsstelle Pirckheimerstraße
+ORG Geno-Bank Essen
+ORG Bank 1 Saar, Filiale Hangard
+ORG Sparkasse Neunkirchen, Geschäftsstelle Hangard
+ORG Sparkasse Nürnberg Geschäftsstelle Rathaus
+ORG Banque Populaire de Bourgogne
+ORG Sparkasse Nürnberg Geschäftsstelle Schniegling
+ORG Raiffeisenbank Gefrees
+ORG Hypo Alpe Adria
+ORG Sparkasse Nürnberg Geschäftsstelle Gugelstraße
+ORG Sparkasse Nürnberg Geschäftsstelle Aufseßplatz
+ORG Commerzbank Filiale Allersberger Straße
+ORG BZWBK
+ORG Crédit Agricole Île-de-France
+ORG PSD Bank Beratungsbüro Mannheim
+ORG Volksbank Clenze
+ORG BNP Paribas Fortis Heusy
+ORG Volksbank Schärding
+ORG Volks Bank
+ORG Raiffaisenbank
+ORG rabobank
+ORG DBR
+ORG CBC Banques et Assurances
+ORG Volksbank Rems-Murr Filiale Birkmannsweiler
+ORG Sparkasse Pram
+ORG Deutsche Bank Investment & FinanzCenter Düsseldorf-Oberkassel
+ORG HypoVereinsbank Bamberg
+ORG Deffernez
+ORG Depoorter
+ORG Sparkasse Bederkesa
+ORG Volksbank eG Bederkesa
+ORG VR-Bank Rothenburg o.d.Tbr. eG
+ORG Sparkasse Nürnberg Geschäftsstelle Kirchensittenbach
+ORG Sparkasse Nürnberg Geschäftsstelle Reichenschwand
+ORG Landessparkasse zu Oldenburg - Geschäftsstelle Obenstrohe
+ORG Raiffeisenbank Großostheim-Obernburg
+ORG Kujawski Bank Spółdzielczy
+ORG London Community Credit Union
+ORG Belfius - Herstal Nord
+ORG Volksbank Burghausen - Mühldorf
+ORG Sparkasse Nürnberg Geschäftsstelle Gartenstadt
+ORG Banque Scalbert
+ORG Rabobank Westland
+ORG PKO BP S.A.
+ORG VR-Bank Mainz (Volksbank)
+ORG Volksbank Dorsten
+ORG Sparkasse Bremerhaven
+ORG Česká spořitelna, a.s., pobočka Dobřichovice
+ORG ERSTE Rákóczi téri Fiók
+ORG CIB Rákóczi téri Fiók
+ORG Volkbank Rhein Sieg
+ORG Co-Op ATM (Inside)
+ORG Landessparkasse zu Oldenburg Filiale Wiefelstede
+ORG Sparkasse Nürnberg Geschäftsstelle Germersheimer Straße
+ORG VR
+ORG Brüchermühle
+ORG Sparkasse Nürnberg Geschäftsstelle Lichtenhof
+ORG AXA Bank - Versicherung
+ORG Raiffeisenbank Oberaudorf eG Geschäftsstelle Flintsbach
+ORG Sparkasse Rosenheim-Bad Aibling Geschäftsstelle Flintsbach
+ORG BAWAG PSP
+ORG Lån & Spar Bank, Esbjerg
+ORG Spar Nord, Esbjerg
+ORG Bank Nordik, Esbjerg
+ORG BNP Paribas Quetigny
+ORG Danske Bank, Strandbygade
+ORG Sparkasse Bamberg SB-Center Luitpoldeck
+ORG Volksbank Raasdorf
+ORG Altenative Bank Schweiz AG (ABS)
+ORG Volksbank Böbingen
+ORG CSOB
+ORG Bank Spółdzielczy Tczew
+ORG Rabobank Hoogvliet
+ORG Sparkasse Bottrop
+ORG Sparkasse Staufen-Breisach, Filiale Ebringen
+ORG Kantonalbank Schwyz
+ORG volksbank neckartal eg
+ORG Jyske Bank - Herlev
+ORG Sparkasse Nürnberg Geschäftsstelle Gleißhammer-St. Peter
+ORG Sparkasse Nürnberg Geschäftsstelle Fischbach
+ORG Sparkasse Nürnberg Geschäftsstelle Zabo
+ORG Raiffeisenbank Weibern
+ORG Kuveyt Turk Bank
+ORG Raiba Rainbach
+ORG Sparkasse Bonndorf-Stühlingen
+ORG Raiffeisenkasse Zistersdorf-Dürnkrut, reg.Gen.m.b.H. Bankstelle Rabensburg
+ORG Raiffeisenkasse Haidershofen - Bankstelle Behamberg
+ORG Geldautomat an den Kassen
+ORG Volksbank Kraichgau Filiale Richen
+ORG Raiffeisenbank Kelleramt-Albis
+ORG Bank GBW
+ORG Raiffeisenbank Bad Sauerbrunn
+ORG Volksbank Tecklenburger Land
+ORG Südtiroler Sparkasse - Cassa di risparmio Alto Adige
+ORG Nassauische Sparkasse-Haltestelle
+ORG OLB Goldenstedt /Oldenburgische Landesbank
+ORG Bank Spółdzielczy Pruszcz Pomorski O. Pakość
+ORG Raiffeisenbank Mettersdorf
+ORG Sparda Hessen
+ORG Kreissparkasse Miesbach Tegernsee Geschäftsstelle Schliersee
+ORG Postbank Filiale
+ORG Sparkasse Hemer-Menden
+ORG LCL Banque privée
+ORG BNP Paribas - Alésia 14e
+ORG BZ WBK 1 Oddział w Pakości
+ORG Raiffeisen-Volksbank Filiale Grabstede
+ORG Raiffeisen-Volksbank Varel Nordenham eG
+ORG Landessparkasse zu Oldenburg Filiale Bockhorn
+ORG VR-Bank Vilsbiburg, Zweigstelle Kirchberg
+ORG Sparkasse Nürnberg Geschäftsstelle Ostendstraße
+ORG AXA Bank & Versicherungen
+ORG Raiffeisen-Volksbank Ries eG
+ORG Flessa-Bank
+ORG Sparkasse Gevelsberg - Zweigstelle Lichtenplatz
+ORG Almtaler Volksbank
+ORG Sparkasse Nürnberg Geschäftsstelle Lorenzer Platz
+ORG Raiffeisenbank Herzogbirbaum
+ORG Raiffeisen Bank Winznau
+ORG Sparkasse Nürnberg Geschäftsstelle Röthenbach-Steinberg
+ORG Santanderbank
+ORG Sparkasse Nürnberg Geschäftsstelle Röthenbach/Peg.
+ORG Raiffeisen Spar- und Kreditbank
+ORG Sparkasse Battenberg
+ORG Sparkasse Elbe - Elster
+ORG Danske Bank - Fredericia Vest Afdeling
+ORG LzO Essen
+ORG OLB Essen
+ORG Sparkasse Weingarten
+ORG Noris-Bank
+ORG Sparkasse Buggingen
+ORG BNP Paribas Fortis Stabroek
+ORG BNP Paribas Fortis Putte-Kapellen
+ORG Sparkasse GS Feldmark
+ORG Volksbank Filiale Feldmark
+ORG Sparkasse Gelsenkirchen Hauptstelle
+ORG Volksbank Ruhr Mitte Niederlassung Gelsenkirchen
+ORG Deželna banka Slovenije
+ORG Sparkasse GS Schürenkamp
+ORG Raiffeisenbank Ried eG
+ORG LCL - Le Crédit Lyonnais
+ORG Raiffeisenbank Riedau
+ORG Caisse d'Epargne de Lorraine Champagne-Ardenne
+ORG EKK (Evangelische Kreditgenossenschaft Kassel)
+ORG Hohenz. Landesbank
+ORG Commerzbank Filiale Varel
+ORG Raiffaisen Bank
+ORG VR Bank Niebüll - Geschäftsstelle Bordelum
+ORG Sparkasse Nürnberg Geschäftsstelle Altensittenbach
+ORG Poštová Banka
+ORG KBC Lier Lisp
+ORG Clydesdale Bank
+ORG Kreissparkasse Schlüchtern Filiale Salmünster
+ORG Co-operative Bank
+ORG Volksbank Höxter-Paderborn-Detmold
+ORG Nord-Ostsee Sparkasse Schleswig
+ORG Autohaus Siebrecht
+ORG B&K..alles Klar!
+ORG Autohaus Beineke
+ORG Autohaus Vatterott
+ORG Raiffeisenbank Egg
+ORG Volksbank Hohenlohe eG
+ORG Volksbank Berchtesgaden
+ORG Volksbank Lübbecker Land
+ORG Geschäftsstelle Herzogenaurach (Schützengraben)
+ORG Spaarkasse Tollwitz
+ORG Raiffeisenbank Donau-Iller eG
+ORG Sparkasse Filiale Pörlitzer Höhe
+ORG UBS Geschäftsstelle Witikon
+ORG Agence de Metz-Technopôle
+ORG Kantoor Rombauts
+ORG Abn Amro Bank
+ORG Kantoor Ostyn
+ORG Volksbank Süpplingen
+ORG Pocztowy Bank
+ORG Volksbank Neckarelz
+ORG Volksbank Hausen
+ORG Sparkasse GS Haverkamp
+ORG Ziraat Bank international
+ORG Sparkasse GS Resse
+ORG Volksbank Untere Saar, Filiale Orscholz
+ORG Sparkasse Nürnberg Geschäftsstelle St. Leonhard
+ORG Raika St. Leonhard
+ORG Dresdner Bank Bamberg
+ORG Centea - Agence Pierre Marin
+ORG Raiffeisenbank Halsbach
+ORG Volksbank Filiale Resse
+ORG Banque populaire du nord
+ORG Volksbank Saar West
+ORG KSK Saarlouis
+ORG Commerzbank, Filiale Düsseldorf-Friedrichstadt
+ORG Raiffeisenkasse Marling
+ORG Raiffeisenkasse Marling Filiale
+ORG Sparkasse Leipzig - Filiale Mügeln
+ORG Sparkasse GS Schalke
+ORG Sparkasse Burbach
+ORG Raiffeisen Rorschacherberg
+ORG Sparkasse GS Glückauf-Kampfbahn
+ORG Sparkasse MOL - Filiale Wriezen
+ORG Raiffeisenbank Zeltweg
+ORG MultiBank
+ORG Coop Depositenkasse
+ORG Sparkasse Zeltweg EKZ
+ORG Sparkasse Zeltweg Hauptstraße
+ORG Volksbank Grevenbrück eG
+ORG Sparkasse Ried-Haag
+ORG ELLWANGER & GEIGER Privatbankiers
+ORG Raiffeisenbank Sachsen (b. Ansbach)
+ORG Sparkasse GS Bulmke
+ORG Volksbank Ulm-Biberach
+ORG Hypo Steiermark
+ORG ABN-AMRO Bank
+ORG Sparkasse GS Horst-Süd
+ORG Kreissparkasse, kein Geldautomat
+ORG Volksbank Ruhr Mitte eG Höntrop
+ORG Sparkasse Wolfach
+ORG Volksbank Kinzigtal EG
+ORG Sparkasse Wilhermsdorf
+ORG Biuro Kredytowe
+ORG Kreisspakasse
+ORG VR-Bank Landau eG
+ORG Kreisparkasse WN - Filiale Hegnach
+ORG Volksbank Rems - Filiale Hegnach
+ORG Axa Landbouwkrediet
+ORG VDK
+ORG Fürst Fugger Privatbank KG
+ORG Volksbank Bramgau eG
+ORG BNP-Paribas
+ORG Bank Śląski
+ORG DVV
+ORG Sparbank
+ORG BNP Paribas-Fortis
+ORG eurobank
+ORG Raiffeisenbank Kronach
+ORG Raiffeisenbank Küps
+ORG ING Campus Solbosch
+ORG Raiffeisen  Bank
+ORG Komerčnmí banka
+ORG BNP Paribas Fortis Assebroek
+ORG Spar- und Leihkasse Frutigen
+ORG Raiffeisenbank Zorneding
+ORG Sparkasse Zorneding
+ORG Raiffeisenbank Aschau Samerberg Hauptstelle Aschau
+ORG Spar + Leihkasse Frutigen
+ORG Volksbank Ochtrup eG
+ORG Verbundsparkasse Emsdetten-Ochtrup
+ORG Bawag-PSK
+ORG Volks- und Raiffeisenbank eG Unterwesterwald
+ORG VR-Bank Lech-Zusam
+ORG Sparkasse Aschaffenburg Alzenau
+ORG Sparkasse Iserlohn
+ORG Volksbank Greven eG
+ORG KSK Birkenfeld
+ORG Spar+Leihkasse
+ORG Landessparkasse zu Oldenburg (LZO)
+ORG BRED Banque Populaire
+ORG Sparkasse Geschäftsstelle Schönsee
+ORG Raiffeinsenkasse
+ORG Bankautomat der Kreissparkasse
+ORG BANK SPÓŁDZIELCZY SŁAWNO
+ORG Post Bank
+ORG VR-Bank Rhein-Erft eG
+ORG Raiffeisenkasse Wipptal
+ORG Postbank Schalter
+ORG Bank BPS
+ORG Sparkasse Eichstätt
+ORG Volksbank Eichstätt
+ORG Raiffeisenbank Markgrafneusiedl
+ORG La Société Générale
+ORG Regiobank
+ORG Volksbank Rhein-Ruhr eG - Zweigstelle Alt-Hamborn
+ORG Allgemeine Sparkasse OÖ, Filiale Biesenfeld
+ORG Crédit Mutuel "La Rhénane"
+ORG Rathaus Osnabrück
+ORG Allgemeine Sparkasse
+ORG Obkbank
+ORG Raiffeisen, Allschwil Dorf
+ORG Alm. Brand
+ORG Schwäbische Bank AG
+ORG Raiffeisenbank Linz Kleinmünchen
+ORG Volks & Raiffeisenbank
+ORG Sparkasse Rheinkamper Ring
+ORG Regio bank
+ORG Raiffeisenbamk
+ORG Volksbank Sandhofen
+ORG Cafe Brahm
+ORG Lån og Spar
+ORG Kreissparkasse Birburg-Prüm
+ORG Chelsea Building Society
+ORG Raiffeisenbak Stubenberg
+ORG Bnpparisbank
+ORG CREDIT SUISSE
+ORG Mhmk, Hochschule für Medien und Kommunikation
+ORG Volksbank Meerbusch eG
+ORG Sparkasse Waldeck-Frankenberg Geschäftsstelle Usseln
+ORG Hypo NÖ
+ORG BGL Paribas
+ORG Banque Populaire du Nord
+ORG Credit du Nord
+ORG Volksbank Delitzsch e.G.
+ORG VB3
+ORG Raiffeisenbank Flachsmeer eG
+ORG Credit Suisse, Allschwil
+ORG Kantonalbank Erstfeld
+ORG Raiffeisenbank Erstfeld
+ORG ING Bank Oosterbeek branch
+ORG ABN AMRO Oosterbeek branch
+ORG Sparkasse Unterasbach
+ORG Volksbank Südheide eG
+ORG Färs & Frosta Sparbank
+ORG Llyods TSB
+ORG SPK Oberpfalz Nord
+ORG Kreisparkasse Geschäftsstelle Trupermoor
+ORG Raiffeisenbank im Stiftland eG
+ORG Volksbank Groß-Gerau
+ORG Sparkasse Neckarhausen
+ORG Färs & Frosta sparbank
+ORG dm-drogerie markt
+ORG VR-Bank Landau/Isar, Geschäftsstelle Eichendorf
+ORG Volksbank Halberstadt
+ORG Banque Populaire d'Alsace
+ORG Middelfart Sparekasse - Vinding afdeling
+ORG Danske Bank - Vinding Afdeling
+ORG Spar- und Leihkasse
+ORG Raiffeisenbank Frutigland Genossenschaft
+ORG Crédit Agricole Val de France
+ORG Ärzte (Hill&Jäckel)
+ORG Credit agricole
+ORG Volksbank Hamm eG, Zweigstelle Dasbecker Weg
+ORG Volksbank Saar-West eG
+ORG Crédit Lyonnais (LCL)
+ORG HypoVereinsbank Traunstein
+ORG Raiffeisen Bank Aarau
+ORG Bank van De Post
+ORG UBS Aarau
+ORG Credit Mutuel
+ORG Spängler Bank
+ORG Sparkasse Märkisch-Oderland
+ORG RLB Tirol
+ORG Raika Obsteig
+ORG Raiffeisen Bankstelle Tragwein
+ORG Sparkasse Schwaz Ost
+ORG Sparkasse Klingenthal
+ORG KBC Herselt
+ORG Opal Transfer Ltd.
+ORG Volksbank Krefeld-Uerdingen
+ORG Raiffeisenbank Halbenrain
+ORG ČSOB Hlavni
+ORG Frankenberger Bank eG
+ORG Sparkasse Südliche Weinstraße
+ORG Lienzer Sparkasse
+ORG Volleyballplatz
+ORG Kreissparkasse Groß-Gerau Filiale Büttelborn
+ORG Sparkasse Neuss - Geschäftsstelle Stürzelberg
+ORG Wonda Money Transfer
+ORG Credifriuli
+ORG Sparkasse Ettal
+ORG Caisse d'Épargne Île-de-France
+ORG Sparkasse Mitterfelden
+ORG Forex
+ORG Renta Belgica
+ORG Santander Comsumer Bank
+ORG CIC Sainte Menehould
+ORG Sparkasse Duisburg-Huckingen
+ORG Volksbank Sauerland eG Filiale Berge
+ORG Versicherungsmakler Miege
+ORG Commerzbank Hermsdorf
+ORG MagNet
+ORG Wüstenrot a.s.
+ORG Raiffeisenbank Kastl
+ORG ING (ypenburg)
+ORG Raiffeisenbank Schwarzenbach a. Wald
+ORG Sparkasse Schwarzenbach a.Wald
+ORG SKOK Śląsk
+ORG direktanlage.at AG - Filiale Salzburg
+ORG direktanlage.at AG - Filiale Graz
+ORG Sparkasse Limburg-Weilburg
+ORG Volksbank Börßum-Hornburg
+ORG Credit mutuel
+ORG Raiffeisenbank Saalfelden
+ORG HYPO Saalfelden
+ORG Pilisvörösvár Vidéke Takarékszövetkezet
+ORG Pilisvörösvár Takarékszövetkezet
+ORG ABN Amrobank
+ORG EDC
+ORG Volksbank Unterland
+ORG Bank Nordik
+ORG Raiffeisenlandesbank Wien / Niederösterreich
+ORG Crédit Mutuel - Ccm du Pays de Hanau
+ORG Raiffeisenbank Riedheim
+ORG Raiffeisenkasse Kirchschlag
+ORG Volksbank eG Überlingen
+ORG Sparkasse Altenkunstadt
+ORG Česká spořitelna a.s.
+ORG Sparkasse Kirchroth
+ORG Stadtsparkasse Geschäftsstelle Blumenau
+ORG Raika Debant
+ORG Sparkasse Debant
+ORG Vordingborg Bank
+ORG Møns Bank
+ORG Abanka Vipa d.d.
+ORG NKBM d.d.
+ORG Banka Koper d.d.
+ORG Banka Sparkasse d.d.
+ORG SKB Banka d.d.
+ORG Raiffeisenbank Großrußbach
+ORG Raiffeisen Bank Oberland
+ORG B.N.P. Paribas
+ORG Sparkasse Kaprun
+ORG Raiffeisenkasse Kaprun
+ORG Commerzialbank
+ORG Sparkasse Tauperlitz
+ORG Sparkasse Feldkirchen
+ORG Raiffeisenbank Moosburg-Tigring
+ORG Sparkasse Neu-Ulm - Illertissen
+ORG Birsteiner Volksbank eG
+ORG Raiffeisenbank Arnfels
+ORG Stadtsparkasse Remscheid
+ORG Volksbank Düsseldorf Neuss eG - Filiale Oberkassel
+ORG Kreissparkasse Traunstein-Trostberg
+ORG VR-Bank Oberbayern-Südost e.G.
+ORG Raiffeisenbank Gleinstätten
+ORG Raiffeisenbank Pommelsbrunn
+ORG Raiffeisen Bezirkskasse Schwaz
+ORG Hypo Tirol Bank
+ORG PSD Bank München eG, Sitz Augsburg
+ORG Volksbank Rhein-Nahe-Hunsrück
+ORG Agence Poitiers NOTRE DAME
+ORG BNP Paribas NOTRE-DAME
+ORG SKOK Boże Dary
+ORG Sparkasse Duisburg - Geschäftsstelle Hochemmerich
+ORG Posojilnica Bank
+ORG Cassa Di Risparmio
+ORG Saffron Building Society
+ORG Galerie K am Dienheimer Hof
+ORG Bankshop
+ORG Geschaeftsstelle Doebra
+ORG St. Gallische Kantonalbank
+ORG Bank Spółdzielczy w Oleśnicy, Oddział w Długołęce, Filia Kiełczów;
+ORG Volksbank Grafschaft Hoya
+ORG Banque Bnp Paris Fortis
+ORG Volksbank Liefering
+ORG Raiffeisenbank Bad Gleichenberg
+ORG Raiffeisenbank Oberlunkhofen
+ORG Filiale Lamboy
+ORG Raiffeisenbank eG Heide
+ORG Kreis- und Stadtsparkasse Wasserburg am Inn
+ORG RV Bank Rhein-Haardt eG
+ORG BAWAG-PSK
+ORG LBS Emsdetten
+ORG Banque Populaire Val De France
+ORG Sparkasse Filiale
+ORG Fédérale assurance
+ORG banque CPH
+ORG Volks-Raifeisenbanken
+ORG EKS
+ORG Banca Nazionale del Lavoro
+ORG Sparkasse Stubenberg
+ORG Raiffeisenbank Weilach
+ORG Raiffeisenbank Zehnergürtel
+ORG Sparkasse Algund
+ORG Raika Algund
+ORG Sparkasse Stattersdorf
+ORG Nordea, Herlev afdeling
+ORG Danske Bank, Herlev Afdeling
+ORG Raiffeisenbank Mirskofen EG
+ORG PEKAO S.A.
+ORG Volksbank Neuenkirchen-Vörden
+ORG Raiffeisenbank Mittelburgenland Ost
+ORG Raiffeisenbank Isar-Loisachtal
+ORG Volksbank Groß Schwülper
+ORG Unicredit bank
+ORG Agil Dienstleistungsgruppe
+ORG Sparkasse LzO
+ORG Banque Populaire Dijon Cap Nord
+ORG Bank Peakao SA
+ORG Spuerkeess
+ORG Raiffeisenbank Eberndorf
+ORG Banque CIC Est
+ORG LCL Banque et Assurance
+ORG Sparkasse Hemsbach-Mitte
+ORG Volksbank Riesa eG
+ORG Kreissparkasse Bautzen Geschäftsstelle Großpostwitz
+ORG Raiffeisenkasse Partschins/Rabland
+ORG Laydernier
+ORG Volksbank Raiffeisenbank Mangfalltal-Rosenheim eG‎ Geschäftsstelle Beyharting
+ORG Sparkasse NU-Petrusplatz
+ORG Raiffeisenbank Wattens
+ORG Posojilnica-Bank Ludmannsdorf-Keutschach-Schiefling
+ORG Agence BNP Paribas Fortis Braine-le-Château
+ORG CBC Bank
+ORG Psd Bank
+ORG Belfius Braine-le-Château
+ORG Sparkasse Traunstein-Trostberg
+ORG BNP Paribas Fortis Ittre
+ORG PKO BP Agencja nr 0536
+ORG Bank Spółdzielczy w Ustroniu
+ORG Landessparkasse zu Oldenburg, Filiale Wangerooge
+ORG Kulmbacher Bank
+ORG CE
+ORG BP
+ORG Sepah
+ORG Rum és Vidéke Takarékszövetkezet
+ORG Savaria Takarékszövetkezet
+ORG Bank Zachodni WBK S.A. (oddział)
+ORG Tanzschule Daub-Volk
+ORG Nordea Bank Polska SA
+ORG Sparkasse Neustadt-Lachen/Speyerdorf
+ORG VR-Bank Lachen-Speyerdorf
+ORG Volksbank Beckingen
+ORG Co-operative
+ORG Bankhaus Max Flessa
+ORG Raiffeisenbank Liesingtal
+ORG Volksbank Ruhr-Mitte
+ORG Raiffeisenbank Donaumooser Land
+ORG Sparkasse Wuppertal
+ORG Sparkasse Rhein-Neckar-Nord
+ORG Bank Spółdzielczy w Błaszkach
+ORG Raika Lana
+ORG Raiffeisenbank Gansingen
+ORG BNP Paribas Braine
+ORG ZKB Bäretswil
+ORG PolBank
+ORG Kredyt bank
+ORG HypoVereinsbank Starnberg
+ORG BNB-Paribas Fortis
+ORG RABO Bank
+ORG Raiffeisenkasse Ebreichsdorf regGenmbH
+ORG Steiermaerkische
+ORG Raiffeisenbank Birkfeld
+ORG Tatrabanka
+ORG Banque Populaire Lille Royale
+ORG Raiffeisenbank Waldhausen
+ORG Banco Pinto
+ORG Bank Spółdzielczy w Słupcy
+ORG Attijariwafa bank
+ORG Bmce Bank international
+ORG Bred - Banque Populaire
+ORG Chaabi Bank
+ORG PBH
+ORG Helgoländer Sparkasse
+ORG Banque Alternative Suisse SA (BAS)
+ORG VR Bank Main-Kinzig-Büdingen, Geschäftsstelle Eichen
+ORG Alternative Bank Schweiz AG (ABS), Beratungszentrum Zürich
+ORG Crédit mutuel
+ORG BRED banque populaire
+ORG BBO
+ORG Agence Crédit Coopératif
+ORG PKO O/Wisła
+ORG DKM Münster eG
+ORG ATEbank
+ORG Volksbank Wallerstädten
+ORG Minifinanse
+ORG KSK Kelberg
+ORG Volksbank Filiale Bockum
+ORG Caisse D'Epargne
+ORG Erste Bank ATM
+ORG Bank Gantrisch
+ORG Raiffeisenkasse Münster
+ORG Volksbank Niederösterreich Mitte
+ORG Montbéliard Vivaldi
+ORG AXA Groep West
+ORG Belfius Yvoir
+ORG Raiffeisenbank eG Baunatal
+ORG Banif Bank
+ORG Bank Millenium
+ORG VR Bank + Kreisparkasse
+ORG Bank BGŻ
+ORG Bank Sarasin & Cie AG
+ORG Volksbank Braunlage e.G.
+ORG Santanda
+ORG Raiffeisenbank Hofbieber
+ORG Sparkasse Hofbieber
+ORG CREDIT AGRICOLE D'ILE DE FRANCE
+ORG Volksbank Rhein-Lahn eG
+ORG Bank Spółdzielczy Ziemi Kaliskiej
+ORG FGH Bank
+ORG FM Bank
+ORG Banca Raiffeisen Leventina
+ORG Raiffeisen Bank Polska
+ORG Banque BICS
+ORG Banque BNP
+ORG KSK Nalbach
+ORG Volksbank Tettnang
+ORG Raiffeisenbank Kaiserstuhl eG
+ORG Abn-Amro
+ORG Raiffeisenbank Weißenkirchen
+ORG Volksbank Spitz
+ORG Bank Zachodni BZWBK
+ORG CIB bank Újpest központ
+ORG HypoVereinsbank Firmenkunden
+ORG HypoVereinsbank Corporate Banking
+ORG Lån & Spar
+ORG Sociéte Générale
+ORG Casden
+ORG PKO BP - agencja
+ORG VR-Bank Westmünsterland eG
+ORG Somogy Takarék
+ORG Banque Kolb Centre d'Affaires
+ORG Kasy Stefczyka
+ORG BNP Paribas - Pont Sainte-Marie
+ORG Crédit Agricole De Champagne-Bourgogne
+ORG Hévís és Vidéke Takarékszövetkezet
+ORG SKOK Ziemi Rybnickiej
+ORG Raiffeisenbank Tullnerbach
+ORG Sparkassen Ostunterfranken
+ORG Nordea Bank Polska
+ORG Volksbank Sauerland e.G.
+ORG Postbank im Tegut
+ORG Crédit Mutuel - Agence du Plateau Briard
+ORG KfW Kreditanstalt für Wiederaufbau
+ORG IKB Deutsche Industriebank
+ORG DA Direkt
+ORG Národná banka Slovenska - Expozitúra Trenčín
+ORG Allianz Pimco
+ORG PSD Nord Bank eG
+ORG Crédit Municipal
+ORG Agence Place de Metz
+ORG Raiffeisenbank Filiale Großenmeer
+ORG Oldenburgische Landesbank Gst. Großenmeer
+ORG Raffeisenbank Zeilarn
+ORG PKO BP Oddział 3
+ORG Sparkasse Geschäftsstelle Niederaula
+ORG Raiffeisenbank Schleedorf
+ORG Sparkasse Bücken
+ORG Bank Spółdzielczy w Poddębicach oddział w Pęczniewie
+ORG Wielkopolski SKOK
+ORG BAWAG P#SK
+ORG Hotel Großfeld
+ORG Deutsche Bank Beratung
+ORG Sparkasse Vöhringen
+ORG Belfius bank
+ORG rnhb hypotheekbank
+ORG Raiffeisenbank Tännesberg
+ORG Cassa di risparmio - Sparkasse
+ORG Raiffeisenkasse Mühlen in Taufers
+ORG Raffaisen Polbank
+ORG Banque Poulaire
+ORG Union Bank
+ORG Fischer Leder und Trachten
+ORG Sparkasse (Automat)
+ORG Sparekassen Faaborg A/S Ringe Afd
+ORG Andelskassen Fyn
+ORG GBS Mosina
+ORG Crédit Agricole d'Ile de France
+ORG Volksbank - Banca Popolare
+ORG Raiffeisen Schwanenkirchen
+ORG VR Main-Kinzig eG
+ORG Commerzbank, Filiale Düsseldorf-Friedrichstraße
+ORG Nassausische Sparkasse
+ORG Sparkasse Vorpommern Filiale Wiek
+ORG Sparkasse Vorpommern Filiale Göhren
+ORG GBS w Barlinku
+ORG Agence Société Générale La Courneuve
+ORG bank coop
+ORG Raiffeisen Bank Region Mank
+ORG Volksbank Krefeld Filiale Oppum
+ORG Clientis Sparcassa
+ORG Kisdunamenti Takarékszövetkezet
+ORG Volksbank Vogtland eG Gschst. Treuen
+ORG Baloise Bank SoBa
+ORG Sparkasse Büsbach
+ORG Crédit agricole Nord-Est
+ORG PNB Paribas Fortis
+ORG Agence de Gencay
+ORG Raiffesien
+ORG Raiffeisenbank Geschäftsstelle Mallersdorf-Pfaffenberg
+ORG CreditSuisse
+ORG Banque BCP
+ORG Volksbank Elsen Wewer Borchen
+ORG Geno Bank
+ORG Sparkasse nur Automaten
+ORG Baden-Württembergische
+ORG Raiffeisenbank Walpersbach
+ORG Victoria patrimoine
+ORG Sparkassenfilieale Hörden
+ORG Nordfyns Bank
+ORG Sparkasse Filiale Lessingstraße
+ORG Société Générale - Simard
+ORG Bankhaus Hallbaum
+ORG Raiffeisenbank Wien
+ORG Abanka
+ORG Raiffeisenbank Lödersdorf
+ORG Sparkasse Goslar/Harz
+ORG Belfius - Herstal Centre
+ORG Caisse d'Epargne de Normandie
+ORG Raiffeisenbank Leopoldskron-Moos
+ORG Sparkasse Burgenlandkreis
+ORG PeKaO SA
+ORG Gymnastikhalle Kastelbergschule
+ORG Hörgeräte Enderle-Ammour GmbH
+ORG Volksbank Wildeshauser Geest
+ORG Sparkasse Freiburg - Nördlicher Breisgau
+ORG Kräter, Lubitz & Co. Assekuranzmakler + Finanzservice GmbH
+ORG Volksbank Breisgau Nord eG Hauptstelle Waldkirch
+ORG Raiffeisenbank Vilshofener Land eG Geschäftsstelle
+ORG Cassa di Risparmio di Bolzano/Südtiroler Sparkasse
+ORG NatWest Bank
+ORG Sparkasse Dortmund Brackel
+ORG Obwaldner Kantonalbank Hauptsitz Sarnen
+ORG BCBE
+ORG Raiffeisenbank Ehingen-Hochsträß eG
+ORG Bank Spółdzielczy Koszęcin
+ORG Sparkasse Krefeld Geschäftsstelle Lobberich
+ORG Bank Spółdzielczy w Pleszewie
+ORG J. Van Breda
+ORG Deutsche Bank Investment & FinanzCenter Bruchsal
+ORG Raiffeisenbank München Süd eG Versicherungsdienst
+ORG Volksbank Remseck eG
+ORG CA Poitou Touraine
+ORG PKO BP II Oddział
+ORG SGB-BS Pszczolki
+ORG Sparkasse Filiale Sorga
+ORG Credit Agricole Bank
+ORG Crédit Mutuel (en construction)
+ORG Sparkasse Oberplanitz
+ORG Sparkasse Ebergassing
+ORG Middelfart sparekasse
+ORG Cassa Rurale Bolzano
+ORG Sparkasse Altenoythe
+ORG Commerzbank Filiale Darmstadt
+ORG Bankpavillion
+ORG Volksbank Darmstadt eG
+ORG Sparkasse Ried
+ORG Volksbank Ostholstein Nord eG
+ORG Bank Spółdzielczy w Dusznikach. Oddział Kaźmierz
+ORG VKB Bank
+ORG Stadtpark
+ORG Uni Credit
+ORG Le Crédit Mutuel
+ORG Euro Bank
+ORG Sparkasse Lauterbach
+ORG Evelyn Reiter Kosmetiksalon
+ORG Raiffeisenbank Oberpfalz Süd eG
+ORG Banque Nuger
+ORG Sparkasse Leißling
+ORG I.N.G Banque
+ORG Merkur Bank KGaA
+ORG ING Mechelen
+ORG Volksbank Lebach
+ORG Spar- und Darlehnskasse Schloß Holte-Stukenbrock
+ORG Bank Spółdzielczy w Szadku
+ORG Sparkasse Heidelberg Filiale Nordstadt
+ORG Raiffeisenbank Mattsee
+ORG Bawag Psk
+ORG VR Bank Sassanfahrt
+ORG Raiffeisenbank Preding
+ORG Volksbank Schöndorf
+ORG Lion Casino
+ORG Volksbank St. Valentin -  Enns
+ORG Raiffeisenbank Ravensburg Geschäftsstelle Wolpertswende
+ORG BAWAG P.S.K.
+ORG Südwestbank AG
+ORG GLASEREI KRÖLL OG
+ORG Allwetter Freibad Flingern
+ORG Raiffeisen Oberlechtal
+ORG VR - Bank
+ORG Raiffeisenbank Bernkastel-Wittlich
+ORG Sparkasse Mittelmosel
+ORG Sparda-Bank Hannover e.G.
+ORG Sparkasse Timelkam
+ORG Volksbank Timelkam
+ORG Friuladria
+ORG Volksbank Wittingen Klötze eG
+ORG HSBC Trinkhaus
+ORG Cassa di Risparmio del Friuli Venezia Giulia
+ORG Credito Coperativo
+ORG Bank Śląski ING
+ORG Hofstadler Anita Juwelier
+ORG Sparkasse Varrel
+ORG Raiffeisenbank Calw
+ORG Potstbank
+ORG PKO BP Oddział 14
+ORG Volks- und Raiffeisenbank Prignitz eG
+ORG Middelfart Sparekasse (Strib)
+ORG Caisse d'epargne
+ORG Kiwi
+ORG Sparkasse Oberösterreichmehr
+ORG Sparkasse Offenbach
+ORG RV Bank Rhein-Haardt
+ORG Stadtsparkasse Schwedt
+ORG PKO BP Oddział 5
+ORG Raiffeisen-Volksbank Wemding eG
+ORG Norwich City Community Bank
+ORG Volksbank Raiffeisenbank Praest Vrassel Dornick
+ORG Sparkasse Vrasselt
+ORG PKO BP Oddział 10
+ORG Getin
+ORG Crédit Foncier de France
+ORG ABN - AMRO
+ORG Sparda-Bank Linz regGenmbH
+ORG VR Bank Holstein Nord
+ORG Sparkasse Weißenfels
+ORG Sparkasse Neuss - Geschäftsstelle Horrem
+ORG LBS Herford
+ORG Riaffeisenbank
+ORG BVT Bank
+ORG Bank Spółdzielczy w Oleśnicy O/Dziadowa Kłoda
+ORG Gospodarczy Bank Spółdzielczy
+ORG Bank Spółdzielczy w Oleśnicy O/Syców
+ORG Bank Spółdzielczy w Oleśnicy O/Międzybórz
+ORG Banco BPI
+ORG Crédit Agricole Carmes
+ORG Raiffeisenbank Aigen
+ORG Sparkasse Irdning
+ORG Volksbank Main-Kinzig-Büdingen eG
+ORG Raiffeisenbank Heinsberg eG
+ORG ZKB Zürcher Kantonalbank
+ORG Volksbank Peine Geschäftsstelle Hämelerwald
+ORG Raiffeisen-Volksbank Oder-Spree eG
+ORG CommerzBank
+ORG BNP Paribas Gestion Privée
+ORG Dresdner Volksbank Raiffeisenbank
+ORG Bank Spółdzielczy Brodnica
+ORG PeKaO S.A.
+ORG Bank Spółdzielczy Golub-Dobrzyń
+ORG Crédit Mutuel de Ribeauvillé
+ORG Sparkasse Meschede Geschäftsstelle Berge
+ORG Raifeisenbank Arnstorf
+ORG Petrikeller
+ORG PKO Bank Polski. Oddział 2
+ORG Caisse d'Épargne Paris Croix-Nivert
+ORG Skok Wspólnota
+ORG eurobank partner
+ORG Bank Spółdzielczy w Krokowej Oddział w Pucku
+ORG Bank Spółdzielczy w Człuchowie
+ORG Raiffeisenbank Pilgerzell
+ORG Volksbank Vogtland eG
+ORG Raika Voitsberg
+ORG Postbank/BHW Investmentcenter
+ORG Filiale Sparkasse Jerichower Land
+ORG Volksbank Weinheim eG
+ORG Raifeinsenbank Ortenburg - Kirchberg v. W. (Filialle Otterskirchen)
+ORG Sperkasse
+ORG Raiffeisenbank i. Lkrs Passau Nord eG
+ORG Sparkasse Burg-Süd Jerichower Land
+ORG Banque Populaire de Lorraine
+ORG Gästehaus "Alte Burg zu Longuich"
+ORG Sparkasse Karbach
+ORG Volksbank Wittingen-Klötze eG
+ORG Oddział Korporacyjny i BRE Private Banking & Wealth Managment Katowice
+ORG PKO BP Oddział 1 w Katowicach
+ORG Volksbank Seissen
+ORG LBS Sparkassenversicherung
+ORG Sparkasse Mindelheim-Lindau-Memmingen
+ORG Volksbank - Eingang Lauben
+ORG Raiffeisen - Volksbank
+ORG Waldviertler Sparkasse Vitis
+ORG Raiffeisenkasse Vitis
+ORG Volksbank Vechelde-Wendeburg
+ORG Sparkasse Bonndorf-Stühlingen - Geldautomat
+ORG Primabanka
+ORG Volksbank PHD
+ORG BNP Paribas Fortis Zandvliet
+ORG AXA Finadan Zandvliet
+ORG LBS-Beratungszentrum
+ORG Sparkasse Voitsberg-Köflach
+ORG Dragsholm Sparekasse
+ORG Tatra Banka
+ORG Belfius Bank Rebecq
+ORG Societe Générale
+ORG Takarek Bank
+ORG VR-Bank Erlangen-Höchstadt-Herzogenaurach eG, Geschäftsstelle Adelsdorf
+ORG Raiffeisenbank Würenlos
+ORG Bank Spółdzielczy w Świdnicy punkt kasowy w Jaworzynie Śląskiej
+ORG RLT
+ORG VR Bank NordRhön eG
+ORG Societé Generale
+ORG VR-Bank Chattengau eG
+ORG Volksbank Hornau
+ORG Societe Generale
+ORG Banque Populaire D'Alsace
+ORG Raiffeisenbank Flieden
+ORG Ice Pub
+ORG Cédit Agricole
+ORG Crédit Mutuel Enseignant
+ORG AIG Bank Polska
+ORG Sparkasse Osnabrück Zweigstelle Lintorf
+ORG Sparkasse Filiale Asbach
+ORG Raiffeisenbank eG Asbach-Sorga
+ORG Hypotecní banka
+ORG Privatbank Reichmuth & Co.
+ORG Sparkasse Rosenheim Bad Aibling Zweigstelle Rimsting
+ORG Frankurter Sparkasse 1822
+ORG Volksbank Marchfeld
+ORG UniCredit Bank Austria
+ORG Den jyske Sparekasse
+ORG Sparkasse Rhein-Pfalz
+ORG Cib Bank Fényes Elek Fiók
+ORG Volksbank Merenberg
+ORG Raiffeisenbank Asbach-Neustedt e.G.
+ORG Raika Reith
+ORG Sparkasse Nürnberg Geschäftsstelle Leinburg
+ORG Sparkasse Nürnberg Geschäftsstelle Weißenbrunn
+ORG Sparkasse Nürnberg Geschäftsstelle Schweinau
+ORG Sparkasse Nürnberg Geschäftsstelle Boxdorf
+ORG Sparkasse Nürnberg Geschäftsstelle Buch
+ORG Sparkasse Nürnberg Geschäftsstelle Langwasser-Wettersteinstraße
+ORG Sparkasse Nürnberg Geschäftsstelle Hersbruck-Ostbahn
+ORG Sparkasse Nürnberg Geschäftsstelle Happurg
+ORG Sparkasse Nürnberg Geschäftsstelle St. Johannis
+ORG Sparkasse Nürnberg Geschäftsstelle Velden
+ORG Sparkasse Nürnberg Geschäftsstelle St. Johannis-West
+ORG Brandenburger Bank
+ORG Raifeissen
+ORG Raiffeisenbank Kirchbichl
+ORG Raiffeisenbank Schaafheim
+ORG Sparkasse Schaafheim
+ORG GBS Gorzów Wlkp.
+ORG Sparkasse Vorpommern Gebietsdirektion Rügen
+ORG abn
+ORG Kinizsi Bank
+ORG Slovenská Sporitelňa
+ORG Volksbank Mittweida
+ORG CIB Bank Tatabánya
+ORG Volksbank Raiffeisenbank Penzberg eG
+ORG DAB Bank AG
+ORG Raiffeinbank
+ORG Raiffeinsenbank Ortenburg-Kirchberg v. W. GS: Aicha Vorm Wald
+ORG CS
+ORG LIGA Bank Bamberg
+ORG Sparkasse Penzberg
+ORG Volksbank -Raiffeisenbank Rosenheim-Chiemsee eG Geschäftsstelle Eggstätt
+ORG Banco Espirito Santo
+ORG Fortuna Banque
+ORG Intesa San Paolo Servita
+ORG ING Rotterdam-goudsesingel
+ORG ERSTE
+ORG Kulmbacher Bank eG Raiffeisen-Volksbank
+ORG VoBa Mittelhessen - Zweigstelle Ulm
+ORG Sparkasse Wetzlar - Zweigstelle Ulm
+ORG Sparkasse Wetzlar - Zweigstelle Biskirchen
+ORG Raiffeissen Kasse Wipptal
+ORG Sparkasse Wartburgkreis
+ORG Volksbank RheinAhrEifel (Obermendig)
+ORG Sparkasse Mayen (Obermendig)
+ORG Alianz Versicherung
+ORG SLSP pobočka
+ORG SB Bank der Volksbank und Sparkasse
+ORG BNP-PARISBAS-FORTIS
+ORG Raiffeisenbank Mangfalltal
+ORG Sparkasse Vagen
+ORG Raiffeisenbank Hersbruck Geschäftsstelle Happurg
+ORG Bank melli iran
+ORG Raiffeisenbank Windhaag bei Perg
+ORG Raiffeisen Volksbank Tüßling-Unterneukirchen
+ORG Sparkasse Altötting-Mühldorf
+ORG HBC
+ORG Vr Bank
+ORG Banka Velenje
+ORG Volksbank Grasberg
+ORG PKO BP Oddział 8 w Katowicach
+ORG Ge Capital
+ORG Cafe Roth
+ORG RLB
+ORG Crédit Lyonais
+ORG Société Génerale
+ORG Hallertauer Volksbank Filiale Uttenhofen
+ORG delta lloyd
+ORG Volksbank Stade-Cuxhaven eG
+ORG Crédit Mutuel Hazebrouck Notre-Dame
+ORG Crédit Mutuel Hazebrouck
+ORG BCV Sainte-Croix
+ORG Spardabank
+ORG Raiffeisen Bank Lurnfeld-Reißeck
+ORG Hannoversche Volksbank - KompetenzCenter Seelze
+ORG Volksbank Jever - Geschäftsstelle Sillenstede
+ORG Dietmar Romer
+ORG Volksbank Mittelhessen, Filiale
+ORG Sparkasse Wetzlar, Filiale
+ORG Metzgerei Hacketahl (imbiss)
+ORG nKBM
+ORG Bnp Paribas
+ORG Volksbank Merten
+ORG Glarner Kantonalbank
+ORG Sparkasse Jerichowerland
+ORG Zirci Takarékszövetkezet
+ORG PKO BP Oddział 2 w Katowicach
+ORG BANK PKO S.A.
+ORG Volksbank Steinfurt
+ORG Pekao SA II Oddział w Katowicach
+ORG KSK Geschäftsstelle Bettingen
+ORG Befius
+ORG Sparkasse Nordwestmecklenburg
+ORG Sparkasse Niederbayer-Mitte Geschäftsstelle Reisbach
+ORG Volksbank Seekirchen
+ORG Oberbank Seekirchen
+ORG BAWAG P.S.K. Bank für Arbeit und Wirtschaft und Österreichische Postsparkasse AG Filiale Seekirchen
+ORG BNP bank paris bas
+ORG Caisse D Epargne
+ORG FIO banka
+ORG easyCredit-Shop
+ORG VR-Bank Burghausen
+ORG Salzburger Sparkasse Seekirchen
+ORG BEKB/BCBE
+ORG Raiffeisen Polbank
+ORG Spielbank Bad Wiessee
+ORG Banque UBS
+ORG Banque Vaillant
+ORG Banque BNP Paribas Fortis
+ORG Credit Agricole S.A.
+ORG Service Credit Union
+ORG ABN Amro bank
+ORG ING Bank Brunssum
+ORG Wohnanlage am Pleisbach
+ORG Matmut
+ORG Burza Cenných Papierov
+ORG Raiffeisenbank Neukirch-Romanshorn
+ORG Bank Area
+ORG Caisse D'épargne
+ORG VR Bank Südniedersachsen e.V.
+ORG Sparkasse Neuhofen
+ORG Mendener Bank
+ORG Märkische Bank eg
+ORG Sparkasse Märkisches Sauerland Hemer-Menden
+ORG Raiffeisenbank Breitenau
+ORG Getin Noble Bank
+ORG HYPO NOE Landesbank
+ORG Sparkasse Zell
+ORG Lcl
+ORG Geti Wilba
+ORG Fédérale Assurance
+ORG CBC banque assurance
+ORG St.Wendeler Volksbank
+ORG Raiffeisenbank Ebern
+ORG Hypo-Bank
+ORG Raiffeisenbank Stans
+ORG BNP Paribas Basecles
+ORG Belfius Baseque
+ORG ING Les Trois Canaux
+ORG Raiffeisenbank Unteres Inntal
+ORG Physiotherapie Klöpfel
+ORG Poštovní Spořitelna
+ORG Schaffhauser Kantonalbank
+ORG Sparkasse Geschäftsstelle Obergeis
+ORG Bankomat Euronet
+ORG Raiffeisen Marbach
+ORG Coutts & Co
+ORG Volksbanken und Raiffeisenbanken
+ORG VR-Bank Gröbenzell
+ORG Banca Popolare dell'Alto Adige
+ORG Raiffeisenbank im Oberland eG
+ORG BANQUE CANTONALE DE FRIBOURG FREIBURGER KANTONALBANKFRIBOURG - SCHOENBERG
+ORG Commerzialbank Zemendorf
+ORG Volksbank Obermoschel
+ORG Raiffeisen Bank Kleinzell
+ORG Middelfart Sparekasse
+ORG MONEX Mikrofinanzierung
+ORG Volksbank Rötenberg
+ORG Észak Tolna Megyei Takarékszövetkezet
+ORG Raiffeisenbank Rheinbach Voreifel eG, Geschäftsstelle Stotzheim
+ORG Banque Credit Agricole
+ORG societe generale
+ORG Raiffeisenbank Gnigl
+ORG Banca Monte Paschi Belgio
+ORG Banca Friuladria
+ORG VR Untertaunus
+ORG Postbank BHW Finanzberatung
+ORG Attijariwafa Bank
+ORG Rostocker Volks- und Raiffeisenbank eG
+ORG Sparkasse Gotha Filiale Winterstein
+ORG Commerzbank, Filiale Meerbusch
+ORG Bank Spółdzielczy w Goleniowie
+ORG Sparda Bank Hessen e.G.
+ORG Banque postale
+ORG BNP Paris Bas
+ORG bnp paribas fortis
+ORG Handelsvertretung d. Bausparkasse Mainz AG
+ORG Basel-Landschaftliche Kantonalbank
+ORG Raiffeisenbank Pfaffing
+ORG Erzgebirgssparkasse
+ORG Raiffeisenkasse Gaflenz
+ORG Kantonalbank Baselland
+ORG Sparkasse Kirchdorf
+ORG Poitiers Saint Éloi
+ORG Raiffeisenbank Rechtmehring
+ORG Raiffeisenbank Puchkirchen
+ORG Volksbank Schnathorst
+ORG Sparkassen-Geschäftsstelle Mörslingen
+ORG Caisse d'Epargne Dijon Mirande
+ORG EuroBank
+ORG Optik Just
+ORG Privatbank
+ORG Sparkassenfiliale Bodenmais
+ORG PKO Bank Polski, Oddział 2 w Zabrzu
+ORG Sparkasse Freyung-Grafenau
+ORG Sparkasse Feldkirch/Altenstadt
+ORG Raiffeisenbank Feldkirch/Altenstadt
+ORG Bank für Tirol und Vorarlberg (BTV) Feldkirch
+ORG Sparkasse Sythen
+ORG Bankhaus Lampe KG
+ORG Raiffeisenbank Niederndorf
+ORG Raiffeisenbank Ebbs
+ORG Agence de Lille Victor Hugo
+ORG Banque Populaire - Agence Lille Victor Hugo
+ORG Agence Lille Victor Hugo
+ORG Sparkasse Carolinensiel
+ORG Volksbank eG Westrhauderfehn
+ORG Reifeisen - Bank
+ORG TARGO Bank
+ORG Sparkasse Brehna
+ORG Volksbank Nahe-Schaumberg
+ORG Ceska Sporitelna
+ORG Landessparkasse Apen
+ORG Oldenburgische Landesbank Apen
+ORG Volksbank Geschäftsstelle Apen
+ORG VR Bank Hessenland eG
+ORG ČSOB Bank
+ORG KB Bank
+ORG GE Moeny bank
+ORG Sparkasse Felixdorf
+ORG Volksbank Felixdorf
+ORG Selgross Gera
+ORG Raiffeisenbank Krems
+ORG Air Bank
+ORG Bürgeramt, Grünau
+ORG KommHaus- Kultureinrichtung
+ORG Volksbank Hohenohe eG
+ORG Sparkasse Wittgenstein - Feudingen
+ORG Volksbank Wittgenstein - Feudingen
+ORG Erste Bank und Sparkasse
+ORG Kreis- und Stadtsparkasse
+ORG Deutsche Schiffsbank AG
+ORG Kreissparkasse Koeln
+ORG VR-Bank Marktredwitz
+ORG VR-Bank Salzburg
+ORG Citibank Schaerbeek
+ORG PKO Bank Polski, Oddział 1
+ORG Volksbank Bochum Witten eG
+ORG Volksbank Sprockhövel eG
+ORG Volksbank Hellweg
+ORG BNP Paribas Bank
+ORG Bank Zachodni WBK S.A.
+ORG Bank Pekao
+ORG Skok
+ORG Crelan - Agence B. Davin
+ORG N&P
+ORG Banque Migro
+ORG GEMB
+ORG KB, a.s.
+ORG Česká Spořitelna a. s.
+ORG BEKB / BCBE
+ORG CIB Bank Keszthely
+ORG Bank Spółdzielczy w Krokowej
+ORG Sparkasse Porta Westfalica
+ORG KREISPARKASSE
+ORG Volksbank Waltrop eG
+ORG Sparkasse NWM
+ORG Volksbank Oberkirch
+ORG Filiale Waldsiedlungsmarkt
+ORG Raiffeisenbank Bechhofen eG
+ORG Commerzbank Marktredwitz
+ORG RaiBa
+ORG Caisse d'Epargne Chalons Viviers
+ORG Crédit Agricole Nord-Est
+ORG Kreissparkasse Ravensburg - Filiale Baindt
+ORG CMDP
+ORG Eays Credit
+ORG Raiffeisen und Volksbank
+ORG Spardabank Frankfurt
+ORG UBS Bolligen
+ORG Raiffeisenbank Main-Spessart
+ORG Commerzbank - Filiale Düsseldorf-Oberkassel
+ORG Sparkasse Sigmaringendorf
+ORG Postbank Hankensbüttel
+ORG Raika Klam
+ORG VR-BANK Bad Salzungen Schmalkalden eG
+ORG Slovenská Sporiteľňa
+ORG Rabo bank
+ORG Raiffeisenbank Nestelbach-St. Marein-Laßnitzhöhe
+ORG Privredna banka Zagreb
+ORG Volksbank Gnarrenburg
+ORG Sparkasse Gnarrenburg
+ORG Idea Bank
+ORG Bank Zachodni WBK (VIII o./w Gdańsku)
+ORG Record Bosch Luc BVBA
+ORG KBC Bank Breendonk
+ORG Axa Verlinden
+ORG OÖ. Sparkasse Muldenstraße
+ORG Record - Van Reeth
+ORG Raiffeisen Bankstelle Wernstein
+ORG Kreis und Stadtsparkasse Erding Dorfen
+ORG OstseeSparkasse
+ORG VR-Bank Werra-Meißner
+ORG CPH Tournai-Beffroi
+ORG Sparkasse Vogtland, Geschäftsstelle Falkenstein
+ORG Volksbank Esens
+ORG Cannstatter Volksbank
+ORG Rathaus Unterkochen
+ORG BNP Paribas Fortis Broqueville
+ORG Kassler Sparkasse
+ORG Sparkasse Rhein-Neckar Nord
+ORG Erste Bank Lounge
+ORG Bankhaus Bauer
+ORG Raiffeisenkasse Terlan
+ORG Raiffeisenbank Vellberg Großaltdorf eG
+ORG citibank
+ORG Agence BNP Paribas La Courneuve
+ORG Garfschafter VR-Bank
+ORG Polbank Raffaisen
+ORG Banque Centea
+ORG Stadtsparkasse München Filiale Olympiadorf
+ORG V/R-Bank
+ORG Sberbank Europe AG
+ORG Unicredit Bank Hungary Zrt.
+ORG Sparkasse Riedau
+ORG Caisse D Epargne Et Prevoyance
+ORG Ostsee Sparkasse Laage
+ORG Raiffeisen Aare-Reuss
+ORG Raiffeisenbank eG Owschlag
+ORG Hypo Lenzburg
+ORG Crédit Agricole Lorraine
+ORG Banque Accord
+ORG Volksbank Börde-Bernburg
+ORG Volksbank Saar-West
+ORG Raiffeisenbank Rain
+ORG Raiffeisenregionalbank Wiener Neustadt
+ORG Raiffeisenbank Dr. Eckener Gasse
+ORG Raiffeisenbank Lichtenwörth
+ORG Raiffeisenbank Bad Fischau-Brunn
+ORG Raiffeisenbank Sollenau
+ORG Banque Nationale de Belgique
+ORG VR Raiffeisenbank eG
+ORG BNF Baribas Fortis
+ORG Raiffeisenbank Haigermoss
+ORG creditplus Bank
+ORG Raiffeisenbank eG Handewitt
+ORG Löchgauer Bank
+ORG Bank of America
+ORG Volksbank Laupheim
+ORG Sparkasse Rhein-Neckar
+ORG Sparkasse Mylau
+ORG Kasa SKOK
+ORG Caisse d'Épargne Paris Buttes aux Cailles
+ORG LCL Paris - Buttes aux Cailles
+ORG raiffeisen.ch
+ORG Tiroler Sparkasse Filiale Innsbruck-West
+ORG Sárbogárd és Vidéke Takarékszövetkezet
+ORG Agence Luxembourg - Centre Médical Eich
+ORG Raiba Bankomat
+ORG Bureau Rousseau H
+ORG Duvivier & Sari
+ORG Raiffeisenbank Junkersdorf
+ORG Credit Mutuel d'Annappes
+ORG Sparda Bank Nürnberg eG
+ORG Sparkasse Altenau
+ORG Volksbank Brockhagen
+ORG Filia banku Spółdzielczego
+ORG Pekao SA I Oddział
+ORG Volksbank Rheine
+ORG SG Equipment Finance International GmbH
+ORG GEFA Services GmbH‎
+ORG Raiffeisenbank Maria Rojach
+ORG Kreissparkasse Gotha
+ORG Postova Banka
+ORG Česká Pojišťovna
+ORG Crédit Municipal de Paris
+ORG ERSTE - Česká spořitelna
+ORG Raiffeisen Bank Mittelrheintal
+ORG Salzlandsparkasse Egeln
+ORG Volksbank Sandhofen eG
+ORG Belfius Dison
+ORG VR Bank Euerbach
+ORG Fürst Fugger Privatbank
+ORG Sparkasse Nördlicher Breisgau
+ORG Crédit Agricole Luynes
+ORG MEGA International Commercial Bank of China
+ORG Raiba Vordere Alb
+ORG Sparkasse Neuss, Filiale Preußenstraße
+ORG Sparkasse Niederösterreich
+ORG Lombard Odier & Cie 
+ORG Slovenská sporiteľňa, a.s.
+ORG Sparkasse Niederwiesa
+ORG Sparkasse der Gemeinde Egg
+ORG Förde-Sparkasse Kiel
+ORG Agencja PKO
+ORG Kreissparkasse Much
+ORG Volksbank Hunsrück-Nahe
+ORG FHB bank
+ORG Kinizsi bank
+ORG Sopron bank
+ORG Geschäftsstelle Buschbell - Raiffeisenbank Frechen-Hürth eG
+ORG KSK-Buschbell
+ORG Crédit Agricole De La Touraine Et Du Poitou
+ORG Crédit Agricole Mers-les-Bains
+ORG Raffeisenkasse Lana
+ORG D.A.S. pojišťovna právní ochrany, a.s.
+ORG Komerční Banka, a.s.
+ORG VR-Bank Rosenheim Chiemsee
+ORG VZ Vermögenszentrum
+ORG The Co-operative bank
+ORG Volksbank Seeheim-Jugenheim eG
+ORG Spreewaldbank e.G.
+ORG Bremer Landesbank
+ORG Crédit agricole Nord Est
+ORG Raiffeisen Bank Bernstein
+ORG Volksbank Dinkelsbühl eG
+ORG Sparkasse SB-Center Oberstadt
+ORG Sparkasse Geschäftsstelle Karlstein
+ORG UBI Banco di Brescia
+ORG BNP Paribas - Porte Didot
+ORG Crédit Agricole - Paris Brune
+ORG bpost Bank
+ORG Sparda Bank Hamburg
+ORG Bank Spółdzielczy w Świdnicy o/ Żarów
+ORG LCL - Paris Lefebvre
+ORG Bank Zachodni WBK 2 Oddział
+ORG Kredyt Bank 3 Oddział
+ORG Ford Autohaus Hoffmann
+ORG Fio bank
+ORG BS Krapkowice
+ORG Societe generale
+ORG Kreissparkasse Filiale Beutelsbach
+ORG Duna Takarék
+ORG Volksbank Ostfildern
+ORG Allianz Agentur Judkins
+ORG Targo Finnazberatung GmbH
+ORG Sparkasse Schwäbisch Hall-Crailsheim
+ORG Fintro - Zakenkantoor Dierckx
+ORG ING kantoor Westerlo
+ORG Volksbank Bruhrain-Kraich-Hardt eG Filiale Rheinsheim
+ORG Ford-Hoffmann
+ORG HSBC Agence Exelmans
+ORG Bank Spóldzielczy
+ORG Kreissparkasse Arnstadt Ilmenau
+ORG HASPA
+ORG LCL Paris Cévennes
+ORG BNP Paribas - Balard
+ORG Sparkasse Pressath
+ORG Raiffeisenbank Pressath
+ORG Volksbank Gronau Ahaus
+ORG UniCreditBank
+ORG sparda
+ORG Raiffeisenbank Haunetal eG
+ORG Raiffeisen bank
+ORG Sparkasse Geschäftsstelle Neukirchen
+ORG SGB Bank
+ORG Bank Burgenland AG
+ORG BNP Paribas République
+ORG Société Générale République
+ORG Crédit Mutuel - Espace professionnel
+ORG LCL République
+ORG Crédit Agricole de Bourgogne
+ORG CIC République
+ORG Rhônes-Alpes Banque
+ORG SB-Bank
+ORG DnB Nord
+ORG Hypovereinsbank
+ORG RB Wohlen
+ORG Spořitelna
+ORG Raiffeisenbank Obereßfeld-Römhild eG
+ORG Sparda-Bank Filiale Talstraße
+ORG Sparkasse Münsing
+ORG Sparkasse Flughafen Salzburg
+ORG Čsob
+ORG VÚB Bank
+ORG Volksbank Nordhümmling eG
+ORG Hotel Ahrberg Viertel
+ORG esbank
+ORG Szentgál és Vidéke Takarékszövetkezet
+ORG Bancomat Reifeisen
+ORG Raiffeisenbank Ebnat-Kappel
+ORG Česká spořitlena
+ORG Le Credit Lyonnais
+ORG Crédit Mutuel du Centre
+ORG Shell
+ORG Volksbank Völklingen-Warndt eG
+ORG Raiffeisenkasse St. Michael
+ORG Volksbank Rathenow e.G.
+ORG Sparkasse-Vest-Recklinghausen
+ORG Raiffeisenbank im südlichen bayerischen Wald
+ORG neoBANK
+ORG Meritum Bank ICB
+ORG GVB Essen
+ORG Bank Spółdzielczy - Punkt kasowy
+ORG Raiffeisenbank March
+ORG Volksbank Raiffeisenbank Hunsrück Mosel
+ORG Sparkasse Saarbrücken - Filiale: Dorf im Warndt
+ORG Volksbank Ötscherland Filiale St. Leonhard
+ORG Alior Bank - Partner
+ORG Crédit Coopératifc
+ORG Nat West Bank
+ORG Skok Piast
+ORG Bank Raiffeisen
+ORG Belfius Banque
+ORG Fintro Dominique Maertens
+ORG Crédit Agricole Île de France
+ORG Crédit foncier
+ORG Multi Bank
+ORG Landwirtschaftliche Rentenbank
+ORG Ge Money
+ORG Bank Spółdzielczy. Oddział
+ORG ABN AMRO Bank
+ORG Volksbank Kierspe
+ORG Sparkasse Burlafingen
+ORG Sparkasse Gerlenhofen
+ORG Sparkasse Pfuhl
+ORG Sparkasse Reutti
+ORG Postova banka
+ORG Crédit Mutuel de Brunoy
+ORG Invest-Bank
+ORG Volksbank Auersthal
+ORG BRED - Banque Populaire
+ORG Sparkasse Mecklenburg-Vorpommern
+ORG Sparkasse Geschäftsstelle Frühlingsstraße
+ORG Sparkasse Vogtland Geschäftsstelle Pausa
+ORG Sparkasse Sbr.
+ORG Sparkasse Westmuensterland
+ORG R & V Bank
+ORG Volksbank Stutensee-Weingarten
+ORG Agence BNP Paribas Fortis
+ORG Slovenská Sporitel'na
+ORG VÚB Banka
+ORG Stadtsparkasse Oberhausen
+ORG Raiffeisenkasse Wiesen
+ORG Volksbank Vogtland
+ORG Rabobank Enschede-Haaksbergen
+ORG Volksbank Erzgebirge, Filiale Thum
+ORG La Banque Populaire
+ORG Rabo Bank
+ORG Sparkasse Stolzenau
+ORG AXA Bank Jan Van Der Borght
+ORG Belfius Affligem
+ORG KBC Bank & Verzekeringen Hekelgem
+ORG Volksbank Mittelrhein
+ORG Takarékszövetkezet Bank
+ORG Raiffeisen Kasse
+ORG Crédit Mutuel Enseignants
+ORG BPF
+ORG Volksbank Ostholstein Nord - Plön e.G.
+ORG Sparda-Bank Münster eG
+ORG CASDEN
+ORG ING Banque
+ORG Volksbank e.G. Ulrichstein
+ORG Landesbank Nordrhein-Westfalen Niederlassung Herford
+ORG Kontoautomat - Volksbank Hameln-Stadthagen
+ORG Neue Aargauer Bank AG
+ORG OTP fiók
+ORG Commerzbank Filiale Eggenfelden
+ORG VR-Bank Rottal-Inn, Eggenfelden
+ORG Raiffeisenbank eG Heinsberg
+ORG Volksbank Rhein-Wupper eG
+ORG BNP Paribas Bank Polska SA
+ORG Sparda-Bank Nürnberg
+ORG Sparkasse Egger Straße
+ORG GenoBank
+ORG Apotheke
+ORG Hüblerweg
+ORG Volksbank Köln-Nord, Zweigniederlassung der Raiffeisenbank Frechen-Hürth eG
+ORG Raiffeisen Gros de Vaud
+ORG credit agricole
+ORG VÚB banka
+ORG VR-Bank Haverland
+ORG CIC Nord-Ouest
+ORG Sparkasse Waldhausen
+ORG Raiffeisen Valblenio
+ORG VKB Rohrbach
+ORG Volksbank Offenbach
+ORG Volksbank Wilhelmshaven eG - Finanz-Zentrum City-Nord
+ORG mBank.pl
+ORG Sparkasse Pforzheim/Calw
+ORG Raiffeisenbank Schwabmünchen
+ORG HS 2E
+ORG Sparkase
+ORG VR-Bank Hunsrück-Mosel eG Geschäftsstelle Zeltingen
+ORG Sparkasse Mittelmosel - Filiale Zeltingen
+ORG LBS Immobiliencenter
+ORG BPS (Suisse) 
+ORG Sarasin
+ORG Volksbank Lübbecke e.G.
+ORG Kiebitzmarkt Wegener
+ORG Raiffeisenbank Deggendorf-Plattling
+ORG Crédit Agricole Entreprises
+ORG Kantonalbank Wattwil
+ORG Raiffeisenbank Mittleres Toggenburg
+ORG Sparkasse Forchheim Geschäftsstelle Forchheim - Reuth
+ORG VR Finanzshop
+ORG LBS Immobilien
+ORG DEVK Versicherungen
+ORG HUK Coburg
+ORG LVM Versicherungen
+ORG Asio Bistro
+ORG K&H bank és biztosítás
+ORG Banka Koper
+ORG Raiffeisenbank Westkreis Fürstenfeldbruck eG
+ORG LCL - Crédit Lyonnais
+ORG Spółdzielcza Grupa Bankowa
+ORG Hypo Alpe-Adria Bank
+ORG Zirci takarék
+ORG Banque CMDP
+ORG Bank 1
+ORG Kreissparkasse Hildburghausen
+ORG Volksbank Suedheide
+ORG Sparkasse Schwalm Eder
+ORG Stadtsparkasse Vorderpfalz
+ORG Raiffeisenbank Sirnach
+ORG Thurgauer Kantonalbank 
+ORG era
+ORG Fürstlich Castell´sche Bank
+ORG Raiffeisenbank Grafenwöhr-Kirchenthumbach
+ORG Dworzec Kolejowy Wąbrzeźno
+ORG Volksbank Altshausen
+ORG Volksbank Heinsberg
+ORG Sparkasse Essen - Nebeneingang
+ORG Dél-Zalai Egyesült Takarékszövetkezet
+ORG Hévíz és Vidéke Takarékszövetkezet
+ORG ING Bank Sląski
+ORG Ing
+ORG Societé Générale
+ORG Rosenheimer Sparkasse
+ORG Wasserburger Sparkasse
+ORG Heidenheimer Volksbank
+ORG Stadtsparkasse Freudenberg
+ORG RV Bank
+ORG getin bank
+ORG Sparkasse Osterode am Harz Geschäftsstelle Pöhlde
+ORG Agence de Lillois
+ORG Raiffeisenbank Grimma eG
+ORG VR-Bank Kitzingen
+ORG Raiffeisenbank Vogtareuth
+ORG Handelsbanken Höllviken
+ORG Sparkasse, Zweigstelle Amendingen
+ORG Volksbank Rosenheim e. G.
+ORG Savaria takarékszövetkezet
+ORG Gantrisch Bank
+ORG Expert Benning
+ORG Enztalbank (VBK)
+ORG Volksbank Wellingholzhausen
+ORG Volks-und Raiffeisenbank Prignitz eG
+ORG PKO BP Oddział 15
+ORG Sparkasse SÜW
+ORG Nyúl és Vidéke Takarékszövetkezet
+ORG Kexim Bank
+ORG Sparkasse Oberösterreich Bank AG
+ORG Banca Unicredit
+ORG Sparkasse Filiale Milland
+ORG AXA bank
+ORG ING BANK
+ORG Komerční banka, a.s.
+ORG Raiffeisen-Regionalbank Telfs eGen
+ORG PSD Bank Karlsruhe-Neustadt eG
+ORG LBS-Bezirksdirektion
+ORG Sparkasse BGL
+ORG Postbank Tönning
+ORG VR-Bank Filiale Neupotz
+ORG Sparkasse Hennstedt-Wesselburen
+ORG Change or
+ORG Sparkasse Schwäbisch Hall - Crailsheim
+ORG VR Bank Schwäbisch Hall-Crailsheim eG
+ORG Kredyt
+ORG Credit Agricole Nord De France
+ORG Raiffeisenbank Lorup
+ORG Raiffeisenkasse Schnals
+ORG Stadtsparkasse Hannover
+ORG Raiffeisenkasse Luttach
+ORG Raiffeisenkasse St.Johann
+ORG Raiffeisenkasse Uttenheim
+ORG Raiffeisenkasse Gais
+ORG Vo Ba
+ORG AXA Bank pesti régióközpont
+ORG Delta Loyd
+ORG Sparkasse Osterholz
+ORG VR Bank Niebüll
+ORG Sparkasse Bexbach
+ORG Spar-und Leihkasse Frutigen
+ORG Caisse d'Épargne Saint-André
+ORG Sparkasse Filiale Crivitz
+ORG Volks und Reifeisen
+ORG VR-Bank e.G.
+ORG Budenheimer Volksbank eG
+ORG Raiffeisenbank Rattiszell-Konzell eG
+ORG Kreissparkasse Ottenbach
+ORG Raiffeisen Landesbank Tirol - Lienz
+ORG Volksbank Lienz
+ORG VR Bank Alzenau
+ORG Nordea pengeautomat
+ORG Arbeitsamt
+ORG Postbankfiliale
+ORG BIDV - Vietnamská investiční a rozvojová banka
+ORG VR-Bank Mittelsachsen eG Geschäftsstelle Oberbobritzsch
+ORG VR-Bank (Verwaltung)
+ORG Bawag/PSK
+ORG Bank Spółdzielczy w Wartkowicach
+ORG Equa bank
+ORG Raiffeisen-Volksbank Lichtenfels-Itzgrund eG
+ORG Volksbank Mureck
+ORG Raiffeisenbank Churwalden
+ORG Sparkasse Wöhrden
+ORG Rabobank Born
+ORG Raiffeisen-Volksbank Hassberge
+ORG Sparkasse Edenstetten
+ORG Raffeisen Polbank
+ORG Nahkauf
+ORG Volksbank Rhein-Lippe
+ORG VR-Bank Pöcking
+ORG Raiffeisenbank Denzlingen-Sexau
+ORG Regiobank Solothurn AG
+ORG Volksbank Rosslauf
+ORG Hypoteční banka
+ORG BZG
+ORG Rathaus
+ORG Era - Poštovní spořitelna
+ORG Banca Popolare di Vicenza
+ORG Banque Populaire de Bourgogne Franche-Comté
+ORG Raiffeisenbank Pfaffenwinkel e. G.
+ORG Volksbank Waldkirch-Kollnau
+ORG Aldi
+ORG Volksbank Hamm/Sieg e.G.
+ORG Fördesparkasse
+ORG Raiffeisenbank Altdorf-Ergolding eG
+ORG bgż
+ORG PeKaO
+ORG Mittelbrandenburgische Sparkasse in Potsdam - Geschäftsstelle Pritzerbe
+ORG Hotel Rosenhof
+ORG Filiale Volksbank
+ORG ING-DiBa AG
+ORG Kreissparkasse Oppelsbohm
+ORG Volksbank Oppelsbohm
+ORG Schlossapotheke
+ORG Volksbank Gebhardshain
+ORG Sparkasse Bad Tölz-Wolfratshausen Geschäftsstelle Höhenrain
+ORG TakarekPont Bank
+ORG Sparkasse/Nord LB
+ORG Sparkasse Pfaffenhofen
+ORG Hypo Landesbank Vorarlberg
+ORG Raiffeisenbank Dornbirn
+ORG Volksbank Emmerich-Rees
+ORG Sparkasse Emmerich
+ORG Komeční banka
+ORG Sparkasse Krefeld Geschäftsstelle Rheurdt
+ORG Volksbank an der Niers eG Geschäftsstelle Rheurdt
+ORG Allianz Raiffeisenbank
+ORG Sparkassen Filiale Schiffweiler
+ORG Sparkassse
+ORG Landeskirchliche Kreditgenossenschaft
+ORG Sparkasse Meinerzhagen-Kierspe
+ORG Apollon Grill
+ORG Banque BNP Fortis
+ORG Banque Belfius
+ORG WBK Bank Zachodni
+ORG Milenium Bank
+ORG VBU Volksbank
+ORG Volksbank Schüttdorf
+ORG ATM Société Générale
+ORG Volksbank Gneis
+ORG Volksbank Bavendorf
+ORG Sparkasse Niederbayern
+ORG VUB
+ORG Caisse D'epargne
+ORG Bankomat PKO BP
+ORG Bankomat WBK
+ORG Raiffeisenbank Gunzgen
+ORG BAWAG-P.S.K.
+ORG Santander BANK
+ORG Millennium BANK
+ORG BNP PARIBAS
+ORG Raiffeisenbank Oberroth
+ORG Sparkasse Oberroth
+ORG CREDIT AGRICOLE
+ORG SKOK KOPERNIK
+ORG PKO B.P.
+ORG La Henin
+ORG Kreissparkasse Osterholz-Scharmbeck  Filiale Hambergen
+ORG Raiffeisenkasse - Banca
+ORG POLBANK EFG
+ORG Selbstbedienungsstandort HypoVereinsbank UniCredit Bank AG
+ORG Volksbank eG Osterholz-Scharmbeck Geschätsstelle Hambergen
+ORG Takarékpont
+ORG Raiffeisenbank Eysölden
+ORG Kieler Volksbank eG
+ORG Bregenzer Sparkasse
+ORG Aliior Bank
+ORG Alma Küchen
+ORG BANK WBK
+ORG BANK SPÓŁDZIELCZY w Tarnowskich Górach
+ORG Carl F. Plump
+ORG Post St. Georgen
+ORG BANK ING
+ORG Volksbank Meckenbeuren
+ORG BNP Paribas Fortis Waremme
+ORG Belfius Waremme
+ORG Stadsbank van Lening
+ORG Volksbank Adelebsen
+ORG Sparkasse Osterberg
+ORG Volks- und Raiffeisenbank eG Leinebergland
+ORG Volksbank eG, Seesen
+ORG Raiffeisenbank eG Seestermühe
+ORG Volksbank Solling
+ORG RegioBank SNS
+ORG Bankhaus Rautenschlein
+ORG Raiffeisenbank eG Todenbüttel
+ORG Pax-Bank eG
+ORG Bank Spółdzielczy w Lubichowie
+ORG Magnet
+ORG HypoVereinsbank Firmenkundenzentrum
+ORG Belfius Ohey
+ORG Sparkasse Gotteszell
+ORG Union-Bank AG
+ORG Edekabank AG
+ORG Rhön-Rennsteig Sparkasse
+ORG Bezirks- Sparkasse Dielsdorf
+ORG Caisse d'Épargne de Lorraine Champagne-Ardenne
+ORG Era a.s.
+ORG DEPOT
+ORG Raiffeisenbank 
+ORG Sparkasse Hengersberg
+ORG Raiffeisenbank Westallgäu eG
+ORG Axa Bank
+ORG VUB banka
+ORG Slovenská sporiteľna
+ORG Versicherungsbüro Böcherer
+ORG Bank Spółdzielczy w Ustce, punkt kasowy
+ORG Anker Bank
+ORG interhyp
+ORG AXA banque
+ORG BNPFortis
+ORG Volksbank Hameln-Stadthagen eG
+ORG Commerz Bank
+ORG Behinderten-Parkplatz
+ORG Lövő és Vidéke Takarékszövetkezet
+ORG Sparkasse Hochfranken Filiale Schönwald
+ORG ING Ganshoren Basilique
+ORG VR Bank Stromberg Neckar
+ORG Société général
+ORG tirette
+ORG Kreissparkasse Köln, Geschäftsstelle Stoßdorf
+ORG VR-Bank Altenburger Land
+ORG VR Bank Rottal Inn
+ORG Volksbank Bad Saulgau eG
+ORG VR-Bank Erding eG
+ORG POST
+ORG Česká Národní Banka
+ORG ČSOB, a.s.
+ORG Volksbank Baumberge
+ORG Raiffeisenkasse St.Andrä am Zicksee
+ORG Pobočka Česká spořitelna Zdice
+ORG Raiffeisenbank Gloggnitz
+ORG Zirci Takarék - Bakonybél
+ORG crédit mutuel
+ORG Raiffeisenbank im Allgäuer Land eG
+ORG Leipziger Volksbank
+ORG Hypovereins Bank
+ORG RABO BanK
+ORG easybank AG
+ORG Dithmarscher Volks- und Raiffeisenbank
+ORG Raiffeisenkasse Obervinschgau
+ORG K&H Tabi fiók
+ORG kreissparkasse
+ORG Steiermärkische Sparkasse Filiale Gnas
+ORG Raiffeisenbank Osterberg
+ORG Raiffeisen Volksbank Oder-Spree eG
+ORG Banque Populaire de Paris
+ORG Raiffeisenbank mit Bankomat
+ORG Raiffeisenbank Volkmarsen eG
+ORG Finanzmanagment Klein
+ORG UniCedit Bank
+ORG Sparkasse Künzing
+ORG QUAESTOR
+ORG OLB Wildeshausen
+ORG Banca Cantunala Grischuna
+ORG Cashflex Multicrédit
+ORG Kreissparkasse Garmisch
+ORG Bank Spółdzielczy w Tychach Centrala
+ORG Szőreg és Vidéke Takarékszövetkezet
+ORG Raiffeisenbank Ried
+ORG BCF / FKB
+ORG Sparkasse / Südring
+ORG Sparkasse Wittighausen
+ORG Sparda Bank, Fiale Herne
+ORG VR-Bank Neu-Ulm/Weißenhorn eG
+ORG Sparkasse ITC2
+ORG Sparkasse Mietraching
+ORG Allianz Schmidbauer
+ORG Bank Spółdzielczy w Słupcy oddział w Ostrowitem
+ORG Sparkasse Iggensbach
+ORG Sparkasse Otzing
+ORG Raiffeisenbank Flamatt
+ORG Unicredit 
+ORG KBC Bank Duffel-Centrum
+ORG haspa
+ORG SGKB
+ORG VR Spreewaldbank
+ORG Raiffeisenkasse Barbian
+ORG Sparkasse Gergweis
+ORG Volkbank Stuttgart
+ORG SKOK Jaworzno
+ORG SKOK Wielkopolska
+ORG SKOK imienia Wyszyńskiego
+ORG Volksbank Schnathorst eG, Geschäftsstelle Oberbauerschaft
+ORG Volksbank e.G.
+ORG KfW IPEX-Bank
+ORG Rabobank Graafschap-Noord
+ORG BZ WBK Oddział w Nysie
+ORG Beo Bank
+ORG Caisse d'Épargne Nancy Plateau de Haye
+ORG SPARDA Bank Berlin
+ORG Sparkasse Wallerfing
+ORG Crédit du Nord Lecourbe
+ORG Stephanus Bücher
+ORG New Yorker
+ORG Only
+ORG ING Liège rue Sainte Marie
+ORG VR-Filiale Herrnhut
+ORG SGB Bank S.A.
+ORG Coomerzbank
+ORG Kreissparkasse Herzogtum LauenburgFiliale Breitenfelde
+ORG Crédit Agricole Mutuel
+ORG Slovenská sporitelňa
+ORG K&H Bank 
+ORG MagnetBank
+ORG Kreissparkasse Altötting-Mühldorf
+ORG Bank Zachodi WBK
+ORG Bank Spółdzielczy w Oleśnicy Oddział w Twardogórze
+ORG Spaarkasse Landshut
+ORG Hamburgische Investitions- und Förderbank
+ORG OTP banka
+ORG Volksbank Pirna eG
+ORG Raiffeisenbank Leutschach
+ORG Keysers Verzekeringen
+ORG Iveco Capital
+ORG CNH Capital
+ORG Banking & Fun
+ORG Raiffeisenkasse Ziersdorf, Bankstelle Ravelsbach
+ORG Sparkasse Stephansposching
+ORG Sparda-Bank München eG
+ORG Obwaldner Kantonalbank
+ORG Sparkasse Singen-Radolfzell
+ORG ING Servicepunt
+ORG VR-Bank Kirchdorf/Inn
+ORG GeMoney bank
+ORG BS Trzebiel Punkt Kasowy Lipinki Łużyckie
+ORG Sparkasse Hildesheim, Geschäftsstelle Duingen
+ORG Kredyt Punkt
+ORG société Générale
+ORG Volksbank Paderborn-Höxter-Detmold, SB-Filiale Brenkhausen
+ORG Raiffeisenbank Kreuzenstein - Filiale Rückersdorf
+ORG Noba
+ORG Sporthalle Jahnstraße
+ORG Sitzbank
+ORG Nyúl és Vidéke TKSZ Győr3 Kirendeltség
+ORG Otpbank
+ORG Rábaközi Takarékszövetkezet
+ORG Kulmbacher Volksbank
+ORG Muziekhandel Foole
+ORG Sparkasse Grafenau
+ORG Sparkasse Kleve
+ORG DSL Bank
+ORG VR-Bank Freudenberg-Niederfischbach eG
+ORG Fliesen+Marmor Oberhausen
+ORG VR Bank eG Hauptstelle Dormagen
+ORG Sparkasse Dinslaken- Voerde- Hünxe
+ORG Raiffeisen-Volksbank Neustadt
+ORG Praxis für Logopädie Manuela Bähr
+ORG Sparkasse Vorderpfalz, Geschäftsstelle "Alte Münze"
+ORG Sparkasse Vorderpfalz, Geschäftsstelle "An der Gedächtniskirche"
+ORG Sparkasse Vorderpfalz, Geschäftsstelle "Im Erlich"
+ORG Volksbank Kur- und Rheinpfalz eG, Hauptgeschäftsstelle
+ORG Volksbank Kur- und Rheinpfalz eG, Geschäftsstelle Maximilianstraße
+ORG Volksbank Kur- und Rheinpfalz eG, Geschäftsstelle Nußbaumweg
+ORG Commerzbank, Filiale Speyer
+ORG LIGA Bank, Filiale Speyer
+ORG Raiffeisenbank Südstormarn Mölln eG FilialeWittenburg
+ORG Bürgerbüro Industriestraße
+ORG Raiffeisenbank Adelzhausen
+ORG BVBA Augustinus
+ORG Geldautomaat van de Rabobank
+ORG Privat banka
+ORG axa bank
+ORG Bank Polski
+ORG Spada-Bank
+ORG CVW Privatbank
+ORG Raiffeisenbank Wölflinswil
+ORG Agence Crédit Agricole - POITIERS BIARD MONTMIDI
+ORG Sparkasse - Geschäftsstelle Wilting
+ORG Raiffeisenbank - Geschäftsstelle Wilting
+ORG SLR Spar- & Leihkasse Riggisberg
+ORG MKB Bank Zrt.
+ORG Raika Schlern Rosengarten
+ORG SB-Center der Sparda-Bank Südwest eG
+ORG Sparkasse / Raiffeisenbank
+ORG BERGFÜRST AG
+ORG Raiffeisenbank Mengkofen Loiching
+ORG Postbank Filiale Feneberg Durach
+ORG Deutsche Apotheker und Ärztebank eG
+ORG Partner Alior Bank
+ORG Sparkasse Am Stadtpark
+ORG Volksbank Bad Salzuflen eG Geschäftsstelle Asemissen
+ORG Degussa Goldhandel GmbH Verkaufsniederlassung
+ORG Volksbank Darmstadt-Südhessen
+ORG SGB Bank Spółdzielczy Wronki
+ORG Volksbank Franken Buchen
+ORG KREISSPARKASSE kAISERSLAUTERN
+ORG Raiffeisenbank Eberhardzell-Ummendorf eG
+ORG Volksbank Zweigstelle
+ORG PKO Bank Polski, Oddział 1 w Woźnikach
+ORG Crédit Agicole
+ORG Crédit Mutuel - Plaisir
+ORG Caisse d'Epargne Ile de France
+ORG Crédit Industriel et Commercial (CIC)
+ORG LVM Versicherung - Frank Motzer
+ORG Volksbank Bovenden
+ORG Sparkasse Osnabrück - Filiale Atter
+ORG Bernerland Bank AG
+ORG Sparkasse Filiale Röthelheimpark
+ORG česká spořitelna
+ORG Volksbank Steinfurt - Filiale Hasbergen
+ORG Sparkasse Nürnberg Geschäftsstelle Rennweg
+ORG Raiffeisenbank Regio Frick
+ORG L&S
+ORG Kreissparkasse Altenkirchen - Geschäftsstelle
+ORG Volksbank Süd-Oststeiermark e.Gen.
+ORG Sparkasse Tor Ost
+ORG slsp
+ORG Sygma Bank
+ORG R i a International Moneytransfair
+ORG Vereinigte Sparkasse MK
+ORG BGL - Agence Merl-Jardins de Luxembourg
+ORG Kunterbunt
+ORG Raiffeisen Ennstal
+ORG Sparkasse Buchkirchen
+ORG Raiffeisenbank Wittenbach
+ORG WKB
+ORG Raiffeisenbanl
+ORG Volksbank Bitburg
+ORG Kreissparkasse Bitburg-Prüm
+ORG Stadthalle Ludwigslust
+ORG Delta LLoyd
+ORG Wiener Neustädter Sparkasse Zehnerviertel
+ORG BS Wschowa
+ORG BBank eG
+ORG BAWAG/Post
+ORG Raiffeisenbank Krimml
+ORG BNP Parisbas-Fortis
+ORG Sparkasse Kierspe-Meinerzhagen
+ORG Kreissparkasse Verden
+ORG Sparkasse Lage
+ORG Raiffeisenkasse Retz-Pulkautal
+ORG Patrick Buquet
+ORG Volksbank Aller - Weser
+ORG Hypo Tirol Bank AG
+ORG Crédit Agricole Châtellerault-Châteauneuf
+ORG Raiffeisenbank Donau-Iller eG, Geschäftsstelle Regglisweiler
+ORG abn amro
+ORG Credit Agricol
+ORG Volksbank Kirchhellen eG
+ORG Agencja nr 2927 PKO Banku Polskiego
+ORG Sparkasse Bad Tölz - Wolfratshausen - Geschäftsstelle
+ORG Raiffeisenbank Eurasburg
+ORG B.N.P. Paribas Fortis
+ORG Bank BGŻ. Oddział
+ORG Volksbank Heidenheim SB Filiale
+ORG Bankomat
+ORG Posojilnica Bank Zila
+ORG Henrik Kraska - Allianz Hauptvertretung
+ORG bank spółdzielczy w Korniku
+ORG SKOK Wspólnota
+ORG Allianz Agentur Kuschling & Passgang
+ORG Rejonowy Bank Spółdzielczy w Lututowie, Oddział w Brąszewicach
+ORG Allianz Peter Müller
+ORG GBS Barlinek
+ORG Allianz Generalvertretung Wollenburg & Gruber
+ORG Allianz Agentur Joachim Nacken
+ORG Allianz Generalvertretung Alexandra Gronkowski
+ORG Paul-Schneider-Gästehaus
+ORG Spar und Darlehnskasse Reken e.G.
+ORG PrivatBanka
+ORG Deutsche Factoring Bank
+ORG Volksbank Einbeck eG Lüthorst
+ORG Bank Spółdzielczy w Santoku
+ORG Volksbank Reiste-Eslohe
+ORG Filiale Struppen
+ORG PeKao SA
+ORG Belfius Agence Pachéco
+ORG Belfius Rogier
+ORG Volksbank Roes
+ORG Volksbank Bühlertal Obertal
+ORG Spar- und Kreditbank Bühlertal Obertal
+ORG Bank Spółdzielczy. Punkt obsługi klienta
+ORG Marga Schoeller Bücherstube
+ORG Die Neue Schuel
+ORG Spielplatz
+ORG Jack'n'Jones
+ORG Bank Gospodarstwa Krajowego
+ORG Sparkasse Tann
+ORG Cassa rurale e artigiana di Cortina d'Ampezzo e delle Dolomiti
+ORG Banque européenne d'investissement
+ORG Raiffeisenbank Sachsen
+ORG Citi Group Rechenzentrum
+ORG Filiale Thüringen Park
+ORG SB-Center Gispersleben
+ORG SB-Center Rieth
+ORG SB-Center Thüringen Park
+ORG SB-Center Umformtechnik
+ORG SB-Stelle Globus
+ORG Gemeindezentrum
+ORG Festhalle Neuburgweier
+ORG Bank of Baroda
+ORG Raiffeisenbank Vorderprättigau
+ORG Volksbank-Raiffeisenbank Döbeln eG   Geschäftsstelle Mulda
+ORG Scarpe
+ORG ZKB Fehraltorf
+ORG VR-Bank Tutzing
+ORG Stijn De Win
+ORG Bankhaus Lampe
+ORG Bankverein Werther
+ORG Sparda Bank SB-Filiale
+ORG Caisse Raiffeisen Agence Kayl
+ORG Nidwaldner Kantonalbank NKB
+ORG Raiffeisenbank Rottumtal eG
+ORG moneygramm
+ORG Sparkasse Longkamp
+ORG Volksbank Rhein-Sieg
+ORG Creland Bocholt
+ORG Környe-Bokod Takarék
+ORG Geldautomat Sparkasse Landau
+ORG Banque Populaire BRED
+ORG Volksbank Erft eG
+ORG Zuid-Zijde makelaars
+ORG Sparkasse Kronach-Ludwigsstadt
+ORG Raiffeisen-Volksbank Kronach-Ludwigsstadt
+ORG Färs och Frosta sparbank
+ORG Volksbank Bodenwerder
+ORG Volksbank Herrenberg-Rottenburg eG
+ORG European Investment Bank
+ORG VR Bank Saarpfalz eG
+ORG OLB Oldenburgische Landesbank
+ORG Rechtsanwälte/Notar Dr. Gorski, Scheibe- In der Stroth, Piotter
+ORG PKO BP Oddział 12
+ORG PKO BP Oddział 7
+ORG PKO BP Oddział 9
+ORG PKO BP Oddział 6
+ORG PKO BP Oddział 17
+ORG Raiffeisenkasse Meran
+ORG Bancomat PKO
+ORG Banca Popolare
+ORG Cassa di Risparmio del Veneto
+ORG Postsparkasse
+ORG Pko Bp
+ORG EUROBANK
+ORG MILLENNIUM BANK
+ORG deutsche apotheker- und ärztebank
+ORG Banque Populaire des Alpes
+ORG Nyúl és vidéke Takarékszövetkezet
+ORG BZW WBK
+ORG Volksbank Untenende
+ORG Sparkasse EL
+ORG Volks+Raiffeisen Bank
+ORG Raiffesen Bank
+ORG Sparkasse Rosenheim - Bad Aibling
+ORG Volksbank Raiffeisenbank Mangfalltal-Rosenheim
+ORG EasyCredit Volksbank
+ORG Rabobank & Friesland Bank
+ORG Dithmarscher Volks- und Raifeisenbank
+ORG Adelko GmbH PAV (Privater Arbeitsvermittler)
+ORG Drive-Inn Geldautomat Raiffeisen
+ORG Clientis Bank
+ORG VZP Třebíč
+ORG Sparkasse Vorpommern Filiale Sassnitz
+ORG BNP Vanves
+ORG Volksbank GS Almena
+ORG Volksbank Schwegenheim
+ORG Raiffeisenbank Furth im Wald
+ORG Bank Millennium
+ORG Société génénrale
+ORG Raiffeisenbank Griffen
+ORG SB-Bereich
+ORG SB-Center Neuwerkstraße
+ORG Cholet Dupont
+ORG Nova KBM
+ORG Delavska hranilnica
+ORG UNI Credit Bank
+ORG VR Genossenschaftsbank Fulda eG
+ORG Bakonyvidéke Takarékszövetkezet
+ORG Agence Poitiers Pont-neuf
+ORG TKB - Thurgauer Kantonalbank
+ORG Raiffeisenbank Westeifel
+ORG Volksbank Tübingen
+ORG Raiffeisenbank RSA eG
+ORG Mizuho Corporate Bank
+ORG Raiffeisenbank eG Endingen-Königschaffhausen
+ORG Assistra - Agence d'intérim
+ORG BHW Immobilien
+ORG Sparkasse Erste Bank
+ORG Kreissparkasse Melle
+ORG Raiffeisenbank Südliches Ostallgäu eG
+ORG Vereinigte Volksbank Griesheim-Weiterstadt eG
+ORG Volksbank Gladenbach-Biedenkopf
+ORG Volksbank Straubing
+ORG KSK Ostalb
+ORG IB Sachsen-Anhalt
+ORG Volksbank Inheiden
+ORG GETIN Bank
+ORG Raiffeisenbank St. Aegyd
+ORG Delavska hranilnica d.d.
+ORG Rejonowy Bank Spółdzielczy w Wieluniu
+ORG Allianz Raiffeisenbank Hofkirchen-Bayerbach
+ORG LBS Hessen-Thüringen
+ORG Banca Popolare di Sondrio
+ORG Volksbank Pforzheim - Filiale Conweiler
+ORG Sparkasse Pforzheim-Calw - Filiale Conweiler
+ORG Volksbank Traismauer
+ORG CA Banque et assurances
+ORG Sparkasse Odenwaldkreis, Geschäftsstelle Brensbach
+ORG VR-Bank Aalen eG
+ORG Kreissparkasse Ostalb GeschSt. Grauleshof
+ORG Érd és vidéke Takarék
+ORG Husumer Volksbank
+ORG Kreissparkasse Saarlouis Filiale Thalexweiler
+ORG net-m privatbank 1891 AG
+ORG Schwyzer Kantonalbank Filiale Küssnacht
+ORG Zirci Takarék
+ORG Geldwechselautomat
+ORG levoBank Geschäftsstelle Aschbach
+ORG Kreissparkasse Saarlouis Geschäftsstelle Aschbach
+ORG Handelhaus Schlegel
+ORG Volksbank Fil. Gerhausen
+ORG Erzgebirgssparkasse Bank Filiale Olbernhau
+ORG ZÜFLE
+ORG Raiffeisenbank Hammelburg - Filiale Euerdorf
+ORG Casse d'Épargne
+ORG Sparkasse Haldern
+ORG Nadobrzański Bank spółdzielczy - Oddział w Zbąszyniu
+ORG Volksbank Dinslaken-Voerde-Hünxe
+ORG Sparkasse Bislich
+ORG Volksbank Bislich
+ORG Money Gram
+ORG Hotel Schwarzes Ferkel
+ORG Hair lounge
+ORG Bank sachodni WBA S. A.
+ORG Austrian Anadi Bank
+ORG Sparkasse Bayreuth - Geschäftsstelle St. Georgen
+ORG Sparkasse Bodensee - Bankautomat
+ORG Debeka
+ORG Sparda-Bank Service Point
+ORG Crédit coopératif
+ORG Pekao BP
+ORG Spółdzielczy Bank w Działoszynie
+ORG Volksbank Sulmtal eG
+ORG Alior
+ORG Regionalfiliale CityPark - Volksbank Karlsruhe
+ORG Banque Populaire Rive Gauche
+ORG Széchenyi Hitelszövetkezet
+ORG Parkplatz KSKöln, Dresner Bank, Geschäfte
+ORG Bank Zachodni WBK S.A. 2 Oddział w Wałbrzychu
+ORG PeKao S.A.
+ORG mBank Oddział Korporacyjny
+ORG Kaszubski Bank Spółdzielczy w Wejherowie Oddział w Stężycy
+ORG Naspa Finanz-Center
+ORG Geschäftsstelle Wernigerode Harzblick
+ORG Bank Zachodni WBK, 3 Oddział w Jeleniej Górze
+ORG Łużycki Bank Spółdzielczy w Lubaniu
+ORG Robabank
+ORG KBC Bank Nazareth
+ORG Filiale Sparda Bank Südwest
+ORG Libotton NV
+ORG Eurobank Partner
+ORG Kantoor Cloetens & Feyen b.v.b.a.
+ORG Escaut Habitat
+ORG Haltestelle der fahrbaren Zweigstelle
+ORG meritumbank
+ORG Kasa Unii Lubelskiej
+ORG Commerzbank Essen-Steele
+ORG Bank BPH. Placówka partnerska
+ORG Bank Spółdzielczy w Kobierzycach, Filia w Świdnicy
+ORG Postfiliale
+ORG Sparkasse, Filiale Schönfeld
+ORG getinbank
+ORG Biuro kredytowe
+ORG Bank Pekao S.A. Placówka partnerska
+ORG Agencja nr 2929 PKO Banku Polskiego
+ORG sydbank
+ORG BGZ
+ORG Bitcoin ATM - Bitcoin Suisse AG
+ORG Sparkasse Kuhlerkamp
+ORG Banque Internationale à Luxembourg
+ORG BGL BNP Parisbas
+ORG Jungmanka
+ORG Volksbank Erkelenz Hueckelhoven Wegberg
+ORG VR Bank Lausitz
+ORG Bank Zachodni WBK, 1 Oddział w Świebodzicach, 2 Oddział w Świebodzicach
+ORG Skok Powszechna
+ORG Bank Polskiej Spółdzielczości
+ORG Stadtwerke Burgdorf
+ORG Crédir Agricole
+ORG Lloyds Bank Kemp Town
+ORG Skok Kopernik
+ORG PEKO SA
+ORG Raiffeisenbank München-Nord
+ORG Sparkasse Möttingen
+ORG LGT
+ORG Voba Geschäftsstelle Bettingen
+ORG Sparkasse Altschweier
+ORG Laaberhof
+ORG Steiermärkische Bank u Sparkassen AG
+ORG Volks- / Raiffeisenbank Südthüringen e.G.
+ORG Pannon TakarékBank
+ORG NKBM
+ORG Raiffeisenbank Mantel Gesch.St. der RB Weiden eG
+ORG Volksbank Urloffen
+ORG Sparkasse HRV Geschäftsstelle Homberger Straße
+ORG Crédit Direct
+ORG Mike's Sofort Dienst
+ORG Änderungsatelier G. Fink
+ORG Heiko's Backstube
+ORG Sparkasse Lindenallee
+ORG Volksschwimmhalle Zerbst
+ORG VR Bank Neuwied-Linz
+ORG Volksbank Lüdinghausen
+ORG TakarékPont
+ORG Crédit Agricole Île-de-FRance
+ORG Geldautomat Raiffeisenbank
+ORG LBS in Tuttlingen
+ORG Vereinigte Volksbank Raiffeisenbank eG - Filiale Kröv
+ORG bank BGŻ
+ORG Raiffeisenbank Oberwölz
+ORG Volksbank Flein-Talheim
+ORG Credit foncier
+ORG BUDNI
+ORG BTV Bludenz
+ORG Vorarlberger Volksbank - Filiale Bludenz
+ORG Raiffeisenbank Ronshausen-Marksuhl eG
+ORG Vereinigte Volksbank Limburg
+ORG BBVA
+ORG Volksbank 
+ORG Volksbank Otterbach
+ORG Volksbank Raiffeisenbank Meißen-Großenhain eG

@@ -1,0 +1,3068 @@
+ORG Regionaal ziekenhuis H. Hart Leuven
+ORG Brookfields Hospital
+ORG University Hospital Lewisham
+ORG Urgent Care Cambridge
+ORG Milton Children's Hospice
+ORG HELIOS Mariahilf Klinik Hamburg
+ORG Cambridge Lea Hospital (Spire)
+ORG Kantonspital Uri
+ORG Krankenhaus Tabea
+ORG Kreis-Krankenhaus Torgau
+ORG Städtisches Klinikum Dessau
+ORG Univerzitná nemocnica Bratislava - Nemocnica ak. L. Dérera - Kramáre
+ORG Koningin Paola Kinderziekenhuis
+ORG Universitair Centrum Kinder- en Jeugdpsychiatrie Antwerpen
+ORG Royal Sussex County Hospital
+ORG Eye Hospital
+ORG Sint-Elisabeth Ziekenhuis
+ORG St. Marienkrankenhaus
+ORG Sankt Gertrauden-Krankenhaus
+ORG Orsett Hospital
+ORG Paracelsus-Klinik Adorf
+ORG Kreiskrankenhaus
+ORG SRH Waldklinikum Gera gGmbH
+ORG Vivantes Humboldt-Klinikum
+ORG Martin-Gropius-Krankenhaus
+ORG Diakonissenkrankenhaus
+ORG Hofpoort
+ORG Markus-Krankenhaus
+ORG Nordsjællands Hospital – Hillerød
+ORG Krankenhaus Neustadt
+ORG Zdravotné stredisko
+ORG St.-Josefs-Krankenhaus
+ORG Elisabethen-Krankenhaus
+ORG Stiftungskrankenhaus Nördlingen
+ORG Erasmus Medisch Centrum
+ORG Kinderklinik
+ORG Hôpital Daniel Chanet
+ORG Klinik für Herzchirurgie
+ORG Klinik Dr. Dengler
+ORG Klášterní Hradisko
+ORG Manor Practice
+ORG Klinikum Bielefeld Mitte
+ORG Medizinisches Zentrum Städteregion Aachen, Betriebsteil Bardenberg
+ORG Altersheim Staigacker
+ORG Spital Linth
+ORG Dipl.-Med. Carla Herbst
+ORG Nemocnica s poliklinikou Hlohovec
+ORG Fachklinik Schillerhöhe
+ORG OsteMed Klinik Bremervörde
+ORG Sussex Downs and Weald NHS
+ORG Princess Royal
+ORG OsteMed Martin-Luther-Krankenhaus
+ORG Nemocnica s poliklinikou Ružinov
+ORG Thurrock Community Hospital
+ORG Klinikum Osnabrück Am Natruper Holz
+ORG AMEOS Klinikum Osnabrück
+ORG Kinderhospital Osnabrück
+ORG Hôpital de la Tour
+ORG Poliklinika Šustekova
+ORG Kreisklinik Wolfratshausen
+ORG Notaufnahme Erwachsene
+ORG Maribo Sygehus
+ORG St. Franziskus Krankenhaus Eitorf
+ORG Medizinische Klinik
+ORG Mund-, Kiefer-, Gesichtschirurgie
+ORG Haunersche Kinderklinik
+ORG Haunersche Kinderchirurgie
+ORG Poliklinik Zahnärztliche Prothetik
+ORG Poliklinik Zahnerhaltung und Parodontologie
+ORG Poliklinik Kieferorthopädie
+ORG Krankenhaus Oberviechtach
+ORG Colwood Hospital
+ORG Privatklinik Josefstadt
+ORG National Hospital for Neurology and Neurosurgery
+ORG Kantonsspital
+ORG Bürgerspital
+ORG Ostschweizer Kinderspital
+ORG Poliklinika Družba
+ORG Elkerliek Ziekenhuis
+ORG Hautklinik
+ORG Maria Ebene
+ORG Landesklinikum Weinviertel Korneuburg
+ORG DRK-Krankenhaus Clementinenhaus
+ORG Evangelisches Krankenhaus
+ORG Philippshospital
+ORG Sophien-Klinik GmbH
+ORG Friederikenstift
+ORG Holbæk Sygehus
+ORG Orthopädische Kinderklinik Aschau
+ORG Zdravstveni dom Velenje
+ORG Ignaz Semmelweis-Frauenklinik
+ORG Jugendzahnambulatorium
+ORG Nykøbing Sjælland Sygehus
+ORG Szpital MSWiA
+ORG Herz-Jesu-Krankenhaus
+ORG Felix Platter Spital
+ORG Lékařský dům Štětí
+ORG BfA Kurklinik Lipperland
+ORG Poliklinika Prosek
+ORG Krankenhaus Neuwerk Maria von den Aposteln
+ORG Helmuth-G.-Walther Klinikum
+ORG Bezirksklinikum Obermain
+ORG BMI London Independent Hospital
+ORG Zusters van Barmhartigheid
+ORG Diakoniekrankenhaus Chemnitzer Land
+ORG Kreiskrankenhaus Soltau
+ORG Bodenseeklinik
+ORG Kreiskrankenhaus
+ORG Gunzenbachhof
+ORG Klinikum Fürstenfeldbruck
+ORG Kreiskrankenhaus Burghausen
+ORG Zentrum für stationäre Schwerstpflege
+ORG Zdravstveni dom Turnišče
+ORG St. Josef-Hospital
+ORG Marienhospital
+ORG Westfälisches Zentrum für Psychiatrie
+ORG Milosrdní bratia
+ORG AZ Sint-Jan
+ORG Kinder- und Jugendpsychiatrie
+ORG Mathias-Spital
+ORG Reha-Klinik Sonthofen
+ORG Krankenhaus Rheiderland
+ORG Beddington Medical Centre
+ORG Fachklinik für Psychiatrie und Psychotherapie
+ORG Caritas-Krankenhaus
+ORG Notfallärztliche Praxis
+ORG Universitair Ziekenhuis Antwerpen
+ORG KH München Großhadern
+ORG Somnia Privatklinik Mönchengladbach
+ORG Poliklinika
+ORG St. Elisabethen Krankenhaus
+ORG Clinique des Franciscaines
+ORG St. Augustinus Krankenhaus
+ORG Vlietland ziekenhuis
+ORG Spital Thun
+ORG Hôpital Maillot
+ORG Klinikum Oldenburg
+ORG DRK Blutspendedienst Ost gGmbH
+ORG Clinique Sainte-Barbe
+ORG Centre Régional de Réadaptation Fonctionnelle Clémenceau
+ORG AOK-Klinik Korbmattfelsenhof
+ORG Nexus-Klinik
+ORG Landesklinikum St. Pölten
+ORG Centre Médico Chirurgical et Obstétrical
+ORG Diakonessenhuis
+ORG Clinique Paris V - Centre Médico Chirurgical
+ORG Jeroen Bosch, locatie Liduina
+ORG Enzkreis-Kliniken Neuenbürg
+ORG Behandlungszentrum Vogtareuth
+ORG Knappschaftskrankenhaus Bergmannsheil
+ORG Elisabeth-Krankhaus
+ORG Hochfrankenklinik Münchberg
+ORG KKH Frankenberg
+ORG Neu-Bethlehem
+ORG Neu-Mariahilf gGmbH
+ORG Kinderklinik (ehem.)
+ORG Neurologisches Krankenhaus Rosenhügel
+ORG Klinik Eilenburg
+ORG Rotes Kreuz
+ORG Sankt-Marien-Hospital Buer
+ORG Evangelische Kliniken
+ORG St. Josef-Hospital
+ORG Kliniken Nordoberpfalz AG Krankenhaus Tirschenreuth
+ORG Thonbergklinik - Notfallzentrum Leipzig
+ORG Nemocnice Frýdlant
+ORG Harzklinikum Kinderklinik
+ORG Landesklinikum Weinviertel Stockerau
+ORG Filderklinik
+ORG Kinder- und Jugendklinik Gelsenkirchen
+ORG Rehaklinik am Berger See
+ORG Spital Dielsdorf
+ORG Landesklinikum Weinviertel Hollabrunn
+ORG AOK Klinik Schlossberg
+ORG Manor Health Centre
+ORG Psychiatrische Klinik
+ORG Universitätsklinik für Psychiatrie und Psychotherapie
+ORG Universitätsklinikum
+ORG Ida Darwin Hospital
+ORG Fulbourn Hospital (psychiatric)
+ORG Bundeswehrkrankenhaus Hamburg
+ORG Klinikum Bad Salzungen
+ORG Universitätsklinikum Leipzig AÖR Rotes Haus
+ORG Katholisches Krankenhaus Dortmund-West
+ORG Kinderklinik Fürth
+ORG Shotfield Health Centre
+ORG Kirnitzschtal-Klinik
+ORG Okresní Nemocnice Nové Město na Moravě
+ORG Prosper Hospital
+ORG Bundeswehr Facharztzentrum Leipzig
+ORG Benenden Hospital
+ORG Krankenhaus Sankt Elisabeth
+ORG Hartmannspital
+ORG Krankenhaus der Barmherzigen Schwestern
+ORG Allgemeines Krankenhaus
+ORG Goldenes Kreuz Privatklinik
+ORG Sanatorium Hera
+ORG Rivers Hospital
+ORG Klinikum Forchheim
+ORG Kreiskrankenhaus Laupheim
+ORG Sophien-Klinik Vahrenwald
+ORG Landesklinikum Waldviertel Allentsteig
+ORG Landesklinikum Thermenregion Hochegg
+ORG LANDESKLINIKUM THERMENREGION NEUNKIRCHEN
+ORG Krankenhaus St. Elisabeth
+ORG Werner-Wicker-Klinik
+ORG Asklepios Fachklinik Fürstenhof Bad Wildungen
+ORG Asklepios Stadtklinik Bad Wildungen
+ORG Neurolog. Klinik Westend
+ORG Priory Hospital
+ORG Sankt-Nikolaus-Krankenhaus
+ORG Kantonsspital Münsterlingen
+ORG St Bartholomew's Hospital
+ORG Karl-Jaspers-Klinik
+ORG Eeuwfeest kliniek
+ORG Barmherzige Schwestern
+ORG Hardtwaldklinik I, Neurologische Akutklinik
+ORG Hardtwaldklinik II
+ORG Medical Centre
+ORG Wielkopolskie Centrum Onkologii
+ORG Little Brook Hospital
+ORG Szpital HCP
+ORG Ortopedyczno-Rehabilitacyjny Szpital Kliniczny nr 4
+ORG Szpital Kliniczny nr 2
+ORG Ginekologiczno-Położniczy Szpital Kliniczny nr 3
+ORG DRK Krankenhaus Lichtenstein
+ORG Schussentalklinik
+ORG Kliniken Miltenberg-Erlenbach GmbH
+ORG Kliniken Landkreis Biberach GmbH
+ORG Saffron Walden Community Hospital (no A&E)
+ORG Sankt Elisabeth Hospital
+ORG Malteser Krankenhaus St. Carolus
+ORG Müritzklinik
+ORG Ärztehaus Gartenstraße
+ORG St.-Vinzenz-Hospital
+ORG Helios- Vogtland - Klinikum
+ORG Spital Zweisimmen
+ORG Bethanien
+ORG Sanatorium Laßnitzhöhe
+ORG Kreiskrankenhaus Rudolf Virchow
+ORG Waldkrankenhaus Köppern / Vitos Hochtaunus
+ORG Klinikum Dachau
+ORG Erste Hilfe
+ORG Kreiskrankenhaus Dorfen
+ORG Asklepios-Klinik
+ORG Hufeland Klinik
+ORG Hegau-Bodensee-Klinikum Radolfzell
+ORG NRZ Neurologisches Rehabilitations Zentrum Leipzig
+ORG MEDIAN Klinik Grünheide
+ORG Cheshunt Community Hospital
+ORG Christl. Hospiz
+ORG Diaconessenhuis
+ORG Marienkrankenhaus
+ORG Reha-Klinik
+ORG Merian Iselin Spital
+ORG Johanniter Krankenhaus
+ORG Niederrhein-Klinik Korschenbroich
+ORG Ortenau Klinikum Offenburg-Gengenbach
+ORG Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej Zdroje
+ORG Ärztehaus
+ORG Rhönklinikum
+ORG Marienhospital
+ORG Landambulanz
+ORG Hospital zum Heiligen Geist
+ORG Zahnärztliches Notdienstzentrum
+ORG Szpital Powiatowy
+ORG Essex County Hospital
+ORG Rotkreuzklinik Lindenberg
+ORG Fachklinik Lindenberg-Ried
+ORG Poliklinika
+ORG HNO-Klinik
+ORG Nuklearmedizin
+ORG Kinderklinik
+ORG CRONA-Kliniken
+ORG Seniorenheim Am Buchenhain
+ORG Zdravstveni dom lenart
+ORG Kreiskrankenhaus St. Anna
+ORG Klinikum Region Hannover - Krankenhaus Springe
+ORG Burghof-Klinik
+ORG Sankt Elisabeth Krankenhaus
+ORG St. Antonius Hospital
+ORG Albertinen Krankenhaus
+ORG Cambridge Private Hospital (Orwell Grange)
+ORG Medizinische Klinik
+ORG Urologische Klinik
+ORG Wolfartklinik
+ORG Katharinenhospital
+ORG Fachklinik Rhein-Ruhr
+ORG Medizinische Klinik
+ORG Hôpital du Haut-Bugey
+ORG St. Rochus Krankenhaus
+ORG Klinik für Strahlentherapie
+ORG St. Martinus
+ORG Privatklinik Reichenbach
+ORG Eichsfeld Klinikum
+ORG Elisabeth Krankenhaus
+ORG Fachklinik Hirtenstein
+ORG Gelderse Vallei
+ORG CHU Brugmann - Brugmann UH
+ORG Riverside Practice
+ORG Ev. Krankenhaus Woltersdorf
+ORG Medizinischer Bereitschaftsdienst
+ORG St. Anna-Hospital
+ORG Städtisches Krankenhaus
+ORG Fachklinik Ringgenhof
+ORG Inhalatorium
+ORG Universitäts-Zahnklinik
+ORG Sächsisches Krankenhaus Großschweidnitz
+ORG Klink Dr. Becker
+ORG Rendelőintézet (Clinics)
+ORG Kreiskrankenhaus Pfarrkirchen
+ORG Hopital Stell
+ORG IFA Mutter-Kind-Kur
+ORG Sana Klinik
+ORG Pfalzklinikum
+ORG Hufeland Klinik
+ORG Kantonales Spital
+ORG Klinik Oberstdorf
+ORG Reha-Zentrum Reuterstraße (Geriatrische Klinik)
+ORG Marien-Krankenhaus
+ORG Reha Klinik
+ORG Kreiskrankenhaus Rotthalmünster
+ORG Blau-Kreuz-Haus
+ORG CHI Le Raincy Montfermeil
+ORG Dietrich-Bonhöfer Haus - Seniorenzentrum
+ORG Herz-Jesu-Krankenhaus Lindlar
+ORG Poliklinik
+ORG Diakonisse-stiftelsen
+ORG Evangelisches Krankenhaus Bethanien
+ORG Ev. Stift zu Wüsten
+ORG Dialysezentrum Pfarrkirchen
+ORG Klinik Ernst von Bergmann Bad Belzig gGmbH
+ORG Gesundheits-Campus Sauerland
+ORG Dornach
+ORG St.-Willehad-Hospital
+ORG Slotervaartziekenhuis
+ORG Antoni van Leeuwenhoek Ziekenhuis
+ORG Krankenhaus Ebersteinburg
+ORG Dynamisch psychiatrische Klinik Menterschwaige
+ORG Evangelisches Krankenhaus
+ORG Chirurgische Klinik Seefeld
+ORG Marienhospital
+ORG Ospedale "Sant'Anna" di Menaggio
+ORG Bethel
+ORG Leopoldina-Krankenhaus Notaufnahme
+ORG St. Irmgardis-Krankenhaus
+ORG Galenus Klinik
+ORG Paracelsus Spital
+ORG SPZ - Schweizer Paraplegiker-Zentrum
+ORG Kinikum Gesundbrunnen
+ORG Salus Kliniken
+ORG Evangelisches Diakoniewerk Schwäbisch Hall
+ORG Hessing Stiftung Förderzentrum für Kinder
+ORG Brüder-Krankenhaus
+ORG Hôpital Intercommunal Sud Léman Valserine
+ORG Klinikum Bad Salzdetfurth Salze 2
+ORG Klinikum Bad Salzdetfurth Salze 1
+ORG Clinique du Château
+ORG Reha-Klinik Auental
+ORG Centre Hospitalier de Montluçon
+ORG Notfallpraxis Düsseldorf
+ORG Rechbergklinik
+ORG Kreiskrankenhaus Erbach (Gesundheitszentrum Odenwaldkreis GmbH)
+ORG Marillac
+ORG Zollernalb Klinikum
+ORG Ärztehaus Kahla
+ORG Hartismere Hospital
+ORG Elbe-Elster-Kinik
+ORG Zdravstvena postaja Bovec
+ORG Spital Schwyz
+ORG Spital Grabs
+ORG Lutherhaus
+ORG Polyclinique de la Forêt
+ORG Centre hospitalier Manchester
+ORG Ziekenhuis St. Jansdal
+ORG Krankenhaus Rahden
+ORG Rotkreuzklinikum München Frauenklinik
+ORG Zahnklinik
+ORG Clinique Vauban
+ORG Hertford County Hospital
+ORG Asana Spital Menziken
+ORG Asklepios Klinikum Uckermark
+ORG Psychiatrická léčebna Bohnice
+ORG Therme Wildbad Einöd
+ORG Balham Health Centre
+ORG Universitäre Psychiatrische Kliniken Basel
+ORG Klinik Dr. Maul
+ORG Reha-Klinik Frankenwarte
+ORG Spital Aarberg
+ORG Kreiskrankenhaus Isny
+ORG Ammendorfer Ärztehaus
+ORG Rudkøbing sygehus
+ORG Havenziekenhuis
+ORG Johanniter-Krankenhaus Stendal
+ORG Tagesklinik für Psychiatrie u. Psychotherapie
+ORG Kliniken Landkreis Sigmaringen GmbH Pfullendorf
+ORG Asklepios Klinik Germersheim
+ORG Arcus Sportklinik
+ORG Morland Road Clinic
+ORG Frauenklinik Dr. Geisenhofer
+ORG Marie Stopes Clinic
+ORG Helios-Klinik-Northeim
+ORG Conquest Hospital
+ORG St. Agnes Hospital
+ORG Kemenesaljai Egyesített Kórház
+ORG Kreiskrankenhaus Bad Säckingen
+ORG Fachklinik Herzogenaurach
+ORG Gesundheitszentrum Bitterfeld / Wolfen g GmbH
+ORG Salzachklinik
+ORG Nemocnice Vsetín
+ORG Alpenklinik Santa Maria
+ORG Praxisklinik DRK Mölln
+ORG Charlottenklinik für Augenheilkunde
+ORG Kreiskrankenhaus Sigmaringen
+ORG Landeskrankenhaus
+ORG Knappschaftskrankenhaus
+ORG Kreiskrankenhaus Hechingen
+ORG Zentrum für Psychiatrie
+ORG Psychiatrische Tagesklinik
+ORG Klinikum Peine
+ORG Algemeen Ziekenhuis Heilige Familie
+ORG Sonderkrankenanstalt Zicksee
+ORG Salus Fachklinik
+ORG Krankenhaus der Barmherzigen Brüder
+ORG Orhopädische Klinik Markgröningen
+ORG De Honte
+ORG Zdravstveni dom Veržej
+ORG Zdravstveni dom Beltinci
+ORG Zdravstveni dom Martjanci
+ORG Aylesbury Partnership
+ORG Veterinární ordinace
+ORG Soukromá klinika LOGO s.r.o.
+ORG Poliknika Hrabůvka
+ORG Royal Home and Hospital for Incurables
+ORG Poliklinika na Národní
+ORG Poliklinika Barrandov
+ORG MUDr. Mentlová
+ORG Sanus
+ORG Ústav leteckého zdravotnictví (Ústřední vojenská nemocnice)
+ORG Podolská porodnice
+ORG Rehabilitationsklinik SONNHALDE
+ORG Zasebna ambulanta Ptuj
+ORG Klinikum Dahme-Spreewald GmbH
+ORG Zdravstveni dom Spodnji Duplek
+ORG Zdravstveni dom Cankova
+ORG Cnopf'sche Kinderklinik
+ORG Blutbank
+ORG Zdravstveni dom Murska Sobota
+ORG Krankenhaus Landau/Isar
+ORG Klinik Uffenheim
+ORG Pflegeheim
+ORG Centre Hospitalier d'Étampes
+ORG Oberhavelklinik Hennigsdorf
+ORG Sächsisches Krankenhaus Altscherbitz
+ORG LKH Kirchdorf
+ORG Sankt Franziskus-Stift
+ORG Kreisklinik Hofgeismar
+ORG Charles Richet
+ORG Clinique Bellevue
+ORG Praxis Dr. Karfeld & Kramer
+ORG Maniskekrankenhaus
+ORG Zdravstveni dom Vita Mar
+ORG Krankhaus St. Elisabeth-Stift
+ORG Fontana
+ORG Hopital/Hospice Corbie
+ORG spoedeisende hulp
+ORG Fakultná nemocnica
+ORG Krankenhaus Döbeln
+ORG Kreiskrankenhaus Krumbach
+ORG Pohotovostní služba
+ORG Sana Kliniken
+ORG Poliklinika Bory
+ORG Kreiskrankenhaus Bad Saulgau
+ORG Specjalistyczny Szpital imienia profesora Alfreda Sokołowskiego
+ORG HELIOS Klinik Hagen-Ambrock
+ORG Krankenhaus Plettenberg
+ORG Klinik in der Zarten
+ORG West Suffolk Hospital
+ORG Asklepios Neurologische Klinik Falkenstein
+ORG Fakultná nemocnica s poliklinikou Milosrdní bratia
+ORG Maximilians-Augenklinik
+ORG Sana-Klinikum
+ORG Thoraxklinik
+ORG Vrije Universiteit Medisch Centrum
+ORG RehaClinic Braunwald
+ORG St. Josef
+ORG Seniorenheim Fuchsenmühle
+ORG Altes Krankenhaus
+ORG Psychiatrie
+ORG uniklinika
+ORG Helios Klinik
+ORG Kreiskrankenhaus Eggenfelden
+ORG Centrum zdravotní péče Jarov
+ORG Dialyse-Zentrum
+ORG Paracelsuskrankenhaus
+ORG Fachklinik Oberstdorf
+ORG Clinique Edith Cavell
+ORG Orthopädische Klinik
+ORG Klinik Kipfenberg
+ORG Halstead Hospital
+ORG Klinika Psychiatrii Dorosłych
+ORG Arztpraxis Mertens
+ORG Kreiskrankenhaus
+ORG Fachklinikum Brandis
+ORG Hôpital Saint-Louis
+ORG Altersheim Kühlewil
+ORG Krankenhaus Burglengenfeld
+ORG Krankenhaus St. Josef-Stift
+ORG Ärztehaus
+ORG Medisch centrum Nottebohm
+ORG Alten- und Pflegeheim St. Josef
+ORG AWO Seniorenzentrum Gelsenkirchen-Buer
+ORG Klinik Marienfried
+ORG Klinik Prof. Schedel
+ORG Ospedale San Sisto
+ORG Waldklinik Dobel
+ORG Rijnland Ziekenhuis
+ORG The Somerfield Hospital
+ORG Somerfield House
+ORG Klinik und Poliklinik für Mund-, Kiefer- und Plastische Gesichtschirurgie
+ORG HELIOS Fachkrankenhaus Vogelsang-Gommern
+ORG Medizinische Poliklinik
+ORG Betriebsärztliche Untersuchungsstelle der Universitätsklinik
+ORG Ärztehaus
+ORG Bückeberg-Klinik
+ORG Theresienklinik
+ORG Ärztliche Bereitschaftspraxis
+ORG Medizinisches Versorgungszentrum Ottobrunn
+ORG Groupement hospitalier de l'ouest lémanique
+ORG B1: Neurochirurgie, Neurologie
+ORG B2: HNO, Augen
+ORG Poliklinika
+ORG Nemocnica s poliklinikou
+ORG Poliklinika
+ORG Lukas Klinik
+ORG CHU de Brabois
+ORG Reha-Klinik Lautergrund
+ORG Frauenklinik
+ORG Kinderklinik
+ORG HNO-Klinik
+ORG Augenklinik
+ORG Urologische Klinik
+ORG Zakład Diagnostyki Obrazowej (Wielkopolskie Centrum Pulmonologii i Torakochirurgii w Poznaniu)
+ORG Cery
+ORG Seeklinik Zechlin
+ORG Kantonsspital Wolhusen
+ORG Kantonsspital Sursee
+ORG Haupteingang
+ORG Kraichtal-Kliniken, Haus Kraichtalblick
+ORG Atrium Haus
+ORG Diakonie-Krankenhaus Wehrda
+ORG Barmherzige Brüder
+ORG Uniklinik Bereich A
+ORG A1 ZOM
+ORG A2 ZOM
+ORG A3 ZIM
+ORG A4 ZIM
+ORG Fachklinik Hohenurach 2
+ORG Danbury Medical Centre
+ORG Hôpital Molière Longchamp - Ziekenhuis Molière Longchamp
+ORG RVT Sint-Franciscus
+ORG Rehaklinik Bürgerspital
+ORG Poliklinika II
+ORG Spitalzentrum Biel
+ORG Kreiskrankenhaus Viechtach
+ORG Notaufnahme
+ORG Onkologische Praxis
+ORG Christliches Krankenhaus Quakenbrück
+ORG Brørup sygehus
+ORG Kreiskrankenhaus
+ORG Clinique du Parisis
+ORG Universitätsspital Zürich
+ORG Centre Hospitalier de Sélestat
+ORG MRT II
+ORG Lužická poliklinika Rumburk
+ORG Nemocnice v Podhájí
+ORG Medizinische Klinik Borstel
+ORG Kreiskrankenhaus
+ORG DRK Klinik Kaufungen
+ORG Kreiskrankenhaus Möckmühl
+ORG Immanuel Krankenhaus Berlin
+ORG Knappschaftsklinik
+ORG Szpital Ginekologiczno-Położniczy im. Świętej Rodziny‎
+ORG Liechtensteinisches Landesspital
+ORG Baumrainklinik
+ORG August-Bier-Klinik
+ORG Maria-Theresia-Klinik
+ORG Gemeinschaftspraxis Baer,Vallerius,Kiechle
+ORG Curtius-Klinik
+ORG Zdravotné stredisko
+ORG Poliklinika Bajzova
+ORG Nemocnice Rokycany
+ORG Klinik Bad Fallingbostel
+ORG Pantaleon
+ORG Krankenhaus Bethanien
+ORG VieCuri Medisch Centrum locatie Venray
+ORG Kurklinik
+ORG Poliklinika
+ORG Vital-Klinik Buchenholm
+ORG Winghofer Medicum
+ORG Krankenhaus der Barmherzigen Brüder
+ORG Ärztehaus
+ORG AHG Psychosomatische Klinik
+ORG Tagesklinik Lahr
+ORG Isar Medizin Zentrum
+ORG Nemocnice Kroměříž budova B
+ORG Nemocnice Kroměříž budova A
+ORG Szpital Specjalistyczny im. A.Falkiewicza
+ORG Tropenmedizinisches Institut
+ORG Hospiz St. Christophorus
+ORG Spital Mödling, Abtlg Jugendpsychiatrie
+ORG Basel Augenspital / Mittlere Strasse
+ORG Klinikum Karlsburg
+ORG Reha Klinik
+ORG Dr. Kaiser
+ORG Vitos Klinik für Psychiatrie und Psychotherapie
+ORG Asklepios Westklinikum Hamburg
+ORG Klinik Schloss Mammern
+ORG m&i-Fachklinik
+ORG Therapiezentum Brunswiek
+ORG Therapiezentrum Friedrichshöhe
+ORG DAK Kurzentrum Haus Weserland
+ORG Klinik Dr. Otto Buchinger
+ORG Krankenhaus Bad Arolsen
+ORG Kursanatorium Am Königsberg
+ORG Marien-Hospital
+ORG St. Marienhospital Vechta
+ORG Sanatorium und Privatklinik Lentrodt
+ORG Klinik Linde
+ORG Akademicki Szpital Kliniczny im. Jana Mikulicza-Radeckiego
+ORG Hôpital Alexandre Millerand
+ORG Kerckhoff Klinik
+ORG Parkinson Klinik
+ORG Dialyse
+ORG Sygehus Fyn, Svendborg
+ORG Sygehus Fyn, Svendborg
+ORG Sygehus Fyn, Svendborg
+ORG Sygehus Fyn, Svendborg
+ORG Kaposvári Egyetem Diagnosztikai és Onkoradiológiai Intézet
+ORG Krankenhaus Peissenberg
+ORG Kreiskrankenhaus Gaildorf
+ORG Rheinische Kliniken Ambulanz
+ORG Klinik Dr. Steger
+ORG Sachsenklinik
+ORG Krankenhaus Indersdorf
+ORG Vinzentius-Krankenhaus Landau
+ORG Hôpital Ravenel
+ORG Kurklinik Mayenbad
+ORG Kurklinik Elisabethenbad
+ORG Fachkrankenhaus Jerichow
+ORG Polyclinique du Val de Loire
+ORG Berglandklinik
+ORG Santa Chiara
+ORG Bury St Edmunds Hospital
+ORG Kaiserbergklinik
+ORG William Harvey Klinik
+ORG Feldberg-Klinik
+ORG Weissenstein-Klinik
+ORG Kohlwald-Klinik
+ORG Ziegelfeld-Klinik
+ORG DRK Pflegeheim
+ORG Zentrale Notaufnahme
+ORG Hopital Saint-Joseph
+ORG Universitair Centrum Sint Jozef
+ORG Haßberg-Kliniken Haus Hofheim
+ORG Geriatrische Fachklinik "Georgenhaus"
+ORG Altenheim Marienstift
+ORG Karolina Kórház
+ORG Gesundheitszentrum St. Elisabeth Stift
+ORG Kliniken im Theodor-Wenzel-Werk
+ORG Ostseestrandklinik - Klaus Störtebeker
+ORG Kreisspital Surses
+ORG Oberschwabenklinik Krankenhaus Wangen
+ORG Dialysezentrum
+ORG Evangelisches Fachkrankenhaus
+ORG Klinikum Bergisch Land
+ORG St.-Vincenz-Krankenhaus
+ORG Erste Hilfe
+ORG EMS - Beau-Site
+ORG KfH-Nierenzentrum
+ORG Mestská poliklinika
+ORG Krankenhaus Vohenstrauß
+ORG Klinikum Landshut
+ORG Ärztehaus Rösrath
+ORG Neurologisches Krankenhaus München
+ORG Danuvius Klinik
+ORG Privatklinik Dr. R. Schindlbeck
+ORG Aeskulap-Klinik
+ORG Klinik Wildetal
+ORG Kinderkrankenhaus St. Marien
+ORG Rheinhessen-Fachklinik Alzey
+ORG Lewes Victoria
+ORG Sint Anna
+ORG Kinderkrankenhaus auf der Bult
+ORG Egészségház
+ORG Ärztehaus
+ORG IV Wojskowy Szpital Kliniczny
+ORG Kreispflegeheim Hub
+ORG St. Elisabeth-Krankenhaus
+ORG Reha-Klinik Franken
+ORG Hôpital de Jolimont
+ORG Clinique de Valmont-Genevier
+ORG Klinik Dr. Evers - Fachklinik für Neurologie
+ORG Nemocnice Znojmo
+ORG Zentrale Notaufnahme
+ORG Vivantes Klinikum Spandau
+ORG Klinik Schömberg
+ORG Klinikum Garmisch-Partenkirchen Abteilung für Innere Medizin II Murnau
+ORG Ev. Altenheim
+ORG Landstuhl Regional Medical Center
+ORG Univerzitná nemocnica Martin
+ORG Willem Arntsz Huis
+ORG Krankenhaus St. Elisabeth
+ORG Psychosomatisches Zentrum Waldviertel Eggenburg
+ORG Kreiskrankenhaus Bogen
+ORG DRK Blutspendedienst
+ORG DRK Krankenhaus Middleburg
+ORG Seniorenheim am KMG Klinikum
+ORG Centre Hospitalier de Châteaudun
+ORG Helios Klinik
+ORG Centre Hospitalier La Tour Blanche
+ORG Kreiskrankenhaus
+ORG Nemocnica Krupina
+ORG LVR-Klinik Bonn Abt.Psychiatrie III
+ORG Klinik Golzheim
+ORG Bergarbeiter Krankenhaus Schneeberg gGmbH
+ORG Reha-Klinik Hohenelse
+ORG Fachklinik St. Marienstift
+ORG Klinik Neustadt
+ORG Reha-Klinik Herz
+ORG Reha-Klinik Orthopädie
+ORG Kreiskrankenhaus
+ORG Schlossklinik Rottenburg
+ORG Klinik An der Ledermühle MVZ
+ORG Nemocnice milosrdných sester a svatého Karla Boromejského
+ORG Jodschwefelbad
+ORG Waldklinik
+ORG Nemocnice Blansko
+ORG Clinic Dr. Decker
+ORG Spital Muri
+ORG St. Vinzenz
+ORG Rehaklinik Rheinfelden
+ORG Regionalspital Rheinfelden
+ORG Krankenhaus Hann. Münden gGmbH
+ORG Horní areál Nemocnice České Budějovice
+ORG Dolní areál Nemocnice České Budějovice
+ORG Clinique Ambroise Paré
+ORG Polyclinique de Gentilly
+ORG Krankenhaus Martha-Maria
+ORG LWL Schloß Haldem
+ORG Klinikum Wahrendorff
+ORG St.-Elisabeth-Krankenhaus
+ORG Sana-Klinik
+ORG Clinique le Noirmont
+ORG Clinique de Vinci (fermée)
+ORG Private Diagnoseklinik München
+ORG Médimeuse
+ORG Helios Klinik Lengerich
+ORG AMEOS Klinikum Osnabrück
+ORG Borromäus Hospital
+ORG Privatklinik Bad Gleisweiler
+ORG Nemocnica s poliklinikou, Nové Mesto nad Váhom, n. o.
+ORG Gesundheitszentrum
+ORG Clinique La Ramée
+ORG Ärztehaus
+ORG Ärzte
+ORG Klinikum Osnabrück
+ORG Reha Tagesklinik Schloss Bietschied
+ORG Sankt Nikolaus Hospital
+ORG Herz-Jesu-Krankenhaus Notaufnahme
+ORG AMEOS Klinikum Osnabrück
+ORG Praxisklinik Travemünde
+ORG Röher Parkklinik
+ORG Hôpital de Chamblon
+ORG Nemocnice
+ORG Gezondheidscentrum de Heikant
+ORG Clinic im Centrum Dresden Praxisklinik Dresden
+ORG Reha-Klinik Sonnenhof
+ORG Kantonales Spital Altstätten
+ORG Detský domov sociálnych služieb
+ORG Marien-Hospital
+ORG Kurklinik Sellin
+ORG Universitätsklinikum Magdeburg
+ORG Paracelsus Krankenhaus
+ORG Klinik Thalkirchner Straße
+ORG Evangelisches Krankenhaus Lutherstift
+ORG St. Marien Hospital
+ORG Hôpital local de Bar-sur-Aube
+ORG DRK-Elisabeth-Krankenhaus Birkenfeld
+ORG Centre de transfusion sanguine
+ORG Tropenzentrum
+ORG Clinique du Château
+ORG Arzt
+ORG Zahnarztpraxis
+ORG Rehabilitationszentrum des Kinderspitals Zürich
+ORG Notfallpraxis
+ORG Piushospital
+ORG Krankenhaus Wertingen
+ORG Reha Heiligenschwendi
+ORG Behindertenheim
+ORG Chelsfield Park Hospital
+ORG Reha Zentrum Utersum
+ORG Main Medical Clinic
+ORG Poliklinika
+ORG Sana-Klinik Zollernalb GmbH
+ORG Szpital Powiatowy w Pile
+ORG Klinik im Steigerwald
+ORG Reha Zentrum Lübben
+ORG Helios Klinik Hüls
+ORG Heilig-Geist-Hospital
+ORG Haßberg-Kliniken
+ORG Ärztehaus Niemeyerstraße
+ORG Kilink für Strahlentherapie
+ORG Samsø Sygehus
+ORG Jasmine Centre
+ORG King's / Dartford Dialysis Unit
+ORG Rosewood Lodge
+ORG Zubní poliklinika (?)
+ORG Sankt-Josefs-Hospital
+ORG Sankt Marien Hospital
+ORG Psychiatrische Klinik Waldhaus
+ORG Nemocnice Písek, a.s.
+ORG Sint Jozefskliniek
+ORG St. Josef
+ORG Luzerner Psychiatrie
+ORG Clinique
+ORG Zdravotní středisko
+ORG Nakskov Sygehus
+ORG Centre Hospitalier Maréchal Leclerc
+ORG Kurzentrum Bad Zwischenahn
+ORG Eggeland-Klinik Bad Driburg
+ORG Klinik Dreizehnlinden
+ORG Augustahospital Anholt
+ORG Klinikum Großburgwedel
+ORG Tagesklinik Frontheim
+ORG Stará nemocnice
+ORG The Oaks Hospital
+ORG Fakultná nemocnica Trnava
+ORG Tergooiziekenhuis locatie Blaricum
+ORG Hospital de Billens
+ORG LKH Enns
+ORG Krankenhaus Cuxhaven
+ORG Hauskrankenpflege ENOMIS
+ORG Centre Hospitalier de Tonnerre
+ORG Rehabilitationsklinik Buckow
+ORG Krankenhaus und MVZ Maria-Hilf Stadtlohn GmbH
+ORG Rettungswache
+ORG Evangelisches Krankenhaus (Verwaltung)
+ORG mountain rescue
+ORG Beech House Hospital
+ORG Centre Hospitalier Universitaire Amiens Sud
+ORG Reha Westpfalz
+ORG St.-Johannis-Krankenhaus
+ORG Klinika na rajskiej
+ORG Praxis Dr.Schreck
+ORG Health Centre
+ORG Hôpital de Rivera, SIte de Mottex
+ORG Rheuma-Klinik
+ORG Regionalspital Laufenburg
+ORG Preston Hall Hospital
+ORG Hôpital
+ORG Kistérségi Egészségügyi Központ
+ORG Notspital Andermatt
+ORG Uckfield Hospital
+ORG Poliklinika
+ORG Villa Rosa
+ORG Kreiskrankenhaus Prenzlau
+ORG Maternité des Lilas
+ORG KMG Klinikum Havelberg GmbH
+ORG Litoměřická nemocnice
+ORG K Klinika
+ORG Kurzentrum
+ORG Stodská nemocnice
+ORG Gesundheitszentrum
+ORG Kreiskrankenhaus Zwiesel
+ORG Diakoniezentrum Paulinenstift
+ORG Zahnärzte S. Hummelt und Dr. J. Jörns-Kuhnke
+ORG Lahntal-Klinik
+ORG Krankenhaus
+ORG REHA-Klinik "Hoher Fläming"
+ORG Hopital Suisse de Paris
+ORG Psychiatrisches Klinikum
+ORG Fachklinik für Kinder- und Jugendpsychiatrie (Häuser 1 -5 , 7, 17)
+ORG Tagesklinik, Haus 6
+ORG Tagesklinik, Haus 18
+ORG Klinik für Forensische Psychiatrie  und Psychotherapie (Häuser 16, 20, 22, 26, 38)
+ORG St. Franziskus-Hospital Winterberg
+ORG PsoriSol Hautklinik
+ORG Hochwald Krankenhaus
+ORG Paracelsus-Klinik
+ORG Malbergklinik
+ORG AOK-Klinik
+ORG Hans-Prinzhorn-Klinik
+ORG Krankenhaus Scharnebeck
+ORG NHS Clinic
+ORG Evangelisches Zentrum für Altersmedizin
+ORG La Corbière
+ORG DRK-Krankenhaus Mecklenburg-Strelitz
+ORG Hôpital des Enfants Reine Fabiola
+ORG Main-Pflege CURVITA
+ORG Fachklinik für Naturheilverfahren
+ORG Hopital privé de Chantilly
+ORG Meander Medisch Centrum Baarn
+ORG Kantonsspital Obwalden
+ORG Szpital Miejski
+ORG Fachklink Fürstenwald
+ORG Krankenhaus Eisenhüttenstadt
+ORG Klinik Dr. Schwarz, Fachklinik für Psychiatrie und Psychotherapie
+ORG DRK-Krankenhaus
+ORG Raiffeisenbank
+ORG Bethesda
+ORG Klinik Roderbirken
+ORG Nemocnica Alexandra Wintera
+ORG Klink für Kinder- und Jugendpsychiatrie und Psychotherapie
+ORG Kassenärztlicher Notdienst
+ORG Kreiskrankenhaus Backnang
+ORG Waldburg-Zeil Klinik Niederbayern
+ORG Hôpital d'Orbe
+ORG Nemocnice Valašské Meziříčí
+ORG vejle sygehus skadestue
+ORG Pleißentalklinik
+ORG Waldapotheke
+ORG Vitos Kurhesen Haus 9
+ORG Vitos Kurhesen Haus 8
+ORG Vitos Kurhesen Haus 12
+ORG Vitos Kurhesen Haus 6
+ORG Vitos Kurhesen Haus 7
+ORG Vitos Kurhesen Haus 4
+ORG Vitos Kurhesen Haus 3
+ORG Zdravotné Stredisko Sanat
+ORG Medizinisches Versorgungszentrum  St. Georg
+ORG Bezirkskrankenhaus
+ORG Gesundheitszentrum Schwäbische Alb
+ORG Árpád Kórház
+ORG Fachkrankenhaus für Psychiatrie und Psychotherapie Bethanien Hochweitzschen
+ORG DRK VG Wörrstadt
+ORG Reha-Klinik Am schönen Moos
+ORG Akut-Klinik Am schönen Moos
+ORG Ärztehaus
+ORG Kurmittelhaus
+ORG Rettungswache DRK
+ORG Kuratorium für Dialyse und Nierentransplantation
+ORG Mutter-Kind-Zentrum/Perinatalzentrum
+ORG Krankenhaus am Crivitzer See GmbH
+ORG Hopital Nord Parisien
+ORG Atrium
+ORG Újpesti Rendelőintézet
+ORG Ambulante Behandlung
+ORG Klinik und Poliklinik Parodontologie und Zahnerhaltung
+ORG Klinik und Poliklinik für Kieferorthipädie
+ORG Klinik und Poliklinik für Zahnärztliche Prothethik
+ORG Fachklinik Hutschenreuth
+ORG Notfall Praxis Erlangen
+ORG Ortenau Klinkum Lahr-Ettenheim
+ORG Klinik Wersbach
+ORG Orthopädische Klinik
+ORG Clinique de La Défense
+ORG Fakultná nemocnica Trnava
+ORG Sana-Klinkum
+ORG Oberbergklinik Weserbergland
+ORG St. Marianus (Hospitz)
+ORG Hopital de Jour
+ORG Clinique des Noriets
+ORG North Cambridgeshire Hospital
+ORG Parkside Day Hospital (geriatric psychiatric)
+ORG Kreisklinik Helmarshausen
+ORG Kreiskrankenhaus Weißwasser
+ORG Muschinsky-Klinik
+ORG Elbe Elster Klinikum
+ORG Sanatorium Dr. Barner
+ORG Rehazentrum Bad Eilsen
+ORG Kraichgau Altenheim
+ORG Camillus Suchtklink
+ORG Rochus Klinik
+ORG Medizinische Psychologie
+ORG Psychosomatische Ambulanz
+ORG Psychiatrische Klinik
+ORG Carl-von-Basedow-Klinikum
+ORG Klinik für Kinder- und Jugendpsychiatrie
+ORG Psychiatrische Ambulanz
+ORG Klinikum Esslingen
+ORG Diabetes-Klinik
+ORG Hawkhurst Community Hospital
+ORG St. Joseph Krankenhaus Berlin-Weißensee
+ORG Johanniter Krankenhaus, Medizinische Fach- und Patientenbibliothek
+ORG Dr. Pils
+ORG Werneburg
+ORG Krause
+ORG Dr. Meier Orthopäde
+ORG Röpcke, Augenärztin
+ORG Dr. Mirsch
+ORG Szpital
+ORG Ośrodek Zdrowia
+ORG Radiologie / OP-Säle
+ORG Bettenhaus (Orthopädie / Innere Medizin)
+ORG Notaufnahme
+ORG Arztpraxen der MEG / Patientenverwaltung
+ORG Haupteingang mit Empfang
+ORG Bettenhaus Chirurgie / Orthopädie
+ORG Verwaltung
+ORG Arztpraxen der MEG / Kinderstation
+ORG Diakonie-Sozialstation / Verwaltung MEG
+ORG Küche / Ärztliche Leitungen / Labor
+ORG "Haus Elisabeth"  / Logopädie / Ergotherapie / Physiotherapie / Hydrotherapie
+ORG Abteilung Technik
+ORG "Clementinenheim" Verwaltung (Stiftsvorstand)
+ORG Bibliothek / Konferenzbereich
+ORG Heronwood and Galleon Unit
+ORG Dialysezentrum
+ORG Osr. zdrowia
+ORG Wojewódzki Szpital Obserwacyjno-Zakaźny
+ORG Szpital im. E. Warmińskiego
+ORG Dom Sue Ryder
+ORG Wasserwacht Kranzberg
+ORG St.-Gerburgis-Hospital
+ORG Krankenhaus Spremberg
+ORG Admiraal De Ruyter
+ORG Groupement Hospitalier Intercommunal du Vexin
+ORG Klinikum Obergöltzsch
+ORG Effingerhort
+ORG Maria Frieden
+ORG Centre Hôspitalier de Seclin
+ORG Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych
+ORG Allg. med Voigt und Deutsches Rotes Kreuz Kreisverband Zittau
+ORG Fachklinik St.Marien
+ORG Lungenklinik Lostau
+ORG St. Agatha Krankenhaus
+ORG Gesundheits- und Sozialzentrum
+ORG Unfallambulanz
+ORG Haussee-Klinik
+ORG Hopital Psychiatrique
+ORG Amphia Ziekenhuis, Locatie Langedijk
+ORG Het Oogziekenhuis Rotterdam / The Rotterdam Eye Hospital
+ORG Zum Heiligen Geist
+ORG Zorgcentrum Goverwelle
+ORG St. Bardo Altenheim
+ORG Vinzentinum
+ORG Helios
+ORG Clinique saint François
+ORG Hospital
+ORG Nemocnice Jindřichův Hradec, a.s.
+ORG Urgences et Maternité
+ORG Městská nemocnice Městec Králové
+ORG Maison de Retraite
+ORG PAN Klinik am Neumarkt
+ORG Klinik Wittgenstein
+ORG Refaja Ziekenhuis
+ORG Poliklinika
+ORG Institut für Rechtsmedizin
+ORG Kantonssptal Aarau
+ORG Oogziekenhuis Zonnestraal
+ORG Bohumínská městská nemocnice
+ORG Doddington Community Hospital
+ORG TweeSteden ziekenhuis
+ORG Clinique de l'Archette
+ORG Openbaar Psychiatrisch Zorgcentrum Rekem
+ORG Nemocnice Tanvald
+ORG Spea Olomouc s.r.o. - Poliklinika
+ORG Spital Grabs
+ORG P-P Klinika
+ORG Regena Sanatorium
+ORG Hôpital du Hainaut
+ORG Wellesley Hospital
+ORG Permanence d'Onex
+ORG Hôpital de Rambervillers
+ORG St. Antonius Krankenhausa
+ORG Clinique du Perreux
+ORG Hôpital Privé d'Athis-Mons - Site Jules Vallès
+ORG Praxis Dr. Klein
+ORG Centre Hospitalier de Senlis
+ORG Ospedale Civile
+ORG Polyclinique Saint-Joseph
+ORG Paul-Gerhardt-Stift
+ORG Pferdeklinik
+ORG Heilig-Geist-Spital
+ORG Alten- und Pflegeheim Marienkloster
+ORG Mutter-Kind-Kurklinik Hotzenplotz
+ORG Sloane Hospital
+ORG Hospice Dumont
+ORG Kreiskrankenhaus
+ORG Hans-Prinzhorn-Klinik Tagesklinik Iserlohn
+ORG Klinikum Passauer Wolf
+ORG poliklinika
+ORG DRK REHA-Klinik Goldener Schlüssel
+ORG Klinika Pneumologii Uniwersytetu Medycznego
+ORG Szpital Kliniczny Przemienienia Pańskiego Uniwersytetu Medycznego
+ORG Centre Hospitalier de Nemours
+ORG Ärztehaus
+ORG Klinik Rosenberg (DRV)
+ORG Ärztehaus West
+ORG Oder-Spree Krankenhaus Beeskow
+ORG Helios Klinik Bleicherode Notaufnahme
+ORG Seniorenpflegeheim „Am Rittergut“
+ORG ZGT Almelo
+ORG Hospital Dvůr Králové nad Labem
+ORG Poliklinika Vrchlabí
+ORG ANSA Sanatorium
+ORG Southend University Hospital
+ORG Hôpitaux Maringer Villemin Fournier
+ORG Patientenaufnahme
+ORG Südstrand-Klinik Fehmarn / Kinder-Rehabilition
+ORG Seniorenzentrum Im Dorf
+ORG HELIOS Klinik Geesthacht
+ORG ZGT Hengelo
+ORG Ústecká poliklinika
+ORG Latawiec
+ORG KHNW Zentrale Notaufnahme
+ORG Ärztehaus
+ORG Poliklinika I
+ORG Höhenklinik Faltigberg
+ORG Henneberg-Kliniken
+ORG Ambulancepost
+ORG MediCru
+ORG AOK Nordseeklinik
+ORG Poliklinik Reil
+ORG Zdravotné stredisko
+ORG Parnassia psycho-medisch centrum
+ORG Salus gGmbH
+ORG Sankt Petri-Hospital Warburg
+ORG Erica Ziekenhuis - Campus Mol
+ORG Sophia revalidatie
+ORG Kurpfalzkrankenhaus
+ORG ZOBNA AMBULANTA MAKOLE MIROSLAV KOVAČIČ, DR. DENT. MED.
+ORG ZASEBNA SPLOŠNA AMBULANTA SILVANA POPOV, DR. MED., SPEC. SPL. MED.
+ORG The Blackheath Hospital Outpatient Centre
+ORG DAK Klinik Haus Schwaben
+ORG Klinik Hohenlohe
+ORG Ferencvárosi Szakrendelő
+ORG Chrischona Klinik
+ORG Rehaklinik Ob der Tauber
+ORG Centre hospitalier départemental de Bichwiller
+ORG Westpfalzklinikum Standort Kusel
+ORG Rehazentrum Bad Dürrheim - Klinik Hüttenbühl
+ORG Johannesstift
+ORG Landeskrankenhaus Laas
+ORG Kinder- und Jugendpsychiatrie Oldenburg
+ORG MEDECO Zahnklinik Bonn
+ORG Herts and Essex
+ORG Szpital Powiatowy w Oleśnicy
+ORG La Clinique Médicale Du Château D'Herblay
+ORG Zdravotní ústav
+ORG DRK Krankenhaus Grimmen
+ORG Asklepios-Paulinen-Klinik
+ORG Gezondheidscentrum De Compagnie
+ORG Clinique Garcia
+ORG Middelfart Hospital
+ORG Centre Hospitalier Jean de Luxembourg
+ORG Établissement Thermal
+ORG Unfallkrankenhaus Kalwang
+ORG Centre Hospitalier des Murets
+ORG Klinik für Kinder- und Jugendmedizin
+ORG Sankt Elisabeth Krankenhaus
+ORG AMEOS Diakonie-Klinikum Ueckermünde‎
+ORG Centre Medical de Wavre
+ORG MVZ RNR Leverkusen
+ORG Hôpital général
+ORG Kinderklinik, St. Josefs-Hospital
+ORG Psychiatrie Bochum
+ORG Hospice
+ORG Geriatrie
+ORG Reha Klinik Tessinum
+ORG Notaufnahme
+ORG Sana Krankenhaus Templin
+ORG Besuchereingang
+ORG DiaCura Meiningen
+ORG Medizinisches Versorgungszentrum Meiningen‎
+ORG Honvéd kórház
+ORG Sigel Klinik
+ORG Polyclinique des Longues Allées
+ORG Allerød Privathospital
+ORG Dr. Torremante
+ORG Wilfried-Rasch-Klinik
+ORG Clinique de la Gaillardière
+ORG Hamzova léčebna
+ORG UPD - Universitätsklinik und -Poliklinik für Psychiatrie
+ORG SRH Klinikum Karlsbad-Langensteinbach
+ORG Paracelsus Wiehengebirgsklinik Bad Essen
+ORG Hôpital Privé Paul d'Egine
+ORG Institut für Pathologie
+ORG Elisabeth-Hospital
+ORG Hopital Civil
+ORG Espace Santé A. Gailly
+ORG GHdC (Clinique Reine Fabiola)
+ORG Nemocnice
+ORG Tonbridge Cottage Hospital
+ORG Centre médical du Valentin SA
+ORG Ludwig-Noll-Krankenhaus
+ORG Pflegezentrum Kaeferberg
+ORG SRK Zurich
+ORG Zusamklinik
+ORG OSK Sankt Elisabeth Kinderabteilung
+ORG Sinova Klinik
+ORG Parhélie
+ORG Clinique Fond'Roy
+ORG Spital Zofingen
+ORG esculap chir. Privatklinik
+ORG Asklepios Kliniken Verwaltungsgesellschaft GmbH
+ORG Maison de Retraite Saint-Hilaire
+ORG Maison de Retraite
+ORG Psihiatrična bolnišnica
+ORG Splošna bolnišnica Jesenice
+ORG Forensische Klinik
+ORG Klinik Brilon-Wald
+ORG Orthopädie Forum GmbH
+ORG Szpital
+ORG Reha-Klinik Reinhardsquelle
+ORG NZOZ Ars-Medical
+ORG Tunbridge Wells Independant Hospital
+ORG Hufeland Klinikum
+ORG Schloß Eichelsdorf
+ORG Ambulanz
+ORG Evangelische Elisabeth Klinik
+ORG Psychiatrisch Ziekenhuis Sint-Jan-Baptist
+ORG Gangelter Einrichtungen Maria Hilf
+ORG Physiotherapie Zeißler
+ORG Dr. R. Lederer
+ORG SK Bernhard Gruben
+ORG Dr. Haas
+ORG Dr. Gruber
+ORG Dr. Mayer-Zuchi
+ORG Centre de Pneumologie de l'Enfant
+ORG Sint-Jozefklinik
+ORG Ärztehaus Borna
+ORG sächsisches Krankenhaus Arnsdorf
+ORG Privathospitalet Mølholm
+ORG Clinique Saint-Hilaire
+ORG Klinik Sonnenalm
+ORG GHdC (Saint-Joseph)
+ORG Herz-Neuro-Zentrum Bodensee
+ORG Schulthess Klinik
+ORG Infirmerie
+ORG Szpital Miejski
+ORG Johanniter Krankenhaus Psychiatrische Tagesklinik Schwarzenbek
+ORG MediClin Dünenwald Klinik
+ORG Nemocnice Prachatice
+ORG Selye János Kórház
+ORG AZ Alma
+ORG Zahnarztpraxis am Flottbeker Markt
+ORG Klinik für Geriatrie
+ORG Röpersberg Klinik
+ORG Arzt Messinger M
+ORG Haus St. Altfrid
+ORG Szpital Powiatowy
+ORG Przychodnia lekarska
+ORG DRK Deutsches Rotes Kreuz
+ORG Groupement Hospitalier Intercommunal du Vexin
+ORG Städtisches Krankenhaus
+ORG AWO Seniorenzentrum
+ORG Centrum Rehabilitacji
+ORG Centre Médico-Chirurgical de l'Europe
+ORG Hôpital de Montmorency
+ORG Robert-Koch-Krankenhaus
+ORG UZ Pellenberg
+ORG Klinik Belair
+ORG MediClin Deister Weser Kliniken
+ORG Rehabilitationsklinik Bad Münder
+ORG Zdravotní středisko Oskava
+ORG Clementine Kinderhospital
+ORG St.Vinzenz
+ORG Medisch Centrum "De Boei"
+ORG Szpital s. Jerzego EMC
+ORG Nemocnice Mariánské Lázně
+ORG Hôpital Erasme
+ORG Praxis - Klinik
+ORG North Walsham Cottage Hospital
+ORG Fawkham Manor Hospital
+ORG Hospiz Dr.-Jahn-Haus
+ORG Notaufnahme
+ORG Zahnarztpraxis Dr. Med. dent. Peter Kramann
+ORG Dr. Perfler
+ORG Hôpital Saint-Charles
+ORG Rotes Kreuz
+ORG Medimere stad
+ORG Van Weel-Bethesda Ziekenhuis
+ORG Stützpunkt der OV Bad Camberg, Betreuungszug II im Landkreis Limburg / Weilburg
+ORG Allgemeinarzt med. Herbst
+ORG Dialysezentrum
+ORG Thusis
+ORG Sankt Anna Klinik
+ORG Szanatórium
+ORG Szent Kereszt Kórház
+ORG Szent Rókus Kórház
+ORG Ordinacija opće medicine
+ORG Šumperská nemocnice
+ORG Pogotowie Ratunkowe
+ORG Dr. Aufmesser
+ORG EHPAD (Établissement d’Hébergement pour Personnes Âgées Dépendantes)
+ORG Wojweódzki Szpital Specjalistyczny Zamiejscowy Oddział Rehabilitacji ul. Poświęcka 8
+ORG Szpital Rejonowy Murcki
+ORG Nemocnice Jablonec nad Nisou
+ORG MEDIKA-CENTRUM
+ORG zubní poliklinika
+ORG Rotes Kreuz Hochneukirchen
+ORG Mudr Karel Dvořák
+ORG Altersheim Murhof
+ORG Achillea
+ORG Poliklinika Čumpelíkova
+ORG Algemeen Ziekenhuis Sint-Elisabeth
+ORG Tagesklinik
+ORG Vojenská nemocnice
+ORG MuDr. Konrádová
+ORG Poliklinika
+ORG Železniční poliklinika
+ORG Stomatologická klinika
+ORG Augen-Laser-Klinik Beratungszentrum
+ORG Poliklinika Otrokovice
+ORG Atrium MC Kerkrade
+ORG Diakonissen-Krankenhaus
+ORG Kinderklinik
+ORG Centre de Protection Maternelle et Infantile
+ORG Zdravotnické středisko Holýšov
+ORG Birkle Klinik
+ORG Hochgrat Klinik
+ORG Fakultní nemocnice města Hradec Králové
+ORG Poliklinika
+ORG Nemocnice na Žižkově
+ORG Rotes Kreuz Abtenau
+ORG Centre hospitalier du Belvédère
+ORG Eichsfeld-Klinikum - Entbindungsstation
+ORG Institut National de Chirurgie Cardiaque et de Cardiologie Interventionelle
+ORG Pflegezentrum "Am Wiesenhof"
+ORG Kursana Domizil
+ORG Podhorská nemocnice, a.s.
+ORG Fachklinik Rusteberg
+ORG Fachkrankenhaus Wiesen
+ORG CENTRE DE CURE MEDICALE
+ORG Vigilax
+ORG Centre Hospitalier Peltzer-La Tourelle
+ORG Haus der Gesundheit Tagesklinik
+ORG Orthopädische Klinik Werneck D-Süd und D-Nord
+ORG Privatklinik Villa Medica
+ORG Psykiatrisk Afdeling Middelfart
+ORG Klinik Bergwinkel
+ORG Kujawsko-Pomorskie Centrum Pulmonologii Oddział Smukała
+ORG Clinique Caron
+ORG Sanatorium Eggenberg
+ORG Rheinischer Blindenfürsorgeverein
+ORG HELIOS-Akutklinik (Kreiskrankenhaus WIttgenstein)
+ORG Rothaarklinik
+ORG Aarup Lægerne
+ORG Ärztehaus
+ORG Parkklinik
+ORG Notfallaufnahme Chirurgie
+ORG Notfallaufnahme Medizinische Klinik
+ORG Clinique de Jolimont
+ORG Paracelsus-Klinik an der Gande Fachklinik für Orthopädische Rehabilitation
+ORG Paracelsus-Osterberg-Klinik
+ORG Sygehus Sønderjylland
+ORG Centre Hospitalier Spécialisé de Navarre
+ORG Dialyse Rettig/Gierak
+ORG Lægehuset i Rødekro
+ORG Medizinisches Versorgungszentrum Burgdorf
+ORG Privamed
+ORG Heilpädagogisches Zentrum (Häuser 21, 24, 25)
+ORG Waldklinik Jesteburg
+ORG Permanence médicale de Cornavin
+ORG VIII. ker tüdőgondozó
+ORG Tistrup lægehus
+ORG Praxis Dr. Zientek
+ORG City-Ambulanz-Alsfeld
+ORG Zdravstveni dom Polje
+ORG Bayerwald-Klinik
+ORG Hospice
+ORG Deutsches Rotes Kreuz, Rettungswache Jülich
+ORG REHA - Z Hochegg
+ORG Bergwacht Klingenthal
+ORG Clinique Geoffroy Saint-Hilaire
+ORG Deutsches Rotes Kreuz
+ORG Altenheim DRK
+ORG Centre Médical
+ORG St. Marien Hospital
+ORG Klinik am Leisberg
+ORG Fachklinik Prinzregent Luitpold
+ORG Klinikum Augsburg
+ORG Regionaal Ziekenhuis Sint-Maria Halle
+ORG Hôpital Paul Doumer
+ORG EMS
+ORG Clinique Belmont
+ORG Comprehensive Cancer Center Ulm
+ORG Klinik und Poliklinik für Dermatologie und Allergologie  am Biederstein, Technische Universität München
+ORG Asklepios Klinik Lindau
+ORG Veldwijk
+ORG Samodzielny Publiczny Szpital Kliniczny nr 2
+ORG Haus Siloah
+ORG Wehrawald Reha-Klinik der DRV
+ORG Animal Hospital
+ORG Fachklinik Olsberg für Suchtkranke
+ORG DRK Kliniken Westend
+ORG Institut für Familientherapie
+ORG Privatklinik Martinsbrunn
+ORG Praxis Dr. Thielmann & Bartels
+ORG St. Anna Stift Altenheim
+ORG MVZ Rochlitz
+ORG Hôpial du Jura
+ORG Alten- und Pflegeheim Buchenhof
+ORG Psykisk skadestue
+ORG Hospice Civil
+ORG Kreiskrankenhaus
+ORG Kurzzeitpflegeheim
+ORG Agricola Krankenhaus
+ORG Dr. Herzele
+ORG Wohnheim Rothbach
+ORG Facharzt für Allgemeinmedizin
+ORG Klinik für Kinder und Jugendliche
+ORG Ärztehaus
+ORG Szpital Powiatowy w Jarocinie
+ORG Centre Hospitalier de Cambrai
+ORG Arzt
+ORG Ärztehaus
+ORG Arzt - Dr. Eimert
+ORG Arzt Gemeinschaftpraxis
+ORG Medisch Centrum Huisartsen Druivenstreek (MCH)
+ORG Klinik am Ruhrpark GmbH
+ORG Altes Krankenhaus, jetzt Altenheim Schmalenbachhaus
+ORG Federatie Palliatieve Zorg Vlaanderen
+ORG Soproni Erzsébet Oktató Kórház
+ORG Ressourcenhaus Praxis für Ergotherapie und Logopädie
+ORG Arzt
+ORG Centre neurologique William Lennox
+ORG Ev. u. Johanniter-Krankenhaus Dierdorf/Selters
+ORG Privatklinik Leech
+ORG Bexhill Hospital
+ORG Altersheim Stadtforst
+ORG A&E
+ORG Ortsverein Lehrte e. V.
+ORG Royal Alexandra Children's Hospital
+ORG Krankenhaus Wittmund
+ORG Eingang Notaufnahme
+ORG Park Road Medical Centre
+ORG Reha-Zentrum Bad Sooden-Allendorf - Klinik Werra
+ORG Vivantes Klinikum am Urban
+ORG St Georges Hospital
+ORG Centre hospitalier de l'Ardenne
+ORG Ambulanta Goričan
+ORG Kantonsspital Frauenfeld
+ORG Tagesklinik Hofheim
+ORG DRK Ortsverein Dreierwalde e.V.
+ORG Klinikum Traunstein
+ORG Allgemein und Notfallmedizin Dr Raabe/Dr Blattner
+ORG Stará nemocnice
+ORG Szpital Rehabilitacyjny
+ORG Hôpital de Prangins
+ORG Ärztehaus Straße am Park
+ORG Szent Borbála Kórház Szanatórium
+ORG St. Johannsspital-Landeskrankenhaus Paracelsus Medizinische Privat-Universität
+ORG Krankenhaus Barmherzige Brüder Salzburg
+ORG Lebenszentrum Königsborn
+ORG Chambord-Résonance Magnétique Nucléaire
+ORG Hôpital Psychiatrique Chêne aux Haies
+ORG Fachkliniken Nordfriesland
+ORG Sanatorium Kilchberg
+ORG Ośrodek Zdrowia "BELLUS"
+ORG Thoraxzentrum Bezirk Unterfranken; am Michelsberg
+ORG Dr. Schranzhofer
+ORG Charité Campus Benjamin Franklin Klinik für Psychiatrie und Psychotherapie
+ORG Provita
+ORG Praxis fuer Physiotherapie
+ORG Clinique Sainte-Elisabeth
+ORG Nemocnice s poliklinikami n.o.
+ORG Péterfy Sándor utcai kórház Szövetség utcai részlege
+ORG Psychotherapieambulanz
+ORG Nemocnice Strakonice a.s.
+ORG Clinique d'Épernay
+ORG Wasserwacht
+ORG Parkklinik
+ORG Szpital
+ORG Klinik Westfalen - Reha Klinik am Meer
+ORG Zdravotní středisko
+ORG Hôpital de gérontologie Bigottini
+ORG Michaelshof
+ORG Arzt/Zahnarzt
+ORG Szpital Kietrz
+ORG Ambulanta Belec
+ORG Zahnarztpraxis Nordhusen/Prien
+ORG Przychodnia Nowy Dwór
+ORG Klinik Dr. Vötisch
+ORG Fanø Sunhedscenter
+ORG Ośrodek Zdrowia w Żmigrodzie
+ORG Dr. med.Ruckstuhl
+ORG Hospitalite N.D.
+ORG Poliklinika Karlova Ves
+ORG Dr. Zundel
+ORG Gesundheitsklinik "Stadt Hamburg"
+ORG Slagelse Centralsygehus
+ORG Laegehus
+ORG Szpital Powiatowy w Barlinku
+ORG Centre hospitalier de Decize
+ORG Orvosi Ügyelet
+ORG Clinique Floréal
+ORG Léčebna dlouhodobě nemocných
+ORG Centre hospitalier de Coulommiers
+ORG Centre d'Exploration Digestive de l'Enfant
+ORG Krankenhaus Baumholder
+ORG Medicentrum
+ORG Barn- och ungdomspsykiatri (BUP), Habilitering, Hjälpmedel
+ORG Szpital Miejski nr 2
+ORG Szpital Miejski nr 1
+ORG Kliniek O.L.V. Ter Linden
+ORG Health Centre - Zdravotné stredisko
+ORG Fitzroy Square Hospital
+ORG Croix-Rouge Française
+ORG Poliklinika
+ORG Alfried-Krupp-Krankenhaus
+ORG Ärztehaus 2
+ORG St. Vinzenz-Hospital Rhede
+ORG Centre de Médecine Sportive de Mons, CHU Ambroise Paré
+ORG Neonatologie
+ORG SPSK 1 PUM
+ORG Centre Hospitalier Marguerite de Lorraine
+ORG Klinik Stephanshorn
+ORG Gracefield Gardens Health Centre
+ORG Kur- und Rehabzentrum Thermenhof
+ORG Kurzentrum Thermalheilbad Wernberg
+ORG Polyclinique des Murlins
+ORG Dom zdravlja
+ORG Centre Hospitalier de Saint-Avold
+ORG Maasziekenhuis
+ORG Revalidatiecentrum Tolbrug
+ORG Regionaal GGZ Centrum
+ORG Hôpital Abel Leblanc
+ORG SP ZOZ Choszczno
+ORG Zentrale Notaufnahme
+ORG MED Ärztehaus
+ORG Kinderklinik am Mönchberg
+ORG Nemocnice Rudolfa a Stefanie Benešov
+ORG Psychiatrische Klinik
+ORG Stichting Kalorama
+ORG Policlinic
+ORG St. Joseph-Krankenhaus Kinderklinik
+ORG Malteser Hilfsdienst
+ORG Kinderklinik
+ORG Polikliniek Oogheelkunde Catharinaziekenhuis
+ORG Ammerland-Klinik
+ORG Gyn-Zentrum
+ORG Centre Hospitalier
+ORG St. Ansgar Klinikverbund - Klinik Twistringen
+ORG Praxisklinik Bergedorf
+ORG BDH-Klinik Elzach
+ORG Helios Klinik
+ORG Notfallambulanz
+ORG Rettungsdienst
+ORG Caritas-Haus Feldberg
+ORG Policlinique Nord-Sud
+ORG Überörtliche Chirurgische Gemeinschaftspraxis Seligenstadt
+ORG Katholisches Krankenhaus
+ORG AWO Wohnpflegeheim
+ORG Samodzielny Publiczny Szpital Kliniczny nr 7
+ORG Les Cascades
+ORG MR - Résidence le Petit Paradis
+ORG Zdravstveni dom Ljubljana, enota Vič-Rudnik
+ORG Kelling Hospital
+ORG Lecbna Dlouhodobe Nemocnych Vojkov
+ORG Arabella-Klinik
+ORG Veterinär
+ORG Hôpital de Carvin
+ORG Klinik Waldfrieden
+ORG Malteser-Hilfsdienst Ausbildungsstätte
+ORG Klinikum Johann-Wolfgang Goethe Universität
+ORG Bürgerhospital Friedberg
+ORG Arztpraxis E. Illner
+ORG Deutsches Herzzentrum Berlin
+ORG Aller-Weser-Klinik Verden
+ORG Veterinaire
+ORG Edelsteinklinik
+ORG Clinique Velpeau
+ORG Hôpital Robert PAX de Sarreguemines
+ORG Kinderarzt
+ORG Clinique Ronsard
+ORG Arzt
+ORG Croix-Rouge - Délégation locale de Boulogne-Billancourt
+ORG OLV Ziekenhuis - Campus Asse
+ORG Rotes Kreuz
+ORG Lægehuset
+ORG Psykiatrisk Center Bornholm
+ORG Institut Gustave Roussy Pavi
+ORG Oddział Hematologii i Transplantacji Szpiku
+ORG Clinique des Flandres
+ORG Fachklinik Hochsauerland
+ORG Fachklink Fredeburg
+ORG Ostseeklinik
+ORG Aktywne Centrum Zdrowia
+ORG Gesundheitspark
+ORG Hospiz
+ORG DRK Kreisverband Zwickau e.V.
+ORG Sozialstation
+ORG Parkway health centere
+ORG Zdravstveni dom Metelkova
+ORG Clinique Sainte-Marie
+ORG Espace Santé du CHU Ambroise Paré
+ORG Venenklinik Blaustein
+ORG LDN
+ORG BMI Cavell
+ORG Praxis Dr. med. Linzer (Hausarzt)
+ORG Balassa János Kórház, pszichiátriai rehabilitációs intézet
+ORG Zahnarzt: Praxis Suppelt
+ORG Hausarzt: Grammbitter
+ORG Hausarzt: Vock
+ORG Zdravstveni dom Dravograd
+ORG Lékař
+ORG Nemocnice Ostrov
+ORG Huisarts
+ORG Praxis Karl-Heinz Stühmeier & Dr. Ingrid Meyer (Hausarzt)
+ORG Hôpital de Jour MGEN
+ORG Centre de jour Saint-Gervais - Centre Hospitalier du Rouvray
+ORG Landeskrankenhaus Bregenz
+ORG Centre Bois-Gibert
+ORG Elisabeth Krankenhaus
+ORG Allgemeinarzt
+ORG The Broad Street Walk-in Centre
+ORG Dalberg Klinik
+ORG Børneneurologisk Behandlingsklinik
+ORG Uniwersyteckie Centrum Medycyny Morskiej i Tropikalnej
+ORG Szpital Morski im. PCK
+ORG Szpital im. św. Jadwigi Śląskiej
+ORG Ewert
+ORG Praxis Dr. Volz
+ORG Praxis Dr. Keller
+ORG Semmelweis Egyetem I. sz Belklinika
+ORG Arztpraxis Mothes
+ORG Centre médical Medimarien
+ORG Klinik für Strahlentherapie
+ORG Ärztehaus
+ORG Alters- und Pflegeheim Bürgerspital
+ORG Hôpital du Neuenberg Ingwiller
+ORG Medias Klinikum
+ORG Praxis Dr. Franz Hany (Internist, Hausarzt)
+ORG Arztpraxis Zange
+ORG Dr. Müller
+ORG Zahnarzt Dr.  Michael Bode
+ORG Augusta Klinik
+ORG Klinik Nahetal
+ORG Prieger-Klinik
+ORG Rettung/Ambulance Ortsstelle Gföhl
+ORG Nemocnice Mělník - Vzdělávací centrum
+ORG Poliklinika Mělník
+ORG Na podolí
+ORG Zdravotní středisko Mnichovice
+ORG Mühlenbergklinik
+ORG Karl-Olga Krankenhaus
+ORG Hopital psychiatrique Henri Ey
+ORG St. Marienhaus
+ORG Városi Kórház
+ORG Selye János Szakrendelő Intézet
+ORG Doctors practice
+ORG Maharishi Ayurveda Gesundheits- und Seminarzentrum Bad Ems GmbH
+ORG Smiles Dentist
+ORG Arzt
+ORG Zahnarzt
+ORG Dr. Müller
+ORG BRK-Bereitschaft Kemnath
+ORG Centre municipal de santé
+ORG Wojewódzki Ośrodek Leczenia Odwykowego
+ORG Coggeshall Surgery
+ORG Lékařské středisko
+ORG Zubní lékař
+ORG Hôpital Local Marquaire
+ORG Klinika Otolaryngologii
+ORG Franziskus Hospital (Klösterchen)
+ORG Jissang Kong Fah Robert
+ORG Optyk Rozmus
+ORG Állatkórház
+ORG Balfi Gyógyfürdőkórház
+ORG Humival
+ORG AMEOS Klinikum Heiligenhafen
+ORG Centre de soin
+ORG Huy Vital Arztpraxen
+ORG Przychodnia
+ORG Rehaklinik
+ORG Tropeninstitut der innerstädtischen Kliniken
+ORG Reha-Klinik Taubertal
+ORG Lékařské středisko
+ORG Sankt Elisabeth Krankenhaus
+ORG Ärztezentrum Kemnath
+ORG Zubní středisko
+ORG Klaudiánova nemocnice - urgentní příjem
+ORG Klaudiánova nemocnice - dětské oddělení
+ORG Ärztehaus
+ORG Salusklinik
+ORG Vitos Haina
+ORG Diagyn Diagnosezentrum
+ORG Kinderarztpraxis
+ORG Tierarztpraxis
+ORG Grasgrün Med.Zentrum
+ORG Allgemeinärztin Dr. A. Schultze
+ORG Przychodnia Dentystyczna Orisdent
+ORG Centrum Medyczne CDS
+ORG Dolnośląski Szpital Specjalistyczny im. T. Marciniaka
+ORG Zentrum Seeburg
+ORG Poli St. Franciscus
+ORG gynokologist
+ORG Hohmad Privatklinik
+ORG Rotes Kreuz
+ORG Gesundheitshaus Dr. Christoph Jecel
+ORG Ahrtal-Klinik
+ORG Dr. Peter Schmied
+ORG Ärztehaus
+ORG La Roseraie
+ORG Rotes Kreuz Wattens
+ORG Orthopädisches Spital Speising
+ORG Kreiskrankenhaus Emmendingen
+ORG Unfallkrankenhaus UKH der AUVA
+ORG zubní lékař MUDr. Cihlář
+ORG Zdravotné stredisko
+ORG Öffentliche Landessonderkrankenanstalt LKH Laas
+ORG Zdravotné stredisko
+ORG Therapiezentrum
+ORG Gesundheitsstudio Krottenbach
+ORG RoMed Klinikum Rosenheim
+ORG Red Cross - Croce Rossa
+ORG Clinique Psychiatrique des Frères Alexiens
+ORG Dr. med Beck
+ORG Arztpraxis f. Allg. Medizin
+ORG HIB
+ORG Hôpital de Sézanne
+ORG Saad Salman - Facharzt für Orthopädie
+ORG Szpital Miejski w Miastku
+ORG Altenheim St. Hedwig
+ORG Krankenhaus Werdohl
+ORG Hohe Warte
+ORG Sanatorium Dr. Leser
+ORG Struttura sanitaria di Tirano - Poliambulatori
+ORG Clinique Vert-Pré
+ORG Evangelisches Krankenhaus Gesundbrunnen
+ORG REHAB
+ORG Dipartimento di Salute Mentale A.S.S. 4
+ORG Clinique de la Muette
+ORG Splošna bolnišnica
+ORG Werner Forßmann Krankenhaus
+ORG Tierklinik Uetersen
+ORG Urgences
+ORG EMS Les Châtaigniers
+ORG Sozialstation der Volkssolidarität
+ORG Kurklinik
+ORG Orthopädie
+ORG Neurologie Kh Höchst
+ORG Résidence de Saconnay
+ORG DRK
+ORG Klinikum Landsberg
+ORG Opus DC dental clinic
+ORG Centre Hospitalier Universitaire - Centre Médico-Psychologique - Centre d'Accueil Thérapeutique A Temps Partiel
+ORG Dentist
+ORG Arztpraxis (Allgemeinmedizin)
+ORG Moritz Klinik
+ORG Kärntner Gebietskrankenkasse
+ORG Zuglói Egészségügyi Szolgálat
+ORG BRK Seniorenwohnheim Josef-Bauer-Haus
+ORG Dom zdravlja
+ORG Dispensaire
+ORG K&S Seniorenresidenz
+ORG Tagesklink Alteburger Straße
+ORG Dr. Gerda Storm
+ORG Dr. Sperschneider allg. Arzt
+ORG Hôpital
+ORG Neurologie Neuer Wall
+ORG Apotheke an der Saaleklinik
+ORG Klinik Königstein der Krankenversorgung der Bundesbahnbeamten
+ORG Färber, Dr. med. Andreas - Internistische  Hausarztpraxis
+ORG Krankenhaus Düren
+ORG Apotheke
+ORG Przychodnia NFZ
+ORG Institut für Transfusionsmedizin Suhl GmbH
+ORG EMS
+ORG Asklepios Klinik Triberg
+ORG EMS
+ORG EMS
+ORG Baxter Plasmazentrum
+ORG Meduna Klinik
+ORG Johanniter-Krankenhaus Genthin-Stendal gGmbH
+ORG Ambulante Augenklinik Dr. Paschke / Dres. Gamringer und Kollegen
+ORG Deutsches Rotes Kreuz
+ORG Venen-Clinic
+ORG PflegeKlinik
+ORG ZOZ Szpital Specjalistyczny MSWiA
+ORG LDN Horažďovice, s.r.o.
+ORG Urologie Dr. Friedrichs
+ORG Dörenberg-Klinik
+ORG Tagesklinik u. Ambulanz Rheinische Kliniken
+ORG Arzt
+ORG Arzt
+ORG Bergwachtmeldestelle/ nur im Winter
+ORG Niepubliczny Zakład Opieki Zdrowotnej ESKULAP
+ORG Polyclinique de Picardie
+ORG Sjöbo Vårdcentral
+ORG Novakliniken Sjöbo
+ORG Orthopädische Gemeinschaftspraxis Altötting
+ORG Ärztehaus
+ORG Beaucare
+ORG Maison de repos
+ORG Rotes Kreuz Wiener Neudorf
+ORG ¨Pôle Santé Sud
+ORG Clinique du Tertre Rouge
+ORG Dr. Johann Plienegger
+ORG Klinikum Klagenfurt am Wörthersee
+ORG De Hoop
+ORG Notaufnahme
+ORG Chirurgische Notfallaufnahme​
+ORG LDN Nejdek
+ORG Gemeinschaftspraxis Dr. Dorn, Dres. Mauch, Dr. Steffen, Dr. Mink
+ORG Gravesham Community Hospital
+ORG Klinik Bosse
+ORG Lékař, Stomatolog
+ORG St. Antonius Ziekenhuis Emmeloord
+ORG Fleetinsel Klinik
+ORG Doctor
+ORG Sanität Oberwallis
+ORG Maison de repos
+ORG Nemocnica Philippa Pinnela
+ORG Augen-Laser-Klinik Dr. B. Dausch
+ORG Landheim der BSM
+ORG Dr. Dietmar Wahl Medicine
+ORG general practicion
+ORG Plastische & Ästhetische Chirurgie
+ORG St-Dimpna
+ORG Rehabilitationsklinik Berlin, DRV
+ORG Szpital Powiatowy Sp. z o.o.
+ORG Vulpius Klinik
+ORG Zdravstveni dom Ormož
+ORG medicos.Auf Schalke reha Zentrum
+ORG Hôpital de Vervins
+ORG Centre Hospitalier de Gérardmer
+ORG Notaufnahme Allgemeine Chirurgie
+ORG Klinikum Pirna GmbH
+ORG Ruppiner Kliniken
+ORG Princess of Wales Hospital
+ORG Clinique de Villiers - REPOTEL
+ORG Krankenhaus
+ORG Rettungswache Suhl
+ORG Maison Médicale de La Noue
+ORG Arzt
+ORG Spital Sarnthein
+ORG Psychiatrische Tagesklinik
+ORG Klinik und Tagesklinikfür gynäkologische Chirurgie und Pränataldiagnostik
+ORG Tagesklinik München-Nord
+ORG Belegklinikfür Neurochirurgie, plastisch-ästhetische Chirurgie,Chirurgie und Orthopädie
+ORG Erasmus MC - Sophia
+ORG Ośrodek zdrowia
+ORG Klinikum Fichtelgebirge (Haus Marktredwitz)
+ORG Notaufnahme Klinikum Gifhorn
+ORG Schweizerische Alzheimervereinigung
+ORG Hôpital de jour Clairival
+ORG Clinique vétérinaire
+ORG Ośrodek Zdrowia
+ORG Ortenau Klinikum Wolfach
+ORG The Heart Hospital
+ORG AZL
+ORG Landeskrankenhaus Hall
+ORG AZ Sint-Anna
+ORG Hopital de Sedan
+ORG Szpital Zespolony
+ORG Werner-Wicker-Klinik
+ORG Klinik Quellental
+ORG Klinik am Kurpark
+ORG Parkland-Klinik
+ORG Clemens-August-Erwachsenenklinik
+ORG Clemens-August-Jugendklinik
+ORG Huisartsenpraktijk en Apotheek
+ORG Centre Médical de Jette
+ORG Friedhof
+ORG Clinique des Chartreux
+ORG Rheinische Landesklinik Viersen
+ORG AZ Groeninge
+ORG Ärztehaus
+ORG Aufnahme-SRH Waldklinikum Gera
+ORG Alderton Health Centre
+ORG paramédical
+ORG Zahnarzt
+ORG Croix Rouge de Belgique
+ORG Klinik für Kinder- und Jugendmedizin
+ORG Klinik für Neurologie
+ORG GOPR - Centrala Beskidzkie Grupy GOPR
+ORG DAP Dierenkliniek Vinkeveen
+ORG Centraal Militair Hospitaal
+ORG Städtisches Klinikum "St. Georg" Leipzig Zentrum für Drogenhilfe
+ORG Addenbrooke's Treatment Centre entrance
+ORG Tierarzt (Vet.)
+ORG Addenbrooke's Hospital Main Entrance
+ORG Addenbrooke's Hospital Outpatients' Entrance
+ORG Lorettoklinik  Chirurgische Klinik und Praxis
+ORG HELIOS St. Barbara Klinik
+ORG Pogotowie ratunkowe
+ORG Ośrodek Zdrowia "ESKULAP"
+ORG Przychodnia Nowy Chełm
+ORG Manor Dentist
+ORG Hôpital François Rabelais
+ORG Tagesklinik für Psychiatrie und Psychotherapie
+ORG Malteser-Krankenhaus St.-Johannes-Stift
+ORG Rehazentrum Hess (Neuro-/Orthopädie)
+ORG Kreiskrankenhaus Neustadt/WN
+ORG Bergwacht-Spiegelau
+ORG Doctor
+ORG Poli Zuid - Rijnstate
+ORG Zahnaztpraxis Dr.Warwas Dr.Dr.Braungart
+ORG Hospital de Denain
+ORG St. Marien Hospital Orsoy - Fachklinik für geriatrische Rehabilitation
+ORG Maison de retraite de la Douix
+ORG Guttempler Fachklinik Mahlertshof
+ORG Rettungswache
+ORG medalp sportclinic
+ORG Kreiskrankenhaus
+ORG Klinik an der Lindenhöhe
+ORG Doctor's Clinic
+ORG Rotes Kreuz
+ORG Lázně Darkov a.s.
+ORG Spital Frutigen
+ORG Clinique du Landy
+ORG Centre de Santé H. Barbusse
+ORG DRK Pfungstadt
+ORG Hirslanden Klinik
+ORG Arzthaus
+ORG Simsseeklinik
+ORG Hôpital de Garches
+ORG KSA am Bahnhof
+ORG Gemeinschafts Praxis Dr. Scheller
+ORG Helios Klinik
+ORG Rotes Kreuz Ortsstelle Wolfurt
+ORG Altenpflegeheim "Maria-Magdalenen-Haus"
+ORG Zahnarzt
+ORG St. Elisabeth Krankenhaus Kurl
+ORG University Hospital Lewisham
+ORG Institut Curie
+ORG Centre du Luxembourg (Consultations pluri-disciplinaires)
+ORG Dr.Wregg
+ORG Medica Klinik
+ORG Marianne-Strauss-Klinik
+ORG Orthopädische Klinik München-Harlaching
+ORG Klinik Dr. Lay
+ORG Vitalisklinik
+ORG Krankenhaus
+ORG TCM Uni-Klinik
+ORG Nemocnice TGM Hodonín
+ORG Verloskundige Praktijk Becca
+ORG Huisartsenpraktijk Proosdijveld
+ORG Huisartsenpraktijk Beek Centrum
+ORG St. Vinvenz Krankenhaus
+ORG Centre hospitalier de Guise
+ORG Zuglói Egészségügyi Szolgálat
+ORG Osteopathie Schreiner
+ORG Køge Sygehus
+ORG Klinik am Stein
+ORG Mestská poliklinika
+ORG Poliklinika
+ORG Ökumenische Diakoniestation Lampertheim - ambulante Pflege
+ORG Terézvárosi Egészségügyi Szolgálat
+ORG Szakorvosi rendelőintézet
+ORG Háziorvosi rendelőintézet és Fogászat
+ORG DRK RW Saarbrücken 1-8
+ORG Doctor
+ORG Clinique Conti
+ORG Zdravstveni dom Sveti Jurij ob Ščavnici
+ORG Dr. Kraxner
+ORG Court Yard Surgery
+ORG Zdravotní středisko
+ORG Poliklinika
+ORG Clinique
+ORG Elbe Klinikum Buxtehude
+ORG Medical MKP
+ORG Hôtel Dieu
+ORG Gesundheitsresort Raxblick
+ORG Rotes Kreuz Puchberg
+ORG Rehamedica Žacléř
+ORG Szpital imienia Jana Pawła II
+ORG Dr. Reinhard Kurz
+ORG Hôpital local de Sancerre
+ORG Clinique Jeanne d'Arc
+ORG Klinikum Bad Hersfeld
+ORG Deutsche Klinik für Diagnostik GmbH
+ORG Poliklinika Týniště nad Orlicí, s.r.o.
+ORG Przychodnia lekarska
+ORG Kurhaus Bad Boll
+ORG Regionalny szpital w Kołobrzegu
+ORG Admiraal De Ruyter
+ORG M.C.H. Klinik
+ORG Rotes Kreuz Krankenhaus
+ORG Batalion medyczny
+ORG GRN-Klinik Weinheim
+ORG Polyclinique Mantaise
+ORG Sint Elisabeth
+ORG Szpital w Starogardzie Gdańskim
+ORG Kliniken Schmieder (Reha-Klinik)
+ORG Ärztehaus Ittenbach
+ORG Asklepios Helenenklinik Bad Wildungen
+ORG Klinik Birkental
+ORG Klinik Reinhardstal
+ORG Klinik am Homberg
+ORG Klinik und Gesundheitszentrum Helenenquelle
+ORG Klinika chirurgii plastycznej Aesthete
+ORG ASL Menaggio
+ORG Verloskundigenpraktijk Grevenbicht e.o.
+ORG Splošna Ambulanta Poljčane
+ORG Zahnarztpraxis Dr. Kayser + Menges
+ORG Kórház
+ORG Sana Kliniken Solln und Sendling
+ORG KIND Hörgeräte
+ORG Clinique Saint-Faron
+ORG Nemocnice v Ráji
+ORG Rettung Fulpmes
+ORG Zentrale Notaufnahme
+ORG Centre hospitalier Robert Bisson
+ORG Winghoferklinik
+ORG Wojewódzki Szpital Specjalistyczny nr 2
+ORG Marienhospital
+ORG Lánc utcai rendelő
+ORG Veress Endre utcai rendelő
+ORG NZOZ
+ORG Ośrodek Zdrowia
+ORG Vinzenzklinik
+ORG Orthopädisches Krankenhaus
+ORG Fysiotherapie Gottgens Kienhuis Pfennings
+ORG Polyklinik
+ORG Maison de Repos
+ORG Dialyse
+ORG Notfallpraxis
+ORG Haupteingang Klinikum Heidenheim
+ORG Praxisgemeinschaft Leeden
+ORG Szent Kinga Gyógyintézet
+ORG Medizinische Notfallaufnahme​​​
+ORG Radiologisch Praxis Dr. Röder
+ORG Allgemeinarzt
+ORG Clinique du plateau
+ORG Zahnarztpraxis Dr. Dreisow
+ORG MVZ Bad Bibra
+ORG Pracownia Fizjoterapii
+ORG Poliklinika
+ORG Clinique Victor Hugo
+ORG CMS et PMI Saint-Denis
+ORG CMS et PMI Bauer
+ORG Medisch Centrum Brielle
+ORG Hopital local
+ORG Hôpital Villemin
+ORG Dentiste
+ORG Klinik für Dermatologie
+ORG Radiologie
+ORG Heckscher-Klinikum Abt. Rottmannshöhe
+ORG Przychodnia Rodzinna
+ORG Szpital Powiatowy
+ORG Wasserwacht-Station Schwaiblbach
+ORG Polilinika
+ORG BRK Rettungswache Neuhof / Zenn
+ORG Ianua G. P. S. mbH
+ORG Nemocnica s poliklinikou
+ORG Nemocnica s poliklinikou
+ORG Dětské zdravotní středisko
+ORG Vitos Kurhesen Haus 10
+ORG Vitos Kurhesen Haus 11
+ORG Naturheilpraxis S. Mahr
+ORG Institut für Psychotherapeutische Forschung, Methodenentwicklung und Weiterbildung
+ORG Centre Hospitalier de Lons le Saunier
+ORG Centre Emile Gallé
+ORG Logopädische Praxis
+ORG Cabinet médical
+ORG Centre Hospitalier Wissembourg
+ORG Maison médicale
+ORG Hôpital Local
+ORG Poste de Secours
+ORG Hôpital de Beaujeu
+ORG hotpital de beaujeu
+ORG Wojewódzki Szpital Zespolony im. Ludwika Perzyny
+ORG Neurologische Klinik
+ORG DRK Rettungswache Neutz
+ORG EMS
+ORG clinique de saclas
+ORG Ośrodek Zdrowia w Bolkowie
+ORG Altes Universitäts-Krankenhaus
+ORG Phonatrie, Uni-Klinikum
+ORG HNO-Klinik, Uni-Klinikum
+ORG Przychodnia Rejonowa
+ORG Wojewódzki Szpital Rehabilitacyjny dla Dzieci
+ORG Notaufnahme Bethanien Krankenhaus Chemnitz
+ORG Hôpital d'Orgemont
+ORG CCC Nürnberg-Erlangen
+ORG Fachklinik Haus Renchtal
+ORG Le Clos Saint-Victor
+ORG AZ Sint-Maarten campus Duffel
+ORG NZOZ Centrum
+ORG Dr. Stadlbauer
+ORG Dr. Geyer
+ORG Przychodnia w Pisarzowicach
+ORG Rheumazentrum Favoriten
+ORG Krankenhaus Lilienfeld
+ORG Regionales Krankenheim
+ORG Opolskie Centrum Rehabilitacji
+ORG Dierenkliniek Zeddam
+ORG DRK OV Lüneburg Stadt
+ORG St. Georg
+ORG Dialyse im Zentrum
+ORG Zahnärztin Guggenberger
+ORG Frauenklinik Maistraße
+ORG Tagesklinik KJPP Chemnitz
+ORG Caritas-Sozialstation
+ORG Strahlentherapie
+ORG Augen-Medizinisches Versorgungszentrum Landshut
+ORG DENTICSDC Dental Clinic GmbH & Co. KG
+ORG Hôpitaux du Léman - Thonon
+ORG Poliklinika Mazurská
+ORG Istituto di Medicina Fisica e Riabilitazione Gervasutta
+ORG Krušnohorská poliklinika
+ORG Fachklinik für Orthopädie am Kirschbaumhügel
+ORG Ärztlicher Notdienst
+ORG przychodnia
+ORG Dom Pomocy Społecznej Lisówki
+ORG Dr.Deleu
+ORG Arztpraxis
+ORG Ośrodek zdrowia Al-Med
+ORG Gezondheidscentrum Hof van Delft
+ORG Centre hospitalier de Saint-Calais
+ORG Oblastní nemocnice Kolín
+ORG Szpital Bielany
+ORG Fachkliniken für Geriatrie Radeburg GmbH
+ORG Krankenhaus Eschwege
+ORG FA f. innere Medizin Bsdok
+ORG Zahnarztpraxis Dr. Schreiner
+ORG Hospice
+ORG Centre Pédiatrie reeducation Bullion
+ORG Kantonsspital Baden
+ORG Praktický lékař
+ORG Lékárna U Zlaté Koruny
+ORG Lékárna Rosa
+ORG Poliklinika
+ORG Centre médico-psychologique
+ORG Bertha-Krankenhaus
+ORG Dr.Wegner
+ORG Blausteinklinik (Gefäßklinik Dr. Berg)
+ORG Kinderarztpraxis Dipl.-Med. Dietlind Schmidt
+ORG Zdravotnická záchranná služba
+ORG Praktický lékař
+ORG Nemocnice Kyjov
+ORG Gemeinschaftspraxis Nehms
+ORG Praxis Dr. Hahn& Dr. Drung
+ORG Szpital Miejski im. Jana Garduły
+ORG Truderinger Gesundheits Zentrum
+ORG Pogotowie Ratunkowe "Zachem"
+ORG Pogotowie Ratunkowe
+ORG Pogotowie Ratunkowe
+ORG Centrum Powiadamiania Ratunkowego / Pogotowie Ratunkowe
+ORG Pogotowie Ratunkowe "Fordon"
+ORG Pogotowie Ratunkowe "Czyżkówko"
+ORG Haus Langerhans (Blutspende)
+ORG U.M.D.
+ORG Pogotowie Ratunkowe "Glinki"
+ORG M.R. Les foyers St Joseph
+ORG Dr. Andrea Beier-Lenko
+ORG Deutsches Rotes Kreuz Sozialstation
+ORG Hospice Kajan
+ORG Médecin Généraliste
+ORG Institut für klninische Hypnose
+ORG Ośrodek zdrowia w Bysławiu
+ORG Dr. Koinig
+ORG DRK Dorndiel/Klein-Umstadt
+ORG Ärztehaus
+ORG Diakoniewerk Kloster Dobbertin
+ORG Hôpital
+ORG Bezirkskrankenhaus Günzburg
+ORG "Avitum" stacja dializ
+ORG 105 Szpital Wojskowy z Przychodnią Samodzielny Publiczny Zakład Opieki Zdrowotnej
+ORG Pogotowie
+ORG NZOZ Przychodnia
+ORG Paracelsus-Klinik am Silbersee
+ORG Poliklinika
+ORG Fredericia sygehus
+ORG UZK (Urologisches Zentrum Kaiserslautern, 3.OG)
+ORG Aniset Stephane
+ORG Dr Defauw
+ORG Dr. Udo Steiniger
+ORG Ośrodek zdrowia
+ORG CHI ELBEUF
+ORG Powiatowy Zespół Zakładów Opieki Zdrowotnej w Będzinie - Szpital w Czeladzi
+ORG Apotheke im Ärztehaus
+ORG HOPITAL LOCAL DE SAULIEU
+ORG Cabinet infirmier
+ORG Nemocnice Náchod
+ORG Cabinet Infirmier
+ORG Hôpital du Neubourg
+ORG Polyclinique
+ORG EMS
+ORG EMS
+ORG Via Sana
+ORG Prienamed
+ORG Ärztehaus Rauschwalde
+ORG Ärztehaus Rauschwalde
+ORG Městské zdravotnické zařízení
+ORG Sint Jans Gasthuis
+ORG Zahn-, Mund- und Kieferklinik
+ORG Notaufnahme / UNZ
+ORG Klinik Dr. Hanken
+ORG Wojewódzki Szpital Specjalistyczny im. J. Korczaka - SOR Ustka
+ORG Rusthuis Sint Ursmarus
+ORG St. Vinzenz Rehaklinik
+ORG Centrum Medyczne "Wamed"
+ORG Szpital imienia Stanisława Leszczyńskiego
+ORG Olaf Sens
+ORG Poliklinika
+ORG SFG - Spoedeisende hulp
+ORG Szpital Powiatowy im. Marcela Nenckiego
+ORG Paracelsus-Roswitha-Klinik
+ORG Sana Klinikum Hof
+ORG Nephropathologie
+ORG Sankt Marienkrankenhaus
+ORG Madarász Utcai Gyermekkórház Szakrendelő
+ORG Asklepios Hirschpark Klinik Orthopädische Klinik
+ORG Evangelisches Krankenhaus Ludwigsfelde-Teltow
+ORG Bergwacht Falkenstein
+ORG Centre médical de Hannut
+ORG Hausarztzentrum Kemnade
+ORG Szpital
+ORG Gemeinschaftspraxis für Kinder- und Jugendpsychiatrie und -psychotherapie
+ORG Altenpflegeheim "Haus Elim" & Beratungsstelle für Demenz
+ORG Med Centrum
+ORG Bergwacht Schöneck
+ORG Arztpraxis Dr.med. Lorenz
+ORG Arztpraxis Dr.med. Döring
+ORG Wojewódzki Szpital Specjalistyczny we Wrocławiu
+ORG Hfr Riaz
+ORG Centre Hospitalier Spécialisé
+ORG Ambulanta Vratišinec
+ORG NZOZ KORMED Sp. z o.o.
+ORG Kardiologische Praxis
+ORG Sant’Antonio Abate
+ORG Zakład Opieki Zdrowotnej Medical Beta
+ORG Hausarztzentrum-Riemke
+ORG Kreiskankenhaus Burg
+ORG Odebornklinik
+ORG Psychiatrische Klinik
+ORG Centre Hospitalier de Pont-l'Évêque
+ORG Dr. Dinger
+ORG Ośrodek Zdrowia w Komornikach NFZ
+ORG Arztpraxis Scherzer
+ORG Klinika 2000
+ORG Klinikum am Steinenberg
+ORG Ośrodek zdrowia w Kopanicy
+ORG Samodzielny Publiczny Szpital Kliniczny im. Andrzeja Mielęckiego Śląskiego Uniwersytetu Medycznego
+ORG Krankenhaus Dornbirn
+ORG Landeskrankenhaus Feldkirch
+ORG Zoltány Kapitány Physiotherapie
+ORG Klinik für Psychotherapie und Psychosomatische Medizin
+ORG ARZ - ambulantes Rehazentrum
+ORG MVZ Berchtesgaden GmbH
+ORG Klinik im Hofgarten
+ORG St. Elisabeth-Stiftung, Stiftungszentrale
+ORG Seniorenheim Spital
+ORG Przychodnia C.D.T. "Medicus"
+ORG Hôpital local
+ORG Szpital Powiatowy w Mikołowie
+ORG Szpital św. Józefa w Mikołowie
+ORG La cité des fleurs
+ORG MVZ Rhein-Berg
+ORG Městské zdravotnické zařízení Březnice
+ORG 105 Szpial Wojskowy
+ORG Établissement Thermal
+ORG EMS des Pervenches
+ORG Foyer Handicap
+ORG Urgences Adultes
+ORG Praxis Drs. Kadauke + Theewen
+ORG Zahnarztpraxis Dr. Karwat
+ORG Zahnarzt
+ORG Woolstone Surgery
+ORG Herz-Jesu-Krankenhaus
+ORG Privatklinik Prof. Lenz
+ORG Vinzenzkrankenhaus Medizinische Klinik
+ORG Dr. Michael Uecker - Fachzahnarzt für Kieferorthopädie
+ORG LWL Tagesklinik
+ORG Sint Rafaël
+ORG Median Klinik Bad Tennstedt
+ORG Foyer Girard de Roussillon
+ORG Dětská poliklinika
+ORG Soukromá poliklinika
+ORG Tagesklinik Torgau
+ORG Poliklinika Česká Třebová
+ORG Sdružené ambulantní zařízení
+ORG Tagesklinik Walstedde
+ORG HSK Horst-Schmidt-Klinik
+ORG C.M.S Irène Lézine
+ORG Maison de retraite médicalisée d'Ajain
+ORG Nemocnica s poliklinikou Svätého Lukáša Galanta
+ORG Punkt lekarski SPZOZ w Bolkowie
+ORG Zespół Poradni Specjalistycznych (Wielkopolskie Centrum Pulmonologii i Torakochirurgii w Poznaniu)
+ORG EMS
+ORG Klinikum Görlitz
+ORG Goed Ridderkerk Gezondheidscentrum
+ORG C.M.S Fernand Goulène
+ORG Algemeinarztpraxis Hanusch
+ORG Poliklinika Klášter
+ORG Hôpital Saint-Maurice
+ORG Hôpital Fauquet
+ORG Pomoc Doraźna 24/7
+ORG Vivantes Klinikum Spandau
+ORG Ostsee-Apotheke
+ORG Ärztehaus Weilrod
+ORG Zdravotní středisko Slapy
+ORG Hôpital privé de l'Ouest Parisien
+ORG Centre médico-psycohlogique
+ORG Miejski Szpital Zespolony im. dr Władysława Biegańskiego
+ORG Allgemeinarzt Stier und Internist Heiss
+ORG Centre Medical
+ORG Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpitala im. Franciszka Żaczka w Pucku.
+ORG Študentski zdravstveni dom
+ORG Przychodnie Lekarskie
+ORG Poliklinika
+ORG Nemocnice Kutná Hora
+ORG Praxis Dr.Isemann
+ORG Praxis Dr. Michael
+ORG Praxis Dr.Schick
+ORG Spitex Malters
+ORG Dr. Gisinger, Dr. Heis
+ORG BG Unfallklinik
+ORG Maison de Santé de Bellevue
+ORG The Aberfeldy Practice
+ORG St. Vincenz Krankenhaus Datteln
+ORG Arkadenklinik
+ORG Campus Virchow-Klinikum Rettungsstelle
+ORG Zahnarzt Mr. Dr.med.dent. Werner Hübscher
+ORG Przychodnia lekarza rodzinnego
+ORG Hôpital- Hospice
+ORG CURA Med Spezial Rehabilitationsklinik
+ORG Nemocnice Slaný
+ORG Ingang Veldwijk
+ORG Maison de Sante Epinay Sur Seine
+ORG HUG - Hopitâl Universitaire de Genève
+ORG HUG - Ophtalmology Emergency
+ORG Polikliniek Groene Hart Ziekenhuis
+ORG MUDr. Richard Klail – zubní ambulance
+ORG Espace Santé du Moulin Blanc
+ORG St Michael's Hospital
+ORG Centre Hospitalier de la Risle
+ORG Krankenhaus Stift Bethlehem
+ORG Allgemein Mediziner
+ORG Clinique psychiatrique
+ORG Zahnarzt
+ORG Arzt Allgemein
+ORG Hôpital Local Bussang
+ORG URGENCES enfants / childrens
+ORG URGENCES adultes / adults
+ORG Groupe Santé Victor Pauchet
+ORG Clinique de l'Europe
+ORG Medicus - Szpital
+ORG Nemocnice Mělník - Chirurgie, Ortopedie, ARO
+ORG Nemocnice Mělník - Dialýza
+ORG Nemocnice Mělník - Gynekologicko - Porodnické oddělení
+ORG Nemocnice Mělník - Interna, MO JIP (interních oborů), Infekce, Neurologie
+ORG Nemocnice Mělník - Kuchyně, Jídelna, Ubytovna
+ORG Nemocnice Mělník - Patologie
+ORG Nemocnice Mělník - Plicní
+ORG Nemocnice Mělník - Sklady
+ORG Nemocnice Mělník - Vrátnice
+ORG Nemocnice Mělník - Ředitelství, Administrativa
+ORG Dr. Binge Luk - Servaas
+ORG Frauenarztpraxis Dr. Mallmann
+ORG Arzt
+ORG Helios Resisdenz
+ORG AWO Pflegeheim
+ORG Facharztzentrum
+ORG Zahnarzt   /   Allg.Arzt
+ORG Zahnarzt
+ORG Allg. Arzt
+ORG Zahnarzt
+ORG Unfall Chirurgie
+ORG Internist
+ORG Internist
+ORG Raths Apotheke
+ORG Przychodnia lekarska
+ORG Allg. Arzt
+ORG Allg. Arzt
+ORG Allg. Arzt / Sportmed.
+ORG Gemeinschaftspraxis
+ORG Zahnarzt Praxis Wasserfallen
+ORG Městská nemocnice Slavičín
+ORG Evangelisches Krankenhaus Unna
+ORG Hôpital Marmottan
+ORG Médecin
+ORG Lékařské zařízení
+ORG Reha Düsseldorf
+ORG BONNA DEA - Die Physiotherapie am Rhein
+ORG Klinik am Rosenberg
+ORG Stema-Med NZOZ
+ORG KMG - Klinikum GmbH
+ORG Seniorenzentrum Christophorus
+ORG Ambulantní zařízení
+ORG Ärztehaus
+ORG Med Punkt Rennsteig
+ORG Zahnarzt Fr.Dr. Griebel
+ORG Clinique Faidherbe
+ORG Przychodnia
+ORG Ostalb-Klinikum Aalen
+ORG Zentrale Notaufnahme im Ostalb-Klinikum
+ORG Centre Ulysse Trelat
+ORG Zdravstveni dom Medvode
+ORG Les Érables
+ORG HNO Ordination Dr. Schatzl
+ORG Zentrale Notaufnahme (ZNA)
+ORG Epoka
+ORG Clinique de l'Alliance
+ORG Zahnarzt Dr.stom. Sylvia Marx
+ORG Burgenland Klinikum
+ORG Arztpraxis
+ORG Wielospecjalistyczny Szpital TOMMED
+ORG Klinik Eberbach (Gesundheitszentrum Rhein-Neckar)
+ORG Szpital Rejonowy im. dr Józefa Rostka
+ORG Centre de cure médicale
+ORG Notfalldienst
+ORG Clinique des Grainetières
+ORG Nemocnice Most
+ORG ISOTOPIX Ambulatorium für Nuklearmedizin GmbH
+ORG Śląskie Centrum Chorób Serca
+ORG Rotes Kreuz Perg
+ORG Zahnarzt
+ORG Dr.STROH
+ORG Dr Bussmann
+ORG Arzt-Praxen
+ORG Klinik
+ORG Dr. med. Gabriele Redemann
+ORG Dr. med. Buhlig
+ORG Dr. med. Künzel
+ORG Asklepios
+ORG ZAHNARZT
+ORG Doctor
+ORG Hopital Psychiatrique Charcot
+ORG Fachklinik Gristower Wiek
+ORG Kolding Sygehus akutmodtagelse
+ORG Kolding Sygehus hovedindgang
+ORG Klinikum Main-Spessart, Gesundheitsportal Karlstadt
+ORG Dom zdravlja
+ORG Centre de réadaptation fonctionnelle
+ORG Ärztehaus
+ORG Logopädische Praxis Kirsten Lamm
+ORG Allgemeinärzte
+ORG Kantonsspital Laufen
+ORG Carmen Strauß Physiotherapie
+ORG Seniorenpark Haus Hermesgarten
+ORG Gesundheits-Wellness-Zentrum-Schwarz
+ORG Orthodontist Dr. tries
+ORG Cieszyńskie Pogotowie Ratunkowe
+ORG Krnovská nemocnice
+ORG Hebammenpraxis Klapperstorch
+ORG Medizinisches Versorgungszentrum
+ORG Kinderarzt Dr. Ullrich Zimmermann
+ORG Dr. Martin Gunkel
+ORG Dr. Baumgartl Ehrle Fröhner
+ORG Physiotherapie Greifzu
+ORG Allgemeinmedizinerin Dipl.-Med. Kristina Langlotz
+ORG Allg.Arzt
+ORG Gynäkologe
+ORG Zahnarzt
+ORG Zahnarzt
+ORG Centre Hospitalier Spécialisé de Sarreguemines
+ORG Internist Dr. Peter Lang
+ORG Hôpital local René Salins (maison de retraite)
+ORG Dr Bronckart Frank
+ORG Dr Thirion Marc
+ORG Szpital Specjalistyczny
+ORG Zahnärztin Katrin Rauch
+ORG Zahnärztin Dipl. Stom. Martina Ender
+ORG Zahnarzt  Dr.med. Johannes Görg
+ORG Maternité, Département de gynécologie et d'obstétrique HUG
+ORG Médecine Dentaire HUG
+ORG Szpital Miejski w Bornym Sulinowie
+ORG Aumônerie catholique de l'Hôpital cantonal (HUG)
+ORG Fondation pour recherches médicales
+ORG Service d'ingénierie biomédicale SIB (HUG)
+ORG Zahnärztin
+ORG Doktor Kerstin Baumann
+ORG MVZ Hildburghausen
+ORG DRK Rettungswache
+ORG Notarzt
+ORG Dr. Dannehl - Hausarzt
+ORG La Fondation Clair Bois-Minoteries
+ORG Nemocnice
+ORG ReussparkZentrum für Pflege und Betreuung
+ORG GHdC (IMTR)
+ORG Stiftung iloah
+ORG Neurozentrum
+ORG Inselspital
+ORG Silesia-Med S.A
+ORG ARZT
+ORG Krankenhaus Neustadt bei Coburg
+ORG Medical centrum
+ORG Przychodnia
+ORG BG Unfallklinik
+ORG INTERMED
+ORG Nierenzentrum München-Bogenhausen Arabellapark
+ORG Landeskrankenhaus - Neurologische-Klinik
+ORG Policlinic of Šurany
+ORG Arztpraxis Peter
+ORG Poliklinika
+ORG Privat Krankenanstalt Rodaun
+ORG Huisartsenprackijk
+ORG Hautarzt
+ORG Niepubliczny Zakład Opieki Zdrowotniej
+ORG Apteka
+ORG Ärzte Haus
+ORG Kinderklinik
+ORG Kinderklinik
+ORG Hôpital Départemental de Felleries-Liessies
+ORG Lékárna
+ORG Maison médicale
+ORG EMS
+ORG Jacob's Neuro Centre
+ORG M.R. La Résidence
+ORG Univerzita Karlova v Praze - 1. lekarska fakulta a Vseobecna fakultni nemocnice - Psychiatricka klinika
+ORG Mediscan
+ORG Poliklinika Šustova
+ORG Cabinet médical Vallée Violette
+ORG Cabinet Médical Laënec
+ORG Cabinet médical
+ORG GGD
+ORG ZOSU
+ORG Ośrodek Zdrowia NFZ
+ORG Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Gryficach
+ORG HELIOS Klinik
+ORG Hospital
+ORG Zahnarztpraxis Bock & Behne
+ORG Rotes Kreuz Lübeck - Geriatriezentrum
+ORG Ev. Krankenhaus BETHESDA zu Duisburg GmbH
+ORG Szpital Powiatowy
+ORG Dr Smoliner
+ORG Dr Benes
+ORG Praxis Hayek/Herden/Ringmaier/Stützel
+ORG Zahnarztpraxis-melaniedonix
+ORG Klinik an der Therme
+ORG Galen - Ortopedia
+ORG Arzt
+ORG Zdravotné stredisko
+ORG Orthoklinik Lüneburg
+ORG Polyclinique Saint-François
+ORG Altersheim Sankt Gilgen
+ORG Poliklinika 
+ORG Zdravotné stredisko
+ORG Dr. Peter Kowatsch
+ORG Dr. Nokodian
+ORG SANA Krankenhaus
+ORG Ärzte-Zentrum
+ORG Ambulatorium Optimed Sportmedizin
+ORG Ergotherapie ROSEWITZ
+ORG Militärspital
+ORG Polikliniek Tessenderlo
+ORG Privathospitalet Danmark
+ORG Kliniken des Main-Taunus-Kreises GmbH Psychiatrische Institutsambulanz
+ORG Praxis und Belegabteilung Schmid Orthopädie-Unfallchirurgie
+ORG Blutspendezentrum Wuppertal
+ORG Zdravotné stredisko
+ORG Médecin
+ORG Zentrale Notaufnahme
+ORG Sanatorium Helios
+ORG Humanitas Ambulante Tagespflege
+ORG Notaufnahme
+ORG Logopädie am Emmichplatz
+ORG Osrodek Zdrowia
+ORG Altersheim Josefsheim
+ORG HOSPIC SV. LUKÁŠE
+ORG Clinique Léon Neuens
+ORG Porodnice Přerov
+ORG Nemocnice Přerov
+ORG Ivy Court Surgery
+ORG St. Hildegard Senioren- und Pflegezentrum
+ORG Dr. Mann Allgemeinmedizin
+ORG Alterstagesklinik PZU
+ORG Arztpraxis
+ORG clinique côte d'Opale
+ORG Allg.Arzt
+ORG Frauenarztpraxis Dr. Baase
+ORG Zespół Lecznictwa Ambulatoryjnego
+ORG Okulista
+ORG zdravotní středisko Ruda nad Mor.
+ORG Hopital Psychiatrique
+ORG Alpha Santé
+ORG Stará nemocnica
+ORG Oogartsenpraktijk Dr. A. Gillis - Dr. S. Verstraeten
+ORG reha-konzept, Praxis Ergo-, Physio-, Logotherapie
+ORG Sportmedizin Pecher
+ORG Blaukreuzzentrum Kassel
+ORG Ziekenhuis velp
+ORG Alfa-Med
+ORG Twój dentysta
+ORG Centre Hospitalier de Roubaix
+ORG Ordinace Jinočany
+ORG Pathologie
+ORG Mutter-Vater-Kind-Klinik für Prävention und Rehabilitation Wiefelstede
+ORG Centre hospitalier de Charolles
+ORG Diagnosticum Ingolstadt
+ORG Szpital Powiatowy w Kwidzynie
+ORG gabinet Kardiologiczny
+ORG Röpcke-Zweers Ziekenhuis
+ORG Gezondheidscentrum de Plantaan
+ORG ZNA  Hoge Beuken
+ORG Arzt
+ORG Pečovatelský dům
+ORG Zuglói Egészségügyi Szolgálat Gyermekorvosi Rendelő és Védőnői Szolgálat
+ORG De Breeje Hendrick
+ORG Hopitaél Robert Debré
+ORG Hôpital de Joigny
+ORG Fachklinik Wittichen
+ORG REHA-Klinik Silbermühle
+ORG Nemocnice
+ORG Fejér Megyei Szent György Kórház Csákvári gyógyintézete
+ORG Universitätsklinik
+ORG Universitäts-Zahnklinik
+ORG Städtisches Krankenhaus Maria Hilf
+ORG Krankenhaus Maria Stern
+ORG Dr Glugzak
+ORG DLRG
+ORG Poliklinika Senica n.o.
+ORG Poliklinika Zbraslav
+ORG Praxis Dr. Wagner
+ORG Lékařská služba první pomoci
+ORG Strzelińskie Centrum Medyczne
+ORG Schön Klinik
+ORG Dental Clinics
+ORG Fysio
+ORG London Medical Clinic
+ORG Luisen Krankenhaus
+ORG Alexianer Maria Hilf
+ORG EMS Résidence Jura et Pierre de la fée
+ORG Zubař - MuDR.Jančáriová
+ORG ośrodek zdrowia
+ORG Sint-Fransiscus Ziekenhuis
+ORG Centre Médical
+ORG Ärztehaus
+ORG Südharz Klinikum
+ORG Krankenhaus Sömmerda
+ORG DRK-Mutter-Kind-Therapie Villa Kunterbunt
+ORG Arztpraxis
+ORG St. Josef
+ORG Centrum Terapii Nerwic
+ORG Zahnarzt Gaudszuhn
+ORG Praxis Dern
+ORG HORNICKÁ NEMOCNICE S POLIKLINIKOU spol. s r.o., Bílina
+ORG CHU Esneux Polyclinique
+ORG CHU Esneux 
+ORG Medizinisches Behandungzentrum Cham (Onkologie)
+ORG Medycyna Rodzinna
+ORG Dr. med. Thorsten Döllmann
+ORG Schön Klinik Starnberger See
+ORG centre hospitalier Léon Touhladjian
+ORG DRK Ortsverein Oberkessach
+ORG Dr Laflotte
+ORG Jordemodercenteret
+ORG Goodmayes Hospital
+ORG Klinik Reinhardshöhe
+ORG Hopital et Maternité
+ORG Zahnarzt - Dr. Klement Reinartz
+ORG First aid
+ORG ZD Ljubljana - MOSTE-POLJE
+ORG Wilhelm-Anton-Hospital
+ORG Klinik für Allgemeine Innere Medizin und Psychosomatik
+ORG Fachklinik für Neurologie und Orthopädie
+ORG Megamed
+ORG medical facility
+ORG Gut Retzen
+ORG Poliklinika
+ORG Wiejski Ośrodek Zdrowia
+ORG Centre de Rééducation Fonctionnelle
+ORG HELIOS
+ORG SHG Klinikum
+ORG Nemocnice Sokolov
+ORG Centre de Vaccinations Internationales
+ORG Praxis Drs. Kortüm
+ORG Palliativstation Klinikum Bamberg
+ORG Paracelsus Klinik
+ORG Huisartsen Wachtpost Gentbrugge
+ORG Ambulatorio dr. Spechtenhauser /medical facility
+ORG Maison De Santé Faidherbe
+ORG Gesundheitszentrum
+ORG Dr. Matthias Nägele
+ORG Justizvollzugskrankenhaus NRW
+ORG Rehaklinik Kloster Grafschaft GmbH
+ORG Fachkrankenhaus Kloster Grafschaft GmbH
+ORG Ärztehaus
+ORG CLinique jeanne d'arc
+ORG Weezenlanden
+ORG Zahnarztpraxis Dr.Neukam
+ORG clinique les sorbiers
+ORG Albklinik Münsingen
+ORG Centre de Bilan de Santé DEPSE
+ORG Laboratoire de biologie médicale
+ORG HNO - Dr. Hochapfel
+ORG BRK - Rettungswache
+ORG Codivilla
+ORG NZOZ
+ORG Detská fakultná nemocnica s poliklinikou Kramáre
+ORG BMI The Kings Oak
+ORG Pflegehaus Plepla
+ORG Seniorenpflegeheim Gienger
+ORG Huisarts Hartendorp
+ORG Kinder-Permanence Spital Zollikerberg
+ORG Medicínske centrum Zdravomed
+ORG Centre Médical Malou
+ORG Københavns Privathospital
+ORG Avimed
+ORG Kinder und Jugendpsychatrie
+ORG Krankenhaus Ludmillenstift
+ORG Vårdcentralen Rydebäck
+ORG Seniorenheim St Emmeram
+ORG Ośrodek Zdrowia
+ORG Eifelklinik Manderscheid
+ORG EMS Résidence de Drize
+ORG Rotes Kreuz Mondsee
+ORG Nemocnice Vítkov
+ORG Clinique de Bazincourt
+ORG Schwarzwald-Baar-Klinikum
+ORG M.R.  La Meunerie de Véronique
+ORG Rotes Kreuz Purkersdorf-Gablitz
+ORG Allgemeinmediziner
+ORG Rettungswache Lauterecken
+ORG Centrum Onkologii - Instytut w Gliwicach
+ORG Csepreg Város Egészségház
+ORG Arztpraxis
+ORG Kerstin Neumann
+ORG Ziegert
+ORG Dr. Cornelia Jahn
+ORG Ulbrich
+ORG Státní léčebné lázně Janské Lázně, s.p.
+ORG Centre de santé medical et dentaire
+ORG Spital Schiers
+ORG Travel clinic - Médecine Internationale et Humanitaire
+ORG Centre Médical de la Louvière
+ORG Centrum Medyczne"Eko-Prof-Med"
+ORG Zdravotnické středisko
+ORG Dr. Jacqueline Reddig
+ORG Capio Citykliniken
+ORG Klinikum Traunstein
+ORG Annexe Clinique Caron
+ORG Maison de retraite
+ORG Dr. med. Dieminger (Zahnarzt, Dentist)
+ORG Gemeinschaftspraxis Dr. med. Leitl, Dr. med. Odenwäller
+ORG Gemeinschaftskrankenhaus St. Petrus
+ORG Kindertagesklinik / Sozialpädiatrisches Zentrum
+ORG Hufeland Krankenhaus
+ORG Hôpital Cognacq-Jay
+ORG Knappschaft Recklinghausen
+ORG RHMS - La Madeleine
+ORG Zdravotní středisko
+ORG KFH Dialysepraxis
+ORG Dětský lékař
+ORG Dětský a dorostový lékař - Verdán Miroslav - Alergologie
+ORG Ruhrtalklinik
+ORG Zdravotní středisko
+ORG Wiejski Ośrodek Zdrowia
+ORG Zdravotné stredisko
+ORG Sanstation
+ORG Kliniek Sanatia
+ORG Fogászat és rendelőintézet
+ORG Szpital Powiatu Bytowskiego
+ORG Centrum Medyczne "Medicus"
+ORG Poliklinik
+ORG Arzt
+ORG Apteka
+ORG Notaufnahme Kinderchirurgie
+ORG Notaufnahme Kinderklinik
+ORG Kinderzentrum 1
+ORG Kinderzentrum 1I
+ORG Laserklinik Karlsruhe
+ORG Gilead I
+ORG Gilead II
+ORG Mara
+ORG Salus - przychodnia
+ORG Wasserwacht Buch
+ORG Všeobecný praktický lékař, stomatologie, gynekologie
+ORG Docteur
+ORG Klinik Fränkische Schweiz
+ORG Reha Klinik Bad Heilbrunn
+ORG Doktor Med. Urs Rimensberger
+ORG Sydenham House Surgery
+ORG Klinik für Psychiatrie und Psychotherapie  (Gilead 4)
+ORG Rendelőintézet Szentgotthárd
+ORG Egészségház
+ORG Centre biologique chemin vert
+ORG Samodzielny Publiczny Zakład Opieki Zdrowotnej w Świerklańcu
+ORG Ośrodek Zdrowia
+ORG Centre Hospitalier Lemire
+ORG 24 órás Orvosi Ügyelet Felnőttek részére
+ORG Klinik am Ring
+ORG St Antonius Polikliniek Utrecht Overvecht
+ORG Privatklinik Dr. Stettner
+ORG RHG
+ORG Ärztlicher Notdienst
+ORG Veterinární Klinika Bv
+ORG Zdravotné stredisko, detský lekár
+ORG Zdravotné stredisko, zubná ambulancia
+ORG Zdravotné stredisko, ambulancia pre dospelých
+ORG Tagesbetreuung des Diakonieverbund Freiamt-Sexau
+ORG Diakonieverbund der Kirchengemeinden Freiamts und Sexau
+ORG EHPAD Saint-Brice
+ORG Cabinet Vétérinaires
+ORG Gemeinschaftspraxis für Nieren- und Hochdruckkrankheiten Essen - Steele
+ORG Abraxas Apotheke
+ORG Gabinet Ginekologiczny - dr n. med. Tomasz Michalik
+ORG NZOZ „Dąbrówka”
+ORG Pharmacie - Loyds
+ORG Zdravotnické středisko
+ORG HAP Voorwijk
+ORG Notaufnahme Gemeinschaftskrankenhaus Herdecke
+ORG Szpital zakonu oo. Kamilianów
+ORG Eichholz Klinik
+ORG MVZ RNR Leverkusen
+ORG MVZ RNR Leverkusen
+ORG Gynem
+ORG Desinfektionsanstalt
+ORG NZOZ VITA
+ORG Guardia Medica
+ORG Klinik Niederrhein
+ORG Arztpraxis
+ORG Zahnarztpraxis Nicolas Schneider
+ORG Lecznica dla zwierząt "Na Kuropatwiej"
+ORG Steinwaldklinik Erbendorf (Kliniken Nordoberpfalz AG)
+ORG zdravotní středisko
+ORG Radboud universitair medisch centrum
+ORG Tata Városi Kórház Rendelőintézet Fizikoterápiai Részleg
+ORG Egészségcentrum
+ORG Fachkrankenhaus Bethel Haus Hawila, Bethel.regional
+ORG Rendelőintézet
+ORG Klinikum Fichtelgebirge (Haus Selb)
+ORG Pogotowie Ratunkowe
+ORG Nemocnice
+ORG Cabinet de psychologie PSYCHO.org.lu
+ORG Hausarzt Zentrum Dr. Sagemüller & Dr. Steinlechner
+ORG COSEM Rome
+ORG Huisartsenpraktijk Heitse
+ORG Maylands Healthcare
+ORG Clinique médico-chirurgicale du Censuy
+ORG Hôpital Local Jacques Mellez
+ORG ASKLEPIOS Krankenhaus
+ORG Szpital Uzdrowiskowy nr 1
+ORG Stephansstift Marianne-Werner-Haus
+ORG Stephansruh
+ORG Imagerie Médicale
+ORG Gesundheitszentrum Jura Süd (SRO)
+ORG Gesundheitszentrum Jura Süd (SRO)
+ORG Arzt
+ORG Maison de famille L'Oasis
+ORG Ośrodek Zdrowia w Twardogórze
+ORG Niepubliczny Zakład Opieki Zdrowotnej Vita
+ORG Niepubliczny Zakład Opieki Zdrowotnej
+ORG NZOZ Szpital Powiatowy
+ORG Venenzentrum Mainz
+ORG Psykiatrisk akutmodtagelse
+ORG Psykiatrisk akutmodtagelse
+ORG Psykiatrisk Center Frederiksberg
+ORG Psykiatrisk Center Hvidovre
+ORG psykiatrisk akutmodtagelse
+ORG Psykiatrisk akutmodtagelse
+ORG Psykiatrisk akutmodtagelse
+ORG Akutklinik
+ORG Glostrup Hospital
+ORG Akutklinik
+ORG Blod Bank
+ORG Indgang 2
+ORG Akutklinik
+ORG Institut Hospitalo-Universitaire de Strasbourg
+ORG Szpital Powiatowy
+ORG Notaufnahme DRK-Krankenhaus Chemnitz-Rabenstein
+ORG BRK-Seniorenwohnen
+ORG SPZOZ w Szadku
+ORG Hôpital Renaudot
+ORG Niepubliczny Zakład Opieki Zdrowotnej "Sanus"
+ORG Zahnarzt
+ORG Therapeutischen Wohngemeinschaft Erlangen
+ORG Huisartsen Post
+ORG Centre médical Charpentiers
+ORG Dentysta.eu - Dentysta Gliwice lek. dent. Marcin Krufczyk
+ORG Diakonissen-Stiftungs-Krankenhaus
+ORG St. Vincentius-Krankenhaus
+ORG Psychiatrische Tagesklinik Speyer - Pfalzklinikum für Psychiatrie und Neurologie
+ORG Rendelőintézet
+ORG Dialízis Központ
+ORG SUPEA
+ORG Tandarts Blom
+ORG Zahnarzt Dr. Kneidl
+ORG Mattner-Klinik
+ORG Clinique Sainte Isabelle
+ORG Centrum Opieki Medycznej
+ORG Pogotowie
+ORG Défibrilateur
+ORG Guardia Medica
+ORG Guardia Medica
+ORG Guardia Medica
+ORG Guardia Medica
+ORG Poliambulatorio comunale - Medici Generici - Pediatri - Guardia Medica
+ORG Nemocnika s poliklinikou Myjava
+ORG Kraamzorg  De Waarden
+ORG Dierenkliniek Almere-Haven
+ORG Gezondheidscentrum De Haak
+ORG Tandartspraktijk De Waterval
+ORG Het dierenpunt
+ORG Huisartsenpraktijk Haven
+ORG Stichting Opkikker
+ORG Ars-Med sp.z o.o.
+ORG Eerste Hulp & Spoedpost
+ORG Prywatna Przychodnia Neurologiczna
+ORG Verloskundige Praktijk De Eerste Stap - Haven
+ORG Achterwerf Tandartsen
+ORG Marienambulanz
+ORG Psychiatrická nemocnica Veľké Zálužie
+ORG Przychodnia
+ORG Moraitis-Schieren
+ORG AOK Niedersachsen
+ORG Nemocnice s poliklinikou
+ORG Rosenhöhe
+ORG Poste de garde
+ORG Miejska Stacja Pogotowia Ratunkowego
+ORG M.R. L'Espérance
+ORG Dierenkliniek Beter Dier
+ORG Cordeus
+ORG Hausärzte Rödermark
+ORG NZOZ Nowy Szpital w Nakle i Szubinie
+ORG Unité de Soins Paliatifs
+ORG Sint-Andries Ziekenhuis
+ORG Mediceum
+ORG Dr. Niederhaut
+ORG zilverschoon
+ORG Apotheke
+ORG Acupunctuur "Biao Ben"Trudi Schlaghecke
+ORG Altenheim
+ORG Dialyse
+ORG Szent Rókus Kórház
+ORG Ambulanta Orehovica
+ORG Erste Hilfe - Mai bis Sept.
+ORG Pédicure Podologue posturologue
+ORG Verpleeghuisdependance De Schakel
+ORG Podologie-Praxis Limmattal Gmbh
+ORG Podologie-Praxis Limmattal GmbH
+ORG St. Josef-Krankenhaus
+ORG Klinik Schönsicht
+ORG Centre d'Imagerie
+ORG Klinik fürChirugie
+ORG Rettungswache Babynotdienst
+ORG Rettungswache 14 (Hörde)
+ORG Klinik für Kinder- und Jugendpsychiatrie Wichernstift
+ORG St.-Vincenz-Hospital Coesfeld
+ORG Przychodnia Puls
+ORG Hôpital des Cheminots
+ORG Hôpital Joffre-Dupuytren
+ORG Ita Wegmann Klinik
+ORG Klinikum Nürnberg Süd
+ORG Indgang 4
+ORG Indgang 5
+ORG Tagesklinik für Psychiatrie und Psychotherapie
+ORG Szpital Wielospecjalistyczny ORTHOS
+ORG Przychodnia
+ORG Przychodnia
+ORG Dr. med. Wolfgang Schreiner
+ORG Klinikum Frankfurt-Höchst
+ORG Rotes Kreuz Station Mauterndorf
+ORG Croix-Rouge française USSR Migennes
+ORG Maison de Retraire
+ORG Ärztehaus
+ORG VITANUM
+ORG PCS Dierenartsenpraktijk
+ORG DRK Retungswache
+ORG ośrodek zdrowia Symetria
+ORG Altenheim
+ORG Psychiatrische Tagesklinik Ost
+ORG psychiatrische Tagesklinik West
+ORG Tagesklinik Sucht
+ORG Tagesklinik für Kinder- und Jugendpsychiatrie und Psychotherapie des Klinikums Lippe
+ORG Psychiatrische Instituts-Ambulanz
+ORG Psychiatrische Tagesklinik Bielefeld Süd
+ORG Mestská Nemocnica Zlaté Moravce
+ORG Hôpital psychiatrique de Ville-Evrard
+ORG Sutton's Manor Hospital
+ORG Zdravotní záchranná služba Plzeňského kraje, výjezdové stanoviště Kralovice
+ORG Niepubliczny Zakład Opieki Zdrowotnej
+ORG Śląskie Centrum Rehabilitacji
+ORG Centre Hospitalier des Quatre Villes
+ORG Centre de Lutte Contre Le Cancer René Huguenin
+ORG Ärztehaus
+ORG Vitos Kinder- und jugendpsychiatrische Tagesklinik Dietzenbach
+ORG Praxis für Klassische Homöopathie, Judith Friedrich, Heilpraktikerin
+ORG poliklinika Denisovo nábřeží
+ORG Szpital im. św. Wojciecha na Zaspie
+ORG Regionshospitalet Brædstrup
+ORG GP surgery
+ORG Hôpital local de Marcigny
+ORG Onkologický ústav sv. Alžbety
+ORG Praxis Ortho Bernau
+ORG Dziekanka
+ORG Dům spokojeného žití - Centrum sociální a ošetrovatelské pomoci
+ORG Klinik Angermühle
+ORG Wachtpost Huisartsenkring IJzerstreek en Wachtpost
+ORG Klink Teufen
+ORG Landeskrankenhaus Bad Radkersburg
+ORG Centrum Rehabilitacji i Medycyny Naturalnej
+ORG NUBAX - polska
+ORG Zdravotné stredisko Hálkova
+ORG M.C. Emmloord
+ORG Polyclinique de Villeneuve Saint Georges
+ORG Zdravstveni dom Šentvid
+ORG Clinique de la Dhuys
+ORG Red Institut
+ORG Diaconessenhuis Meppel
+ORG Hovedindgang
+ORG Szpital Dziecięcy "Stokrotka"
+ORG Ośrodek Rehabilitacyjno-Reumatologiczny
+ORG Zdravstveni dom Slovenska Bistrica/ Medical clinic Slovenian Bistrica
+ORG Egészségház
+ORG Tierklinik auf Boyenstein
+ORG Palliativstation
+ORG Preciz Dent
+ORG APZ Het Kasperspad
+ORG Albert Schweitzer Ziekenhuis, loc. Amstelwijck
+ORG OLV Ziekenhuis
+ORG Vlasta Smatova
+ORG Wasserwacht
+ORG Wasserwacht
+ORG Albert Schweitzer Ziekenhuis, loc. Dordwijk
+ORG GGD-ZHZ
+ORG JPC De Kreek
+ORG Centre Hospitalier de l'Ouest Vosgien
+ORG Klinik Veerßen
+ORG Centres de dépistage anonymes et gratuits
+ORG Clinique Médicales
+ORG Médecine Physique Réadaptation
+ORG Dentist Abbas Hussain
+ORG Zahnarztpraxis Rupperswil
+ORG Mutter-Kind-Kurheim
+ORG U-center
+ORG Medizinisches Versorgungszentrum
+ORG Academisch Ziekenhuis Maastricht
+ORG Streekziekenhuis Koningin Beatrix
+ORG Kurklinik Seefrieden
+ORG Zahnarzt Dr. Lorenz
+ORG Gezondheidscentrum Marne
+ORG Ziekenhuis Amstelland
+ORG Rehaklinik Hasliberg
+ORG Arzt
+ORG Flughafenklinik
+ORG Apotheek en Gezondheidscentrum Veldhuizen
+ORG YIN YANG MEDI Burgdorf
+ORG YIN YANG MEDI Zollikofen
+ORG YIN YANG MEDI Langenthal
+ORG Ärztegemeinschaft Chinesische Medizin
+ORG Arzt
+ORG Ärztehaus
+ORG Tierarzt
+ORG Allgemeinmedizin und Praktische Ärzte
+ORG Defibrillator
+ORG Klinik für Kiefer- und Gesichtschirurgie, Augenklinik
+ORG Operations- und Implantatszentrum Darmstadt
+ORG Ärztegemeinschaft Chinesische Medizin
+ORG Canisius-Wilhelmina (CWZ)
+ORG I. Schampera Internistin
+ORG BRK Neumarkt
+ORG Fogorvosi rendelő
+ORG Orvosi rendelö
+ORG Orvosi rendelö
+ORG Praxisklinik Kiel
+ORG MVZ Chirurgie Kiel
+ORG Laboratoire de Biologie Médicale du CEF - Centre d'Explorations Fonctionelles
+ORG Szpital Powiatowy
+ORG Groepspraktijk Leuven
+ORG Austrian Red Cross - Camping (Central Station)
+ORG Die TORBURG
+ORG Klinik-Notaufnahme
+ORG Median Klinik
+ORG Sede Samaritani Bassa Vallemaggia
+ORG Walk-in Noftfall
+ORG Rezonans
+ORG Orvosi rendelő
+ORG Lægerne i Gelsted
+ORG Batthyány Kázmér Szakkórház és Rendelőintézet
+ORG charite
+ORG Szpital
+ORG Izer-Med
+ORG Marconi
+ORG Orvosi rendelő és Gyógyszertár
+ORG Helios Tagesklinik
+ORG Centre Kessler
+ORG Clinique Canal de l'Ourcq
+ORG Ommelander Ziekenhuis Groep locatie Lucas
+ORG Hôpital privé des peupliers
+ORG Marienkrankenhaus
+ORG Westpfalz Klinikum Standort Kirchheimbolanden
